@@ -2,16 +2,16 @@
 lang-ref: home
 layout: home
 title: Global nodes meeting 2021
-description: Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
+description: Looking to register for the GBIF Global Nodes Meeting? .
 background: /assets/images/acacia_baileyana_2823077709.jpg
 overlayColor: transparent
 klass: homepage
-hasBlackText: true
+hasBlackText: false
 imageLicense: |
   [*Acacia baileyana* F.Muell.](https://www.gbif.org/occurrence/2823077709) observed in Australia by wyeth53 (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
 cta:
-  - text: Start exploring
-    href: /data
+  - text: Register now
+    href: /register
     isPrimary: true
   - text: About
     href: /about
