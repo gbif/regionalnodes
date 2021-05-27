@@ -1,10 +1,10 @@
 ---
-lang-ref: about
-title: Om
+title: Sessions
+layout: post
 description: Lorem markdownum spatium limes indefessus neque at orat aestuat
-background: /assets/images/moss.jpg
+background: /assets/images/ulex_europaeus-3017993830.jpg
 imageLicense: |
-  Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
+  [*Ulex europaeus* L.](https://www.gbif.org/occurrence/3017993830) observed in France by Valentin Hamon [(CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/)
 height: 70vh
 ---
 

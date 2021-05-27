@@ -1,11 +1,14 @@
 ---
 lang-ref: home
 layout: home
-title: Template headline
+title: Global nodes meeting 2021
 description: Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
-background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fstatic.inaturalist.org%2Fphotos%2F58912610%2Foriginal.jpeg%3F1577953995
+background: /assets/images/acacia_baileyana_2823077709.jpg
+overlayColor: transparent
+klass: homepage
+hasBlackText: true
 imageLicense: |
-  *Xylaria hypoxylon* (L.) Grev. Photo by Alexis via [iNaturalist](https://www.gbif.org/occurrence/2542961803)
+  [*Acacia baileyana* F.Muell.](https://www.gbif.org/occurrence/2823077709) observed in Australia by wyeth53 (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
 cta:
   - text: Start exploring
     href: /data
@@ -13,6 +16,14 @@ cta:
   - text: About
     href: /about
 permalink: /
+composition:
+  - type: heroImage
+  - data: home.welcome
+    type: floatingText
+  - data: home.sessions
+    type: split
+  - data: home.registration
+    type: split
 ---
 
 Edit `/home.md` to change the text.
