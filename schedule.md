@@ -1,10 +1,10 @@
 ---
 title: Schedule
 layout: post
-description: Lorem markdownum spatium limes indefessus neque at orat aestuat
-background: /assets/images/dichrostachys_cinerea_3044744226.jpg
+description: When's that session?
+background: /assets/images/Allium-scorodoprasum-iNat-dhobern.jpg
 imageLicense: |
-  [*Dichrostachys cinerea* (L.) Wight & Arn.](https://www.gbif.org/occurrence/3044744226) observed in South Africa by Jeff Morris [(CC BY-NC 4.0)](http://creativecommons.org/licenses/by-nc/4.0/)
+  [*Allium scorodoprasum*](https://www.gbif.org/occurrence/3044744226), observed in Copenhagen. Photo 2016 Donald Hobern ([CC BY 4.0](http://creativecommons.org/licenses/by/4.0/))
 height: 70vh
 toc: true
 ---
