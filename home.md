@@ -28,14 +28,22 @@ composition:
 
 Edit `/home.md` to change the text.
 
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
+## Background
 
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).
+In the NSG meeting on 28 January 2021, we decided to hold the first-ever virtual global nodes meeting this year. The idea was presented to the nodes in a community webinar in February. The Secretariat then ran a consultation with all nodes on ideas for the virtual nodes meetings in 2021. The results of the consultation were summarized in a report shared with the NSG in their meeting on 23 March. The draft agenda presented in this document is based on the ideas that nodes put forward in the consultation and further discussions with Secretariat staff. 
 
+## Audience
 
+The meeting will target the Nodes community (Node managers and Nodes staff). Participation in the meeting will require pre-registration for each session. 
+
+Recording of the sessions will be publicly available from a dedicated website that can be shared with the broader community.
+
+## Meeting format and session times
+
+The meeting will combine:
+
+. Pre-recorded presentations that will be available from the website for participants to watch at a time that suits their location
+. Online discussion forums using the GBIF community forum, allowing participants to comment on the presentations and raise questions for discussion
+. Live sessions focusing on interactions between nodes, and with the Secretariat.
+
+All activities will take place in the week 28 June - 2 July 2021.  Nodes will be able to register for specific sessions individually. All sessions will be recorded and the videos will be available from the website for viewing afterwards.
