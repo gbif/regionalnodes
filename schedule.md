@@ -12,7 +12,7 @@ toc: true
 ## Schedule overview
 
 | | Session 1<br />07:00-08:30 UTC | Session 2<br />12:00-13:30 UTC | Session 3<br />14:00-15:30 UTC | Session 4<br />16:00-17:30 UTC |
-| | | | | |
+| ------------ | :-----------------------: | :-----------------------: | :-----------------------: | :-----------------------: |
 | [Mon, 28 June](#28-june) | Icebreaker - Interactive networking | Theme 1 panel: The role of nodes in GBIF’s next strategic period | Live demos Group 1 | |
 | [Tue, 29 June](#29-june) | | Live demos from nodes on data quality workflows | Theme 2 panel : Exploring future directions for GBIF | Icebreaker - Interactive networking |
 | [Wed, 30 June](#30-june) | Regional Breakout Sessions | | Drop-in helpdesk sessions | |
