@@ -11,7 +11,7 @@ imageLicense: |
   [*Acacia baileyana* F.Muell.](https://www.gbif.org/occurrence/2823077709) observed in Australia by wyeth53 (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
 cta:
   - text: Register now
-    href: /register
+    href: /registration
     isPrimary: true
   - text: About
     href: /about
