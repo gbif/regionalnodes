@@ -1,12 +1,12 @@
 ---
 lang-ref: home
-layout: home
-title: Global nodes meeting 2021
-description: Looking to register for the GBIF Global Nodes Meeting? .
+layout: page
+title: Global Nodes Meeting 2021
+description: Looking to join the GBIF network's node managers and node staff?
 background: /assets/images/acacia_baileyana_2823077709.jpg
 overlayColor: transparent
 klass: homepage
-hasBlackText: false
+hasBlackText: true
 imageLicense: |
   [*Acacia baileyana* F.Muell.](https://www.gbif.org/occurrence/2823077709) observed in Australia by wyeth53 (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
 cta:
