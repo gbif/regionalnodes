@@ -2,7 +2,7 @@
 lang-ref: home
 layout: page
 title: Global Nodes Meeting 2021
-description: Looking to join the GBIF network's node managers and node staff?
+description: Looking to join the virtual gathering of node managers and node staff from 28 June to 2 July?
 background: /assets/images/acacia_baileyana_2823077709.jpg
 overlayColor: transparent
 klass: homepage
