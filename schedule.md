@@ -9,15 +9,16 @@ height: 70vh
 toc: true
 ---
 
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
+## Schedule overview
 
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).
+| | Session 1<br />07:00-08:30 UTC | Session 2<br />12:00-13:30 UTC | Session 3<br />14:00-15:30 UTC | Session 4<br />16:00-17:30 UTC |
+| | | | | |
+| [Mon, 28 June](#28-June) | Icebreaker - Interactive networking | Theme 1 panel: The role of nodes in GBIF’s next strategic period | Live demos Group 1 | |
+| [Tue, 29 June](#29-June) | | Live demos from nodes on data quality workflows | Theme 2 panel : Exploring future directions for GBIF | Icebreaker - Interactive networking |
+| [Wed, 30 June](#30-June) | Regional Breakout Sessions | | Drop-in helpdesk sessions | |
+| [Thu, 1 July](#1-July) | | Speed-dating on collaboration ideas - Interactive networking | Live Q&A  themes 3 and 4 | OBIS Marine session |
+| [Fri, 2 July](#2-July) | | Live demos Group 3 | Nodes vs. helpdesk battle (1 hour)<br /> Final evaluation (30 min) | |
+
 
 ## 28 June
 
