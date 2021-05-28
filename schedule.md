@@ -2,7 +2,7 @@
 title: Schedule
 layout: post
 description: When's that session?
-background: /assets/images/Allium-scorodoprasum-iNat-dhobern.jpg
+background: /assets/images/original (2).jpeg
 imageLicense: |
   [*Allium scorodoprasum*](https://www.gbif.org/occurrence/3044744226), observed in Copenhagen. Photo 2016 Donald Hobern ([CC BY 4.0](http://creativecommons.org/licenses/by/4.0/))
 height: 70vh
