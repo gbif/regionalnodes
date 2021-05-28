@@ -12,6 +12,12 @@ toc: true
 
 ## Schedule overview
 
+## Mon, 28 June
+
+Time (UTC) 07:00-8:30 Icebreaker - Interactive networking
+Time (UTC) 12:00-13:30 Theme 1 panel: The role of nodes in GBIF’s next strategic period
+Time (UTC) 14:00-15:30 Live demos Group 1
+
 | | Session 1<br />07:00-08:30 UTC | Session 2<br />12:00-13:30 UTC | Session 3<br />14:00-15:30 UTC | Session 4<br />16:00-17:30 UTC |
 | ------------ | :-----------------------: | :-----------------------: | :-----------------------: | :-----------------------: |
 | [Mon, 28 June](#28-june) | Icebreaker - Interactive networking | Theme 1 panel: The role of nodes in GBIF’s next strategic period | Live demos Group 1 | |
