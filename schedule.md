@@ -3,8 +3,7 @@ title: Schedule
 layout: post
 description: When's that session?
 background: /assets/images/original (2).jpeg
-imageLicense: |
-  [*Nelumbo lutea (Willd.) Pers.*](https://www.gbif.org/occurrence/2823201389), observed in Sheldon Lake State Park and Environmental Learning Center. Photo 2020 
+imageLicense: | [*Nelumbo lutea (Willd.) Pers.*](https://www.gbif.org/occurrence/2823201389), observed in Sheldon Lake State Park and Environmental Learning Center. Photo 2020 
 Adrian Medellin ([CC BY NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/))
 height: 70vh
 toc: true
