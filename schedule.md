@@ -4,7 +4,8 @@ layout: post
 description: When's that session?
 background: /assets/images/original (2).jpeg
 imageLicense: |
-  [*Allium scorodoprasum*](https://www.gbif.org/occurrence/3044744226), observed in Copenhagen. Photo 2016 Donald Hobern ([CC BY 4.0](http://creativecommons.org/licenses/by/4.0/))
+  [*Nelumbo lutea (Willd.) Pers.*](https://www.gbif.org/occurrence/2823201389), observed in Sheldon Lake State Park and Environmental Learning Center. Photo 2020 
+Adrian Medellin ([CC BY NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/))
 height: 70vh
 toc: true
 ---
