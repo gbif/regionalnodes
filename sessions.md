@@ -35,6 +35,7 @@ Pre-recorded presentations to watch ahead of the panel
 + Strengthening regional capacity in GBIF - following up on the discussions on regional offices at GB27 (Mélianie Raymond, Maheva Bagard Laursen, BID regional project support contractors themselves if selected by then!)
 
 **Panel moderator**: Mélianie
+
 **Panel members**
 
 + Regional representatives
