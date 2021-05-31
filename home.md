@@ -17,14 +17,14 @@ permalink: /
 composition:
   - type: heroImage
   - type: pageMarkdown
-  - data: home.welcome
-    type: floatingText
   - data: home.sessions
     type: split
   - type: markdown
     data: home.someExample
   - data: home.registration
     type: split
+  - data: home.welcome
+    type: floatingText
 ---
 
 Edit `/home.md` to change the text.
