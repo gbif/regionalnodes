@@ -21,6 +21,8 @@ composition:
     type: floatingText
   - data: home.sessions
     type: split
+  - type: markdown
+    data: home.someExample
   - data: home.registration
     type: split
 ---
