@@ -14,17 +14,7 @@ cta:
     href: /registration
     isPrimary: true
 permalink: /
-composition:
-  - type: heroImage
-  - type: pageMarkdown
-  - data: home.sessions
-    type: split
-  - type: markdown
-    data: home.someExample
-  - data: home.registration
-    type: split
-  - data: home.welcome
-    type: floatingText
+
 ---
 
 Edit `/home.md` to change the text.
@@ -48,5 +38,3 @@ The meeting will combine:
 + Live sessions focusing on interactions between nodes, and with the Secretariat.
 
 All activities will take place in the week 28 June-2 July 2021. Nodes will be able to register for specific sessions individually. All sessions will be recorded and the videos will be available from the website for viewing afterwards.
-
-
