@@ -17,8 +17,6 @@ permalink: /
 
 ---
 
-Edit `/home.md` to change the text.
-
 ## Background
 
 In the NSG meeting on 28 January 2021, we decided to hold the first-ever virtual global nodes meeting this year. The idea was presented to the nodes in a community webinar in February. The Secretariat then ran a consultation with all nodes on ideas for the virtual nodes meetings in 2021. The results of the consultation were summarized in a report shared with the NSG in their meeting on 23 March. The draft agenda presented in this document is based on the ideas that nodes put forward in the consultation and further discussions with Secretariat staff. 
