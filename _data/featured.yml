@@ -1,0 +1,24 @@
+title: Example with cards
+description: |
+  See [`_data/featured.yml`](https://github.com/gbif/gnm2021/blob/master/_data/featured.yml) for the content.
+features:
+  - preTitle: Event  # optional
+    title: Abundantly light years # required
+    description: |      # required
+      Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
+    # img required
+    background: https://upload.wikimedia.org/wikipedia/commons/9/92/Haeckel_Caulerpa_racemosa.JPG
+    href: /about
+    categories: [cat, dog]
+  - preTitle: News  # optional
+    title: Fly moving land
+    href: /about
+    description: |      # required
+      Light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree.
+    background: https://upload.wikimedia.org/wikipedia/commons/8/84/Haeckel_Caulerpa_racemosa_%28uvifera%29.jpg
+    cta:
+    - text: Download report
+      href: http://example.com
+      isPrimary: true
+    - text: Learn more
+      href: /sessions
