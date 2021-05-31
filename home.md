@@ -16,6 +16,7 @@ cta:
 permalink: /
 composition:
   - type: heroImage
+  - type: pageMarkdown
   - data: home.welcome
     type: floatingText
   - data: home.sessions
@@ -25,5 +26,10 @@ composition:
 ---
 
 Edit `/home.md` to change the text.
+
+## Hi Kyle
+This is displayed using the block [type pageMarkdown](https://hp-theme.gbif-staging.org/layout/compose#type-pagemarkdown)
+
+You could also use `type: markdown` and provide the data in a yaml data file.
 
 
