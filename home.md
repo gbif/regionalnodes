@@ -17,6 +17,8 @@ permalink: /
 composition:
   - type: heroImage
   - type: pageMarkdown
+  - type: features
+    data: featured
   - data: home.sessions
     type: split
   - type: markdown
