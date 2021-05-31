@@ -17,8 +17,6 @@ permalink: /
 composition:
   - type: heroImage
   - type: pageMarkdown
-  - type: features
-    data: featured
   - data: home.sessions
     type: split
   - type: markdown
@@ -45,9 +43,9 @@ Recording of the sessions will be publicly available from a dedicated website th
 
 The meeting will combine:
 
-. Pre-recorded presentations that will be available from the website for participants to watch at a time that suits their location
-. Online discussion forums using the GBIF community forum, allowing participants to comment on the presentations and raise questions for discussion
-. Live sessions focusing on interactions between nodes, and with the Secretariat.
++ Pre-recorded presentations that will be available from the website for participants to watch at a time that suits their location
++ Online discussion forums using the GBIF community forum, allowing participants to comment on the presentations and raise questions for discussion
++ Live sessions focusing on interactions between nodes, and with the Secretariat.
 
 All activities will take place in the week 28 June-2 July 2021. Nodes will be able to register for specific sessions individually. All sessions will be recorded and the videos will be available from the website for viewing afterwards.
 
