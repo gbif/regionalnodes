@@ -25,9 +25,12 @@ toc: true
 + 16:00-17:30 UTC: Icebreaker - Interactive networking 
 
 ## Wed, 30 June
-+ 07:00-08:30 UTC: Regional breakout sessions
-+ 12:00-13:30 UTC: Regional breakout sessions
++ 08:00-10:30 UTC: Europe and Central Asia Regional breakout sessions [Piotr Tykarski](mailto:ptyk@biol.uw.edu.pl) and [Dag Endresen](mailto:dag.endresen@nhm.uio.no) to chair  
++ 08:00-10:30 UTC: Asia Regional breakout sessions [Keping Ma](mailto:kpma@ibcas.ac.cn) to chair 
++ 09:00-10:30 UTC: Africa Regional breakout sessions [Jean Ganglo](mailto:gangloc@gmail.com) and [Pierre Radji](mailto:pradji@hotmail.com) to chair 
 + 14:00-15:30 UTC: Drop-in helpdesk sessions
++ 15:00-16:30 UTC: Latin America and the Caribbean Regional breakout sessions chair [Anabela Plos](mailto:plos@macn.gov.ar) to chair 
++ 16:00-17:30 UTC: North America Regional breakout sessions [David Jennings](mailto:djennings@flmnh.ufl.edu) and [Carole Sinou](mailto:carole.sinou@gmail.com) to chair
 + 16:00-17:30 UTC: Drop-in helpdesk sessions 
  
 ## Thu, 1 July
