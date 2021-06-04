@@ -4,7 +4,7 @@ layout: post
 description: Lorem markdownum spatium limes indefessus neque at orat aestuat
 background: /assets/images/Limenitis reducta Staudinger,.jpg
 imageLicense: |
-  [*Ulex europaeus* L.](https://www.gbif.org/occurrence/3017993830) observed in France by Valentin Hamon [(CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/)
+  [*Limenitis reducta*](https://www.gbif.org/occurrence/2840552819) observed in Iran (Islamic Tepublic of) licensed under [(CC BY-NC-ND 4.0)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
 toc: true
 height: 70vh
 
