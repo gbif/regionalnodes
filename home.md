@@ -3,12 +3,12 @@ lang-ref: home
 layout: page
 title: Global Nodes Meeting 2021
 description: GBIF node managers and node staff—register and join us for our first virtual global gathering from 28 June to 2 July!
-background: /assets/images/acacia_baileyana_2823077709.jpg
+background: /assets/images/Loxodonta africanas.jpeg
 overlayColor: transparent
 klass: homepage
 hasBlackText: true
 imageLicense: |
-  [*Acacia baileyana* F.Muell.](https://www.gbif.org/occurrence/2823077709) observed in Australia by wyeth53 (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+  [*Loxodonta africana*](https://www.gbif.org/occurrence/2620079212) observed in Tanzania (United Republic of) by Patrick Palines (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
 cta:
   - text: Register now
     href: /registration
