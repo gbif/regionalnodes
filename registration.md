@@ -4,7 +4,7 @@ layout: post
 description: Lorem markdownum spatium limes indefessus neque at orat aestuat
 background: /assets/images/Falco tinnunculus Linnaeus.jpg
 imageLicense: |
-  [*Falco tinnunculus*](https://www.gbif.org/occurrence/1959743921) observed in Netherlands by Ed Schouten (licensed under http://creativecommons.org/licenses/by-nc-nd/4.0/)
+  [*Falco tinnunculus*](https://www.gbif.org/occurrence/1959743921) observed in Netherlands by Ed Schouten, licensed under [http://creativecommons.org/licenses/by-nc-nd/4.0/)](CC BY-NC-ND 4.0)
 height: 70vh
 ---
 
