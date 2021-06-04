@@ -14,7 +14,8 @@ height: 70vh
 {: .has-text-centered .button .is-primary }
 # nu i midten
 
-
+{: .has-text-centered .button .is-primary }
+[button](/test)
 
 
 ## Quam ex te videt
