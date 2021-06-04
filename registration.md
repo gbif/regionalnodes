@@ -12,7 +12,7 @@ height: 70vh
 {: .has-text-centered .button .is-primary}
 
 <div style="text-align: center;">
-  <a href="/test" class="button is-primary" style="font-size: 40px">[Sign up](https://docs.google.com/forms/d/e/1FAIpQLScV8rm_99jXC6LCyZnEeB7GhGbrwc6kQxy9AxjxfHuGYu6o7A/viewform)</a>
+  <a href="[Sign up](https://docs.google.com/forms/d/e/1FAIpQLScV8rm_99jXC6LCyZnEeB7GhGbrwc6kQxy9AxjxfHuGYu6o7A/viewform)" class="button is-primary" style="font-size: 40px"></a>
 </div>
 
 ## Quam ex te videt
