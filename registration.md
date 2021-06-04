@@ -11,6 +11,10 @@ height: 70vh
 ## [Sign up](https://docs.google.com/forms/d/e/1FAIpQLScV8rm_99jXC6LCyZnEeB7GhGbrwc6kQxy9AxjxfHuGYu6o7A/viewform)
 {: .has-text-centered .button .is-primary}
 
+<div style="text-align: center;">
+  <a href="/test" class="button is-primary" style="font-size: 40px">Button content</a>
+</div>
+
 ## Quam ex te videt
 
 Quam Erycina et celsoque trabes; torva, nec et alto egens. Vera ponentem
