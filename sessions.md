@@ -4,7 +4,7 @@ layout: post
 description: Lorem markdownum spatium limes indefessus neque at orat aestuat
 background: /assets/images/Limenitis reducta Staudinger,.jpg
 imageLicense: |
-  [*Limenitis reducta*](https://www.gbif.org/occurrence/2840552819) observed in Iran (Islamic Tepublic of) licensed under [(CC BY-NC-ND 4.0)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+  [*Limenitis reducta*](https://www.gbif.org/occurrence/2840552819) observed in Iran (Islamic Republic of) by Simon Plat licensed under [(CC BY-NC-ND 4.0)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
 toc: true
 height: 70vh
 
