@@ -8,12 +8,7 @@ imageLicense: |
 height: 70vh
 ---
 
-## <center> [Sign Up](https://docs.google.com/forms/d/e/1FAIpQLScV8rm_99jXC6LCyZnEeB7GhGbrwc6kQxy9AxjxfHuGYu6o7A/viewform) </center>
-
-<div class="notification is-info">
-  <button class="delete"></button>
-  <strong>[Sign up]({% post_url https://docs.google.com/forms/d/e/1FAIpQLScV8rm_99jXC6LCyZnEeB7GhGbrwc6kQxy9AxjxfHuGYu6o7A/viewform%})</strong>.
-</div>
+## <center> [Sign up]({% post_url https://docs.google.com/forms/d/e/1FAIpQLScV8rm_99jXC6LCyZnEeB7GhGbrwc6kQxy9AxjxfHuGYu6o7A/viewform%}) </center>
 
 ## Quam ex te videt
 
