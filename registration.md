@@ -10,6 +10,17 @@ height: 70vh
 
 ## <center> [Sign up]({% post_url https://docs.google.com/forms/d/e/1FAIpQLScV8rm_99jXC6LCyZnEeB7GhGbrwc6kQxy9AxjxfHuGYu6o7A/viewform%}) </center>
 
+## <center> [Sign up](https://docs.google.com/forms/d/e/1FAIpQLScV8rm_99jXC6LCyZnEeB7GhGbrwc6kQxy9AxjxfHuGYu6o7A/viewform) </center>
+
+## [Sign up](https://docs.google.com/forms/d/e/1FAIpQLScV8rm_99jXC6LCyZnEeB7GhGbrwc6kQxy9AxjxfHuGYu6o7A/viewform)
+
+## [Sign up](https://docs.google.com/forms/d/e/1FAIpQLScV8rm_99jXC6LCyZnEeB7GhGbrwc6kQxy9AxjxfHuGYu6o7A/viewform){: .has-text-centered }
+
+# nu i midten{: .has-text-centered }
+
+
+
+
 ## Quam ex te videt
 
 Quam Erycina et celsoque trabes; torva, nec et alto egens. Vera ponentem
