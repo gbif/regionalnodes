@@ -19,7 +19,11 @@ permalink: /
 
 ## Background
 
-In the NSG meeting on 28 January 2021, we decided to hold the first-ever virtual global nodes meeting this year. The idea was presented to the nodes in a community webinar in February. The Secretariat then ran a consultation with all nodes on ideas for the virtual nodes meetings in 2021. The results of the consultation were summarized in a report shared with the NSG in their meeting on 23 March. The draft agenda presented in this document is based on the ideas that nodes put forward in the consultation and further discussions with Secretariat staff. 
+Global Nodes Meetings are an opportunity for all GBIF nodes to come together to learn from each other, discuss ideas, develop best practices, share their concerns, define recommendations and set priorities.
+
+Due to the ongoing COVID-19 pandemic, the Nodes Steering Group (NSG) decided to hold the first-ever virtual global nodes meeting this year. The idea was presented to the nodes in a community webinar in February. 
+
+The Secretariat then ran a consultation with all nodes on ideas for the virtual nodes meetings in 2021, which formed the basis for the agenda for our meeting.
 
 ## Audience
 
