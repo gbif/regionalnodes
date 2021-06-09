@@ -8,14 +8,9 @@ imageLicense: |
 height: 70vh
 ---
 
+{: .has-text-centered .button .is-primary style="width: 100%"}
 ## [Sign up](https://docs.google.com/forms/d/e/1FAIpQLScV8rm_99jXC6LCyZnEeB7GhGbrwc6kQxy9AxjxfHuGYu6o7A/viewform)
-{: .has-text-centered .button .is-primary}
-
-<div style="text-align: center;">
-  <a href="[Sign up](https://docs.google.com/forms/d/e/1FAIpQLScV8rm_99jXC6LCyZnEeB7GhGbrwc6kQxy9AxjxfHuGYu6o7A/viewform)" class="button is-primary" style="font-size: 40px"></a>
-</div>
-
 
 To receive the meeting links, GBIF Node managers and Nodes staff as well as invited observers must sign up.
 
-Please note that registration is not considered complete until you have received an email from the Secretariat, confirming your registration. 
+Please note that registration is not considered complete until you have received an email from the Secretariat, confirming your registration.

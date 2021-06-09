@@ -21,9 +21,9 @@
 title: GNM 2021 # the title of your site should go here
 email: your-email@example.com
 description: >- # this means to ignore newlines (until baseurl:)
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Global Nodes Meetings are an opportunity for all GBIF nodes to come together
+  to learn from each other, discuss ideas, develop best practices, share their
+  concerns, define recommendations and set priorities.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gnm2021.gbif-uat.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gbif
@@ -97,8 +97,3 @@ defaults:
       path: ""
     values:
       lang: en
-  -
-    scope:
-      path: "da/"
-    values:
-      lang: da
