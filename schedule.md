@@ -42,4 +42,4 @@ toc: true
 ## Fri, 2 July
 
 + 12:00–13:30 UTC: Live demos Group 3
-+ 14:00–15:30 UTC: Nodes vs. help desk battle (1 hour) | Final evaluation (30 min)
++ 14:00–15:30 UTC: Nodes vs. help desk battle (1 hour). Final evaluation (30 min)
