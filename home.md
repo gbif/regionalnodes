@@ -46,10 +46,10 @@ All activities will take place in the week 28 June-2 July 2021. The registration
 
 ## Optional preparatory activity - Introduction to GBIF training
 
-GBIF has developed a new  [Intro to GBIF self-paced training module](https://docs.gbif.org/course-introduction-to-gbif/en/index.en.html) that we plan to use across all our training courses in future. 
+GBIF has developed a new Intro to GBIF self-paced training module that we plan to use across all our training courses in future. 
 
-<figure class="has-text-centered">
-  <img src="IntrotoGBIF_screenshot.JPG" alt="Intro to GBIF self-paced training module"/></figure>
+[<figure class="has-text-centered">
+  <img src="/assets/images/IntrotoGBIF_screenshot.JPG" alt="Intro to GBIF self-paced training module"/></figure>](https://docs.gbif.org/course-introduction-to-gbif/en/index.en.html)
 
 
 We invite nodes to review the contents of this first edition and let us know your feedback in the [GBIF Community forum](https://discourse.gbif.org/). This training will be especially relevant for any new nodes wishing to gain familiarity with GBIF’s work ahead of the global nodes meeting.
