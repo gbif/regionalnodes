@@ -46,7 +46,7 @@ All activities will take place in the week 28 June-2 July 2021. The registration
 
 ## Optional preparatory activity - Introduction to GBIF training
 
-GBIF has developed a new Intro to GBIF self-paced training module that we plan to use across all our training courses in future. 
+GBIF has developed a new self-paced training module, entitled 'Introduction to GBIF', which we plan to use across all our training courses in future. 
 
 [<figure class="has-text-centered">
   <img src="/assets/images/IntrotoGBIF_screenshot.JPG" alt="Intro to GBIF self-paced training module"/></figure>](https://docs.gbif.org/course-introduction-to-gbif/en/index.en.html)
