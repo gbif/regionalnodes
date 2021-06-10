@@ -23,11 +23,11 @@ Global Nodes Meetings are an opportunity for all GBIF nodes to come together to 
 
 Due to the ongoing COVID-19 pandemic, the Nodes Steering Group (NSG) decided to hold the first-ever virtual global nodes meeting this year. The idea was presented to the nodes in a [community webinar in February](https://www.gbif.org/event/7663dO18Hx7Moqmx5GXm08/gbif-community-webinar-february-2021).
 
-The Secretariat then ran a [consultation with all nodes on ideas for the virtual nodes meetings in 2021](https://docs.google.com/document/d/1E3IU7OlpnosluP-HykdEk5k950B0omJNTgHRx0dl3G0/edit?usp=sharing), which formed the basis for the agenda for our meeting.
+The agenda for this event was developed following a [consultation with all nodes on ideas for the virtual nodes meetings in 2021](https://docs.google.com/document/d/1E3IU7OlpnosluP-HykdEk5k950B0omJNTgHRx0dl3G0/edit?usp=sharing).
 
 ## Audience
 
-The meeting will target the nodes community (Node managers and Nodes staff), with invited observers who wish to learn more about GBIF and the work of the nodes. Participation in the meeting will require pre-registration for each session.
+The meeting targets the nodes community (Node managers and Nodes staff), with invited observers who wish to learn more about GBIF and the work of the nodes. Participation in the meeting will require pre-registration for each session.
 
 Participation must follow [GBIF’s code of conduct](https://www.gbif.org/code-of-conduct).
 
