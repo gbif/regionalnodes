@@ -30,21 +30,21 @@ Follow the new online [Introduction to GBIF course](https://docs.gbif.org/course
 + 14:00–15:30 UTC: Theme 2 panel : Exploring future directions for GBIF
 + 17:00–18:30 UTC: Icebreaker – Interactive networking
 
-## Wednesday 30 June
-+ 05:00-06:30 UTC: Oceania Regional breakout session, chair tbc after regional election
+## Wednesday, 30 June
++ 05:00–06:30 UTC: Oceania Regional breakout session, chair tbc after regional election
 + 08:00–09:30 UTC: Europe and Central Asia Regional breakout sessions Piotr Tykarski and Dag Endresen to chair
 + 08:00–09:30 UTC: Asia Regional breakout sessions Keping Ma to chair
 + 09:00–10:30 UTC: Africa Regional breakout sessions Jean Ganglo and Pierre Radji to chair
 + 15:00–16:30 UTC: Latin America and the Caribbean Regional breakout sessions chair Anabela Plos to chair
 + 16:00–17:30 UTC: North America Regional breakout sessions David Jennings and Carole Sinou to chair
 
-## Thursday 1 July
+## Thursday, 1 July
 
 + 12:00–13:30 UTC: Speed-dating on collaboration ideas – Interactive networking
 + 14:00–15:30 UTC: Live Q&A: themes 3 and 4
 + 17:00–18:30 UTC: OBIS Marine session
 
-## Friday 2 July
+## Friday, 2 July
 
 + 12:00–13:30 UTC: Live demos: Group 3
 + 14:00–15:30 UTC: Nodes vs. help desk battle (1 hour). Final evaluation (30 min)
