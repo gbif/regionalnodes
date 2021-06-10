@@ -32,7 +32,7 @@ Please view the presentations ahead of the live panel discussions and use the GB
 
 Pre-recorded presentations to watch ahead of the live session will be posted here from 23 June 2021.
 
-+ Welcome to the first virtual Global Nodes Meeting – including reflections on the future of the nodes model (André Heughebaert)
++ Welcome to the first virtual Global Nodes Meeting – including reflections on the future of the nodes model 
 + The next GBIF Strategic Plan and the role nodes will play in it
 + Developing GBIF Values as a component of the strategic plan
 + The GBIF resource mobilization strategy and what it means for nodes
@@ -79,11 +79,11 @@ Pre-recorded presentations to watch ahead of the live session will be posted her
 
 Pre-recorded presentations to watch ahead of the live session will be posted here from 23 June 2021.
 
-+ GrSciColl intro video – explaining what it is and why we are working on it (Marie Grosjean)
-+ GBIF Backbone taxonomy: Reminder on how it assembled now and future perspectives for the Catalogue of Life + (Markus Döring / Olaf Banki tbc)
-+ Working with issues and flags, including highlighting data blog (Andrea Hahn, John Waller, Marie Grosjean)
-+ Sensitive species working group (Andrew Rodrigues)
-+ Analyzing GBIF downloads from contributed datasets (Niels Raes tbc)
++ GrSciColl intro video – explaining what it is and why we are working on it 
++ GBIF Backbone taxonomy: Reminder on how it assembled now and future perspectives for the Catalogue of Life 
++ Working with issues and flags, including highlighting data blog 
++ Sensitive species working group 
++ Analyzing GBIF downloads from contributed datasets
 
 **Live Q&A with all presenters Facilitator:** Laura Russell
 
@@ -104,20 +104,20 @@ Format: These sessions will guide participants through a practical demo on the s
 
 ### Group 1 – data mobilization training and guidance on sequence-derived data mobilization
 
-+ How to teach the GBIF Data Mobilization course on site and online (40 min)
-+ Guide and training materials to support sequence-derived data in GBIF (40 min)
++ How to teach the GBIF Data Mobilization course on site and online 
++ Guide and training materials to support sequence-derived data in GBIF 
 
 
 ### Group 2 – tools to support nodes with data mobilization strategies
 
-+ How to administer an IPT (25 min)
-+ How nodes can make use of GrSciColl and contribute  (20 min)
-+ GBIF and Github: what is GitHub, how do we use it (product, content, development tracking), how to log an issue, orientation on the repositories, the portal-feedback “country” issue tag and how nodes could use that (25 min)
++ How to administer an IPT 
++ How nodes can make use of GrSciColl and contribute 
++ GBIF and Github: what is GitHub, how do we use it (product, content, development tracking), how to log an issue, orientation on the repositories, the portal-feedback “country” issue tag and how nodes could use that
 
 
-### Group 3 – additional node demos
+### Group 3 – additional node updates and demos
 
-Node presenters to be confirmed. If you have a demo you would like us to consider, please contact [nodes@gbif.org](mailto:nodes@gbif.org)
+Node presenters to be confirmed. If you still have a presentation or a demo you would like us to consider, please contact [nodes@gbif.org](mailto:nodes@gbif.org) before 16 June. 
 
 
 
@@ -146,7 +146,7 @@ Goal: To demonstrate some of the lesser known functionalities of GBIF.org throug
 
 Format: 1 hour session where nodes will ‘battle’ Marie Grosjean from the GBIF data products team to find answers to questions using filters and metrics on GBIF.org
 
-Facilitator: Andrew Rodrigues
+"Game show host" facilitator: Andrew Rodrigues
 
 
 ## Evaluation activities
