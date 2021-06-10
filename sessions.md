@@ -1,7 +1,7 @@
 ---
 title: Sessions
 layout: post
-description: Lorem markdownum spatium limes indefessus neque at orat aestuat
+#description: Lorem markdownum spatium limes indefessus neque at orat aestuat
 background: /assets/images/Limenitis reducta Staudinger,.jpg
 imageLicense: |
   [*Limenitis reducta*](https://www.gbif.org/occurrence/2840552819) observed in Iran (Islamic Republic of) by Simon Plat licensed under [(CC BY-NC-ND 4.0)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
@@ -23,7 +23,7 @@ Facilitators: Mélianie Raymond and Maheva Bagard Laursen
 
 Goal: To explore key themes with panels of experts from the community, building on presentations from the nodes and Secretariat on topics that were requested in the consultation with nodes.
 
-Format: Key updates will be available from this page in the form of short pre-recorded presentations that can be reused as training materials or outreach materials. 
+Format: Key updates will be available from this page in the form of short pre-recorded presentations that can be reused as training materials or outreach materials.
 
 Please view the presentations ahead of the live panel discussions and use the GBIF community forum to ask any questions ahead of the live sessions. You can also ask questions during the panel discussions.
 
@@ -32,11 +32,11 @@ Please view the presentations ahead of the live panel discussions and use the GB
 
 Pre-recorded presentations to watch ahead of the live session will be posted here from 23 June 2021.
 
-+ Welcome to the first virtual Global Nodes Meeting- including reflections on the future of the nodes model (André Heughebaert)
++ Welcome to the first virtual Global Nodes Meeting – including reflections on the future of the nodes model (André Heughebaert)
 + The next GBIF Strategic Plan and the role nodes will play in it
-+ Developing GBIF Values as a component of the strategic plan 
-+ The GBIF resource mobilization strategy and what it means for nodes 
-+ Strengthening regional capacity in GBIF - following up on the discussions on regional offices at GB27 
++ Developing GBIF Values as a component of the strategic plan
++ The GBIF resource mobilization strategy and what it means for nodes
++ Strengthening regional capacity in GBIF – following up on the discussions on regional offices at GB27
 
 **Live panel with all presenters. Panel moderator:** Mélianie Raymond
 
@@ -47,10 +47,10 @@ Pre-recorded presentations to watch ahead of the live session will be posted her
 
 + Update from the technical collaboration with GBIF and ALA on data pipelines; results, effect for the Living Atlas community, identifying need for governance of shared software, planning, risks etc.
 + Introduction to a more expressive data model (beyond the “star schema”): what, why, how and when (long term planning).
-+ The use of GBIF to support the CBD post-2020 Global Biodiversity Framework 
-+ Private-sector engagement: guidance materials, and role of nodes 
-+ Increasing the use of GBIF-mediated data through a focus on thematic communities: Focusing on 2021 themes: Health and DNA 
-+ Ambassadors and users: Engaging users at the node level - do you know your users? What do nodes do to engage their users?
++ The use of GBIF to support the CBD post-2020 Global Biodiversity Framework
++ Private-sector engagement: guidance materials, and role of nodes
++ Increasing the use of GBIF-mediated data through a focus on thematic communities: Focusing on 2021 themes: Health and DNA
++ Ambassadors and users: Engaging users at the node level – do you know your users? What do nodes do to engage their users?
 
 **Live panel with all presenters. Panel moderator:** tbc
 
@@ -58,7 +58,7 @@ Pre-recorded presentations to watch ahead of the live session will be posted her
 
 Goal: To share updates from nodes and the Secretariat on topics that were requested in the consultation with nodes, and enable nodes to ask questions for further discussion.
 
-Format: Key updates will be available from this page in the form of short pre-recorded presentations that can be reused as training materials or outreach materials (max 7 minutes per video).  
+Format: Key updates will be available from this page in the form of short pre-recorded presentations that can be reused as training materials or outreach materials (max 7 minutes per video).
 
 Please view the presentations ahead of the live Q&A session and use the GBIF community forum to ask any questions ahead of the live session. You can also ask questions during the panel discussions.
 
@@ -66,11 +66,11 @@ Please view the presentations ahead of the live Q&A session and use the GBIF com
 
 Pre-recorded presentations to watch ahead of the live session will be posted here from 23 June 2021.
 
-+ Living Atlases Community update 
-+ GBIF Hosted portals updates 
-+ Future of the IPT 
++ Living Atlases Community update
++ GBIF Hosted portals updates
++ Future of the IPT
 + GBIF exports available on the cloud
-+ Regional and national branding and identity - Intro to using GBIF branding, and considerations in developing national and regional brands and identity for GBIF nodes
++ Regional and national branding and identity – Intro to using GBIF branding, and considerations in developing national and regional brands and identity for GBIF nodes
 
 **Live Q&A with all presenters Facilitator:** Maheva Bagard Laursen
 
@@ -79,15 +79,15 @@ Pre-recorded presentations to watch ahead of the live session will be posted her
 
 Pre-recorded presentations to watch ahead of the live session will be posted here from 23 June 2021.
 
-+ GrSciColl intro video - explaining what it is and why we are working on it (Marie Grosjean)
-+ GBIF Backbone taxonomy: Reminder on how it assembled now and future perspectives for the Catalogue of Life + (Markus Döring/ Olaf Banki tbc)
++ GrSciColl intro video – explaining what it is and why we are working on it (Marie Grosjean)
++ GBIF Backbone taxonomy: Reminder on how it assembled now and future perspectives for the Catalogue of Life + (Markus Döring / Olaf Banki tbc)
 + Working with issues and flags, including highlighting data blog (Andrea Hahn, John Waller, Marie Grosjean)
 + Sensitive species working group (Andrew Rodrigues)
 + Analyzing GBIF downloads from contributed datasets (Niels Raes tbc)
 
 **Live Q&A with all presenters Facilitator:** Laura Russell
 
-## Speed dating networking activity 
+## Speed dating networking activity
 
 Goal: For nodes to share ideas for collaborative projects with other nodes in the network.
 
@@ -102,20 +102,20 @@ Goal: For Nodes and Secretariat to show practical demonstrations of how to use G
 Format: These sessions will guide participants through a practical demo on the selected topic. The sessions will be recorded and made available from this page after the event. The demos will be grouped into themes.
 
 
-### Group 1 - data mobilization training and guidance on sequence-derived data mobilization
+### Group 1 – data mobilization training and guidance on sequence-derived data mobilization
 
 + How to teach the GBIF Data Mobilization course on site and online (40 min)
 + Guide and training materials to support sequence-derived data in GBIF (40 min)
 
 
-### Group 2 - tools to support nodes with data mobilization strategies
+### Group 2 – tools to support nodes with data mobilization strategies
 
 + How to administer an IPT (25 min)
 + How nodes can make use of GrSciColl and contribute  (20 min)
 + GBIF and Github: what is GitHub, how do we use it (product, content, development tracking), how to log an issue, orientation on the repositories, the portal-feedback “country” issue tag and how nodes could use that (25 min)
 
 
-### Group 3 - additional node demos
+### Group 3 – additional node demos
 
 Node presenters to be confirmed. If you have a demo you would like us to consider, please contact [nodes@gbif.org](mailto:nodes@gbif.org)
 
@@ -124,7 +124,7 @@ Node presenters to be confirmed. If you have a demo you would like us to conside
 
 ## Regional nodes sessions
 
-Goal: To continue node-level discussions in regional groups led by the regional representatives. 
+Goal: To continue node-level discussions in regional groups led by the regional representatives.
 
 Format: 1.5 hour zoom meetings led by regional representatives and at appropriate time zones for the region.
 
@@ -140,7 +140,7 @@ Format: A pre-recorded presentation will introduce the collaboration and example
 A pre-recorded presentation to watch ahead of the live session will be posted here from 23 June 2021.
 
 
-## GBIF.org functionality - NODES Vs. HELPDESK  
+## GBIF.org functionality – NODES Vs. HELPDESK
 
 Goal: To demonstrate some of the lesser known functionalities of GBIF.org through a fun interactive session
 
@@ -156,4 +156,3 @@ Goal: to capture feedback from the nodes on the first virtual global nodes meeti
 Format: Survey and short open floor discussion for closing remarks.
 
 Facilitators: Mélianie Raymond, Maheva Bagard Laursen
-
