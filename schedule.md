@@ -22,12 +22,12 @@ Follow the new online [Introduction to GBIF course](https://docs.gbif.org/course
 
 + 07:00–8:30 UTC: [Icebreaker – Interactive networking](/sessions#icebreaker-virtual-networking-activity)
 + 12:00–13:30 UTC: [Theme 1 panel: The role of nodes in GBIF’s next strategic period](/sessions#theme-1-the-role-of-nodes-in-gbifs-next-strategic-period)
-+ 14:00–15:30 UTC: [Live demos: Group 1](/sessions#group-1---data-mobilization-training-and-guidance-on-sequence-derived-data-mobilization)
++ 14:00–15:30 UTC: [Live demos: Group 1](/sessions#group_1_-_data_mobilization_training_and_guidance_on_sequence-derived_data_mobilization)
 
 ## Tuesday, 29 June
 
-+ 12:00–13:30 UTC: Live demos: Group 2
-+ 14:00–15:30 UTC: Theme 2 panel : Exploring future directions for GBIF
++ 12:00–13:30 UTC: [Live demos: Group 2](/sessions#group_2_–_tools_to_support_nodes_with_data_mobilization_strategies)
++ 14:00–15:30 UTC: [Theme 2 panel : Exploring future directions for GBIF](theme_2:_exploring_future_directions_for_GBIF)
 + 17:00–18:30 UTC: Icebreaker – Interactive networking
 
 ## Wednesday 30 June
