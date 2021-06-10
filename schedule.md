@@ -12,7 +12,7 @@ toc: true
 
 ## Schedule overview
 <figure class="has-text-centered">
-  <img src="/assets/images/Schedule.JPG" alt="Schedule of sessions"/></figure>]
+  <img src="/assets/images/Schedule.JPG" alt="Schedule of sessions"/></figure>
 
 ## Optional preparatory activity - Introduction to GBIF training
 
