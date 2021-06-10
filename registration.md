@@ -14,3 +14,5 @@ height: 70vh
 To receive the meeting links, GBIF Node managers and Nodes staff as well as invited observers must sign up.
 
 Please note that registration is not considered complete until you have received an email from the Secretariat, confirming your registration.
+
+Deadline for signing up is **21 June 2021**.
