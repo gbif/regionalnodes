@@ -12,7 +12,7 @@ columns:
 
   - name: 
     links:
-    - text: ![GBIF](https://rs.gbif.org/style/logo-gbif.svg)
+    - text: <img src="https://rs.gbif.org/style/logo-gbif.svg" width="250"/>
       href: https://www.gbif.org/
 
   - name: Contact
