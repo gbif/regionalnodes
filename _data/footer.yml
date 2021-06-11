@@ -10,9 +10,10 @@ columns:
   #  - text: Name of project partner 2
   #    href: http://example.com
 
-  #- name: Code
-  #  description: | # Can be Markdown
-  #    This project is open source. See `_data/footer.yml` to customize the footer.
+  - name: 
+    links:
+    - text: ![GBIF](https://rs.gbif.org/style/logo-gbif.svg)
+      href: https://www.gbif.org/
 
   - name: Contact
     description: | # Can be Markdown
