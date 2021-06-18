@@ -46,7 +46,7 @@ Pre-recorded presentations to watch ahead of the live session will be posted her
 Pre-recorded presentations to watch ahead of the live session will be posted here from 23 June 2021.
 
 + Update from the technical collaboration with GBIF and ALA on data pipelines; results, effect for the Living Atlas community, identifying need for governance of shared software, planning, risks etc.
-+ Introduction to a more expressive data model (beyond the “star schema”): what, why, how and when (long term planning).
++ [Introduction to a more expressive data model](https://vimeo.com/564600741/6218270122) (beyond the “star schema”): what, why, how and when (long term planning).
 + The use of GBIF to support the CBD post-2020 Global Biodiversity Framework
 + Private-sector engagement: guidance materials, and role of nodes
 + Increasing the use of GBIF-mediated data through a focus on thematic communities: Focusing on 2021 themes: Health and DNA
