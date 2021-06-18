@@ -79,7 +79,7 @@ Pre-recorded presentations to watch ahead of the live session will be posted her
 
 Pre-recorded presentations to watch ahead of the live session will be posted here from 23 June 2021.
 
-+ GrSciColl intro video – explaining what it is and why we are working on it 
++ [GRSciColl intro video](https://vimeo.com/564594528) – explaining what it is and why we are working on it 
 + GBIF Backbone taxonomy: Reminder on how it assembled now and future perspectives for the Catalogue of Life 
 + Working with issues and flags, including highlighting data blog 
 + Sensitive species working group 
