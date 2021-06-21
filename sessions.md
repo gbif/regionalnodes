@@ -67,7 +67,7 @@ Please view the presentations ahead of the live Q&A session and use the GBIF com
 Pre-recorded presentations to watch ahead of the live session will be posted here from 23 June 2021.
 
 + Living Atlases Community update
-+ GBIF Hosted portals updates
++ [GBIF Hosted portals - update](https://vimeo.com/565590504/eab5351102)
 + [Future of the Integrated Publishing Toolkit (IPT)](https://vimeo.com/565518171/1f3018b8de)
 + GBIF exports available on the cloud
 + Regional and national branding and identity – Intro to using GBIF branding, and considerations in developing national and regional brands and identity for GBIF nodes
