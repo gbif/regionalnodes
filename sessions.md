@@ -48,7 +48,7 @@ Pre-recorded presentations to watch ahead of the live session will be posted her
 + Update from the technical collaboration with GBIF and ALA on data pipelines; results, effect for the Living Atlas community, identifying need for governance of shared software, planning, risks etc.
 + [Looking ahead: GBIF data model](https://vimeo.com/564600741/6218270122) (beyond the “star schema”): what, why, how and when (long term planning).
 + [GBIF and the Post-2020 Global Biodiversity Framework](https://vimeo.com/564608734/484181b13d)
-+ [Private-sector engagement: guidance materials, and role of nodes](https://vimeo.com/564594528)
++ [Private-sector engagement: guidance materials, and role of nodes](https://vimeo.com/564604996/28e34a2791)
 + Increasing the use of GBIF-mediated data through a focus on thematic communities: Focusing on 2021 themes: Health and DNA
 + Ambassadors and users: Engaging users at the node level – do you know your users? What do nodes do to engage their users?
 
@@ -81,7 +81,7 @@ Pre-recorded presentations to watch ahead of the live session will be posted her
 
 + [GRSciColl intro video](https://vimeo.com/564594528) – explaining what it is and why we are working on it 
 + GBIF Backbone taxonomy: Reminder on how it assembled now and future perspectives for the Catalogue of Life 
-+ [Working with issues and flags, including highlighting data blog](https://vimeo.com/565518171/1f3018b8de) 
++ [Working with issues and flags, including highlighting data blog](https://vimeo.com/565517676/6daab44f1b) 
 + [Sensitive Species Data](https://vimeo.com/564610096/5da158d4ff)
 + Analyzing GBIF downloads from contributed datasets
 
