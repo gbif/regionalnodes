@@ -16,7 +16,7 @@ Goal: To encourage informal conversation between nodes to ensure that everyone f
 
 Format: A virtual gathering to create the opportunity for ‘mingling’. We will design a few questions to stimulate discussion, but keep it fairly open. The session will be open for nodes and Secretariat staff to ‘drop in’.
 
-* *What is your link to the GBIF community?
+* *What is your link to the GBIF community?*
 
 * *Why did you choose to attend the Global Nodes Meeting? 
 
