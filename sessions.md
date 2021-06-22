@@ -95,10 +95,11 @@ Example of function to export GRSciColl as CSV file:
 + [FAQ about linking Specimen occurrences published on GBIF to GRSciColl](https://www.gbif.org/faq?question=how-can-i-improve-the-matching-of-occurrence-records-with-grscicoll)
 + [Roadmap 2021](https://github.com/gbif/registry/blob/master/roadmap-grscicoll.md)
 Send feedback to [scientific-collections@gbif.org](mailto:scientific-collections@gbif.org) or log it [here](https://github.com/gbif/portal-feedback)
-+ GBIF Backbone taxonomy: Reminder on how it assembled now and future perspectives for the Catalogue of Life 
++ GBIF Backbone taxonomy: Reminder on how it assembled now and future perspectives for the Catalogue of Life
+
 **[Working with issues and flags, including highlighting data blog](https://vimeo.com/565517676/6daab44f1b)**
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/565517676?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Working with issues and flags, including highlighting data blog"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-+ [Sensitive Species Data](https://vimeo.com/564610096/5da158d4ff)
+**[Sensitive Species Data](https://vimeo.com/564610096/5da158d4ff)**
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/564610096?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Sensitive Species Data"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 + Analyzing GBIF downloads from contributed datasets
 
