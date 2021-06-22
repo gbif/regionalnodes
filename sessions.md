@@ -72,7 +72,6 @@ Pre-recorded presentations to watch ahead of the live session will be posted her
 + [GBIF Hosted portals - update](https://vimeo.com/565590504/eab5351102)
 + [Future of the Integrated Publishing Toolkit (IPT)](https://vimeo.com/565518171/1f3018b8de)
 + GBIF exports available on the cloud
-+ Regional and national branding and identity – Intro to using GBIF branding, and considerations in developing national and regional brands and identity for GBIF nodes
 
 **Live Q&A with all presenters Facilitator:** Maheva Bagard Laursen
 
