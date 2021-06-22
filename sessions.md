@@ -35,7 +35,8 @@ Pre-recorded presentations to watch ahead of the live session will be posted her
 + Welcome to the first virtual Global Nodes Meeting – including reflections on the future of the nodes model 
 + [The Role of the Nodes in Next GBIF Strategic Plan](https://vimeo.com/565570188/37bd1d694a)
 + Developing GBIF Values as a component of the strategic plan
-+ The GBIF resource mobilization strategy and what it means for nodes
++ <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566017188?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="GBIF Ressource Mobilisation Strategy"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
++ [GBIF Resource Mobilization Strategy](https://vimeo.com/566017188/54397534a5) and what it means for nodes
 + Strengthening regional capacity in GBIF – following up on the discussions on regional offices at GB27
 
 **Live panel with all presenters. Panel moderator:** Mélianie Raymond
