@@ -33,13 +33,11 @@ Please view the presentations ahead of the live panel discussions and use the GB
 Pre-recorded presentations to watch ahead of the live session will be posted here from 23 June 2021.
 
 + Welcome to the first virtual Global Nodes Meeting – including reflections on the future of the nodes model 
-**[The Role of the Nodes in Next GBIF Strategic Plan](https://vimeo.com/565570188/37bd1d694a)**
+**[The Role of the Nodes in Next GBIF Strategic Plan]**
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/565570188?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="The Role of the Nodes in Next GBIF Strategic Plan"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 + Developing GBIF Values as a component of the strategic plan
-**[GBIF Resource Mobilization Strategy](https://vimeo.com/566017188/54397534a5)** - and what it means for nodes 
+**[GBIF Resource Mobilization Strategy]** 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566017188?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="GBIF Ressource Mobilisation Strategy"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-**Key information resources**:[background document](/assets/rms.pdf)
-
 + Strengthening regional capacity in GBIF – following up on the discussions on regional offices at GB27
 
 **Live panel with all presenters. Panel moderator:** Mélianie Raymond
@@ -80,27 +78,12 @@ Pre-recorded presentations to watch ahead of the live session will be posted her
 
 ### Theme 4: Content and use
 
-Pre-recorded presentations to watch ahead of the live session will be posted here from 23 June 2021.
-
-**[Introduction to GRSciColl: registry of Scientific collections](https://vimeo.com/564594528)** – explaining what it is and why we are working on it
+**##[Introduction to GRSciColl: registry of Scientific collections]**
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/564594528?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Introduction to GRSciColl: Registry of scientific collections"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-**Key information resources**:
-+ [GRSciColl](https://www.gbif.org/grscicoll)
-+ [News item mentioned in the presentation](https://www.gbif.org/news/5kyAslpqTVxYqZTwYn1cub/gbif-provides-new-home-for-the-global-registry-of-scientific-collections)
-+ [Registry console](https://registry.gbif.org)
-Example of function to export GRSciColl as CSV file:
-+ [All institutions](http://api.gbif.org/v1/grscicoll/institution/export)
-+ [All collections](http://api.gbif.org/v1/grscicoll/collection/export)
-+ [Collections containing exoskeletons](http://api.gbif.org/v1/grscicoll/collection/export?preservationType=BIOLOGICAL_EXOSKELETONS)
-+ [Lookup service documentation](https://www.gbif.org/developer/registry#lookup)
-+ [FAQ about linking Specimen occurrences published on GBIF to GRSciColl](https://www.gbif.org/faq?question=how-can-i-improve-the-matching-of-occurrence-records-with-grscicoll)
-+ [Roadmap 2021](https://github.com/gbif/registry/blob/master/roadmap-grscicoll.md)
-Send feedback to [scientific-collections@gbif.org](mailto:scientific-collections@gbif.org) or log it [here](https://github.com/gbif/portal-feedback)
 + GBIF Backbone taxonomy: Reminder on how it assembled now and future perspectives for the Catalogue of Life
-
-**[Working with issues and flags, including highlighting data blog](https://vimeo.com/565517676/6daab44f1b)**
+**##[Working with issues and flags, including highlighting data blog]**
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/565517676?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Working with issues and flags, including highlighting data blog"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-**[Sensitive Species Data](https://vimeo.com/564610096/5da158d4ff)**
+**##[Sensitive Species Data]**
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/564610096?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Sensitive Species Data"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 + Analyzing GBIF downloads from contributed datasets
 
