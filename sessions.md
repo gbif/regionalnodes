@@ -18,13 +18,13 @@ Format: A virtual gathering to create the opportunity for ‘mingling’. We wil
 
 * *What is your link to the GBIF community?*
 
-* *Why did you choose to attend the Global Nodes Meeting? 
+* *Why did you choose to attend the Global Nodes Meeting?* 
 
-* *Do you love working from home or would you rather be in the office? 
+* *Do you love working from home or would you rather be in the office?* 
 
-* *Where are you joining this meeting from? Your office? Your kitchen table? The backyard? A café? A museum?
+* *Where are you joining this meeting from? Your office? Your kitchen table? The backyard? A café? A museum?*
 
-* *How many cups of coffee, tea, or beverage-of-choice have you had before this meeting?
+* *How many cups of coffee, tea, or beverage-of-choice have you had before this meeting?*
 
 Facilitators: Mélianie Raymond and Maheva Bagard Laursen
 
@@ -103,13 +103,13 @@ Goal: For nodes to share ideas for collaborative projects with other nodes in th
 
 Format: We will use breakout rooms in Zoom and engage conversation with each other around the questions below: 
 
-* *What type of support do you receive for your node activities?
+* *What type of support do you receive for your node activities?*
 
-* *What are the main areas of success in resourcing your node’s activities / How did you successfully argue the case for GBIF participation?
+* *What are the main areas of success in resourcing your node’s activities / How did you successfully argue the case for GBIF participation?*
 
-* *What tips and recommendations on resourcing (funding sources, institutional support, support from the local/national/regional network, support from GBIF community, in kind support, etc.) and key areas of success can you share?
+* *What tips and recommendations on resourcing (funding sources, institutional support, support from the local/national/regional network, support from GBIF community, in kind support, etc.) and key areas of success can you share?*
 
-* *In your experience, what are the most efficient tools to demonstrate the importance of GBIF nodes and the importance of formal GBIF participation /What would be the tools you wish you had to  demonstrate the importance of GBIF nodes and the importance of formal GBIF participation?
+* *In your experience, what are the most efficient tools to demonstrate the importance of GBIF nodes and the importance of formal GBIF participation /What would be the tools you wish you had to  demonstrate the importance of GBIF nodes and the importance of formal GBIF participation?*
 
 
 
