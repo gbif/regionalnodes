@@ -58,9 +58,10 @@ Pre-recorded presentations to watch ahead of the live session will be posted her
 Pre-recorded presentations to watch ahead of the live session will be posted here from 23 June 2021.
 
 ## Video: Update from the technical collaboration with GBIF and ALA on data pipelines; results, effect for the Living Atlas community, identifying need for governance of shared software, planning, risks etc.
-## Video: Looking ahead: GBIF data model (https://vimeo.com/564600741/6218270122) (beyond the “star schema”): what, why, how and when (long term planning).
-## Video: GBIF and the Post-2020 Global Biodiversity Framework](https://vimeo.com/564608734/484181b13d)
-## Video: Private-sector engagement: guidance materials, and role of nodes](https://vimeo.com/564604996/28e34a2791)
+## Video: Looking ahead: GBIF data model
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/564600741?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Looking ahead: GBIF data model"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>## Video: GBIF and the Post-2020 Global Biodiversity Framework](https://vimeo.com/564608734/484181b13d)
+## Video: Private-sector engagement: guidance materials, and role of nodes
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/564604996?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Private Sector Engagement"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 ## Video: Increasing the use of GBIF-mediated data through a focus on thematic communities: Focusing on 2021 themes: Health and DNA
 ## Video: Ambassadors and users: Engaging users at the node level – do you know your users? What do nodes do to engage their users?
 
