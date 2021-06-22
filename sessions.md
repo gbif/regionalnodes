@@ -16,6 +16,16 @@ Goal: To encourage informal conversation between nodes to ensure that everyone f
 
 Format: A virtual gathering to create the opportunity for ‘mingling’. We will design a few questions to stimulate discussion, but keep it fairly open. The session will be open for nodes and Secretariat staff to ‘drop in’.
 
+* *What is your link to the GBIF community?
+
+* *Why did you choose to attend the Global Nodes Meeting? 
+
+* *Do you love working from home or would you rather be in the office? 
+
+* *Where are you joining this meeting from? Your office? Your kitchen table? The backyard? A café? A museum?
+
+* *How many cups of coffee, tea, or beverage-of-choice have you had before this meeting?
+
 Facilitators: Mélianie Raymond and Maheva Bagard Laursen
 
 
@@ -32,13 +42,13 @@ Please view the presentations ahead of the live panel discussions and use the GB
 
 Pre-recorded presentations to watch ahead of the live session will be posted here from 23 June 2021.
 
-## Welcome to the first virtual Global Nodes Meeting – including reflections on the future of the nodes model 
-## The Role of the Nodes in Next GBIF Strategic Plan
+## Video: Welcome to the first virtual Global Nodes Meeting – including reflections on the future of the nodes model 
+## Video: The Role of the Nodes in Next GBIF Strategic Plan
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/565570188?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="The Role of the Nodes in Next GBIF Strategic Plan"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-## Developing GBIF Values as a component of the strategic plan
-## GBIF Resource Mobilization Strategy 
+## Video: Developing GBIF Values as a component of the strategic plan
+## Video: GBIF Resource Mobilization Strategy 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566017188?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="GBIF Ressource Mobilisation Strategy"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-## Strengthening regional capacity in GBIF – following up on the discussions on regional offices at GB27
+## Video: Strengthening regional capacity in GBIF – following up on the discussions on regional offices at GB27
 
 **Live panel with all presenters. Panel moderator:** Mélianie Raymond
 
@@ -47,12 +57,12 @@ Pre-recorded presentations to watch ahead of the live session will be posted her
 
 Pre-recorded presentations to watch ahead of the live session will be posted here from 23 June 2021.
 
-## Update from the technical collaboration with GBIF and ALA on data pipelines; results, effect for the Living Atlas community, identifying need for governance of shared software, planning, risks etc.
-## Looking ahead: GBIF data model (https://vimeo.com/564600741/6218270122) (beyond the “star schema”): what, why, how and when (long term planning).
-## GBIF and the Post-2020 Global Biodiversity Framework](https://vimeo.com/564608734/484181b13d)
-## Private-sector engagement: guidance materials, and role of nodes](https://vimeo.com/564604996/28e34a2791)
-## Increasing the use of GBIF-mediated data through a focus on thematic communities: Focusing on 2021 themes: Health and DNA
-## Ambassadors and users: Engaging users at the node level – do you know your users? What do nodes do to engage their users?
+## Video: Update from the technical collaboration with GBIF and ALA on data pipelines; results, effect for the Living Atlas community, identifying need for governance of shared software, planning, risks etc.
+## Video: Looking ahead: GBIF data model (https://vimeo.com/564600741/6218270122) (beyond the “star schema”): what, why, how and when (long term planning).
+## Video: GBIF and the Post-2020 Global Biodiversity Framework](https://vimeo.com/564608734/484181b13d)
+## Video: Private-sector engagement: guidance materials, and role of nodes](https://vimeo.com/564604996/28e34a2791)
+## Video: Increasing the use of GBIF-mediated data through a focus on thematic communities: Focusing on 2021 themes: Health and DNA
+## Video: Ambassadors and users: Engaging users at the node level – do you know your users? What do nodes do to engage their users?
 
 **Live panel with all presenters. Panel moderator:** tbc
 
@@ -66,24 +76,24 @@ Please view the presentations ahead of the live Q&A session and use the GBIF com
 
 ### Theme 3: Product development and tools
 
-## Living Atlases Community update
-## GBIF Hosted portals - update
-## Future of the Integrated Publishing Toolkit (IPT)
-## GBIF exports available on the cloud
+## Video: Living Atlases Community update
+## Video: GBIF Hosted portals - update
+## Video: Future of the Integrated Publishing Toolkit (IPT)
+## Video: GBIF exports available on the cloud
 
 **Live Q&A with all presenters Facilitator:** Maheva Bagard Laursen
 
 
 ### Theme 4: Content and use
 
-## Introduction to GRSciColl: registry of Scientific collections
+## Video: Introduction to GRSciColl: registry of Scientific collections
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/564594528?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Introduction to GRSciColl: Registry of scientific collections"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-## GBIF Backbone taxonomy: Reminder on how it assembled now and future perspectives for the Catalogue of Life
-## Working with issues and flags, including highlighting data blog
+## Video: GBIF Backbone taxonomy: Reminder on how it assembled now and future perspectives for the Catalogue of Life
+## Video: Working with issues and flags, including highlighting data blog
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/565517676?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Working with issues and flags, including highlighting data blog"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-## Sensitive Species Data
+## Video: Sensitive Species Data
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/564610096?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Sensitive Species Data"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-## Analyzing GBIF downloads from contributed datasets
+## Video: Analyzing GBIF downloads from contributed datasets
 
 **Live Q&A with all presenters Facilitator:** Laura Russell
 
@@ -93,13 +103,13 @@ Goal: For nodes to share ideas for collaborative projects with other nodes in th
 
 Format: We will use breakout rooms in Zoom and engage conversation with each other around the questions below: 
 
-* What type of support do you receive for your node activities?
+* *What type of support do you receive for your node activities?
 
-* What are the main areas of success in resourcing your node’s activities / How did you successfully argue the case for GBIF participation?
+* *What are the main areas of success in resourcing your node’s activities / How did you successfully argue the case for GBIF participation?
 
-* What tips and recommendations on resourcing (funding sources, institutional support, support from the local/national/regional network, support from GBIF community, in kind support, etc.) and key areas of success can you share?
+* *What tips and recommendations on resourcing (funding sources, institutional support, support from the local/national/regional network, support from GBIF community, in kind support, etc.) and key areas of success can you share?
 
-* In your experience, what are the most efficient tools to demonstrate the importance of GBIF nodes and the importance of formal GBIF participation /What would be the tools you wish you had to  demonstrate the importance of GBIF nodes and the importance of formal GBIF participation?
+* *In your experience, what are the most efficient tools to demonstrate the importance of GBIF nodes and the importance of formal GBIF participation /What would be the tools you wish you had to  demonstrate the importance of GBIF nodes and the importance of formal GBIF participation?
 
 
 
@@ -128,7 +138,6 @@ Format: These sessions will guide participants through a practical demo on the s
 ### Group 3 – additional node updates and demos
 
 Node presenters to be confirmed. If you still have a presentation or a demo you would like us to consider, please contact [nodes@gbif.org](mailto:nodes@gbif.org) before 16 June. 
-
 
 
 
