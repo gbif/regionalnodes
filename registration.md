@@ -8,11 +8,6 @@ imageLicense: |
 height: 70vh
 ---
 
-{: .has-text-centered .button .is-primary style="width: 100%"}
-## [Sign up](https://docs.google.com/forms/d/e/1FAIpQLScV8rm_99jXC6LCyZnEeB7GhGbrwc6kQxy9AxjxfHuGYu6o7A/viewform)
+The registration closed on **21 June 2021**.
 
-To receive the meeting links, GBIF Node managers and Nodes staff as well as invited observers must sign up.
-
-Please note that registration is not considered complete until you have received an email from the Secretariat, confirming your registration.
-
-Deadline for signing up is **21 June 2021**.
+If you did not register by the deadline and wish to attend the meeting, please contact [nodes@gbif.org](mailto:nodes@gbif.org)
