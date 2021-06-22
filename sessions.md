@@ -40,8 +40,6 @@ Please view the presentations ahead of the live panel discussions and use the GB
 
 ### Theme 1: The role of nodes in GBIF’s next strategic period
 
-Pre-recorded presentations to watch ahead of the live session will be posted here from 23 June 2021.
-
 # Video: Welcome to the first virtual Global Nodes Meeting – including reflections on the future of the nodes model 
 ## Video: The Role of the Nodes in Next GBIF Strategic Plan
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/565570188?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="The Role of the Nodes in Next GBIF Strategic Plan"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
@@ -55,11 +53,12 @@ Pre-recorded presentations to watch ahead of the live session will be posted her
 
 ### Theme 2: Exploring future directions for GBIF
 
-Pre-recorded presentations to watch ahead of the live session will be posted here from 23 June 2021.
 
 ## Video: Update from the technical collaboration with GBIF and ALA on data pipelines; results, effect for the Living Atlas community, identifying need for governance of shared software, planning, risks etc.
 ## Video: Looking ahead: GBIF data model
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/564600741?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Looking ahead: GBIF data model"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>## Video: GBIF and the Post-2020 Global Biodiversity Framework](https://vimeo.com/564608734/484181b13d)
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/564600741?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Looking ahead: GBIF data model"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+## Video: GBIF and the Post-2020 Global Biodiversity
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/564608734?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="GBIF and the Post-2020 Global Biodiversity Framework"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 ## Video: Private-sector engagement: guidance materials, and role of nodes
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/564604996?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Private Sector Engagement"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 ## Video: Increasing the use of GBIF-mediated data through a focus on thematic communities: Focusing on 2021 themes: Health and DNA
