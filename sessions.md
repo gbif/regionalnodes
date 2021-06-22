@@ -78,12 +78,12 @@ Pre-recorded presentations to watch ahead of the live session will be posted her
 
 ### Theme 4: Content and use
 
-**##[Introduction to GRSciColl: registry of Scientific collections]**
+## [Introduction to GRSciColl: registry of Scientific collections]
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/564594528?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Introduction to GRSciColl: Registry of scientific collections"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 + GBIF Backbone taxonomy: Reminder on how it assembled now and future perspectives for the Catalogue of Life
-**##[Working with issues and flags, including highlighting data blog]**
+## [Working with issues and flags, including highlighting data blog]
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/565517676?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Working with issues and flags, including highlighting data blog"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-**##[Sensitive Species Data]**
+## [Sensitive Species Data]
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/564610096?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Sensitive Species Data"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 + Analyzing GBIF downloads from contributed datasets
 
