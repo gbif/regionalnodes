@@ -29,7 +29,7 @@ Format: A virtual gathering to create the opportunity for ‘mingling’. We wil
 Facilitators: Mélianie Raymond and Maheva Bagard Laursen
 
 
-### Panel discussions exploring key themes introduced in pre-recorded presentations
+> Panel discussions exploring key themes introduced in pre-recorded presentations
 
 Goal: To explore key themes with panels of experts from the community, building on presentations from the nodes and Secretariat on topics that were requested in the consultation with nodes.
 
