@@ -14,7 +14,7 @@ height: 70vh
 
 Goal: To encourage informal conversation between nodes to ensure that everyone feels connected to the community, new nodes can meet other members of the network, and that there is active participation in the events from the very start.
 
-Format: A virtual gathering to create the opportunity for ‘mingling’. We will design a few questions to stimulate discussion, but keep it fairly open. The session will be open for nodes and Secretariat staff to ‘drop in’.
+Format: You can discuss the following questions:
 
 * *What is your link to the GBIF community?*
 
@@ -26,10 +26,11 @@ Format: A virtual gathering to create the opportunity for ‘mingling’. We wil
 
 * *How many cups of coffee, tea, or beverage-of-choice have you had before this meeting?*
 
+Or just use this opportunity to catch up with old friends and meet new ones!
+
 Facilitators: Mélianie Raymond and Maheva Bagard Laursen
 
-
-> Panel discussions exploring key themes introduced in pre-recorded presentations
+# Panel discussions exploring key themes introduced in pre-recorded presentations
 
 Goal: To explore key themes with panels of experts from the community, building on presentations from the nodes and Secretariat on topics that were requested in the consultation with nodes.
 
@@ -72,13 +73,13 @@ Format: Key updates will be available from this page in the form of short pre-re
 
 ### Live panel with all presenters. Panel moderator: tbc
 
-### Live Q&A session based on pre-recorded presentations
+# Live Q&A session based on pre-recorded presentations
 
 Goal: To share updates from nodes and the Secretariat on topics that were requested in the consultation with nodes, and enable nodes to ask questions for further discussion.
 
 Format: Key updates will be available from this page in the form of short pre-recorded presentations that can be reused as training materials or outreach materials (max 7 minutes per video).
 
-Please view the presentations ahead of the live Q&A session and use the GBIF community forum to ask any questions ahead of the live session. You can also ask questions during the panel discussions.
+**Please view the presentations ahead of the live Q&A session and use the GBIF community forum to ask any questions ahead of the live session. You can also ask questions during the panel discussions.**
 
 # Theme 3: Product development and tools
 
@@ -90,7 +91,7 @@ Please view the presentations ahead of the live Q&A session and use the GBIF com
 ###### Video: GBIF exports available on the cloud
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566507538?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="GBIF exports available on the cloud"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-### Live Q&A with all presenters Facilitator: Maheva Bagard Laursen
+# Live Q&A with all presenters Facilitator: Maheva Bagard Laursen
 
 
 # Theme 4: Content and use
@@ -104,7 +105,7 @@ Please view the presentations ahead of the live Q&A session and use the GBIF com
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/564610096?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Sensitive Species Data"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 ###### Video: Analyzing GBIF downloads from contributed datasets
 
-### Live Q&A with all presenters Facilitator: Laura Russell
+# Live Q&A with all presenters Facilitator: Laura Russell
 
 ### Speed dating networking activity
 
@@ -119,8 +120,6 @@ Format: We will use breakout rooms in Zoom and engage conversation with each oth
 * *What tips and recommendations on resourcing (funding sources, institutional support, support from the local/national/regional network, support from GBIF community, in kind support, etc.) and key areas of success can you share?*
 
 * *In your experience, what are the most efficient tools to demonstrate the importance of GBIF nodes and the importance of formal GBIF participation /What would be the tools you wish you had to  demonstrate the importance of GBIF nodes and the importance of formal GBIF participation?*
-
-
 
 Facilitators: Mélianie Raymond, Maheva Bagaard Laursen
 
