@@ -10,7 +10,7 @@ height: 70vh
 
 ---
 
-## Icebreaker virtual networking activity
+### Icebreaker virtual networking activity
 
 Goal: To encourage informal conversation between nodes to ensure that everyone feels connected to the community, new nodes can meet other members of the network, and that there is active participation in the events from the very start.
 
@@ -29,7 +29,7 @@ Format: A virtual gathering to create the opportunity for ‘mingling’. We wil
 Facilitators: Mélianie Raymond and Maheva Bagard Laursen
 
 
-## Panel discussions exploring key themes introduced in pre-recorded presentations
+### Panel discussions exploring key themes introduced in pre-recorded presentations
 
 Goal: To explore key themes with panels of experts from the community, building on presentations from the nodes and Secretariat on topics that were requested in the consultation with nodes.
 
@@ -51,7 +51,7 @@ Please view the presentations ahead of the live panel discussions and use the GB
 ###### Video: Strengthening regional capacity in GBIF
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566458271?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Strengthening regional capacity in GBIF"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-## **Live panel with all presenters. Panel moderator:** Mélianie Raymond
+### Live panel with all presenters. Panel moderator: Mélianie Raymond
 
 
 # Theme 2: Exploring future directions for GBIF
@@ -70,9 +70,9 @@ Please view the presentations ahead of the live panel discussions and use the GB
 ###### Video: Ambassadors and users
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566502365?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Ambassadors and users Theme 2, presentation by GBIF staff Dmitry Schigel"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-**Live panel with all presenters. Panel moderator:** tbc
+### Live panel with all presenters. Panel moderator: tbc
 
-## Live Q&A session based on pre-recorded presentations
+### Live Q&A session based on pre-recorded presentations
 
 Goal: To share updates from nodes and the Secretariat on topics that were requested in the consultation with nodes, and enable nodes to ask questions for further discussion.
 
@@ -90,7 +90,7 @@ Please view the presentations ahead of the live Q&A session and use the GBIF com
 ###### Video: GBIF exports available on the cloud
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566507538?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="GBIF exports available on the cloud"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-**Live Q&A with all presenters Facilitator:** Maheva Bagard Laursen
+### Live Q&A with all presenters Facilitator: Maheva Bagard Laursen
 
 
 # Theme 4: Content and use
@@ -104,9 +104,9 @@ Please view the presentations ahead of the live Q&A session and use the GBIF com
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/564610096?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Sensitive Species Data"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 ###### Video: Analyzing GBIF downloads from contributed datasets
 
-**Live Q&A with all presenters Facilitator:** Laura Russell
+### Live Q&A with all presenters Facilitator: Laura Russell
 
-## Speed dating networking activity
+### Speed dating networking activity
 
 Goal: For nodes to share ideas for collaborative projects with other nodes in the network.
 
@@ -124,7 +124,7 @@ Format: We will use breakout rooms in Zoom and engage conversation with each oth
 
 Facilitators: Mélianie Raymond, Maheva Bagaard Laursen
 
-## Live demos
+### Live demos
 
 Goal: For Nodes and Secretariat to show practical demonstrations of how to use GBIF-related tools and materials.
 
@@ -155,7 +155,7 @@ Draft dna barcoding course](https://docs.gbif-uat.org/course-dna-barcoding)
 ###### Video: GBIF in Poland in 2021: Digitization and integration of services
 ###### Video: Node update from GBIF Norway: Wikidata, Agent identifiers, MaterialSample
 
-## Regional nodes sessions
+### Regional nodes sessions
 
 Goal: To continue node-level discussions in regional groups led by the regional representatives.
 
@@ -164,7 +164,7 @@ Format: 1.5 hour zoom meetings led by regional representatives and at appropriat
 Content: Agenda to be set by regional representatives.
 
 
-## Marine data mobilization session
+### Marine data mobilization session
 
 Goal: To update the community on the collaboration between GBIF and OBIS and discuss how we can work together on marine data mobilization
 
@@ -173,7 +173,7 @@ Format: A pre-recorded presentation will introduce the collaboration and example
 A pre-recorded presentation to watch ahead of the live session will be posted here from 23 June 2021.
 
 
-## GBIF.org functionality – NODES Vs. HELPDESK
+### GBIF.org functionality – NODES Vs. HELPDESK
 
 Goal: To demonstrate some of the lesser known functionalities of GBIF.org through a fun interactive session
 
@@ -182,7 +182,7 @@ Format: 1 hour session where nodes will ‘battle’ Marie Grosjean from the GBI
 "Game show host" facilitator: Andrew Rodrigues
 
 
-## Evaluation activities
+### Evaluation activities
 
 Goal: to capture feedback from the nodes on the first virtual global nodes meeting.
 
