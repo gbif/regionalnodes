@@ -17,52 +17,59 @@ Goal: To encourage informal conversation between nodes to ensure that everyone f
 Format: You can discuss the following questions:
 
 * *What is your link to the GBIF community?*
-
 * *Why did you choose to attend the Global Nodes Meeting?* 
-
 * *Do you love working from home or would you rather be in the office?* 
-
 * *Where are you joining this meeting from? Your office? Your kitchen table? The backyard? A café? A museum?*
-
 * *How many cups of coffee, tea, or beverage-of-choice have you had before this meeting?*
 
 Or just use this opportunity to catch up with old friends and meet new ones!
 
-Facilitators: Mélianie Raymond and Maheva Bagard Laursen
+*Facilitators: Mélianie Raymond and Maheva Bagard Laursen*
 
 ## Panel discussions exploring key themes introduced in pre-recorded presentations
 
-Goal: To explore key themes with panels of experts from the community, building on presentations from the nodes and Secretariat on topics that were requested in the consultation with nodes.
+**Goal**
+To explore key themes with panels of experts from the community, building on presentations from the nodes and Secretariat on topics that were requested in the consultation with nodes.
 
-Format: Key updates will be available from this page in the form of short pre-recorded presentations that can be reused as training materials or outreach materials.
+**Format**
+Key updates will be available from this page in the form of short pre-recorded presentations that can be reused as training materials or outreach materials.
 
-**Please view the presentations ahead of the live panel discussions and use the GBIF community forum to ask any questions ahead of the live sessions. You can also ask questions during the panel discussions.**
+{: .notification .is-info}
+Please view the presentations ahead of the live panel discussions and use the GBIF community forum to ask any questions ahead of the live sessions. You can also ask questions during the panel discussions.
 
 
 ## Theme 1: The role of nodes in GBIF’s next strategic period
 
-{: .is-hidden }
-### Video: 16th Global Nodes Meeting 2021 Welcome speech
+<div style="padding:56.25% 0 0 0;position:relative; background: #eee;">
+<iframe src="https://player.vimeo.com/video/566492345?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Welcome to the first virtual Global Nodes Meeting &amp;ndash; including reflections on the future of the nodes model"></iframe></div>
+16th Global Nodes Meeting 2021 Welcome speech
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566492345?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Welcome to the first virtual Global Nodes Meeting &amp;ndash; including reflections on the future of the nodes model"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>   
+---------
 
-Video: The Role of the Nodes in Next GBIF Strategic Plan
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/565570188?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="The Role of the Nodes in Next GBIF Strategic Plan"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>   
+<div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/565570188?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="The Role of the Nodes in Next GBIF Strategic Plan"></iframe></div>
+The Role of the Nodes in Next GBIF Strategic Plan
 
-Video: Developing GBIF Values as a component of the strategic plan
+---------
 
-Video: GBIF Resource Mobilization Strategy 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566017188?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="GBIF Ressource Mobilisation Strategy"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-**[Background document](/assets/rms.pdf)**   
+<div style="padding:56.25% 0 0 0;position:relative; background: #eee;">
+  insert missing video here
+</div>
+Developing GBIF Values as a component of the strategic plan
 
-Video: Strengthening regional capacity in GBIF
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566458271?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Strengthening regional capacity in GBIF"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>  
+---------
 
-## Live panel with all presenters. Panel moderator: Mélianie Raymond
+<div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/566017188?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="GBIF Ressource Mobilisation Strategy"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+GBIF Resource Mobilization Strategy. See also **[background document](/assets/rms.pdf)**   
 
+---------
+
+<div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/566458271?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Strengthening regional capacity in GBIF"></iframe></div>
+Strengthening regional capacity in GBIF
+
+**Live panel with all presenters**
+*Panel moderator: Mélianie Raymond*
 
 ## Theme 2: Exploring future directions for GBIF
-
 
 Video: Aligning GBIF and ALA
 <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566499732?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Aligning GBIF and ALA Theme 2, presentation by Dave Martin and Javier Molina"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
@@ -78,6 +85,37 @@ Video: Ambassadors and users
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566502365?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Ambassadors and users Theme 2, presentation by GBIF staff Dmitry Schigel"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ## Live panel with all presenters. Panel moderator: tbc
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566499732?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Aligning GBIF and ALA Theme 2, presentation by Dave Martin and Javier Molina"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+Aligning GBIF and ALA
+
+-----------
+
+<div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/564600741?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Looking ahead: GBIF data model"></iframe></div>
+Looking ahead: GBIF data model
+
+----------
+
+<div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/564608734?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="GBIF and the Post-2020 Global Biodiversity Framework"></iframe></div>
+GBIF and the Post-2020 Global Biodiversity
+
+----------
+
+<div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/564604996?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Private Sector Engagement"></iframe></div>
+<script src="https://player.vimeo.com/api/player.js"></script>
+Private-sector engagement: guidance materials, and role of nodes
+
+----------
+
+<div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/566502314?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Increasing the use of GBIF-mediated data through a focus on thematic communities_ Focusing on 2021 themes_ Health and DNA Theme"></iframe></div>
+GBIF: potential for a thematic approach
+
+----------
+
+<div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/566502365?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Ambassadors and users Theme 2, presentation by GBIF staff Dmitry Schigel"></iframe></div>
+Ambassadors and users
+
+**Live panel with all presenters**
+*Panel moderator: tbc*
 
 ## Live Q&A session based on pre-recorded presentations
 
@@ -96,6 +134,13 @@ Video: Future of the Integrated Publishing Toolkit (IPT)
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/565518171?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Future of the Integrated Publishing Toolkit (IPT)"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 Video: GBIF exports available on the cloud
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566507538?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="GBIF exports available on the cloud"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+###### Video: Living Atlases Community update
+###### Video: GBIF Hosted portals - update
+<div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/565590504?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Hosted Portals - Update"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+###### Video: Future of the Integrated Publishing Toolkit (IPT)
+<div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/565518171?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Future of the Integrated Publishing Toolkit (IPT)"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+###### Video: GBIF exports available on the cloud
+<div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/566507538?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="GBIF exports available on the cloud"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ## Live Q&A with all presenters Facilitator: Maheva Bagard Laursen
 
@@ -110,6 +155,14 @@ Video: Working with issues and flags, including highlighting data blog
 Video: Sensitive Species Data
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/564610096?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Sensitive Species Data"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 Video: Analyzing GBIF downloads from contributed datasets
+###### Video: Introduction to GRSciColl: registry of Scientific collections
+<div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/564594528?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Introduction to GRSciColl: Registry of scientific collections"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+###### Video: GBIF Backbone taxonomy: Reminder on how it assembled now and future perspectives for the Catalogue of Life
+###### Video: Working with issues and flags, including highlighting data blog
+<div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/565517676?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Working with issues and flags, including highlighting data blog"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+###### Video: Sensitive Species Data
+<div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/564610096?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Sensitive Species Data"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+###### Video: Analyzing GBIF downloads from contributed datasets
 
 ## Live Q&A with all presenters Facilitator: Laura Russell
 
@@ -145,6 +198,8 @@ Draft dna barcoding course](https://docs.gbif-uat.org/course-dna-barcoding)
 
 Video: Update on BioDATA  - DNA metabarcoding data management
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566509989?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Update on BioDATA  - DNA metabarcoding data management"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+###### Video: Update on BioDATA  - DNA metabarcoding data management
+<div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/566509989?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Update on BioDATA  - DNA metabarcoding data management"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
 ## Group 2 – tools to support nodes with data mobilization strategies
