@@ -150,9 +150,9 @@ Draft dna barcoding course](https://docs.gbif-uat.org/course-dna-barcoding)
 
 ### Group 3 – additional node updates and demos
 
-Node presenters to be confirmed. If you still have a presentation or a demo you would like us to consider, please contact [nodes@gbif.org](mailto:nodes@gbif.org) before 16 June. 
-
-
+## Video: GBIF Benin: Best practices of Node Management
+## Video: GBIF in Poland in 2021: Digitization and integration of services
+## Video: Node update from GBIF Norway: Wikidata, Agent identifiers, MaterialSample
 
 ## Regional nodes sessions
 
