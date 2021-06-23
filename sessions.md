@@ -56,7 +56,8 @@ Please view the presentations ahead of the live panel discussions and use the GB
 ### Theme 2: Exploring future directions for GBIF
 
 
-## Video: Update from the technical collaboration with GBIF and ALA on data pipelines; results, effect for the Living Atlas community, identifying need for governance of shared software, planning, risks etc.
+## Video: Aligning GBIF and ALA
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566499732?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Aligning GBIF and ALA Theme 2, presentation by Dave Martin and Javier Molina"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 ## Video: Looking ahead: GBIF data model
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/564600741?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Looking ahead: GBIF data model"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 ## Video: GBIF and the Post-2020 Global Biodiversity
