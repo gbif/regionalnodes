@@ -39,8 +39,7 @@ Format: Key updates will be available from this page in the form of short pre-re
 **Please view the presentations ahead of the live panel discussions and use the GBIF community forum to ask any questions ahead of the live sessions. You can also ask questions during the panel discussions.**
 
 
-## Theme 1:  
-## The role of nodes in GBIF’s next strategic period
+## Theme 1: The role of nodes in GBIF’s next strategic period
 
 Video: 16th Global Nodes Meeting 2021 Welcome speech
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566492345?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Welcome to the first virtual Global Nodes Meeting &amp;ndash; including reflections on the future of the nodes model"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>   
