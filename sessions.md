@@ -12,9 +12,9 @@ height: 70vh
 
 ## Icebreaker virtual networking activity
 
-Goal: To encourage informal conversation between nodes to ensure that everyone feels connected to the community, new nodes can meet other members of the network, and that there is active participation in the events from the very start.
+**Goal** To encourage informal conversation between nodes to ensure that everyone feels connected to the community, new nodes can meet other members of the network, and that there is active participation in the events from the very start.
 
-Format: You can discuss the following questions:
+**Format** You can discuss the following questions:
 
 * *What is your link to the GBIF community?*
 * *Why did you choose to attend the Global Nodes Meeting?* 
@@ -119,9 +119,9 @@ Ambassadors and users
 
 ## Live Q&A session based on pre-recorded presentations
 
-Goal: To share updates from nodes and the Secretariat on topics that were requested in the consultation with nodes, and enable nodes to ask questions for further discussion.
+**Goal** To share updates from nodes and the Secretariat on topics that were requested in the consultation with nodes, and enable nodes to ask questions for further discussion.
 
-Format: Key updates will be available from this page in the form of short pre-recorded presentations that can be reused as training materials or outreach materials (max 7 minutes per video).
+**Format** Key updates will be available from this page in the form of short pre-recorded presentations that can be reused as training materials or outreach materials (max 7 minutes per video).
 
 **Please view the presentations ahead of the live Q&A session and use the GBIF community forum to ask any questions ahead of the live session. You can also ask questions during the panel discussions.**
 
@@ -168,9 +168,9 @@ Video: Analyzing GBIF downloads from contributed datasets
 
 ## Speed dating networking activity
 
-Goal: For nodes to share ideas for collaborative projects with other nodes in the network.
+**Goal** For nodes to share ideas for collaborative projects with other nodes in the network.
 
-Format: We will use breakout rooms in Zoom and engage conversation with each other around the questions below: 
+**Format** We will use breakout rooms in Zoom and engage conversation with each other around the questions below: 
 
 * *What type of support do you receive for your node activities?*
 
@@ -184,9 +184,9 @@ Facilitators: Mélianie Raymond, Maheva Bagaard Laursen
 
 ## Live demos
 
-Goal: For Nodes and Secretariat to show practical demonstrations of how to use GBIF-related tools and materials.
+**Goal** For Nodes and Secretariat to show practical demonstrations of how to use GBIF-related tools and materials.
 
-Format: These sessions will guide participants through a practical demo on the selected topic. The sessions will be recorded and made available from this page after the event. The demos will be grouped into themes.
+**Format** These sessions will guide participants through a practical demo on the selected topic. The sessions will be recorded and made available from this page after the event. The demos will be grouped into themes.
 
 
 ## Group 1 – data mobilization training and guidance on sequence-derived data mobilization
@@ -223,18 +223,18 @@ Video: Node update from GBIF Norway: Wikidata, Agent identifiers, MaterialSample
 
 ## Regional nodes sessions
 
-Goal: To continue node-level discussions in regional groups led by the regional representatives.
+**Goal** To continue node-level discussions in regional groups led by the regional representatives.
 
-Format: 1.5 hour zoom meetings led by regional representatives and at appropriate time zones for the region.
+**Format** 1.5 hour zoom meetings led by regional representatives and at appropriate time zones for the region.
 
 Content: Agenda to be set by regional representatives.
 
 
 ## Marine data mobilization session
 
-Goal: To update the community on the collaboration between GBIF and OBIS and discuss how we can work together on marine data mobilization
+**Goal** To update the community on the collaboration between GBIF and OBIS and discuss how we can work together on marine data mobilization
 
-Format: Pre-recorded presentations will introduce the collaboration and examples of how GBIF nodes and OBIS are working together. A 1.5 hour live session will be an opportunity to discuss how we can strengthen collaboration and work towards common guidelines for marine data publishing that would go to both GBIF and OBIS in one step.
+**Format** Pre-recorded presentations will introduce the collaboration and examples of how GBIF nodes and OBIS are working together. A 1.5 hour live session will be an opportunity to discuss how we can strengthen collaboration and work towards common guidelines for marine data publishing that would go to both GBIF and OBIS in one step.
 
 Video: OBIS-GBIF introduction
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566605276?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="OBIS - GBIF introduction"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
@@ -253,17 +253,17 @@ Video: Norwegian GBIF marine datasets fro OBIS
 
 ## GBIF.org functionality – NODES Vs. HELPDESK
 
-Goal: To demonstrate some of the lesser known functionalities of GBIF.org through a fun interactive session
+**Goal** To demonstrate some of the lesser known functionalities of GBIF.org through a fun interactive session
 
-Format: 1 hour session where nodes will ‘battle’ Marie Grosjean from the GBIF data products team to find answers to questions using filters and metrics on GBIF.org
+**Format** 1 hour session where nodes will ‘battle’ Marie Grosjean from the GBIF data products team to find answers to questions using filters and metrics on GBIF.org
 
 "Game show host" facilitator: Andrew Rodrigues
 
 
 ## Evaluation activities
 
-Goal: to capture feedback from the nodes on the first virtual global nodes meeting.
+**Goal** to capture feedback from the nodes on the first virtual global nodes meeting.
 
-Format: Survey and short open floor discussion for closing remarks.
+**Format** Survey and short open floor discussion for closing remarks.
 
 Facilitators: Mélianie Raymond, Maheva Bagard Laursen
