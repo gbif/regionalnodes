@@ -46,6 +46,7 @@ Please view the presentations ahead of the live panel discussions and use the GB
 ## Video: Developing GBIF Values as a component of the strategic plan
 ## Video: GBIF Resource Mobilization Strategy 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566017188?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="GBIF Ressource Mobilisation Strategy"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+**[Background document](/assets/rms.pdf)**
 ## Video: Strengthening regional capacity in GBIF – following up on the discussions on regional offices at GB27
 
 **Live panel with all presenters. Panel moderator:** Mélianie Raymond
