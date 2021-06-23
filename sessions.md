@@ -157,7 +157,10 @@ Draft dna barcoding course](https://docs.gbif-uat.org/course-dna-barcoding)
 
 ###### Video: GBIF Benin: Best practices of Node Management
 ###### Video: GBIF in Poland in 2021: Digitization and integration of services
-###### Video: Node update from GBIF Norway: Wikidata, Agent identifiers, MaterialSample
+###### Video: Node update from GBIF Norway: Wikidata, Agent identifiers, MaterialSample  
+
+**More details on Node demos to follow shortly**  
+
 
 ### Regional nodes sessions
 
@@ -172,9 +175,15 @@ Content: Agenda to be set by regional representatives.
 
 Goal: To update the community on the collaboration between GBIF and OBIS and discuss how we can work together on marine data mobilization
 
-Format: A pre-recorded presentation will introduce the collaboration and examples of how GBIF nodes and OBIS are working together. A 1.5 hour live session will be an opportunity to discuss how we can strengthen collaboration and work towards common guidelines for marine data publishing that would go to both GBIF and OBIS in one step.
+Format: Pre-recorded presentations will introduce the collaboration and examples of how GBIF nodes and OBIS are working together. A 1.5 hour live session will be an opportunity to discuss how we can strengthen collaboration and work towards common guidelines for marine data publishing that would go to both GBIF and OBIS in one step.
 
-A pre-recorded presentation to watch ahead of the live session will be posted here from 23 June 2021.
+###### Video: OBIS-GBIF introduction 
+###### Video: Welcome statement from Martha Vides
+###### Video: OBIS and GBIF commonalities and differences
+###### Video: Interoperable and reusable research data in OBIS
+###### Video: Collaboration between OBIS and GBIF nodes
+###### Video: Norwegian GBIF marine datasets fro OBIS   
+
 
 
 ### GBIF.org functionality – NODES Vs. HELPDESK
