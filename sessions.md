@@ -10,7 +10,7 @@ height: 70vh
 
 ---
 
-### Icebreaker virtual networking activity
+## Icebreaker virtual networking activity
 
 Goal: To encourage informal conversation between nodes to ensure that everyone feels connected to the community, new nodes can meet other members of the network, and that there is active participation in the events from the very start.
 
@@ -42,39 +42,39 @@ Format: Key updates will be available from this page in the form of short pre-re
 ## Theme 1:  
 ## The role of nodes in GBIF’s next strategic period
 
-###### Video: 16th Global Nodes Meeting 2021 Welcome speech
+### Video: 16th Global Nodes Meeting 2021 Welcome speech
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566492345?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Welcome to the first virtual Global Nodes Meeting &amp;ndash; including reflections on the future of the nodes model"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>   
 
-###### Video: The Role of the Nodes in Next GBIF Strategic Plan
+### Video: The Role of the Nodes in Next GBIF Strategic Plan
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/565570188?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="The Role of the Nodes in Next GBIF Strategic Plan"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>   
 
-###### Video: Developing GBIF Values as a component of the strategic plan
+### Video: Developing GBIF Values as a component of the strategic plan
 
-###### Video: GBIF Resource Mobilization Strategy 
+### Video: GBIF Resource Mobilization Strategy 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566017188?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="GBIF Ressource Mobilisation Strategy"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 **[Background document](/assets/rms.pdf)**   
 
-###### Video: Strengthening regional capacity in GBIF
+### Video: Strengthening regional capacity in GBIF
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566458271?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Strengthening regional capacity in GBIF"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>  
 
 
-### Live panel with all presenters. Panel moderator: Mélianie Raymond
+## Live panel with all presenters. Panel moderator: Mélianie Raymond
 
 
 ## Theme 2: Exploring future directions for GBIF
 
 
-###### Video: Aligning GBIF and ALA
+## Video: Aligning GBIF and ALA
 <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566499732?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Aligning GBIF and ALA Theme 2, presentation by Dave Martin and Javier Molina"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-###### Video: Looking ahead: GBIF data model
+## Video: Looking ahead: GBIF data model
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/564600741?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Looking ahead: GBIF data model"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-###### Video: GBIF and the Post-2020 Global Biodiversity
+## Video: GBIF and the Post-2020 Global Biodiversity
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/564608734?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="GBIF and the Post-2020 Global Biodiversity Framework"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-###### Video: Private-sector engagement: guidance materials, and role of nodes
+## Video: Private-sector engagement: guidance materials, and role of nodes
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/564604996?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Private Sector Engagement"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-###### Video: GBIF: potential for a thematic approach
+## Video: GBIF: potential for a thematic approach
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566502314?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Increasing the use of GBIF-mediated data through a focus on thematic communities_ Focusing on 2021 themes_ Health and DNA Theme"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-###### Video: Ambassadors and users
+## Video: Ambassadors and users
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566502365?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Ambassadors and users Theme 2, presentation by GBIF staff Dmitry Schigel"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ### Live panel with all presenters. Panel moderator: tbc
