@@ -38,7 +38,7 @@ Format: Key updates will be available from this page in the form of short pre-re
 Please view the presentations ahead of the live panel discussions and use the GBIF community forum to ask any questions ahead of the live sessions. You can also ask questions during the panel discussions.
 
 
-### Theme 1: The role of nodes in GBIF’s next strategic period
+#Theme 1: The role of nodes in GBIF’s next strategic period
 
 ## Video: 16th Global Nodes Meeting 2021 Welcome speech
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566492345?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Welcome to the first virtual Global Nodes Meeting &amp;ndash; including reflections on the future of the nodes model"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
@@ -53,7 +53,7 @@ Please view the presentations ahead of the live panel discussions and use the GB
 **Live panel with all presenters. Panel moderator:** Mélianie Raymond
 
 
-### Theme 2: Exploring future directions for GBIF
+# Theme 2: Exploring future directions for GBIF
 
 
 ## Video: Aligning GBIF and ALA
@@ -79,7 +79,7 @@ Format: Key updates will be available from this page in the form of short pre-re
 
 Please view the presentations ahead of the live Q&A session and use the GBIF community forum to ask any questions ahead of the live session. You can also ask questions during the panel discussions.
 
-### Theme 3: Product development and tools
+# Theme 3: Product development and tools
 
 ## Video: Living Atlases Community update
 ## Video: GBIF Hosted portals - update
@@ -92,7 +92,7 @@ Please view the presentations ahead of the live Q&A session and use the GBIF com
 **Live Q&A with all presenters Facilitator:** Maheva Bagard Laursen
 
 
-### Theme 4: Content and use
+# Theme 4: Content and use
 
 ## Video: Introduction to GRSciColl: registry of Scientific collections
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/564594528?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Introduction to GRSciColl: Registry of scientific collections"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
@@ -130,7 +130,7 @@ Goal: For Nodes and Secretariat to show practical demonstrations of how to use G
 Format: These sessions will guide participants through a practical demo on the selected topic. The sessions will be recorded and made available from this page after the event. The demos will be grouped into themes.
 
 
-### Group 1 – data mobilization training and guidance on sequence-derived data mobilization
+# Group 1 – data mobilization training and guidance on sequence-derived data mobilization
 
 + [How to teach the GBIF Data Mobilization course  on site and online](https://docs.gbif.org/course-data-mobilization)
 
@@ -141,14 +141,14 @@ Draft dna barcoding course](https://docs.gbif-uat.org/course-dna-barcoding)
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566509989?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Update on BioDATA  - DNA metabarcoding data management"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
-### Group 2 – tools to support nodes with data mobilization strategies
+# Group 2 – tools to support nodes with data mobilization strategies
 
 + How to administer an IPT 
 + How nodes can make use of GrSciColl and contribute 
 + GBIF and Github: what is GitHub, how do we use it (product, content, development tracking), how to log an issue, orientation on the repositories, the portal-feedback “country” issue tag and how nodes could use that
 
 
-### Group 3 – additional node updates and demos
+# Group 3 – additional node updates and demos
 
 ## Video: GBIF Benin: Best practices of Node Management
 ## Video: GBIF in Poland in 2021: Digitization and integration of services
