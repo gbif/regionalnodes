@@ -236,12 +236,18 @@ Goal: To update the community on the collaboration between GBIF and OBIS and dis
 
 Format: Pre-recorded presentations will introduce the collaboration and examples of how GBIF nodes and OBIS are working together. A 1.5 hour live session will be an opportunity to discuss how we can strengthen collaboration and work towards common guidelines for marine data publishing that would go to both GBIF and OBIS in one step.
 
-Video: OBIS-GBIF introduction 
+Video: OBIS-GBIF introduction
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566605276?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="OBIS - GBIF introduction"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 Video: Welcome statement from Martha Vides
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566610206?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Welcome statement from Martha Vides"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 Video: OBIS and GBIF commonalities and differences
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566605186?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="OBIS and GBIF commonalities and differences"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 Video: Interoperable and reusable research data in OBIS
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566604359?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Interoperable and reusable research data in OBIS"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 Video: Collaboration between OBIS and GBIF nodes
-Video: Norwegian GBIF marine datasets fro OBIS   
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566604232?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Collaboration between OBIS and GBIF nodes"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+Video: Norwegian GBIF marine datasets fro OBIS
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566605968?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Norwegian GBIF marine datasets fro OBIS"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
 
