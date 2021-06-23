@@ -155,18 +155,18 @@ Video: Working with issues and flags, including highlighting data blog
 Video: Sensitive Species Data
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/564610096?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Sensitive Species Data"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 Video: Analyzing GBIF downloads from contributed datasets
-###### Video: Introduction to GRSciColl: registry of Scientific collections
+Video: Introduction to GRSciColl: registry of Scientific collections
 <div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/564594528?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Introduction to GRSciColl: Registry of scientific collections"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-###### Video: GBIF Backbone taxonomy: Reminder on how it assembled now and future perspectives for the Catalogue of Life
-###### Video: Working with issues and flags, including highlighting data blog
+Video: GBIF Backbone taxonomy: Reminder on how it assembled now and future perspectives for the Catalogue of Life
+Video: Working with issues and flags, including highlighting data blog
 <div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/565517676?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Working with issues and flags, including highlighting data blog"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-###### Video: Sensitive Species Data
+Video: Sensitive Species Data
 <div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/564610096?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Sensitive Species Data"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-###### Video: Analyzing GBIF downloads from contributed datasets
+Video: Analyzing GBIF downloads from contributed datasets
 
 ## Live Q&A with all presenters Facilitator: Laura Russell
 
-### Speed dating networking activity
+## Speed dating networking activity
 
 Goal: For nodes to share ideas for collaborative projects with other nodes in the network.
 
@@ -198,7 +198,7 @@ Draft dna barcoding course](https://docs.gbif-uat.org/course-dna-barcoding)
 
 Video: Update on BioDATA  - DNA metabarcoding data management
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566509989?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Update on BioDATA  - DNA metabarcoding data management"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-###### Video: Update on BioDATA  - DNA metabarcoding data management
+Video: Update on BioDATA  - DNA metabarcoding data management
 <div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/566509989?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Update on BioDATA  - DNA metabarcoding data management"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
@@ -212,14 +212,16 @@ Video: Update on BioDATA  - DNA metabarcoding data management
 ## Group 3 – additional node updates and demos
 
 Video: GBIF Benin: Best practices of Node Management
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566560669?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="GBIF Benin: Best practices of Node Management"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 Video: GBIF in Poland in 2021: Digitization and integration of services
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566560515?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="GBIF in Poland in 2021_ Digitization and integration of services"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 Video: Node update from GBIF Norway: Wikidata, Agent identifiers, MaterialSample
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566563194?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Node update from GBIF Norway_ Wikidata, Agent identifiers, MaterialSample"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 **More details on Node demos to follow shortly**  
 
 
-##Regional nodes sessions
+## Regional nodes sessions
 
 Goal: To continue node-level discussions in regional groups led by the regional representatives.
 
