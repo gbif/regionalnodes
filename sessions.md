@@ -35,7 +35,7 @@ Goal: To explore key themes with panels of experts from the community, building 
 
 Format: Key updates will be available from this page in the form of short pre-recorded presentations that can be reused as training materials or outreach materials.
 
-Please view the presentations ahead of the live panel discussions and use the GBIF community forum to ask any questions ahead of the live sessions. You can also ask questions during the panel discussions.
+**Please view the presentations ahead of the live panel discussions and use the GBIF community forum to ask any questions ahead of the live sessions. You can also ask questions during the panel discussions.**
 
 
 # Theme 1: The role of nodes in GBIF’s next strategic period
