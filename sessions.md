@@ -65,7 +65,9 @@ Please view the presentations ahead of the live panel discussions and use the GB
 ## Video: Private-sector engagement: guidance materials, and role of nodes
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/564604996?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Private Sector Engagement"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 ## Video: Increasing the use of GBIF-mediated data through a focus on thematic communities: Focusing on 2021 themes: Health and DNA
-## Video: Ambassadors and users: Engaging users at the node level – do you know your users? What do nodes do to engage their users?
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566502314?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Increasing the use of GBIF-mediated data through a focus on thematic communities_ Focusing on 2021 themes_ Health and DNA Theme"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+## Video: Ambassadors and users
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566502365?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Ambassadors and users Theme 2, presentation by GBIF staff Dmitry Schigel"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 **Live panel with all presenters. Panel moderator:** tbc
 
