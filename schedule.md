@@ -26,9 +26,9 @@ Follow the new online [Introduction to GBIF course](https://docs.gbif.org/course
 
 ## Tuesday, 29 June
 
-+ 12:00–13:30 UTC: [Live demos: Group 2](/sessions#group-2--tools-to-support-nodes-with-data-mobilization-strategies)
-+ 14:00–15:30 UTC: [Theme 2 panel : Exploring future directions for GBIF](sessions#theme-2-exploring-future-directions-for-gbif)
-+ 17:00–18:30 UTC: [Icebreaker – Interactive networking](/sessions#icebreaker-virtual-networking-activity)
++ [14:00–15:30](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Live+demos%3A+Group+2&iso=20210629T14&p1=69&ah=1&am=30) CEST (UTC+2): [Live demos: Group 2](/sessions#group-2--tools-to-support-nodes-with-data-mobilization-strategies)
++ [16:00–17:30](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Theme+2+panel&iso=20210629T16&p1=69&ah=1&am=30) CEST (UTC+2): [Theme 2 panel : Exploring future directions for GBIF](sessions#theme-2-exploring-future-directions-for-gbif)
++ [19:00–20:30](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Icebreaker+%E2%80%93+Interactive+networking&iso=20210629T19&p1=69&ah=1&am=30) CEST (UTC+2): [Icebreaker – Interactive networking](/sessions#icebreaker-virtual-networking-activity)
 
 ## Wednesday, 30 June
 + 05:00–06:30 UTC: [Oceania Regional breakout session, chair tbc after regional election](/sessions#regional-nodes-sessions)
