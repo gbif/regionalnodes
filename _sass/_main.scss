@@ -13,3 +13,35 @@ section.homepage {
     box-shadow: 0 0px 0px 8px #000000aa;
   }
 }
+
+.tag.is-networking {
+  background-color: #fff2cd;
+}
+
+.tag.is-live {
+  background-color: #d8ead2;
+}
+
+.tag.is-panel {
+  background-color: #dad2ea;
+}
+
+.is-underlined {
+  text-decoration: underline;
+}
+
+.sessions h2 {
+  font-size: 1.5em;
+}
+
+.iframe-wrapper {
+  padding:56.25% 0 0 0;
+  position:relative; 
+  background: #eee; 
+  margin-bottom: 24px;
+}
+
+.intro-block {
+  font-size: 12px; 
+  margin: -6px 0 12px 0;
+}

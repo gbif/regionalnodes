@@ -8,9 +8,15 @@ imageLicense: |
 sideNavigation: sessions.sessions
 permalink: /icebreaker
 ---
-
 ## Icebreaker virtual networking activity
 *Facilitators: Mélianie Raymond and Maheva Bagard Laursen*
+<div class="intro-block">
+  <a class="tag is-primary" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Icebreaker%20%E2%80%93%20Interactive%20networking&iso=20210628T09&p1=69&ah=1&am=30">
+  Monday 28 09:00–10:30 CEST (UTC+2)
+  </a>
+  <span class="tag is-networking">Interactive networking</span>
+</div>
+
 
 **Goal**
 

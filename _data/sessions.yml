@@ -1,6 +1,8 @@
 sessions:
 - grouptitle: 
   content:
+  - title: Sessions
+    path: /sessions-doc
   - title: Schedule
     path: /schedule-2
 - grouptitle: Monday, 28 June
