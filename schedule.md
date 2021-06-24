@@ -46,5 +46,5 @@ Follow the new online [Introduction to GBIF course](https://docs.gbif.org/course
 
 ## Friday, 2 July
 
-+ 12:00–13:30 UTC: [Live demos: Group 3](sessions#group-3--additional-node-updates-and-demos)
-+ 14:00–15:30 UTC: [Nodes vs. help desk battle](/sessions#gbiforg-functionality--nodes-vs-helpdesk) (1 hour). [Final evaluation (30 min)](sessions#evaluation-activities)
++ [14:00–15:30](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Live+demos%3A+Group+3&iso=20210702T14&p1=69&ah=1&am=30) CEST (UTC+2): [Live demos: Group 3](sessions#group-3--additional-node-updates-and-demos)
++ [16:00–17:30](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Nodes+vs.+help+desk+battle&iso=20210702T16&p1=69&ah=1&am=30) CEST (UTC+2): [Nodes vs. help desk battle](/sessions#gbiforg-functionality--nodes-vs-helpdesk) (1 hour). [Final evaluation (30 min)](sessions#evaluation-activities)
