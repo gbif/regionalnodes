@@ -153,19 +153,46 @@ Ambassadors and users
 Please view the presentations ahead of the live panel discussions and use the [GBIF community forum](https://discourse.gbif.org/c/nodes/9) to ask any questions ahead of the live sessions. You can also ask questions during the panel discussions.
 
 Video: Living Atlases Community update
-Video: GBIF Hosted portals - update
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/565590504?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Hosted Portals - Update"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-Video: Future of the Integrated Publishing Toolkit (IPT)
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/565518171?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Future of the Integrated Publishing Toolkit (IPT)"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-Video: GBIF exports available on the cloud
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566507538?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="GBIF exports available on the cloud"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-Video: Living Atlases Community update
-Video: GBIF Hosted portals - update
-<div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/565590504?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Hosted Portals - Update"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-Video: Future of the Integrated Publishing Toolkit (IPT)
-<div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/565518171?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Future of the Integrated Publishing Toolkit (IPT)"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-Video: GBIF exports available on the cloud
-<div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/566507538?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="GBIF exports available on the cloud"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+----------
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/565590504?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Hosted Portals - Update"></iframe></div>
+GBIF Hosted portals - update
+
+----------
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/565518171?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Future of the Integrated Publishing Toolkit (IPT)"></iframe></div>
+Future of the Integrated Publishing Toolkit (IPT)
+
+----------
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566507538?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="GBIF exports available on the cloud"></iframe></div>
+GBIF exports available on the cloud
+
+----------
+
+<div style="padding:56.25% 0 0 0;position:relative; background: #eee;">
+  video coming soon
+</div>
+Living Atlases Community update 
+
+----------
+
+<div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/565590504?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Hosted Portals - Update"></iframe></div>
+GBIF Hosted portals - update
+
+----------
+
+
+<div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/565518171?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Future of the Integrated Publishing Toolkit (IPT)"></iframe>
+Future of the Integrated Publishing Toolkit (IPT)
+
+----------
+
+<div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/566507538?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="GBIF exports available on the cloud"></iframe></div>
+GBIF exports available on the cloud
+  
+----------
 
 **Live Q&A with all presenters Facilitator: Maheva Bagard Laursen**
 
