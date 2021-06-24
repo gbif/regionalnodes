@@ -204,9 +204,17 @@ Video: Update on BioDATA  - DNA metabarcoding data management
 
 ## Group 2 – tools to support nodes with data mobilization strategies
 
-+ How to administer an IPT 
-+ How nodes can make use of GrSciColl and contribute 
-+ GBIF and Github: what is GitHub, how do we use it (product, content, development tracking), how to log an issue, orientation on the repositories, the portal-feedback “country” issue tag and how nodes could use that
+* IPT 2.5 and regional IPTs
+  ** [IPT roadmap](https://vimeo.com/565518171/1f3018b8de)
+  ** [https://ipt.gbif-uat.org/](https://ipt.gbif-uat.org/)
+  ** [https://cloud.gbif.org/africa] (admin: Luke Jimu)
+  ** [https://cloud.gbif.org/eca] (admin: Dimitri Brosens and Jörg Holetschek)
+  ** [https://cloud.gbif.org/lac] (admin: Anabela Plos and Paula Zermoglio)
+
+* How nodes can make use of GrSciColl and contribute
+  ** [GrSciColl](https://www.gbif.org/grscicoll)
+* GBIF and Github: what is GitHub, how do we use it (product, content, development tracking), how to log an issue, orientation on the repositories, the portal-feedback “country” issue tag and how nodes could use that
+  ** [Issues list](https://github.com/gbif/portal-feedback/issues)
 
 
 ## Group 3 – additional node updates and demos
