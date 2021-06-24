@@ -1,0 +1,39 @@
+sessions:
+- grouptitle: 
+  content:
+  - title: Schedule
+    path: /schedule-2
+- grouptitle: Monday, 28 June
+  content:
+  - title: Icebreaker
+    path: /icebreaker
+  - title: "The role of nodes in GBIF’s next strategic period"
+    path: /theme-1
+  - title: "Data mobilization training and guidance on sequence-derived data mobilization"
+    path: /data-mobilization
+- grouptitle: Tuesday, 29 June
+  content:
+  - title: "Live demos: Group 2"
+    path: /missing
+  - title: "Exploring future directions for GBIF"
+    path: /missing
+  - title: "Icebreaker – Interactive networking"
+    path: /missing
+- grouptitle: Wednesday, 30 June
+  content:
+  - title: "Regional nodes sessions"
+    path: /missing
+- grouptitle: Thursday, 1 July
+  content:
+  - title: Speed-dating on collaboration ideas
+    path: /missing
+  - title: "Live Q&A: theme 3 and theme 4"
+    path: /missing
+  - title: OBIS Marine data mobilization session
+    path: /missing
+- grouptitle: Friday, 2 July
+  content:
+  - title: "Live demos: Group 3"
+    path: /missing
+  - title: "Nodes vs. help desk battle (1 hour). Final evaluation (30 min)"
+    path: /missing
