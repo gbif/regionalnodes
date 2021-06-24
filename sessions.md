@@ -71,6 +71,9 @@ Strengthening regional capacity in GBIF
 
 ### Theme 2: Exploring future directions for GBIF
 
+{: .notification .is-info}
+Please view the presentations ahead of the live panel discussions and use the [GBIF community forum](https://discourse.gbif.org/c/nodes/9) to ask any questions ahead of the live sessions. You can also ask questions during the panel discussions.
+
 Video: Aligning GBIF and ALA
 <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566499732?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Aligning GBIF and ALA Theme 2, presentation by Dave Martin and Javier Molina"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 Video: Looking ahead: GBIF data model
@@ -127,6 +130,9 @@ Ambassadors and users
 
 ### Theme 3: Product development and tools
 
+{: .notification .is-info}
+Please view the presentations ahead of the live panel discussions and use the [GBIF community forum](https://discourse.gbif.org/c/nodes/9) to ask any questions ahead of the live sessions. You can also ask questions during the panel discussions.
+
 Video: Living Atlases Community update
 Video: GBIF Hosted portals - update
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/565590504?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Hosted Portals - Update"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
@@ -146,6 +152,9 @@ Video: GBIF exports available on the cloud
 
 
 ### Theme 4: Content and use
+
+{: .notification .is-info}
+Please view the presentations ahead of the live panel discussions and use the [GBIF community forum](https://discourse.gbif.org/c/nodes/9) to ask any questions ahead of the live sessions. You can also ask questions during the panel discussions.
 
 Video: Introduction to GRSciColl: registry of Scientific collections
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/564594528?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Introduction to GRSciColl: Registry of scientific collections"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
@@ -191,6 +200,9 @@ Facilitators: Mélianie Raymond, Maheva Bagaard Laursen
 
 ## Group 1 – data mobilization training and guidance on sequence-derived data mobilization
 
+{: .notification .is-info}
+Please review these links and materials as references for the live demo session.
+
 + [How to teach the GBIF Data Mobilization course  on site and online](https://docs.gbif.org/course-data-mobilization)
 
 + [Guide and training materials to support sequence-derived data in GBIF
@@ -204,12 +216,18 @@ Video: Update on BioDATA  - DNA metabarcoding data management
 
 ## Group 2 – tools to support nodes with data mobilization strategies
 
+{: .notification .is-info}
+Please review these links and materials as references for the live demo session.
+
 + How to administer an IPT 
 + How nodes can make use of GrSciColl and contribute 
 + GBIF and Github: what is GitHub, how do we use it (product, content, development tracking), how to log an issue, orientation on the repositories, the portal-feedback “country” issue tag and how nodes could use that
 
 
 ## Group 3 – additional node updates and demos
+
+{: .notification .is-info}
+Please review these links and materials as references for the live demo session.
 
 Video: GBIF Benin: Best practices of Node Management
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566560669?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="GBIF Benin: Best practices of Node Management"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
@@ -235,6 +253,9 @@ Content: Agenda to be set by regional representatives.
 **Goal** To update the community on the collaboration between GBIF and OBIS and discuss how we can work together on marine data mobilization
 
 **Format** Pre-recorded presentations will introduce the collaboration and examples of how GBIF nodes and OBIS are working together. A 1.5 hour live session will be an opportunity to discuss how we can strengthen collaboration and work towards common guidelines for marine data publishing that would go to both GBIF and OBIS in one step.
+
+{: .notification .is-info}
+Please view the presentations ahead of the live panel discussions and use the [GBIF community forum](https://discourse.gbif.org/c/nodes/9) to ask any questions ahead of the live sessions. You can also ask questions during the panel discussions.
 
 Video: OBIS-GBIF introduction
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566605276?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="OBIS - GBIF introduction"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
