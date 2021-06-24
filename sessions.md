@@ -88,7 +88,7 @@ Video: GBIF: potential for a thematic approach
 Video: Ambassadors and users
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566502365?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Ambassadors and users Theme 2, presentation by GBIF staff Dmitry Schigel"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-## Live panel with all presenters. Panel moderator: tbc
+**Live panel with all presenters. Panel moderator: tbc**
 <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566499732?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Aligning GBIF and ALA Theme 2, presentation by Dave Martin and Javier Molina"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 Aligning GBIF and ALA
 
@@ -127,8 +127,6 @@ Ambassadors and users
 
 **Format** Key updates will be available from this page in the form of short pre-recorded presentations that can be reused as training materials or outreach materials (max 7 minutes per video).
 
-**Please view the presentations ahead of the live Q&A session and use the GBIF community forum to ask any questions ahead of the live session. You can also ask questions during the panel discussions.**
-
 ### Theme 3: Product development and tools
 
 {: .notification .is-info}
@@ -149,7 +147,7 @@ Video: Future of the Integrated Publishing Toolkit (IPT)
 Video: GBIF exports available on the cloud
 <div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/566507538?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="GBIF exports available on the cloud"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-## Live Q&A with all presenters Facilitator: Maheva Bagard Laursen
+**Live Q&A with all presenters Facilitator: Maheva Bagard Laursen**
 
 
 ### Theme 4: Content and use
@@ -174,7 +172,7 @@ Video: Sensitive Species Data
 <div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/564610096?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Sensitive Species Data"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 Video: Analyzing GBIF downloads from contributed datasets
 
-## Live Q&A with all presenters Facilitator: Laura Russell
+**Live Q&A with all presenters Facilitator: Laura Russell**
 
 ## Speed dating networking activity
 
@@ -240,7 +238,7 @@ Video: Node update from GBIF Norway: Wikidata, Agent identifiers, MaterialSample
 **More details on Node demos to follow shortly**  
 
 
-### Regional nodes sessions
+## Regional nodes sessions
 
 **Goal** To continue node-level discussions in regional groups led by the regional representatives.
 
@@ -249,7 +247,7 @@ Video: Node update from GBIF Norway: Wikidata, Agent identifiers, MaterialSample
 Content: Agenda to be set by regional representatives.
 
 
-### Marine data mobilization session
+## Marine data mobilization session
 
 **Goal** To update the community on the collaboration between GBIF and OBIS and discuss how we can work together on marine data mobilization
 
@@ -273,7 +271,7 @@ Video: Norwegian GBIF marine datasets fro OBIS
 
 
 
-### GBIF.org functionality – NODES Vs. HELPDESK
+## GBIF.org functionality – NODES Vs. HELPDESK
 
 **Goal** To demonstrate some of the lesser known functionalities of GBIF.org through a fun interactive session
 
@@ -282,7 +280,7 @@ Video: Norwegian GBIF marine datasets fro OBIS
 "Game show host" facilitator: Andrew Rodrigues
 
 
-### Evaluation activities
+## Evaluation activities
 
 **Goal** to capture feedback from the nodes on the first virtual global nodes meeting.
 
