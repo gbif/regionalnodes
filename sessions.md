@@ -221,13 +221,6 @@ Sensitive Species Data
 
 ----------
 
-<div style="padding:56.25% 0 0 0;position:relative; background: #eee;">
-  video coming soon
-</div>
-Analyzing GBIF downloads from contributed datasets
-
-----------
-
 <div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/564594528?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Introduction to GRSciColl: Registry of scientific collections"></iframe></div>
 Introduction to GRSciColl: registry of Scientific collections
 
@@ -367,7 +360,7 @@ Collaboration between OBIS and GBIF nodes
 ----------
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566605968?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Norwegian GBIF marine datasets fro OBIS"></iframe></div>
-Norwegian GBIF marine datasets fro OBIS
+Norwegian GBIF marine datasets from OBIS
 
 ----------
 
