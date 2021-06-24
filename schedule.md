@@ -31,11 +31,11 @@ Follow the new online [Introduction to GBIF course](https://docs.gbif.org/course
 + [19:00–20:30](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Icebreaker+%E2%80%93+Interactive+networking&iso=20210629T19&p1=69&ah=1&am=30) CEST (UTC+2): [Icebreaker – Interactive networking](/sessions#icebreaker-virtual-networking-activity)
 
 ## Wednesday, 30 June
-+ [07:00–08:30](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Oceania+Regional+breakout+session&iso=20210630T07&p1=69&ah=1&am=30) CEST (UTC+2): [Oceania Regional breakout session, chair tbc after regional election](/sessions#regional-nodes-sessions)
++ [07:00–08:30](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Oceania+Regional+breakout+session&iso=20210630T07&p1=69&ah=1&am=30) CEST (UTC+2): [Oceania Regional breakout session](/sessions#regional-nodes-sessions) chair tbc after regional election
 + [10:00–11:30](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Europe+and+Central+Asia+Regional+breakout+sessions&iso=20210630T10&p1=69&ah=1&am=30) CEST (UTC+2): [Europe and Central Asia Regional breakout sessions](/sessions#regional-nodes-sessions) Piotr Tykarski and Dag Endresen to chair
 + [10:00–11:30](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Asia+Regional+breakout+sessions&iso=20210630T10&p1=69&ah=1&am=30) CEST (UTC+2): [Asia Regional breakout sessions](/sessions#regional-nodes-sessions) Keping Ma to chair
 + [11:00–12:30](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Africa+Regional+breakout+sessions&iso=20210630T11&p1=69&ah=1&am=30) CEST (UTC+2): [Africa Regional breakout sessions](/sessions#regional-nodes-sessions) Jean Ganglo and Pierre Radji to chair
-+ [17:00–18:30](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Latin+America+and+the+Caribbean+Regional+breakout+sessions&iso=20210630T17&p1=69&ah=1&am=30) CEST (UTC+2): [Latin America and the Caribbean Regional breakout sessions](/sessions#regional-nodes-sessions) chair Anabela Plos to chair
++ [17:00–18:30](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Latin+America+and+the+Caribbean+Regional+breakout+sessions&iso=20210630T17&p1=69&ah=1&am=30) CEST (UTC+2): [Latin America and the Caribbean Regional breakout sessions](/sessions#regional-nodes-sessions) Anabela Plos to chair
 + [18:00–19:30](https://www.timeanddate.com/worldclock/fixedtime.html?msg=North+America+Regional+breakout+sessions&iso=20210630T18&p1=69&ah=1&am=30) CEST (UTC+2): [North America Regional breakout sessions](/sessions#regional-nodes-sessions) David Jennings and Carole Sinou to chair
 
 ## Thursday, 1 July
