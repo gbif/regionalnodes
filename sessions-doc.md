@@ -207,9 +207,9 @@ Video: Update on BioDATA  - DNA metabarcoding data management
 * IPT 2.5 and regional IPTs
   ** [IPT roadmap](https://vimeo.com/565518171/1f3018b8de)
   ** [https://ipt.gbif-uat.org/](https://ipt.gbif-uat.org/)
-  ** [https://cloud.gbif.org/africa] (admin: Luke Jimu)
-  ** [https://cloud.gbif.org/eca] (admin: Dimitri Brosens and Jörg Holetschek)
-  ** [https://cloud.gbif.org/lac] (admin: Anabela Plos and Paula Zermoglio)
+  ** [https://cloud.gbif.org/africa](https://cloud.gbif.org/africa) (admin: Luke Jimu)
+  ** [https://cloud.gbif.org/eca](https://cloud.gbif.org/eca) (admin: Dimitri Brosens and Jörg Holetschek)
+  ** [https://cloud.gbif.org/lac](https://cloud.gbif.org/lac) (admin: Anabela Plos and Paula Zermoglio)
 
 * How nodes can make use of GrSciColl and contribute
   ** [GrSciColl](https://www.gbif.org/grscicoll)
