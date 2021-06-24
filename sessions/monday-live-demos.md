@@ -10,7 +10,7 @@ permalink: /data-mobilization
   <a class="tag is-primary" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Live+demos%3A+Group+1&iso=20210628T16&p1=69&ah=1&am=30">
   Monday 28 16:00–17:30 CEST (UTC+2)
   </a>
-  <span class="tag is-live">Live demos</span>
+  <span class="tag is-demo">Live demos</span>
 </div>
 
 {: .notification .is-info}
