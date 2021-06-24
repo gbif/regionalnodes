@@ -35,7 +35,7 @@ To explore key themes with panels of experts from the community, building on pre
 Key updates will be available from this page in the form of short pre-recorded presentations that can be reused as training materials or outreach materials.
 
 {: .notification .is-info}
-Please view the presentations ahead of the live panel discussions and use the [GBIF community forum](https://discourse.gbif.org/c/nodes/9) to ask any questions ahead of the live sessions. You can also ask questions during the panel discussions.
+Please view the presentations ahead of the live panel discussions and use the [GBIF community forum](https://discourse.gbif.org/) to ask any questions ahead of the live sessions. You can also ask questions during the panel discussions.
 
 
 ### Theme 1: The role of nodes in GBIF’s next strategic period
@@ -68,7 +68,7 @@ Strengthening regional capacity in GBIF
 ### Theme 2: Exploring future directions for GBIF
 
 {: .notification .is-info}
-Please view the presentations ahead of the live panel discussions and use the [GBIF community forum](https://discourse.gbif.org/c/nodes/9) to ask any questions ahead of the live sessions. You can also ask questions during the panel discussions.
+Please view the presentations ahead of the live panel discussions and use the [GBIF community forum](https://discourse.gbif.org/) to ask any questions ahead of the live sessions. You can also ask questions during the panel discussions.
 
 <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566499732?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Aligning GBIF and ALA Theme 2, presentation by Dave Martin and Javier Molina"></iframe></div>
 Aligning GBIF and ALA
@@ -112,7 +112,7 @@ Ambassadors and users
 ### Theme 3: Product development and tools
 
 {: .notification .is-info}
-Please view the presentations ahead of the live panel discussions and use the [GBIF community forum](https://discourse.gbif.org/c/nodes/9) to ask any questions ahead of the live sessions. You can also ask questions during the panel discussions.
+Please view the presentations ahead of the live panel discussions and use the [GBIF community forum](https://discourse.gbif.org/) to ask any questions ahead of the live sessions. You can also ask questions during the panel discussions.
 
 ----------
 
@@ -137,7 +137,7 @@ GBIF exports available on the cloud
 ### Theme 4: Content and use
 
 {: .notification .is-info}
-Please view the presentations ahead of the live panel discussions and use the [GBIF community forum](https://discourse.gbif.org/c/nodes/9) to ask any questions ahead of the live sessions. You can also ask questions during the panel discussions.
+Please view the presentations ahead of the live panel discussions and use the [GBIF community forum](https://discourse.gbif.org/) to ask any questions ahead of the live sessions. You can also ask questions during the panel discussions.
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/564594528?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Introduction to GRSciColl: Registry of scientific collections"></iframe></div>
 Introduction to GRSciColl: registry of Scientific collections
@@ -243,7 +243,7 @@ Content: Agenda to be set by regional representatives.
 **Format** Pre-recorded presentations will introduce the collaboration and examples of how GBIF nodes and OBIS are working together. A 1.5 hour live session will be an opportunity to discuss how we can strengthen collaboration and work towards common guidelines for marine data publishing that would go to both GBIF and OBIS in one step.
 
 {: .notification .is-info}
-Please view the presentations ahead of the live panel discussions and use the [GBIF community forum](https://discourse.gbif.org/c/nodes/9) to ask any questions ahead of the live sessions. You can also ask questions during the panel discussions.
+Please view the presentations ahead of the live panel discussions and use the [GBIF community forum](https://discourse.gbif.org/) to ask any questions ahead of the live sessions. You can also ask questions during the panel discussions.
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566605276?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="OBIS - GBIF introduction"></iframe></div>
 OBIS-GBIF introduction
