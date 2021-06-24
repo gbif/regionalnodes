@@ -20,9 +20,9 @@ Follow the new online [Introduction to GBIF course](https://docs.gbif.org/course
 
 ## Monday, 28 June
 
-+ 07:00–8:30 UTC: [Icebreaker – Interactive networking](/sessions#icebreaker-virtual-networking-activity)
-+ 12:00–13:30 UTC: [Theme 1 panel: The role of nodes in GBIF’s next strategic period](/sessions#theme-1-the-role-of-nodes-in-gbifs-next-strategic-period)
-+ 14:00–15:30 UTC: [Live demos: Group 1](/sessions#group-1--data-mobilization-training-and-guidance-on-sequence-derived-data-mobilization)
++ [09:00–10:30 CEST (UTC+2)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Icebreaker%20%E2%80%93%20Interactive%20networking&iso=20210628T09&p1=69&ah=1&am=30): [Icebreaker – Interactive networking](/sessions#icebreaker-virtual-networking-activity)
++ [14:00–15:30 CEST (UTC+2)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Theme+1+panel%3A+The+role+of+nodes+in+GBIF%E2%80%99s+next+strategic+period&iso=20210628T14&p1=69&ah=1&am=30): [Theme 1 panel: The role of nodes in GBIF’s next strategic period](/sessions#theme-1-the-role-of-nodes-in-gbifs-next-strategic-period)
++ [16:00–17:30 CEST (UTC+2)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Live+demos%3A+Group+1&iso=20210628T16&p1=69&ah=1&am=30): [Live demos: Group 1](/sessions#group-1--data-mobilization-training-and-guidance-on-sequence-derived-data-mobilization)
 
 ## Tuesday, 29 June
 
