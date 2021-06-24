@@ -4,7 +4,7 @@ layout: post
 description: Please view the videos and links in preparation for the live sessions
 background: /assets/images/Limenitis reducta Staudinger,.jpg
 imageLicense: |
-  [*Limenitis reducta*](https://www.gbif.org/occurrence/2840552819) observed in Iran (Islamic Republic of) by Simon Plat licensed under [(CC BY-NC-ND 4.0)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+  [*Limenitis reducta*](https://www.gbif.org/occurrence/2840552819) observed in Iran by Simon Plat licensed under [(CC BY-NC-ND 4.0)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
 toc: true
 height: 70vh
 
