@@ -207,12 +207,11 @@ Please review these links and materials as references for the live demo session.
 + [How to teach the GBIF Data Mobilization course  on site and online](https://docs.gbif.org/course-data-mobilization)
 
 + [Guide and training materials to support sequence-derived data in GBIF
-Draft dna barcoding course](https://docs.gbif-uat.org/course-dna-barcoding)
+[Draft dna barcoding course](https://docs.gbif-uat.org/course-dna-barcoding)
+[Draft guide on Publishing DNA-derived data through biodiversity data platforms](https://docs.gbif-uat.org/publishing-dna-derived-data/1.0/en/)
 
 Video: Update on BioDATA  - DNA metabarcoding data management
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566509989?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Update on BioDATA  - DNA metabarcoding data management"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-Video: Update on BioDATA  - DNA metabarcoding data management
-<div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/566509989?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Update on BioDATA  - DNA metabarcoding data management"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
 ## Group 2 – tools to support nodes with data mobilization strategies
@@ -228,7 +227,7 @@ Please review these links and materials as references for the live demo session.
 ## Group 3 – additional node updates and demos
 
 {: .notification .is-info}
-Please review these links to materials and videos as references for the live demo session.
+Please review these links and materials as references for the live demo session.
 
 Video: GBIF Benin: Best practices of Node Management
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566560669?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="GBIF Benin: Best practices of Node Management"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
