@@ -102,37 +102,6 @@ Ambassadors and users
 ---------
 
 **Live panel with all presenters. Panel moderator: tbc**
-<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566499732?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Aligning GBIF and ALA Theme 2, presentation by Dave Martin and Javier Molina"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-Aligning GBIF and ALA
-
------------
-
-<div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/564600741?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Looking ahead: GBIF data model"></iframe></div>
-Looking ahead: GBIF data model
-
-----------
-
-<div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/564608734?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="GBIF and the Post-2020 Global Biodiversity Framework"></iframe></div>
-GBIF and the Post-2020 Global Biodiversity
-
-----------
-
-<div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/564604996?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Private Sector Engagement"></iframe></div>
-<script src="https://player.vimeo.com/api/player.js"></script>
-Private-sector engagement: guidance materials, and role of nodes
-
-----------
-
-<div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/566502314?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Increasing the use of GBIF-mediated data through a focus on thematic communities_ Focusing on 2021 themes_ Health and DNA Theme"></iframe></div>
-GBIF: potential for a thematic approach
-
-----------
-
-<div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/566502365?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Ambassadors and users Theme 2, presentation by GBIF staff Dmitry Schigel"></iframe></div>
-Ambassadors and users
-
-**Live panel with all presenters**
-*Panel moderator: tbc*
 
 ## Live Q&A session based on pre-recorded presentations
 
