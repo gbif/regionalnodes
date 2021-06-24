@@ -54,13 +54,6 @@ The Role of the Nodes in Next GBIF Strategic Plan
 
 ---------
 
-<div style="padding:56.25% 0 0 0;position:relative; background: #eee;">
-  insert missing video here
-</div>
-Developing GBIF Values as a component of the strategic plan
-
----------
-
 <div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/566017188?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="GBIF Ressource Mobilisation Strategy"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 GBIF Resource Mobilization Strategy. 
 > **Please review [background document](/assets/rms.pdf) as references for the live demo session.**    
@@ -169,13 +162,6 @@ GBIF exports available on the cloud
 
 ----------
 
-<div style="padding:56.25% 0 0 0;position:relative; background: #eee;">
-  video coming soon
-</div>
-Living Atlases Community update 
-
-----------
-
 <div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/565590504?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Hosted Portals - Update"></iframe></div>
 GBIF Hosted portals - update
 
@@ -204,13 +190,6 @@ Introduction to GRSciColl: registry of Scientific collections
 
 ----------
 
-<div style="padding:56.25% 0 0 0;position:relative; background: #eee;">
-  video coming soon
-</div>
-GBIF Backbone taxonomy: Reminder on how it assembled now and future perspectives for the Catalogue of Life
-
-----------
-
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/565517676?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Working with issues and flags, including highlighting data blog"></iframe></div>
 Working with issues and flags, including highlighting data blog
 
@@ -233,13 +212,6 @@ Working with issues and flags, including highlighting data blog
 
 <div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/564610096?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Sensitive Species Data"></iframe></div>
 Sensitive Species Data
-
-----------
-
-<div style="padding:56.25% 0 0 0;position:relative; background: #eee;">
-  video coming soon
-</div>
-Analyzing GBIF downloads from contributed datasets
 
 ----------
 
