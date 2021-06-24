@@ -190,14 +190,14 @@ Video: Analyzing GBIF downloads from contributed datasets
 
 Facilitators: Mélianie Raymond, Maheva Bagaard Laursen
 
-### Live demos
+## Live demos
 
 **Goal** For Nodes and Secretariat to show practical demonstrations of how to use GBIF-related tools and materials.
 
 **Format** These sessions will guide participants through a practical demo on the selected topic. The sessions will be recorded and made available from this page after the event. The demos will be grouped into themes.
 
 
-## Group 1 – data mobilization training and guidance on sequence-derived data mobilization
+### Group 1 – data mobilization training and guidance on sequence-derived data mobilization
 
 {: .notification .is-info}
 Please review these links and materials as references for the live demo session.
@@ -213,7 +213,7 @@ Video: Update on BioDATA  - DNA metabarcoding data management
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566509989?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Update on BioDATA  - DNA metabarcoding data management"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
-## Group 2 – tools to support nodes with data mobilization strategies
+### Group 2 – tools to support nodes with data mobilization strategies
 
 {: .notification .is-info}
 Please review these links and materials as references for the live demo session.
@@ -223,7 +223,7 @@ Please review these links and materials as references for the live demo session.
 - GBIF and Github: what is GitHub, how do we use it (product, content, development tracking), how to log an issue, orientation on the repositories, the portal-feedback “country” issue tag and how nodes could use that
 
 
-## Group 3 – additional node updates and demos
+### Group 3 – additional node updates and demos
 
 {: .notification .is-info}
 Please review these links and materials as references for the live demo session.
