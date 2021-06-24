@@ -59,7 +59,8 @@ Developing GBIF Values as a component of the strategic plan
 ---------
 
 <div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/566017188?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="GBIF Ressource Mobilisation Strategy"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-GBIF Resource Mobilization Strategy. See also **[background document](/assets/rms.pdf)**   
+GBIF Resource Mobilization Strategy. {: .notification .is-info}
+Please review **[background document](/assets/rms.pdf)** as references for the live demo session.    
 
 ---------
 
@@ -227,7 +228,7 @@ Please review these links and materials as references for the live demo session.
 ## Group 3 – additional node updates and demos
 
 {: .notification .is-info}
-Please review these links and materials as references for the live demo session.
+Please review these links to materials and videos as references for the live demo session.
 
 Video: GBIF Benin: Best practices of Node Management
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566560669?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="GBIF Benin: Best practices of Node Management"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
