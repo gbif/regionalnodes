@@ -152,8 +152,6 @@ Ambassadors and users
 {: .notification .is-info}
 Please view the presentations ahead of the live panel discussions and use the [GBIF community forum](https://discourse.gbif.org/c/nodes/9) to ask any questions ahead of the live sessions. You can also ask questions during the panel discussions.
 
-Video: Living Atlases Community update
-
 ----------
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/565590504?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Hosted Portals - Update"></iframe></div>
@@ -201,22 +199,56 @@ GBIF exports available on the cloud
 {: .notification .is-info}
 Please view the presentations ahead of the live panel discussions and use the [GBIF community forum](https://discourse.gbif.org/c/nodes/9) to ask any questions ahead of the live sessions. You can also ask questions during the panel discussions.
 
-Video: Introduction to GRSciColl: registry of Scientific collections
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/564594528?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Introduction to GRSciColl: Registry of scientific collections"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-Video: GBIF Backbone taxonomy: Reminder on how it assembled now and future perspectives for the Catalogue of Life
-Video: Working with issues and flags, including highlighting data blog
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/565517676?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Working with issues and flags, including highlighting data blog"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-Video: Sensitive Species Data
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/564610096?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Sensitive Species Data"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-Video: Analyzing GBIF downloads from contributed datasets
-Video: Introduction to GRSciColl: registry of Scientific collections
-<div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/564594528?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Introduction to GRSciColl: Registry of scientific collections"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-Video: GBIF Backbone taxonomy: Reminder on how it assembled now and future perspectives for the Catalogue of Life
-Video: Working with issues and flags, including highlighting data blog
-<div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/565517676?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Working with issues and flags, including highlighting data blog"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-Video: Sensitive Species Data
-<div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/564610096?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Sensitive Species Data"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-Video: Analyzing GBIF downloads from contributed datasets
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/564594528?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Introduction to GRSciColl: Registry of scientific collections"></iframe></div>
+Introduction to GRSciColl: registry of Scientific collections
+
+----------
+
+<div style="padding:56.25% 0 0 0;position:relative; background: #eee;">
+  video coming soon
+</div>
+GBIF Backbone taxonomy: Reminder on how it assembled now and future perspectives for the Catalogue of Life
+
+----------
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/565517676?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Working with issues and flags, including highlighting data blog"></iframe></div>
+Working with issues and flags, including highlighting data blog
+
+----------
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/564610096?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Sensitive Species Data"></iframe></div>
+Sensitive Species Data
+
+----------
+
+<div style="padding:56.25% 0 0 0;position:relative; background: #eee;">
+  video coming soon
+</div>
+Analyzing GBIF downloads from contributed datasets
+
+----------
+
+<div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/564594528?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Introduction to GRSciColl: Registry of scientific collections"></iframe></div>
+Introduction to GRSciColl: registry of Scientific collections
+
+----------
+
+<div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/565517676?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Working with issues and flags, including highlighting data blog"></iframe></div>
+Working with issues and flags, including highlighting data blog
+
+----------
+
+<div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/564610096?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Sensitive Species Data"></iframe></div>
+Sensitive Species Data
+
+----------
+
+<div style="padding:56.25% 0 0 0;position:relative; background: #eee;">
+  video coming soon
+</div>
+Analyzing GBIF downloads from contributed datasets
+
+----------
 
 **Live Q&A with all presenters Facilitator: Laura Russell**
 
@@ -273,12 +305,20 @@ Please review these links and materials as references for the live demo session.
 {: .notification .is-info}
 Please review these links and materials as references for the live demo session.
 
-Video: GBIF Benin: Best practices of Node Management
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566560669?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="GBIF Benin: Best practices of Node Management"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-Video: GBIF in Poland in 2021: Digitization and integration of services
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566560515?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="GBIF in Poland in 2021_ Digitization and integration of services"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-Video: Node update from GBIF Norway: Wikidata, Agent identifiers, MaterialSample
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566563194?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Node update from GBIF Norway_ Wikidata, Agent identifiers, MaterialSample"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566560669?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="GBIF Benin: Best practices of Node Management"></iframe></div>
+GBIF Benin: Best practices of Node Management
+ 
+----------
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566560515?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="GBIF in Poland in 2021_ Digitization and integration of services"></iframe></div>
+GBIF in Poland in 2021: Digitization and integration of services
+
+----------
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566563194?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Node update from GBIF Norway_ Wikidata, Agent identifiers, MaterialSample"></iframe></div>
+Node update from GBIF Norway: Wikidata, Agent identifiers, MaterialSample
+
+----------
 
 **More details on Node demos to follow shortly**  
 
@@ -301,19 +341,35 @@ Content: Agenda to be set by regional representatives.
 {: .notification .is-info}
 Please view the presentations ahead of the live panel discussions and use the [GBIF community forum](https://discourse.gbif.org/c/nodes/9) to ask any questions ahead of the live sessions. You can also ask questions during the panel discussions.
 
-Video: OBIS-GBIF introduction
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566605276?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="OBIS - GBIF introduction"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-Video: Welcome statement from Martha Vides
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566610206?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Welcome statement from Martha Vides"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-Video: OBIS and GBIF commonalities and differences
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566605186?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="OBIS and GBIF commonalities and differences"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-Video: Interoperable and reusable research data in OBIS
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566604359?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Interoperable and reusable research data in OBIS"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-Video: Collaboration between OBIS and GBIF nodes
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566604232?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Collaboration between OBIS and GBIF nodes"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-Video: Norwegian GBIF marine datasets fro OBIS
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566605968?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Norwegian GBIF marine datasets fro OBIS"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566605276?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="OBIS - GBIF introduction"></iframe></div>
+OBIS-GBIF introduction
 
+----------
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566610206?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Welcome statement from Martha Vides"></iframe></div>
+Welcome statement from Martha Vides
+
+----------
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566605186?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="OBIS and GBIF commonalities and differences"></iframe></div>
+OBIS and GBIF commonalities and differences
+
+----------
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566604359?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Interoperable and reusable research data in OBIS"></iframe></div>
+Interoperable and reusable research data in OBIS
+
+----------
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566604232?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Collaboration between OBIS and GBIF nodes"></iframe></div>
+Collaboration between OBIS and GBIF nodes
+
+----------
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566605968?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Norwegian GBIF marine datasets fro OBIS"></iframe></div>
+Norwegian GBIF marine datasets fro OBIS
+
+----------
 
 
 ## GBIF.org functionality – NODES Vs. HELPDESK
