@@ -51,5 +51,5 @@ Please view the presentations ahead of the live panel discussions and use the GB
 {% include vimeo.html id="566502314" title="GBIF: potential for a thematic approachs" %}
 
 ## Ambassadors and users
-*presentation by GBIF staff Dmitry Schigel*
+*presentation by GBIF staff Daniel Noesgaard and Dmitry Schigel*
 {% include vimeo.html id="566502365" title="Ambassadors and users" %}
