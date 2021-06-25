@@ -41,16 +41,11 @@ Please view the presentations ahead of the live panel discussions and use the GB
 *Presentation by Executive Secretary, Joe Miller*
 <div class="iframe-wrapper"><iframe src="https://player.vimeo.com/video/565570188?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="The Role of the Nodes in Next GBIF Strategic Plan"></iframe></div>
 
-
-## Developing GBIF Values as a component of the strategic plan
-<div class="iframe-wrapper">
-  insert missing video here
-</div>
+## Strengthening regional capacity in GBIF
+*GNM 2021 (Virtual) Theme 1, presentation by GBIF Secretariat staff Mélianie Raymond and Maheva Bagard Laursen, Participation and Engagement
+<div class="iframe-wrapper"><iframe src="https://player.vimeo.com/video/566458271?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Strengthening regional capacity in GBIF"></iframe></div>
 
 
 ## GBIF Resource Mobilization Strategy
 See also **[background document](/assets/rms.pdf)**
 <div class="iframe-wrapper"><iframe src="https://player.vimeo.com/video/566017188?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="GBIF Ressource Mobilisation Strategy"></iframe></div>
-
-## Strengthening regional capacity in GBIF
-<div class="iframe-wrapper"><iframe src="https://player.vimeo.com/video/566458271?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Strengthening regional capacity in GBIF"></iframe></div>
