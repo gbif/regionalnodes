@@ -8,7 +8,7 @@ sessions:
 - grouptitle: Monday, 28 June
   content:
   - title: Icebreaker: Interactive networking
-    path: /icebreaker-Monday
+    path: /icebreaker-monday
   - title: "Panel discussions: The role of nodes in GBIF’s next strategic period"
     path: /theme-1
   - title: "Live demos: Group 1 - Data mobilization training and guidance on sequence-derived data mobilization"
@@ -20,7 +20,7 @@ sessions:
   - title: "Panel discussions: Exploring future directions for GBIF"
     path: /theme-2
   - title: "Icebreaker: Interactive networking"
-    path: /icebreaker-Tuesday
+    path: /icebreaker-tuesday
 - grouptitle: Wednesday, 30 June
   content:
   - title: "Regional nodes sessions"
