@@ -11,11 +11,11 @@ sessions:
     path: /sessions/icebreaker
   - title: "Panel discussions: The role of nodes in GBIF’s next strategic period"
     path: /theme-1
-  - title: "Data mobilization training and guidance on sequence-derived data mobilization"
+  - title: "Live demos: Group 1 - Data mobilization training and guidance on sequence-derived data mobilization"
     path: /data-mobilization
 - grouptitle: Tuesday, 29 June
   content:
-  - title: "Live demos: Group 2"
+  - title: "Live demos: Group 2 - tools to support nodes with data mobilization strategies"
     path: /missing
   - title: "Panel discussions: Exploring future directions for GBIF"
     path: /missing
@@ -35,7 +35,7 @@ sessions:
     path: /missing
 - grouptitle: Friday, 2 July
   content:
-  - title: "Live demos: Group 3"
+  - title: "Live demos: Group 3 - additional node updates and demos"
     path: /missing
   - title: "Nodes vs. help desk battle (1 hour). Final evaluation (30 min)"
     path: /missing
