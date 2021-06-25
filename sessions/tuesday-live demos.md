@@ -2,7 +2,7 @@
 title: Group 2
 layout: documentation
 sideNavigation: sessions.sessions
-permalink: /tools to support nodes with data mobilization strategies
+permalink: /tools to support nodes
 ---
 # tools to support nodes with data mobilization strategies
 *Facilitators: Laura Anne Russell *
