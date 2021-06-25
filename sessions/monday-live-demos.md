@@ -24,5 +24,5 @@ Please review these links and materials as references for the live demo session.
   * [Draft guide on Publishing DNA-derived data through biodiversity data platforms](https://docs.gbif-uat.org/publishing-dna-derived-data/1.0/en/)
 
 # Update on BioDATA  - DNA metabarcoding data management
-*presentation by Dag Terje Filip Endresen, GBIF Node Manager
+* presentation by Dag Terje Filip Endresen, GBIF Node Manager
 {% include vimeo.html id="566509989" title="Update on BioDATA  - DNA metabarcoding data management" %}
