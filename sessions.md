@@ -240,8 +240,9 @@ Node update from GBIF Norway: Wikidata, Agent identifiers, MaterialSample
 
 ----------
 
+> **Support document to the the live demo and discussion** 
 > [Living Atlases Toolkit](https://datos.gbif.es/others/la-toolkit-gbif-presentation-2021)
-Presentation by Vicente J. Ruiz Jurado, LA Technical Coordinator also taking care of GBIF.es infra
+> Presentation by Vicente J. Ruiz Jurado, LA Technical Coordinator also taking care of GBIF.es infra
 
 ----------
 
