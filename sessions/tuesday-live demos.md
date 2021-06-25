@@ -5,10 +5,10 @@ sideNavigation: sessions.sessions
 permalink: /tools to support nodes with data mobilization strategies
 ---
 # tools to support nodes with data mobilization strategies
-*Facilitators: Mélianie Raymond and Maheva Bagard Laursen*
+*Facilitators: *
 <div class="intro-block">
-  <a class="tag is-primary" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Live+demos%3A+Group+1&iso=20210628T16&p1=69&ah=1&am=30">
-  Monday 28 16:00–17:30 CEST (UTC+2)
+  <a class="tag is-primary" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Live+demos%3A+Group+2&iso=20210629T14&p1=69&ah=1&am=30">
+  Tuesday 29 14:00–15:30 CEST (UTC+2)
   </a>
   <span class="tag is-demo">Live demos</span>
 </div>
