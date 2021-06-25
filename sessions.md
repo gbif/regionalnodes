@@ -246,8 +246,6 @@ Node update from GBIF Norway: Wikidata, Agent identifiers, MaterialSample
 
 ----------
 
-**More details on Node demos to follow shortly**  
-
 
 ## Regional nodes sessions
 
