@@ -2,7 +2,7 @@
 title: Group 1
 layout: documentation
 sideNavigation: sessions.sessions
-permalink: /Group 1 data-mobilization
+permalink: /data-mobilization
 ---
 # Data mobilization training and guidance on sequence-derived data mobilization
 *Facilitators: Mélianie Raymond and Maheva Bagard Laursen*
