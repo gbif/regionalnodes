@@ -2,16 +2,17 @@
 title: Group 2
 layout: documentation
 sideNavigation: sessions.sessions
-permalink: /tools-to-support-nodes
+permalink: /Tools-to-support-nodes
 ---
-# tools to support nodes with data mobilization strategies
-*Facilitators: Laura Anne Russell *
+# Tools to support nodes with data mobilization strategies
+*Facilitators: Laura Anne Russell*
 <div class="intro-block">
   <a class="tag is-primary" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Live+demos%3A+Group+2&iso=20210629T14&p1=69&ah=1&am=30">
   Tuesday 29 14:00–15:30 CEST (UTC+2)
   </a>
   <span class="tag is-demo">Live demos</span>
 </div>
+
 
 **Goal** For Nodes and Secretariat to show practical demonstrations of how to use GBIF-related tools and materials.
 
