@@ -46,22 +46,26 @@ Please view the presentations ahead of the live panel discussions and use the [G
 <div style="padding:56.25% 0 0 0;position:relative; background: #eee;">
 <iframe src="https://player.vimeo.com/video/566492345?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Welcome to the first virtual Global Nodes Meeting &amp;ndash; including reflections on the future of the nodes model"></iframe></div>
 16th Global Nodes Meeting 2021 Welcome speech
+GNM 2021 (Virtual) Theme 1, presentation by Nodes Committee Chair, André Heughebaert
 
 ---------
 
 <div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/565570188?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="The Role of the Nodes in Next GBIF Strategic Plan"></iframe></div>
 The Role of the Nodes in Next GBIF Strategic Plan
+GNM 2021 (Virtual) Theme 1, presentation by GBIF Secretariat Joe Miller, Executive Secretary
 
 ---------
 
 <div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/566017188?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="GBIF Ressource Mobilisation Strategy"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-GBIF Resource Mobilization Strategy. 
+GBIF Resource Mobilization Strategy
+GNM 2021 (Virtual) Theme 1, presentation by GBIF staff Hilary Goodson, Strategic Partnership Officer
 > **Please review [background document](/assets/rms.pdf) as references for the live demo session.**    
 
 ---------
 
 <div style="padding:56.25% 0 0 0;position:relative; background: #eee;"><iframe src="https://player.vimeo.com/video/566458271?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Strengthening regional capacity in GBIF"></iframe></div>
 Strengthening regional capacity in GBIF
+GNM 2021 (Virtual) Theme 1, presentation by GBIF Secretariat staff Mélianie Raymond and Maheva Bagard Laursen, Participation and Engagement
 
 ---------
 
