@@ -11,3 +11,5 @@ height: 70vh
 The registration closed on **21 June 2021**.
 
 If you did not register by the deadline and wish to attend the meeting, please contact [nodes@gbif.org](mailto:nodes@gbif.org)
+
+If you have registered but not received the confirmation email with the attendance link, please contact [nodes@gbif.org](mailto:nodes@gbif.org)
