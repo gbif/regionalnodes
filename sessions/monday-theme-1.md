@@ -39,7 +39,7 @@ Please view the presentations ahead of the live panel discussions and use the GB
 
 ## The Role of the Nodes in Next GBIF Strategic Plan
 *Presentation by Executive Secretary, Joe Miller*
-<div class="iframe-wrapper"><iframe src="https://player.vimeo.com/video/565570188?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="The Role of the Nodes in Next GBIF Strategic Plan"></iframe></div>
+{% include vimeo.html id="565570188" title="The Role of the Nodes in Next GBIF Strategic Plan" %}
 
 ## Strengthening regional capacity in GBIF
 *GNM 2021 (Virtual) Theme 1, presentation by GBIF Secretariat staff Mélianie Raymond and Maheva Bagard Laursen, Participation and Engagement
