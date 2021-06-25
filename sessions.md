@@ -193,7 +193,8 @@ Facilitators: Mélianie Raymond, Maheva Bagaard Laursen
 {: .notification .is-info}
 Please review these links and materials as references for the live demo session.
 
-* [How to teach the GBIF Data Mobilization course  on site and online](https://docs.gbif.org/course-data-mobilization)
+* How to teach the GBIF Data Mobilization course  on site and online
+  * [Data mobilization course](https://docs.gbif.org/course-data-mobilization)
 
 * Guide and training materials to support sequence-derived data in GBIF
   * [Draft dna barcoding course](https://docs.gbif-uat.org/course-dna-barcoding)
