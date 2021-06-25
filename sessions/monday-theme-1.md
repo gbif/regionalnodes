@@ -40,7 +40,7 @@ Please view the presentations ahead of the live panel discussions and use the GB
 
 ## GBIF Resource Mobilization Strategy
 *Presentation by GBIF staff Hilary Goodson, Strategic Partnership Officer*
-> See also **[background document](/assets/rms.pdf)**
+> Please review this background document as references for the live demo session **[background document](/assets/rms.pdf)**
 {% include vimeo.html id="566017188" title="GBIF Resource Mobilization Strategy" %}
 
 ## Strengthening regional capacity in GBIF
