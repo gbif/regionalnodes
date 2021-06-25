@@ -8,8 +8,8 @@ sessions:
 - grouptitle: Monday, 28 June
   content:
   - title: Icebreaker
-    path: /icebreaker
-  - title: "The role of nodes in GBIF’s next strategic period"
+    path: /sessions/icebreaker
+  - title: "Panel discussions: The role of nodes in GBIF’s next strategic period"
     path: /theme-1
   - title: "Data mobilization training and guidance on sequence-derived data mobilization"
     path: /data-mobilization
