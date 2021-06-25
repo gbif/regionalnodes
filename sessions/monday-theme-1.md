@@ -33,8 +33,7 @@ Please view the presentations ahead of the live panel discussions and use the GB
 
 ## 16th Global Nodes Meeting 2021 Welcome speech
 *Presentation by Nodes Committee Chair, André Heughebaert*
-<div class="iframe-wrapper">
-<iframe src="https://player.vimeo.com/video/566492345?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Welcome to the first virtual Global Nodes Meeting &amp;ndash; including reflections on the future of the nodes model"></iframe></div>
+{% include vimeo.html id="566492345" %}
 
 
 ## The Role of the Nodes in Next GBIF Strategic Plan
