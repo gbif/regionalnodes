@@ -39,11 +39,11 @@ Please view the presentations ahead of the live panel discussions and use the GB
 {% include vimeo.html id="565570188" title="The Role of the Nodes in Next GBIF Strategic Plan" %}
 
 ## GBIF Resource Mobilization Strategy
-*Presentation by GBIF staff Hilary Goodson, Strategic Partnership Officer
+*Presentation by GBIF staff Hilary Goodson, Strategic Partnership Officer*
 > See also **[background document](/assets/rms.pdf)**
 {% include vimeo.html id="566017188" title="GBIF Resource Mobilization Strategy" %}
 
 ## Strengthening regional capacity in GBIF
-*Presentation by GBIF Secretariat staff Mélianie Raymond and Maheva Bagard Laursen, Participation and Engagement
+*Presentation by GBIF Secretariat staff Mélianie Raymond and Maheva Bagard Laursen, Participation and Engagement*
 {% include vimeo.html id="566458271" title="Strengthening regional capacity in GBIF" %}
 
