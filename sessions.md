@@ -238,6 +238,8 @@ GBIF in Poland in 2021: Digitization and integration of services
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566563194?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Node update from GBIF Norway_ Wikidata, Agent identifiers, MaterialSample"></iframe></div>
 Node update from GBIF Norway: Wikidata, Agent identifiers, MaterialSample
 
+----------
+
 > [Living Atlases Toolkit](https://datos.gbif.es/others/la-toolkit-gbif-presentation-2021)
 
 ----------
