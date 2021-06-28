@@ -5,6 +5,7 @@ description: Please check back regularly for updates including instructions on h
 sideNavigation: sessions.sessions
 ---
 # Speed dating networking activity
+
 *Facilitators: Mélianie Raymond, Maheva Bagaard Laursen*
 <div class="intro-block">
   <a class="tag is-primary" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Speed-dating+on+collaboration+ideas+%E2%80%93+Interactive+networking&iso=20210701T14&p1=69&ah=1&am=30">
