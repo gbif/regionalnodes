@@ -18,27 +18,52 @@ Please view the presentations ahead of the live panel discussions and use the [G
 ## Theme 3: Product development and tools
 
 ### GBIF Hosted portals - update
+*Presentation by GBIF Secretariat Morten Høfft, Developer*
 {% include vimeo.html id="565590504" %}
 
 ### Future of the Integrated Publishing Toolkit (IPT)
+*Presentation by GBIF Secretariat staff Mikhail Podolskiy, Developer*
 {% include vimeo.html id="565518171" %}
 
 ### GBIF exports available on the cloud
+*Presentation by GBIF Secretariat Matthew Blissett and Tim Robertson, Informatics*
 {% include vimeo.html id="566507538" %}
 
 ## Theme 4: Content and use
 
-### GNM 2021 (Virtual) Theme 4, presentation by Markus Döring
+### GBIF Backbone & Catalogue of Life
+*Presentation by Markus Döring*
 {% include vimeo.html id="568318390" %}
 
 ### Introduction to GRSciColl: registry of Scientific collections
+*presentation by GBIF Secretariat staff Marie Grosjean, Data administrator*
 {% include vimeo.html id="564594528" %}
 
+> For reference, links and examples mentioned in the presentation
+> [GRSciColl](https://www.gbif.org/grscicoll)
+> [News item mentioned in the presentation](https://www.gbif.org/news/5kyAslpqTVxYqZTwYn1cub/gbif-provides-new-home-for-the-global-registry-of-scientific-collections)
+> [Registry console](https://registry.gbif.org)
+> 
+> Example of function to export GRSciColl as CSV file:
+> 
+> [All institutions - http://api.gbif.org/v1/grscicoll/institution/export
+> [All collections - http://api.gbif.org/v1/grscicoll/collection/export
+> [Collections containing exoskeletons -http://api.gbif.org/v1/grscicoll/collection/export?preservationType=BIOLOGICAL_EXOSKELETONS
+> [Lookup service documentation - https://www.gbif.org/developer/registry#lookup
+> 
+> [FAQ about linking Specimen occurrences published on GBIF to GRSciColl](https://www.gbif.org/faq?question=how-can-i-improve-the-matching-of-occurrence-records-with-grscicoll)
+> [Roadmap 2021](https://github.com/gbif/registry/blob/master/roadmap-grscicoll.md)
+> 
+> Send feedback to [scientific-collections@gbif.org](mailto:scientific-collections@gbif.org) or log it [here](https://github.com/gbif/portal-feedback)
+
 ### Working with issues and flags, including highlighting data blog
+*Presentation by GBIF Secretariat staff Andrea Hahn, Head of Data Products*
 {% include vimeo.html id="565517676" %}
 
 ### Sensitive Species Data
+*Presentation by GBIF Secretariat staff Andrew Rodrigues, Programme Officer*
 {% include vimeo.html id="564610096" %}
 
 ### Analyzing GBIF data use
+*Presentation by Niels Raes NLBIF Node Manager, Naturalis Biodiversity Center*
 {% include vimeo.html id="567377982" %}
