@@ -7,9 +7,9 @@ sessions:
     path: /schedule-2
 - grouptitle: Monday, 28 June
   content:
-  - title: "Icebreaker: Interactive networking"
+  - title: "Interactive networking: Icebreaker"
     path: /sessions/monday-icebreaker
-  - title: "Panel discussions: The role of nodes in GBIF’s next strategic period"
+  - title: "Panel discussions: Theme 1 - The role of nodes in GBIF’s next strategic period"
     path: /sessions/monday-theme-1
   - title: "Live demos: Group 1 - Data mobilization training and guidance on sequence-derived data mobilization"
     path: /sessions/monday-data-mobilization
@@ -17,9 +17,9 @@ sessions:
   content:
   - title: "Live demos: Group 2 - tools to support nodes with data mobilization strategies"
     path: /sessions/tuesday-tools-to-support-nodes
-  - title: "Panel discussions: Exploring future directions for GBIF"
+  - title: "Panel discussions: Theme 2 - Exploring future directions for GBIF"
     path: /sessions/tuesday-theme-2
-  - title: "Icebreaker: Interactive networking"
+  - title: "Interactive networking: Icebreaker"
     path: /sessions/tuesday-icebreaker
 - grouptitle: Wednesday, 30 June
   content:
@@ -27,17 +27,17 @@ sessions:
     path: /sessions/wednesday-regional
 - grouptitle: Thursday, 1 July
   content:
-  - title: Speed-dating on collaboration ideas
+  - title: Interactive networking: Speed-dating on collaboration ideas
     path: /sessions/thursday-speed-dating
   - title: "Live Q&A: theme 3 and theme 4"
     path: /sessions/thursday-theme-3-4
-  - title: OBIS Marine data mobilization session
+  - title: Live demos: OBIS Marine data mobilization session
     path: /sessions/thursday-marine-data-mobilization-session
 - grouptitle: Friday, 2 July
   content:
   - title: "Live demos: Group 3 - additional node updates and demos"
     path: /sessions/friday-additional-node-updates-and-demos
-  - title: "Nodes vs. help desk battle (1 hour). Final evaluation (30 min)"
+  - title: "Interactive networking: Nodes vs. help desk battle (1 hour). Final evaluation (30 min)"
     path: /sessions/friday-nodes-vs-helpdesk
-  - title: "Final evaluation"
+  - title: "Interactive networking: Final evaluation"
     path: /sessions/friday-final-evaluation
