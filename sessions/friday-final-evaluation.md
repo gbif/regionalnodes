@@ -5,7 +5,7 @@ description: Please check back regularly for updates including instructions on h
 sideNavigation: sessions.sessions
 ---
 # Evaluation activities
-*Facilitators: Mélianie Raymond, Maheva Bagard Laursen
+*Facilitators: Mélianie Raymond, Maheva Bagard Laursen*
 
 **Goal** to capture feedback from the nodes on the first virtual global nodes meeting.
 
