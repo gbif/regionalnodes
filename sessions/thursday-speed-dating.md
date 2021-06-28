@@ -6,6 +6,13 @@ sideNavigation: sessions.sessions
 ---
 # Speed dating networking activity
 *Facilitators: Mélianie Raymond, Maheva Bagaard Laursen*
+<div class="intro-block">
+  <a class="tag is-primary" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Speed-dating+on+collaboration+ideas+%E2%80%93+Interactive+networking&iso=20210701T14&p1=69&ah=1&am=30">
+  Thursday 1 14:00–15:30 CEST (UTC+2)
+  </a>
+  <span class="tag is-networking">Interactive networking</span>
+</div>
+
 
 **Goal** For nodes to share ideas for collaborative projects with other nodes in the network.
 
