@@ -110,7 +110,7 @@ Ambassadors and users
 
 ---------
 
-**Live panel with all presenters. Panel moderator: tbc**
+**Live panel with all presenters. Panel moderator: Mélianie Raymond**
 
 ## Live Q&A session based on pre-recorded presentations
 
