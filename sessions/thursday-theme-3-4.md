@@ -46,10 +46,10 @@ Please view the presentations ahead of the live panel discussions and use the [G
 > 
 > Example of function to export GRSciColl as CSV file:
 > 
-> [All institutions - http://api.gbif.org/v1/grscicoll/institution/export
-> [All collections - http://api.gbif.org/v1/grscicoll/collection/export
-> [Collections containing exoskeletons -http://api.gbif.org/v1/grscicoll/collection/export?preservationType=BIOLOGICAL_EXOSKELETONS
-> [Lookup service documentation - https://www.gbif.org/developer/registry#lookup
+> [All institutions](http://api.gbif.org/v1/grscicoll/institution/export)
+> [All collections](http://api.gbif.org/v1/grscicoll/collection/export)
+> [Collections containing exoskeletons](http://api.gbif.org/v1/grscicoll/collection/export?preservationType=BIOLOGICAL_EXOSKELETONS)
+> [Lookup service documentation](https://www.gbif.org/developer/registry#lookup)
 > 
 > [FAQ about linking Specimen occurrences published on GBIF to GRSciColl](https://www.gbif.org/faq?question=how-can-i-improve-the-matching-of-occurrence-records-with-grscicoll)
 > [Roadmap 2021](https://github.com/gbif/registry/blob/master/roadmap-grscicoll.md)
