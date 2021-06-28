@@ -1,5 +1,5 @@
 sessions:
-- grouptitle: 
+- grouptitle:
   content:
   - title: Sessions
     path: /sessions-doc
@@ -7,7 +7,7 @@ sessions:
     path: /schedule-2
 - grouptitle: Monday, 28 June
   content:
-  - title: Icebreaker: Interactive networking
+  - title: "Icebreaker: Interactive networking"
     path: /icebreaker-monday
   - title: "Panel discussions: The role of nodes in GBIF’s next strategic period"
     path: /theme-1
