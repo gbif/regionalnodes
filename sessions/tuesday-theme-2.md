@@ -6,7 +6,7 @@ sideNavigation: sessions.sessions
 
 ---
 # Exploring future directions for GBIF - live panel with all presenters
-*Panel moderator: Mélianie Raymond
+*Panel moderator: Mélianie Raymond*
 <div class="intro-block">
   <a class="tag is-primary" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Theme+2+panel&iso=20210629T16&p1=69&ah=1&am=30">
   Tuesday 29 16:00–17:30 CEST (UTC+2)
