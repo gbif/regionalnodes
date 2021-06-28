@@ -6,7 +6,15 @@ sideNavigation: sessions.sessions
 toc: true
 ---
 # Live Q&A session based on pre-recorded presentations
-*Live Q&A with all presenters Facilitator: Maheva Bagard Laursen*
+*Live Q&A with all presenters
+*Facilitators: Maheva Bagard Laursen*
+<div class="intro-block">
+  <a class="tag is-primary" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Live+Q%26A%3A+theme+3+and+theme+4&iso=20210701T16&p1=69&ah=1&am=30">
+  Thursday 1 16:00–17:30 CEST (UTC+2)
+  </a>
+  <span class="tag is-qa">Live Q&A</span>
+</div>
+
 
 **Goal** To share updates from nodes and the Secretariat on topics that were requested in the consultation with nodes, and enable nodes to ask questions for further discussion.
 
