@@ -15,7 +15,7 @@ sideNavigation: sessions.sessions
 
 **Format** 1.5 hour zoom meetings led by regional representatives and at appropriate time zones for the region.
 
-Content: Agenda to be set by regional representatives.
+**Content**: Agenda to be set by regional representatives.
 
 ---
 
