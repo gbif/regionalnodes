@@ -27,7 +27,7 @@ sessions:
     path: /sessions/wednesday-regional
 - grouptitle: Thursday, 1 July
   content:
-  - title: Interactive networking: Speed-dating on collaboration ideas
+  - title: "Interactive networking: Speed-dating on collaboration ideas"
     path: /sessions/thursday-speed-dating
   - title: "Live Q&A: theme 3 and theme 4"
     path: /sessions/thursday-theme-3-4
