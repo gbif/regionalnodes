@@ -8,34 +8,36 @@ sessions:
 - grouptitle: Monday, 28 June
   content:
   - title: "Icebreaker: Interactive networking"
-    path: /icebreaker-monday
+    path: /sessions/monday-icebreaker
   - title: "Panel discussions: The role of nodes in GBIF’s next strategic period"
-    path: /theme-1
+    path: /sessions/monday-theme-1
   - title: "Live demos: Group 1 - Data mobilization training and guidance on sequence-derived data mobilization"
-    path: /data-mobilization
+    path: /sessions/monday-data-mobilization
 - grouptitle: Tuesday, 29 June
   content:
   - title: "Live demos: Group 2 - tools to support nodes with data mobilization strategies"
-    path: /tools-to-support-nodes
+    path: /sessions/tuesday-tools-to-support-nodes
   - title: "Panel discussions: Exploring future directions for GBIF"
-    path: /theme-2
+    path: /sessions/tuesday-theme-2
   - title: "Icebreaker: Interactive networking"
-    path: /icebreaker-tuesday
+    path: /sessions/tuesday-icebreaker
 - grouptitle: Wednesday, 30 June
   content:
   - title: "Regional nodes sessions"
-    path: /wednesday-regional-nodes-sessions
+    path: /sessions/wednesday-regional
 - grouptitle: Thursday, 1 July
   content:
   - title: Speed-dating on collaboration ideas
-    path: /missing
+    path: /sessions/thursday-speed-dating
   - title: "Live Q&A: theme 3 and theme 4"
-    path: /missing
+    path: /sessions/thursday-theme-3-4
   - title: OBIS Marine data mobilization session
-    path: /missing
+    path: /sessions/thursday-marine-data-mobilization-session
 - grouptitle: Friday, 2 July
   content:
   - title: "Live demos: Group 3 - additional node updates and demos"
-    path: /missing
+    path: /sessions/friday-additional-node-updates-and-demos
   - title: "Nodes vs. help desk battle (1 hour). Final evaluation (30 min)"
-    path: /missing
+    path: /sessions/friday-nodes-vs-helpdesk
+  - title: "Final evaluation"
+    path: /sessions/friday-final-evaluation

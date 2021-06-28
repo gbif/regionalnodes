@@ -38,4 +38,3 @@ See also the [schedule](/schedule-2)
 
 {: .notification .is-info}
 Please view the presentations ahead of the sessions and use the [GBIF community forum](https://discourse.gbif.org/c/nodes/9) to ask any questions ahead of the live sessions. You can also ask questions during the panel discussions.
-

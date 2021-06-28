@@ -1,14 +1,9 @@
 ---
-title: Live demos group 1
-klass: sessions
+title: Theme 2
 layout: documentation
 description: Please check back regularly for updates including instructions on how to prepare for sessions
-background: /assets/images/Limenitis reducta Staudinger,.jpg
-imageLicense: |
-  [*Limenitis reducta*](https://www.gbif.org/occurrence/2840552819) observed in Iran (Islamic Republic of) by Simon Plat licensed under [(CC BY-NC-ND 4.0)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
-toc: true
 sideNavigation: sessions.sessions
-permalink: /theme-2
+
 ---
 # Exploring future directions for GBIF - live panel with all presenters
 *Panel moderator: tbc*

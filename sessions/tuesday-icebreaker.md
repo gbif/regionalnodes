@@ -1,14 +1,8 @@
 ---
-title: Sessions
+title: Tools to support nodes
 layout: documentation
 description: Please check back regularly for updates including instructions on how to prepare for sessions
-background: /assets/images/Limenitis reducta Staudinger,.jpg
-imageLicense: |
-  [*Limenitis reducta*](https://www.gbif.org/occurrence/2840552819) observed in Iran (Islamic Republic of) by Simon Plat licensed under [(CC BY-NC-ND 4.0)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
 sideNavigation: sessions.sessions
-permalink: /icebreaker-tuesday
-
-
 ---
 ## Icebreaker virtual networking activity
 *Facilitators: Mélianie Raymond and Maheva Bagard Laursen*
@@ -18,7 +12,6 @@ permalink: /icebreaker-tuesday
   </a>
   <span class="tag is-networking">Interactive networking</span>
 </div>
-
 
 **Goal**
 

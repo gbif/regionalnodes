@@ -53,3 +53,7 @@ section.homepage {
   font-size: 12px; 
   margin: -6px 0 12px 0;
 }
+
+.documentation-sidebar {
+  max-height: calc(100vh - 68px);
+}

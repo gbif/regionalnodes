@@ -1,10 +1,10 @@
 ---
-title: Group 2
+title: Tools to support nodes
 layout: documentation
+description: Please check back regularly for updates including instructions on how to prepare for sessions
 sideNavigation: sessions.sessions
-permalink: /tools-to-support-nodes
 ---
-# Tools to support nodes with data mobilization strategies
+# Group 2 – tools to support nodes with data mobilization strategies
 *Facilitators: Laura Anne Russell*
 <div class="intro-block">
   <a class="tag is-primary" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Live+demos%3A+Group+2&iso=20210629T14&p1=69&ah=1&am=30">
@@ -12,11 +12,6 @@ permalink: /tools-to-support-nodes
   </a>
   <span class="tag is-demo">Live demos</span>
 </div>
-
-
-**Goal** For Nodes and Secretariat to show practical demonstrations of how to use GBIF-related tools and materials.
-
-**Format** These sessions will guide participants through a practical demo on the selected topic. The sessions will be recorded and made available from this page after the event. The demos will be grouped into themes.
 
 {: .notification .is-info}
 Please review these links and materials as references for the live demo session.

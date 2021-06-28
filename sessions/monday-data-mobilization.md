@@ -1,10 +1,10 @@
 ---
-title: Group 1
+title: Data mobilization
 layout: documentation
+description: Please check back regularly for updates including instructions on how to prepare for sessions
 sideNavigation: sessions.sessions
-permalink: /data-mobilization
 ---
-# Data mobilization training and guidance on sequence-derived data mobilization
+## Data mobilization training and guidance on sequence-derived data mobilization
 *Facilitators: Mélianie Raymond and Maheva Bagard Laursen*
 <div class="intro-block">
   <a class="tag is-primary" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Live+demos%3A+Group+1&iso=20210628T16&p1=69&ah=1&am=30">
@@ -23,6 +23,6 @@ Please review these links and materials as references for the live demo session.
   * [Draft dna barcoding course](https://docs.gbif-uat.org/course-dna-barcoding)
   * [Draft guide on Publishing DNA-derived data through biodiversity data platforms](https://docs.gbif-uat.org/publishing-dna-derived-data/1.0/en/)
 
-# Update on BioDATA  - DNA metabarcoding data management
-*presentation by Dag Terje Filip Endresen, GBIF Node Manager
+### Update on BioDATA  - DNA metabarcoding data management
+*presentation by Dag Terje Filip Endresen, GBIF Node Manager*
 {% include vimeo.html id="566509989" title="Update on BioDATA  - DNA metabarcoding data management" %}
