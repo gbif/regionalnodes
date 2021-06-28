@@ -7,6 +7,13 @@ toc: true
 ---
 # Marine data mobilization session
 
+<div class="intro-block">
+  <a class="tag is-primary" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=OBIS+Marine+data+mobilization+session&iso=20210701T19&p1=69&ah=1&am=30">
+  Thursday 1 19:00–20:30 CEST (UTC+2)
+  </a>
+  <span class="tag is-demo">Live demos</span>
+</div>
+
 **Goal** To update the community on the collaboration between GBIF and OBIS and discuss how we can work together on marine data mobilization
 
 **Format** Pre-recorded presentations will introduce the collaboration and examples of how GBIF nodes and OBIS are working together. A 1.5 hour live session will be an opportunity to discuss how we can strengthen collaboration and work towards common guidelines for marine data publishing that would go to both GBIF and OBIS in one step.
