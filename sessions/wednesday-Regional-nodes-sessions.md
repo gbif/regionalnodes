@@ -39,19 +39,9 @@ Content: Agenda to be set by regional representatives.
 
 ---
 
-*[Europe and Central Asia Regional breakout sessions](/sessions#regional-nodes-sessions) Piotr Tykarski and Dag Endresen to chair*
-<div class="intro-block">
-  <a class="tag is-primary" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Europe+and+Central+Asia+Regional+breakout+sessions&iso=20210630T10&p1=69&ah=1&am=30">
-  Wednesday 30 10:00–11:30 CEST (UTC+2)
-  </a>
-  <span class="tag is-breakout">Regional nodes sessions</span>
-</div>
-
----
-
 *[Asia Regional breakout sessions](/sessions#regional-nodes-sessions) Keping Ma to chair*
 <div class="intro-block">
-  <a class="tag is-primary" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Europe+and+Central+Asia+Regional+breakout+sessions&iso=20210630T10&p1=69&ah=1&am=30">
+  <a class="tag is-primary" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Asia+Regional+breakout+sessions&iso=20210630T10&p1=69&ah=1&am=30">
   Wednesday 30 10:00–11:30 CEST (UTC+2)
   </a>
   <span class="tag is-breakout">Regional nodes sessions</span>
