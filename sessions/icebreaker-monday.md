@@ -6,6 +6,7 @@ background: /assets/images/Limenitis reducta Staudinger,.jpg
 imageLicense: |
   [*Limenitis reducta*](https://www.gbif.org/occurrence/2840552819) observed in Iran (Islamic Republic of) by Simon Plat licensed under [(CC BY-NC-ND 4.0)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
 sideNavigation: sessions.sessions
+permalink: /icebreaker-monday
 
 ---
 ## Icebreaker virtual networking activity
