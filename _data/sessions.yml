@@ -31,7 +31,7 @@ sessions:
     path: /sessions/thursday-speed-dating
   - title: "Live Q&A: theme 3 and theme 4"
     path: /sessions/thursday-theme-3-4
-  - title: Live demos: OBIS Marine data mobilization session
+  - title: "Live demos: OBIS Marine data mobilization session"
     path: /sessions/thursday-marine-data-mobilization-session
 - grouptitle: Friday, 2 July
   content:
