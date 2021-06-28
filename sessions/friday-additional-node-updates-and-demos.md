@@ -19,7 +19,7 @@ Please review these links and materials as references for the live demo session.
 
 ## Support document to the the live demo and discussion
 *Presentation by Vicente J. Ruiz Jurado, LA Technical Coordinator also taking care of GBIF.es infra*
->[Presenting the Living Atlases Toolkit](https://datos.gbif.es/others/la-toolkit-gbif-presentation-2021){: .button .is-primary}
+>[Presenting the Living Atlases Toolkit](https://datos.gbif.es/others/la-toolkit-gbif-presentation-2021)
 
 ## GBIF Benin: Best practices of Node Management
 *Presentation by Jean Cossi Ganglo, GBIF Node Manager Benin*
