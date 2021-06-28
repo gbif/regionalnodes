@@ -36,7 +36,7 @@ Please view the presentations ahead of the live panel discussions and use the [G
 {% include vimeo.html id="568318390" %}
 
 ### Introduction to GRSciColl: registry of Scientific collections
-*presentation by GBIF Secretariat staff Marie Grosjean, Data administrator*
+*Presentation by GBIF Secretariat staff Marie Grosjean, Data administrator*
 {% include vimeo.html id="564594528" %}
 
 > For reference, links and examples mentioned in the presentation
