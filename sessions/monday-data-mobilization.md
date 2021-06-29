@@ -5,7 +5,7 @@ description: Please check back regularly for updates including instructions on h
 sideNavigation: sessions.sessions
 ---
 ## Data mobilization training and guidance on sequence-derived data mobilization
-*Facilitators: Mélianie Raymond and Maheva Bagard Laursen*
+*Presenter: Laura Anne Russell*
 <div class="intro-block">
   <a class="tag is-primary" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Live+demos%3A+Group+1&iso=20210628T16&p1=69&ah=1&am=30">
   Monday 28 16:00–17:30 CEST (UTC+2)
@@ -26,3 +26,8 @@ Please review these links and materials as references for the live demo session.
 ### Update on BioDATA  - DNA metabarcoding data management
 *presentation by Dag Terje Filip Endresen, GBIF Node Manager*
 {% include vimeo.html id="566509989" title="Update on BioDATA  - DNA metabarcoding data management" %}
+
+### Live demos: Group 1 Data mobilization training and guidance on sequence-derived data mobilization
+*presentation by Laura Anne Russell, GBIF Secretariat*
+{% include vimeo.html id="568827627" title="Data mobilization training and guidance on sequence-derived data mobilization" %}
+
