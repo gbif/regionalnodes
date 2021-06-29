@@ -42,3 +42,7 @@ Please view the presentations ahead of the live panel discussions and use the GB
 *Presentation by GBIF Secretariat staff Mélianie Raymond and Maheva Bagard Laursen, Participation and Engagement*
 {% include vimeo.html id="566458271" title="Strengthening regional capacity in GBIF" %}
 
+### Panel discussion: The role of nodes in GBIF’s next strategic period
+*Theme 1 Live panel with all presenters. Panel moderator: Mélianie Raymond, GBIF Secretariat, Participation and Engagement*
+{% include vimeo.html id="568778490
+" title="The role of nodes in GBIF’s next strategic period" %}
