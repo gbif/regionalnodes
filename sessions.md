@@ -40,8 +40,17 @@ Please view the presentations ahead of the live panel discussions and use the [G
 
 ### Theme 1: The role of nodes in GBIF’s next strategic period
 
-**Live panel with all presenters**
-*Panel moderator: Mélianie Raymond*
+---------
+
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/568778490?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Panel discussion Theme 1 panel The role of nodes in GBIF&amp;rsquo;s next strategic period"></iframe></div>
+**GNM 2021 (Virtual) Theme 1 Live panel with all presenters. *Panel moderator: Mélianie Raymond***
+
+---------
+
+{: .notification .is-info}
+Please view the presentations below ahead of the live panel discussions and use the [GBIF community forum](https://discourse.gbif.org/) to ask any questions.
+
+---------
 
 <div style="padding:56.25% 0 0 0;position:relative; background: #eee;">
 <iframe src="https://player.vimeo.com/video/566492345?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Welcome to the first virtual Global Nodes Meeting &amp;ndash; including reflections on the future of the nodes model"></iframe></div>
