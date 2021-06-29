@@ -210,7 +210,7 @@ Facilitators: Mélianie Raymond, Maheva Bagaard Laursen
 **Format** These sessions will guide participants through a practical demo on the selected topic. The sessions will be recorded and made available from this page after the event. The demos will be grouped into themes.
 
 
-### Group 1 – data mobilization training and guidance on sequence-derived data mobilization
+### Group 1 – Data mobilization training and guidance on sequence-derived data mobilization
 
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/568827627?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Live demo Group 1 &amp;ndash; data mobilization training and guidance on sequence-derived data mobilization"></iframe></div>
@@ -231,7 +231,7 @@ Please review these links and materials as references for the live demo session.
 Update on BioDATA  - DNA metabarcoding data management
 
 
-### Group 2 – tools to support nodes with data mobilization strategies
+### Group 2 – Tools to support nodes with data mobilization strategies
 
 {: .notification .is-info}
 Please review these links and materials as references for the live demo session.
@@ -247,7 +247,7 @@ Please review these links and materials as references for the live demo session.
 * GBIF and Github: what is GitHub, how do we use it (product, content, development tracking), how to log an issue, orientation on the repositories, the portal-feedback “country” issue tag and how nodes could use that
 * [Issues list](https://github.com/gbif/portal-feedback/issues)
 
-### Group 3 – additional node updates and demos
+### Group 3 – Additional node updates and demos
 
 {: .notification .is-info}
 Please review these links and materials as references for the live demo session.
