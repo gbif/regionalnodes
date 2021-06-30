@@ -42,7 +42,7 @@ Follow the new online [Introduction to GBIF course](https://docs.gbif.org/course
 
 + [14:00–15:30](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Speed-dating+on+collaboration+ideas+%E2%80%93+Interactive+networking&iso=20210701T14&p1=69&ah=1&am=30) CEST (UTC+2): [Speed-dating on collaboration ideas – Interactive networking](/sessions#speed-dating-networking-activity)
 + [16:00–17:30](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Live+Q%26A%3A+theme+3+and+theme+4&iso=20210701T16&p1=69&ah=1&am=30) CEST (UTC+2): Live Q&A: [theme 3](/sessions#theme-3-product-development-and-tools) and [theme 4](/sessions#theme-4-content-and-use)
-+ [19:00–20:30](https://www.timeanddate.com/worldclock/fixedtime.html?msg=OBIS+Marine+data+mobilization+session&iso=20210701T19&p1=69&ah=1&am=30) CEST (UTC+2): [OBIS Marine data mobilization session](/sessions#marine-data-mobilization-session)
++ [18:00–19:30](https://www.timeanddate.com/worldclock/fixedtime.html?msg=OBIS+Marine+data+mobilization+session&iso=20210701T18&p1=69&ah=1&am=30) CEST (UTC+2): [OBIS Marine data mobilization session](/sessions#marine-data-mobilization-session)
 
 ## Friday, 2 July
 
