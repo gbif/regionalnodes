@@ -86,6 +86,12 @@ GNM 2021 (Virtual) Theme 1, presentation by GBIF Secretariat staff Mélianie Ray
 
 ### Theme 2: Exploring future directions for GBIF
 
+**Live panel with all presenters**
+*Panel moderator: Mélianie Raymond*
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/569102996?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Panel Discussion Exploring future directions for GBIF (Theme 2)"></iframe></div>
+GNM 2021 (Virtual) Theme 2 Live panel with all presenters. Panel moderator: Mélianie Raymond.
+
 {: .notification .is-info}
 Please view the presentations ahead of the live panel discussions and use the [GBIF community forum](https://discourse.gbif.org/) to ask any questions ahead of the live sessions. You can also ask questions during the panel discussions.
 
