@@ -22,8 +22,13 @@ To explore key themes with panels of experts from the community, building on pre
 
 Key updates will be available from this page in the form of short pre-recorded presentations that can be reused as training materials or outreach materials.
 
+## Panel discussion: Exploring future directions for GBIF
+*presentation by Dave Martin and Javier Molina*
+{% include vimeo.html id="569102996" %}
+GNM 2021 (Virtual) Theme 2 Live panel with all presenters. Panel moderator: Mélianie Raymond, GBIF Secretariat, Participation and Engagement
+
 {: .notification .is-info}
-Please view the presentations ahead of the live panel discussions and use the GBIF community forum to ask any questions ahead of the live sessions. You can also ask questions during the panel discussions.
+Please view the presentations below ahead of the live panel discussions and use the GBIF community forum to ask any questions.
 
 ## Aligning GBIF and ALA
 *presentation by Dave Martin and Javier Molina*
