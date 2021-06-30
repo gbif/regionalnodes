@@ -26,3 +26,7 @@ Please review these links and materials as references for the live demo session.
   * [GrSciColl](https://www.gbif.org/grscicoll)
 * GBIF and Github: what is GitHub, how do we use it (product, content, development tracking), how to log an issue, orientation on the repositories, the portal-feedback “country” issue tag and how nodes could use that
 * [Issues list](https://github.com/gbif/portal-feedback/issues)
+
+### Live demos: Group 2 Tools to support nodes with data mobilization strategies
+*presentation by Laura Anne Russell, GBIF Secretariat*
+{% include vimeo.html id="569093098" title="Tools to support nodes with data mobilization strategies" %}
