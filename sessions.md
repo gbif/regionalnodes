@@ -278,6 +278,10 @@ Node update from GBIF Norway: Wikidata, Agent identifiers, MaterialSample
 
 ----------
 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://drive.google.com/file/d/1-ApbEOAIbsnjtA64D7kzlETZKUSVV2rR/preview" width="640" height="480" allow="autoplay"></iframe></div>
+Plazi: literature based datasets in GBIF
+
+
 > **Support document to the the live demo and discussion** 
 > [Living Atlases Toolkit](https://datos.gbif.es/others/la-toolkit-gbif-presentation-2021)
 > Presentation by Vicente J. Ruiz Jurado, LA Technical Coordinator also taking care of GBIF.es infra
