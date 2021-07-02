@@ -7,7 +7,7 @@ toc: true
 ---
 # Live Q&A session based on pre-recorded presentations
 *Live Q&A with all presenters
-*Facilitators: Maheva Bagard Laursen*
+*Facilitators: Laura Anne Russell*
 <div class="intro-block">
   <a class="tag is-primary" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Live+Q%26A%3A+theme+3+and+theme+4&iso=20210701T16&p1=69&ah=1&am=30">
   Thursday 1 16:00–17:30 CEST (UTC+2)
@@ -21,7 +21,7 @@ toc: true
 **Format** Key updates will be available from this page in the form of short pre-recorded presentations that can be reused as training materials or outreach materials (max 7 minutes per video).
 
 {: .notification .is-info}
-Please view the presentations ahead of the live panel discussions and use the [GBIF community forum](https://discourse.gbif.org/) to ask any questions ahead of the live sessions. You can also ask questions during the panel discussions.
+Please view the presentations ahead of the live panel discussions and use the [GBIF community forum](https://discourse.gbif.org/) to ask questions.
 
 ## Theme 3: Product development and tools
 
