@@ -156,13 +156,19 @@ GBIF exports available on the cloud
 
 ----------
 
-**Live Q&A with all presenters Facilitator: Maheva Bagard Laursen**
+**Live Q&A with all presenters Facilitator: Laura Anne Russell**
 
 
 ### Theme 4: Content and use
 
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/570245824?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Live Q&amp;amp;A Theme 4: Content and use"></iframe></div>
+Live Q&A Theme 4: Content and use
+
+----------
+
 {: .notification .is-info}
-Please view the presentations ahead of the live panel discussions and use the [GBIF community forum](https://discourse.gbif.org/) to ask any questions ahead of the live sessions. You can also ask questions during the panel discussions.
+Please view the presentations below ahead of the live panel discussions and use the [GBIF community forum](https://discourse.gbif.org/) to ask any questions. 
 
 ----------
 
