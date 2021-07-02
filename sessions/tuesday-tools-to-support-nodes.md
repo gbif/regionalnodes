@@ -28,5 +28,5 @@ Please review these links and materials as references for the live demo session.
 * [Issues list](https://github.com/gbif/portal-feedback/issues)
 
 ### Live demos: Group 2 Tools to support nodes with data mobilization strategies
-*presentation by Laura Anne Russell, GBIF Secretariat*
+*Presentation by Laura Anne Russell, GBIF Secretariat*
 {% include vimeo.html id="569093098" title="Tools to support nodes with data mobilization strategies" %}
