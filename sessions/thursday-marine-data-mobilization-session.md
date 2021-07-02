@@ -44,3 +44,7 @@ Please view the presentations ahead of the live panel discussions and use the [G
 ## Norwegian GBIF marine datasets from OBIS
 *Presentation by Norwegian GBIF Node*
 {% include vimeo.html id="566605968" %}
+
+## Norwegian GBIF marine datasets from OBIS
+*Presentation by Ward Appeltans, OBIS*
+{% include vimeo.html id="570247972" %}
