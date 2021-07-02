@@ -24,10 +24,10 @@ Please review these links and materials as references for the live demo session.
   * [Draft guide on Publishing DNA-derived data through biodiversity data platforms](https://docs.gbif-uat.org/publishing-dna-derived-data/1.0/en/)
 
 ### Update on BioDATA  - DNA metabarcoding data management
-*presentation by Dag Terje Filip Endresen, GBIF Node Manager*
+*Presentation by Dag Terje Filip Endresen, GBIF Node Manager*
 {% include vimeo.html id="566509989" title="Update on BioDATA  - DNA metabarcoding data management" %}
 
 ### Live demos: Group 1 Data mobilization training and guidance on sequence-derived data mobilization
-*presentation by Laura Anne Russell, GBIF Secretariat*
+*Presentation by Laura Anne Russell, GBIF Secretariat*
 {% include vimeo.html id="568827627" title="Data mobilization training and guidance on sequence-derived data mobilization" %}
 
