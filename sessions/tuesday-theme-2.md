@@ -23,7 +23,7 @@ To explore key themes with panels of experts from the community, building on pre
 Key updates will be available from this page in the form of short pre-recorded presentations that can be reused as training materials or outreach materials.
 
 ## Panel discussion: Exploring future directions for GBIF
-*presentation by Dave Martin and Javier Molina*
+*Presentation by Dave Martin and Javier Molina*
 {% include vimeo.html id="569102996" %}
 GNM 2021 (Virtual) Theme 2 Live panel with all presenters. Panel moderator: Mélianie Raymond, GBIF Secretariat, Participation and Engagement
 
@@ -31,25 +31,25 @@ GNM 2021 (Virtual) Theme 2 Live panel with all presenters. Panel moderator: Mél
 Please view the presentations below ahead of the live panel discussions and use the GBIF community forum to ask any questions.
 
 ## Aligning GBIF and ALA
-*presentation by Dave Martin and Javier Molina*
+*Presentation by Dave Martin and Javier Molina*
 {% include vimeo.html id="566499732" %}
 
 ## Looking ahead: GBIF data model
-*presentation by GBIF Secretariat staff Tim Robertson, Head of Informatics*
+*Presentation by GBIF Secretariat staff Tim Robertson, Head of Informatics*
 {% include vimeo.html id="564608734" title="Looking ahead: GBIF data model" %}
 
 ## GBIF and the Post-2020 Global Biodiversity
-*presentation by GBIF Secretariat staff Andrew Rodrigues, Programme Officer*
+*Presentation by GBIF Secretariat staff Andrew Rodrigues, Programme Officer*
 {% include vimeo.html id="564608734" title="GBIF and the Post-2020 Global Biodiversity" %}
 
 ## Private-sector engagement: guidance materials, and role of nodes
-*presentation by GBIF Secretariat staff Andrew Rodrigues, Programme Officer*
+*Presentation by GBIF Secretariat staff Andrew Rodrigues, Programme Officer*
 {% include vimeo.html id="564604996" title="Private-sector engagement: guidance materials, and role of nodes" %}
 
 ## GBIF: potential for a thematic approach
-*presentation by GBIF staff Dmitry Schigel*
+*Presentation by GBIF staff Dmitry Schigel*
 {% include vimeo.html id="566502314" title="GBIF: potential for a thematic approachs" %}
 
 ## Ambassadors and users
-*presentation by GBIF staff Daniel Noesgaard and Dmitry Schigel*
+*Presentation by GBIF staff Daniel Noesgaard and Dmitry Schigel*
 {% include vimeo.html id="566502365" title="Ambassadors and users" %}
