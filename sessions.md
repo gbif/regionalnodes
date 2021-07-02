@@ -313,7 +313,7 @@ Content: Agenda to be set by regional representatives.
 ----------
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/570247972?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="OBIS Marine data mobilization session"></iframe></div>
-OBIS Marine data mobilization session, presentation by OBIS Ward Appeltans
+Live: OBIS Marine data mobilization session, presentation by OBIS Ward Appeltans
 
 {: .notification .is-info}
 Please view the presentations below ahead of the live panel discussions and use the [GBIF community forum](https://discourse.gbif.org/) to ask any questions.
