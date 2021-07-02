@@ -7,7 +7,7 @@ toc: true
 ---
 # Live Q&A session based on pre-recorded presentations
 *Live Q&A with all presenters
-*Facilitators: Laura Anne Russell*
+Facilitators: Laura Anne Russell*
 <div class="intro-block">
   <a class="tag is-primary" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Live+Q%26A%3A+theme+3+and+theme+4&iso=20210701T16&p1=69&ah=1&am=30">
   Thursday 1 16:00–17:30 CEST (UTC+2)
