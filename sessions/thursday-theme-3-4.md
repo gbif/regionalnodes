@@ -15,6 +15,9 @@ Facilitators: Laura Anne Russell*
   <span class="tag is-qa">Live Q&A</span>
 </div>
 
+### Live Q&A session based on pre-recorded presentations
+*Facilitator Laura Anne Russell*
+{% include vimeo.html id="570245824" %}
 
 **Goal** To share updates from nodes and the Secretariat on topics that were requested in the consultation with nodes, and enable nodes to ask questions for further discussion.
 
