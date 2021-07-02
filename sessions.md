@@ -311,8 +311,13 @@ Content: Agenda to be set by regional representatives.
 
 **Format** Pre-recorded presentations will introduce the collaboration and examples of how GBIF nodes and OBIS are working together. A 1.5 hour live session will be an opportunity to discuss how we can strengthen collaboration and work towards common guidelines for marine data publishing that would go to both GBIF and OBIS in one step.
 
+----------
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/570247972?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="OBIS Marine data mobilization session"></iframe></div>
+OBIS Marine data mobilization session, presentation by OBIS Ward Appeltans
+
 {: .notification .is-info}
-Please view the presentations ahead of the live panel discussions and use the [GBIF community forum](https://discourse.gbif.org/) to ask any questions ahead of the live sessions. You can also ask questions during the panel discussions.
+Please view the presentations below ahead of the live panel discussions and use the [GBIF community forum](https://discourse.gbif.org/) to ask any questions.
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566605276?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="OBIS - GBIF introduction"></iframe></div>
 OBIS-GBIF introduction
