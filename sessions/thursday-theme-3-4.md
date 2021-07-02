@@ -75,3 +75,7 @@ Please view the presentations ahead of the live panel discussions and use the [G
 ### Analyzing GBIF data use
 *Presentation by Niels Raes NLBIF Node Manager, Naturalis Biodiversity Center*
 {% include vimeo.html id="567377982" %}
+
+### Live Q&A session based on pre-recorded presentations
+*Facilitator Laura Anne Russell*
+{% include vimeo.html id="570245824" %}
