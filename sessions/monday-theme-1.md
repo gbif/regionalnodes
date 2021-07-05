@@ -18,12 +18,8 @@ toc: true
 
 To explore key themes with panels of experts from the community, building on presentations from the nodes and Secretariat on topics that were requested in the consultation with nodes.
 
-**Format**
-
-Key updates will be available from this page in the form of short pre-recorded presentations that can be reused as training materials or outreach materials.
-
 {: .notification .is-info}
-Please view the presentations ahead of the live panel discussions and use the GBIF community forum to ask questions.
+Please view the presentations ahead of the live panel discussion and use the [GBIF community forum](https://discourse.gbif.org/t/gnm-2021-global-nodes-meeting-2021/2879) to ask questions.
 
 ### 16th Global Nodes Meeting 2021 Welcome speech
 *Presentation by Nodes Committee Chair, André Heughebaert*
