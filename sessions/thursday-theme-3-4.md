@@ -15,16 +15,10 @@ Facilitators: Laura Anne Russell*
   <span class="tag is-qa">Live Q&A</span>
 </div>
 
-### Live Q&A session based on pre-recorded presentations
-*Facilitator Laura Anne Russell*
-{% include vimeo.html id="570245824" %}
-
 **Goal** To share updates from nodes and the Secretariat on topics that were requested in the consultation with nodes, and enable nodes to ask questions for further discussion.
 
-**Format** Key updates will be available from this page in the form of short pre-recorded presentations that can be reused as training materials or outreach materials (max 7 minutes per video).
-
 {: .notification .is-info}
-Please view the presentations ahead of the live panel discussions and use the [GBIF community forum](https://discourse.gbif.org/) to ask questions.
+Please view the presentations ahead of the live panel discussion and use the [GBIF community forum](https://discourse.gbif.org/t/gnm-2021-global-nodes-meeting-2021/2879) to ask questions.
 
 ## Theme 3: Product development and tools
 
