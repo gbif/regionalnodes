@@ -14,7 +14,7 @@ sideNavigation: sessions.sessions
 </div>
 
 {: .notification .is-info}
-Please review these links and materials as references for the live demo session.
+Please view the presentations ahead of the live panel discussion and use the [GBIF community forum](https://discourse.gbif.org/t/gnm-2021-global-nodes-meeting-2021/2879) to ask questions.
 
 * How to teach the GBIF Data Mobilization course  on site and online
   * [Data mobilization course](https://docs.gbif.org/course-data-mobilization)
