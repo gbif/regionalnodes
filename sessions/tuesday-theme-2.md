@@ -18,38 +18,34 @@ sideNavigation: sessions.sessions
 
 To explore key themes with panels of experts from the community, building on presentations from the nodes and Secretariat on topics that were requested in the consultation with nodes.
 
-**Format**
-
-Key updates will be available from this page in the form of short pre-recorded presentations that can be reused as training materials or outreach materials.
-
-## Panel discussion: Exploring future directions for GBIF
-*Presentation by Dave Martin and Javier Molina*
-{% include vimeo.html id="569102996" %}
-GNM 2021 (Virtual) Theme 2 Live panel with all presenters. Panel moderator: Mélianie Raymond, GBIF Secretariat, Participation and Engagement
-
 {: .notification .is-info}
-Please view the presentations below ahead of the live panel discussions and use the GBIF community forum to ask any questions.
+Please view the presentations ahead of the live panel discussion and use the [GBIF community forum](https://discourse.gbif.org/t/gnm-2021-global-nodes-meeting-2021/2879) to ask questions.
 
-## Aligning GBIF and ALA
+### Aligning GBIF and ALA
 *Presentation by Dave Martin and Javier Molina*
 {% include vimeo.html id="566499732" %}
 
-## Looking ahead: GBIF data model
+### Looking ahead: GBIF data model
 *Presentation by GBIF Secretariat staff Tim Robertson, Head of Informatics*
 {% include vimeo.html id="564608734" title="Looking ahead: GBIF data model" %}
 
-## GBIF and the Post-2020 Global Biodiversity
+### GBIF and the Post-2020 Global Biodiversity
 *Presentation by GBIF Secretariat staff Andrew Rodrigues, Programme Officer*
 {% include vimeo.html id="564608734" title="GBIF and the Post-2020 Global Biodiversity" %}
 
-## Private-sector engagement: guidance materials, and role of nodes
+### Private-sector engagement: guidance materials, and role of nodes
 *Presentation by GBIF Secretariat staff Andrew Rodrigues, Programme Officer*
 {% include vimeo.html id="564604996" title="Private-sector engagement: guidance materials, and role of nodes" %}
 
-## GBIF: potential for a thematic approach
+### GBIF: potential for a thematic approach
 *Presentation by GBIF staff Dmitry Schigel*
 {% include vimeo.html id="566502314" title="GBIF: potential for a thematic approachs" %}
 
-## Ambassadors and users
+### Ambassadors and users
 *Presentation by GBIF staff Daniel Noesgaard and Dmitry Schigel*
 {% include vimeo.html id="566502365" title="Ambassadors and users" %}
+
+### Panel discussion: Exploring future directions for GBIF
+*Presentation by Dave Martin and Javier Molina*
+{% include vimeo.html id="569102996" %}
+GNM 2021 (Virtual) Theme 2 Live panel with all presenters. Panel moderator: Mélianie Raymond, GBIF Secretariat, Participation and Engagement
