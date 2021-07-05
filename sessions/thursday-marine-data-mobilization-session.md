@@ -16,35 +16,33 @@ toc: true
 
 **Goal** To update the community on the collaboration between GBIF and OBIS and discuss how we can work together on marine data mobilization
 
-**Format** Pre-recorded presentations will introduce the collaboration and examples of how GBIF nodes and OBIS are working together. A 1.5 hour live session will be an opportunity to discuss how we can strengthen collaboration and work towards common guidelines for marine data publishing that would go to both GBIF and OBIS in one step.
 
-{: .notification .is-info}
-Please view the presentations ahead of the live panel discussions and use the [GBIF community forum](https://discourse.gbif.org/) to ask any questions ahead of the live sessions. You can also ask questions during the panel discussions.
 
-## OBIS-GBIF introduction
+
+### OBIS-GBIF introduction
 *Presentation by Ward Appeltans, Project Manager at OBIS*
 {% include vimeo.html id="566605276" %}
 
-## Welcome statement from Martha Vides
+### Welcome statement from Martha Vides
 *Presentation by Martha Vides, OBIS*
 {% include vimeo.html id="566610206" %}
 
-## OBIS and GBIF commonalities and differences
+### OBIS and GBIF commonalities and differences
 *Presentation by Abby Benson, OBIS USA*
 {% include vimeo.html id="566605186" %}
 
-## Interoperable and reusable research data in OBIS
+### Interoperable and reusable research data in OBIS
 *Presentation by Pieter Provoost, UNESCO/IOC Project Office for IODE, OBIS Data Manager*
 {% include vimeo.html id="566604359" %}
 
-## Collaboration between OBIS and GBIF nodes
+### Collaboration between OBIS and GBIF nodes
 *Presentation by Anton Van de Putte, Antarctic Biodiversity Information Facility (ANTABIF)*
 {% include vimeo.html id="566604232" %}
 
-## Norwegian GBIF marine datasets from OBIS
+### Norwegian GBIF marine datasets from OBIS
 *Presentation by Norwegian GBIF Node*
 {% include vimeo.html id="566605968" %}
 
-## Norwegian GBIF marine datasets from OBIS
+### Norwegian GBIF marine datasets from OBIS
 *Presentation by Ward Appeltans, OBIS*
 {% include vimeo.html id="570247972" %}
