@@ -38,5 +38,5 @@ Please review these links and materials as references for the live demo session.
 {% include vimeo.html id="570183638" %}
 
 ## Live demos Group 3
-*Facilitator: mélianie Raymond* 
+*Facilitator: Mélianie Raymond* 
 {% include vimeo.html id="571532857" %}
