@@ -34,5 +34,9 @@ Please review these links and materials as references for the live demo session.
 {% include vimeo.html id="566563194" %}
 
 ## Plazi: literature-based datasets in GBIF
-*by Donat Agosti, Plazi, Switzerland*
+*By Donat Agosti, Plazi, Switzerland*
 {% include vimeo.html id="570183638" %}
+
+## Live demos Group 3
+*Facilitator: mélianie Raymond* 
+{% include vimeo.html id="571532857" %}
