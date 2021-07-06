@@ -15,7 +15,7 @@ toc: true
 </div>
 
 {: .notification .is-info}
-Please review these links and materials as references for the live demo session.
+Please view the presentations ahead of the live panel discussion and use the [GBIF community forum](https://discourse.gbif.org/t/gnm-2021-global-nodes-meeting-2021/2879) to ask questions.
 
 ## Support document to the the live demo and discussion
 *Presentation by Vicente J. Ruiz Jurado, LA Technical Coordinator also taking care of GBIF.es infra*
