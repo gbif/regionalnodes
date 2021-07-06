@@ -360,6 +360,12 @@ Norwegian GBIF marine datasets from OBIS
 
 "Game show host" facilitator: Andrew Rodrigues
 
+----------
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/571521342?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Nodes vs help desk battle and Final evaluation"></iframe></div>
+GNM 2021 (Virtual) Nodes vs Marie Grosjean from the GBIF data products team "Game show host" facilitator: Andrew Rodrigues and Final evaluation activities with Mélianie Raymond and Maheva Bagard Laursen as facilitators
+
+----------
 
 ## Evaluation activities
 
@@ -368,6 +374,3 @@ Norwegian GBIF marine datasets from OBIS
 **Format** Survey and short open floor discussion for closing remarks.
 
 Facilitators: Mélianie Raymond, Maheva Bagard Laursen
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/571521342?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Nodes vs help desk battle and Final evaluation"></iframe></div>
-GNM 2021 (Virtual) Nodes vs Marie Grosjean from the GBIF data products team "Game show host" facilitator: Andrew Rodrigues and Final evaluation activities with Mélianie Raymond and Maheva Bagard Laursen as facilitators
