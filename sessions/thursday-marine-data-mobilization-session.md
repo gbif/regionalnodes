@@ -16,8 +16,8 @@ toc: true
 
 **Goal** To update the community on the collaboration between GBIF and OBIS and discuss how we can work together on marine data mobilization
 
-
-
+{: .notification .is-info}
+Please view the presentations ahead of the live panel discussion and use the [GBIF community forum](https://discourse.gbif.org/t/gnm-2021-global-nodes-meeting-2021/2879) to ask questions.
 
 ### OBIS-GBIF introduction
 *Presentation by Ward Appeltans, Project Manager at OBIS*
@@ -43,6 +43,6 @@ toc: true
 *Presentation by Norwegian GBIF Node*
 {% include vimeo.html id="566605968" %}
 
-### Norwegian GBIF marine datasets from OBIS
+### Live session: OBIS Marine data mobilization
 *Presentation by Ward Appeltans, OBIS*
 {% include vimeo.html id="570247972" %}
