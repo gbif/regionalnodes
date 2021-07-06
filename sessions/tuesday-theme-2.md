@@ -46,6 +46,5 @@ Please view the presentations ahead of the live panel discussion and use the [GB
 {% include vimeo.html id="566502365" title="Ambassadors and users" %}
 
 ### Panel discussion: Exploring future directions for GBIF
-*Presentation by Dave Martin and Javier Molina*
+*Panel moderator: Mélianie Raymond*
 {% include vimeo.html id="569102996" %}
-GNM 2021 (Virtual) Theme 2 Live panel with all presenters. Panel moderator: Mélianie Raymond, GBIF Secretariat, Participation and Engagement
