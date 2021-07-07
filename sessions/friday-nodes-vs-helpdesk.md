@@ -18,4 +18,4 @@ sideNavigation: sessions.sessions
 
 ### Nodes vs help desk battle
 *Nodes vs Marie Grosjean from the GBIF data products team "Game show host" facilitator: Andrew Rodrigues*
-{% include vimeo.html id="571521342" title="Ambassadors and users" %}
+{% include vimeo.html id="571521342" title="Nodes vs help desk battle" %}
