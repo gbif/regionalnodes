@@ -2,9 +2,9 @@
 title: Sessions
 layout: documentation
 description: Please view the videos and links in preparation for the live sessions
-background: /assets/images/Limenitis reducta Staudinger,.jpg
+background: /assets/images/gnm2021_group_photo_2.jpg
 imageLicense: |
-  [*Limenitis reducta*](https://www.gbif.org/occurrence/2840552819) observed in Iran (Islamic Republic of) by Simon Plat licensed under [(CC BY-NC-ND 4.0)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+  *GNM 2021 Group photo* by Daniel Noesgaard under [(CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/)
 height: 70vh
 sideNavigation: sessions.sessions
 composition: 
