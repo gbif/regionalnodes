@@ -16,6 +16,6 @@ sideNavigation: sessions.sessions
 
 **Goal** To demonstrate some of the lesser known functionalities of GBIF.org through a fun interactive session
 
-### Nodes vs help desk battle and Final evaluation
-*Nodes vs Marie Grosjean from the GBIF data products team "Game show host" facilitator: Andrew Rodrigues including Final evaluation activities with Mélianie Raymond and Maheva Bagard Laursen as facilitators*
+### Nodes vs help desk battle
+*Nodes vs Marie Grosjean from the GBIF data products team "Game show host" facilitator: Andrew Rodrigues*
 {% include vimeo.html id="571521342" title="Ambassadors and users" %}
