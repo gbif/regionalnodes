@@ -20,7 +20,7 @@ See also the [schedule](/schedule-2)
 
 * [Icebreaker](/Icebreaker) 
 * Panel discussions exploring key themes introduced in pre-recorded presentations
-  * [Theme 1: The role of nodes in GBIF’s next strategic period](/theme-1)
+  * [Theme 1: The role of nodes in GBIF’s next strategic period](sessions/monday-icebreaker)
   * [Theme 2: Exploring future directions for GBIF](/theme-2)
 * Live Q&A session based on pre-recorded presentations
   * [Theme 3: Product development and tools](/theme-3)
