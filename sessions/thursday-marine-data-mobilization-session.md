@@ -44,5 +44,5 @@ Please view the presentations ahead of the live panel discussion and use the [GB
 {% include vimeo.html id="566605968" %}
 
 ### Live session: OBIS Marine data mobilization
-*Presentation by Ward Appeltans, OBIS*
+*Facilitators: Ward Appeltans, OBIS, and Abby Benson, OBIS USA and US GBIF Node*
 {% include vimeo.html id="570247972" %}
