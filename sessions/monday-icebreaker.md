@@ -29,4 +29,5 @@ You can discuss the following questions:
 
 Or just use this opportunity to catch up with old friends and meet new ones!
 
-[icebreaker drinks](/assets/Ice breaker drinks!.JPG)
+{:standalone .has-text-centered}
+(/assets/Ice breaker drinks!.JPG)
