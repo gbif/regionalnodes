@@ -16,7 +16,7 @@ Welcome to GNM 2021
 
 The meeting will combine different session types. 
 
-See also the [schedule](/schedule-2) 
+See also the [schedule](/schedule) 
 
 * [Icebreaker](sessions/monday-icebreaker) 
 * Panel discussions exploring key themes introduced in pre-recorded presentations
