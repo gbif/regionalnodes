@@ -15,7 +15,7 @@ sessions:
     path: /sessions/monday-data-mobilization
 - grouptitle: Tuesday, 29 June
   content:
-  - title: "Live demos: Group 2 - tools to support nodes with data mobilization strategies"
+  - title: "Live demos: Group 2 - Tools to support nodes with data mobilization strategies"
     path: /sessions/tuesday-tools-to-support-nodes
   - title: "Panel discussions: Theme 2 - Exploring future directions for GBIF"
     path: /sessions/tuesday-theme-2
