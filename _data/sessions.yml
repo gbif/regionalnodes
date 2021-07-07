@@ -37,7 +37,7 @@ sessions:
   content:
   - title: "Live demos: Group 3 - additional node updates and demos"
     path: /sessions/friday-additional-node-updates-and-demos
-  - title: "Interactive networking: Nodes vs. help desk battle (1 hour). Final evaluation (30 min)"
+  - title: "Interactive networking: Nodes vs. help desk battle (1 hour)"
     path: /sessions/friday-nodes-vs-helpdesk
   - title: "Interactive networking: Final evaluation"
     path: /sessions/friday-final-evaluation
