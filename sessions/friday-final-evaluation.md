@@ -17,4 +17,6 @@ sideNavigation: sessions.sessions
 
 **Goal** to capture feedback from the nodes on the first virtual global nodes meeting.
 
-**Format** Survey and short open floor discussion for closing remarks.
+### Final evaluation
+*Final evaluation activities with Mélianie Raymond and Maheva Bagard Laursen as facilitators*
+{% include vimeo.html id="572010239" title="Final evaluation" %}
