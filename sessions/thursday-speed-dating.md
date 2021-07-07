@@ -26,3 +26,5 @@ sideNavigation: sessions.sessions
 * *What tips and recommendations on resourcing (funding sources, institutional support, support from the local/national/regional network, support from GBIF community, in kind support, etc.) and key areas of success can you share?*
 
 * *In your experience, what are the most efficient tools to demonstrate the importance of GBIF nodes and the importance of formal GBIF participation /What would be the tools you wish you had to  demonstrate the importance of GBIF nodes and the importance of formal GBIF participation?*
+
+> Slides from the session can be found [here](/assets/Speed dating activity _ GNM 2021.pptx.pdf)
