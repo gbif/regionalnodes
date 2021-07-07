@@ -29,5 +29,5 @@ You can discuss the following questions:
 
 Or just use this opportunity to catch up with old friends and meet new ones!
 
-{:standalone .has-text-centered}
-(/assets/Ice breaker drinks!.JPG)
+<figure class="has-text-centered">
+  <img src="/assets/images/Ice breaker drinks!.JPG" alt=" Ice breaker drinks"/></figure>
