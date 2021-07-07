@@ -28,3 +28,5 @@ You can discuss the following questions:
 * *How many cups of coffee, tea, or beverage-of-choice have you had before this meeting?*
 
 Or just use this opportunity to catch up with old friends and meet new ones!
+
+[icebreaker drinks](/assets/Ice breaker drinks!.JPG)
