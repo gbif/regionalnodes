@@ -73,6 +73,11 @@ Please view the presentations ahead of the live panel discussion and use the [GB
 *Presentation by Niels Raes NLBIF Node Manager, Naturalis Biodiversity Center*
 {% include vimeo.html id="567377982" %}
 
-### Live Q&A session based on pre-recorded presentations
+### Live Q&A session Theme 3: Product development and tools
+*Facilitator Maheva Bagard Laursen*
+{% include vimeo.html id=" " %}
+
+### Live Q&A session Theme 4: Content and use
 *Facilitator Laura Anne Russell*
 {% include vimeo.html id="570245824" %}
+
