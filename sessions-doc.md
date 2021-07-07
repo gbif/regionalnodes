@@ -18,22 +18,22 @@ The meeting will combine different session types.
 
 See also the [schedule](/schedule-2) 
 
-* [Icebreaker](/Icebreaker) 
+* [Icebreaker](sessions/monday-icebreaker) 
 * Panel discussions exploring key themes introduced in pre-recorded presentations
-  * [Theme 1: The role of nodes in GBIF’s next strategic period](sessions/monday-icebreaker)
-  * [Theme 2: Exploring future directions for GBIF](/theme-2)
+  * [Theme 1: The role of nodes in GBIF’s next strategic period](sessions/monday-theme-1)
+  * [Theme 2: Exploring future directions for GBIF](sessions/tuesday-theme-2)
 * Live Q&A session based on pre-recorded presentations
-  * [Theme 3: Product development and tools](/theme-3)
-  * [Theme 4: Content and use](/theme-4)
-* [Speed dating networking activity](/Speed dating networking activity)
+  * [Theme 3: Product development and tools](sessions/thursday-theme-3-4)
+  * [Theme 4: Content and use](sessions/thursday-theme-3-4)
+* [Speed dating networking activity](sessions/thursday-speed-dating)
 * Live demos
-  * [Group 1 – data mobilization training and guidance on sequence-derived data mobilization]()
-  * [Group 2 – tools to support nodes with data mobilization strategies]()
-  * [Group 3 – additional node updates and demos]()
+  * [Group 1 – data mobilization training and guidance on sequence-derived data mobilization](sessions/monday-data-mobilization)
+  * [Group 2 – tools to support nodes with data mobilization strategies](sessions/tuesday-tools-to-support-nodes)
+  * [Group 3 – additional node updates and demos](sessions/friday-additional-node-updates-and-demos)
 * [Regional nodes sessions]()
-* [Marine data mobilization session]()
-* [GBIF.org functionality – NODES Vs. HELPDESK]()
-* [Evaluation activities]()
+* [Marine data mobilization session](sessions/thursday-marine-data-mobilization-session)
+* [NODES Vs. HELPDESK](sessions/friday-nodes-vs-helpdesk)
+* [Evaluation activities](sessions/friday-final-evaluation)
 
 
 {: .notification .is-info}
