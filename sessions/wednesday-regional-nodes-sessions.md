@@ -19,7 +19,7 @@ sideNavigation: sessions.sessions
 
 ---
 
-*[Oceania Regional breakout session](/sessions#regional-nodes-sessions) Aaron Wilton to chair*
+*[Oceania Regional breakout session](/sessions#regional-nodes-sessions) chaired by Aaron Wilton*
 <div class="intro-block">
   <a class="tag is-primary" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Oceania+Regional+breakout+session&iso=20210630T07&p1=69&ah=1&am=30">
   Wednesday 30 07:00–08:30 CEST (UTC+2)
