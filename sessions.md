@@ -37,4 +37,4 @@ See also the [schedule](/schedule-2)
 
 
 {: .notification .is-info}
-Please view the presentations ahead of the sessions and use the [GBIF community forum](https://discourse.gbif.org/c/nodes/9) to ask any questions ahead of the live sessions. You can also ask questions during the panel discussions.
+Please use the [GBIF community forum](https://discourse.gbif.org/t/gnm-2021-global-nodes-meeting-2021/2879) to ask any questions you might have to the videos.
