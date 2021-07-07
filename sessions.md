@@ -4,7 +4,7 @@ layout: documentation
 description: Welcome to GNM 2021
 background: /assets/images/gnm2021_group_photo_2.jpg
 imageLicense: |
-  *GNM 2021 Group photo* by Daniel Noesgaard under [(CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/)
+  *GNM 2021 Group photo* by Daniel Noesgaard [(CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/)
 height: 70vh
 sideNavigation: sessions.sessions
 composition: 
