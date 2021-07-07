@@ -29,7 +29,7 @@ sideNavigation: sessions.sessions
 
 ---
 
-*[Europe and Central Asia Regional breakout sessions](/sessions#regional-nodes-sessions) Piotr Tykarski and Dag Endresen to chair*
+*[Europe and Central Asia Regional breakout sessions](/sessions#regional-nodes-sessions) chaired by Piotr Tykarski and Dag Endresen*
 <div class="intro-block">
   <a class="tag is-primary" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Europe+and+Central+Asia+Regional+breakout+sessions&iso=20210630T10&p1=69&ah=1&am=30">
   Wednesday 30 10:00–11:30 CEST (UTC+2)
@@ -39,7 +39,7 @@ sideNavigation: sessions.sessions
 
 ---
 
-*[Asia Regional breakout sessions](/sessions#regional-nodes-sessions) Keping Ma to chair*
+*[Asia Regional breakout sessions](/sessions#regional-nodes-sessions) chaired by Keping Ma*
 <div class="intro-block">
   <a class="tag is-primary" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Asia+Regional+breakout+sessions&iso=20210630T10&p1=69&ah=1&am=30">
   Wednesday 30 10:00–11:30 CEST (UTC+2)
@@ -49,7 +49,7 @@ sideNavigation: sessions.sessions
 
 ---
 
-*[Africa Regional breakout sessions](/sessions#regional-nodes-sessions) Jean Ganglo and Pierre Radji to chair*
+*[Africa Regional breakout sessions](/sessions#regional-nodes-sessions) chaired by Jean Ganglo and Pierre Radji*
 <div class="intro-block">
   <a class="tag is-primary" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Africa+Regional+breakout+sessions&iso=20210630T11&p1=69&ah=1&am=30">
   Wednesday 30 11:00–12:30 CEST (UTC+2)
@@ -60,7 +60,7 @@ sideNavigation: sessions.sessions
 
 ---
 
-*[Latin America and the Caribbean Regional breakout sessions](/sessions#regional-nodes-sessions) Anabela Plos to chair*
+*[Latin America and the Caribbean Regional breakout sessions](/sessions#regional-nodes-sessions) chaired by Anabela Plos*
 <div class="intro-block">
   <a class="tag is-primary" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Latin+America+and+the+Caribbean+Regional+breakout+sessions&iso=20210630T17&p1=69&ah=1&am=30">
   Wednesday 30 17:00–18:30 CEST (UTC+2)
@@ -70,7 +70,7 @@ sideNavigation: sessions.sessions
 
 ---
 
-*[North America Regional breakout sessions](/sessions#regional-nodes-sessions) David Jennings and Carole Sinou to chair*
+*[North America Regional breakout sessions](/sessions#regional-nodes-sessions) chaired by David Jennings and Carole Sinou*
 <div class="intro-block">
   <a class="tag is-primary" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=North+America+Regional+breakout+sessions&iso=20210630T18&p1=69&ah=1&am=30">
   Wednesday 30 18:00–19:30 CEST (UTC+2)
