@@ -1,7 +1,7 @@
 ---
 title: Sessions
 layout: documentation
-description: Please view the videos and links in preparation for the live sessions
+description: Welcome to GNM 2021
 background: /assets/images/gnm2021_group_photo_2.jpg
 imageLicense: |
   *GNM 2021 Group photo* by Daniel Noesgaard under [(CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/)
@@ -11,10 +11,6 @@ composition:
 - type: postHeader
 - type: pageMarkdown
 ---
-
-Welcome to GNM 2021 
-
-The meeting will combine different session types. 
 
 See also the [schedule](/schedule) 
 
