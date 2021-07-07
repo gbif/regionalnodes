@@ -2,9 +2,9 @@ sessions:
 - grouptitle:
   content:
   - title: Sessions
-    path: /sessions-doc
+    path: /sessions
   - title: Schedule
-    path: /schedule-2
+    path: /schedule
 - grouptitle: Monday, 28 June
   content:
   - title: "Interactive networking: Icebreaker"
