@@ -40,7 +40,7 @@ Please view the presentations ahead of the live panel discussion and use the [GB
 {% include vimeo.html id="566604232" %}
 
 ### Norwegian GBIF marine datasets from OBIS
-*Presentation by Norwegian GBIF Node*
+*Presentation by Rukaya Johaadien, Norwegian GBIF Node Staff*
 {% include vimeo.html id="566605968" %}
 
 ### Live session: OBIS Marine data mobilization
