@@ -4,8 +4,8 @@ layout: documentation
 description: Please check back regularly for updates including instructions on how to prepare for sessions
 sideNavigation: sessions.sessions
 ---
-# Group 2 – tools to support nodes with data mobilization strategies
-*Facilitators: Laura Anne Russell*
+# Group 2 – Tools to support nodes with data mobilization strategies
+*Facilitators: Laura Anne Russell and Marie Grosjean*
 <div class="intro-block">
   <a class="tag is-primary" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Live+demos%3A+Group+2&iso=20210629T14&p1=69&ah=1&am=30">
   Tuesday 29 14:00–15:30 CEST (UTC+2)
@@ -28,5 +28,5 @@ Please view the presentations ahead of the live panel discussion and use the [GB
 * [Issues list](https://github.com/gbif/portal-feedback/issues)
 
 ### Live demos: Group 2 Tools to support nodes with data mobilization strategies
-*Presentation by Laura Anne Russell, GBIF Secretariat*
+*Presentation by Laura Anne Russell and Marie Grosjean, GBIF Secretariat*
 {% include vimeo.html id="569093098" title="Tools to support nodes with data mobilization strategies" %}
