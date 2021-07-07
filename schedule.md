@@ -16,7 +16,7 @@ sideNavigation: sessions.sessions
 
 ## Optional preparatory activity - Introduction to GBIF training
 
-Follow the new online [Introduction to GBIF course](https://docs.gbif.org/course-introduction-to-gbif/en/index.en.html) in your own time ahead of the meeting and provide any feedback in the [GBIF Community forum](https://discourse.gbif.org/).
+Follow the new online [Introduction to GBIF course](https://docs.gbif.org/course-introduction-to-gbif/en/index.en.html) in your own time ahead of the meeting and provide any feedback in the [GBIF Community forum](https://discourse.gbif.org/t/gnm-2021-global-nodes-meeting-2021/2879).
 
 ## Monday, 28 June
 
