@@ -6,7 +6,7 @@ sideNavigation: sessions.sessions
 
 ---
 # Exploring future directions for GBIF - live panel with all presenters
-*Panel moderator: Mélianie Raymond*
+*Panel moderator: Mélianie Raymond, GBIF Secretariat*
 <div class="intro-block">
   <a class="tag is-primary" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Theme+2+panel&iso=20210629T16&p1=69&ah=1&am=30">
   Tuesday 29 16:00–17:30 CEST (UTC+2)
@@ -26,25 +26,25 @@ Please view the presentations ahead of the live panel discussion and use the [GB
 {% include vimeo.html id="566499732" %}
 
 ### Looking ahead: GBIF data model
-*Presentation by GBIF Secretariat staff Tim Robertson, Head of Informatics*
+*Presentation by Tim Robertson, Head of Informatics, GBIF Secretariat*
 {% include vimeo.html id="564600741" title="Looking ahead: GBIF data model" %}
 
 ### GBIF and the Post-2020 Global Biodiversity
-*Presentation by GBIF Secretariat staff Andrew Rodrigues, Programme Officer*
+*Presentation by Andrew Rodrigues, Programme Officer, GBIF Secretariat*
 {% include vimeo.html id="564608734" title="GBIF and the Post-2020 Global Biodiversity" %}
 
 ### Private-sector engagement: guidance materials, and role of nodes
-*Presentation by GBIF Secretariat staff Andrew Rodrigues, Programme Officer*
+*Presentation by Andrew Rodrigues, Programme Officer, GBIF Secretariat*
 {% include vimeo.html id="564604996" title="Private-sector engagement: guidance materials, and role of nodes" %}
 
 ### GBIF: potential for a thematic approach
-*Presentation by GBIF staff Dmitry Schigel*
+*Presentation by Dmitry Schigel, GBIF Secretariat*
 {% include vimeo.html id="566502314" title="GBIF: potential for a thematic approachs" %}
 
 ### Ambassadors and users
-*Presentation by GBIF staff Daniel Noesgaard and Dmitry Schigel*
+*Presentation by Daniel Noesgaard and Dmitry Schigel, GBIF Secretariat*
 {% include vimeo.html id="566502365" title="Ambassadors and users" %}
 
 ### Panel discussion: Exploring future directions for GBIF
-*Panel moderator: Mélianie Raymond*
+*Panel moderator: Mélianie Raymond, GBIF Secretariat*
 {% include vimeo.html id="569102996" %}
