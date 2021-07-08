@@ -5,7 +5,7 @@ description: Please check back regularly for updates including instructions on h
 sideNavigation: sessions.sessions
 ---
 # GBIF.org functionality – NODES Vs. HELPDESK
-*"Game show host" facilitator: Andrew Rodrigues*
+*"Game show host" facilitator: Andrew Rodrigues, GBIF Secretariat*
 <div class="intro-block">
   <a class="tag is-primary" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Nodes+vs.+help+desk+battle&iso=20210702T16&p1=69&ah=1&am=30">
   Friday 2 16:00–17:30 CEST (UTC+2)
@@ -17,5 +17,5 @@ sideNavigation: sessions.sessions
 **Goal** To demonstrate some of the lesser known functionalities of GBIF.org through a fun interactive session
 
 ### Nodes vs help desk battle
-*Nodes vs Marie Grosjean from the GBIF data products team "Game show host" facilitator: Andrew Rodrigues*
+*Nodes vs Marie Grosjean from the GBIF data products team "Game show host" facilitator: Andrew Rodrigues, GBIF Secretariat*
 {% include vimeo.html id="571521342" title="Nodes vs help desk battle" %}
