@@ -5,7 +5,7 @@ description: Please check back regularly for updates including instructions on h
 sideNavigation: sessions.sessions
 ---
 ## Group 1 - Data mobilization training and guidance on sequence-derived data mobilization
-*Presenter: Laura Anne Russell and  Dmitry Schigel*
+*Presenter: Laura Anne Russell and  Dmitry Schigel, GBIF Secretariat*
 <div class="intro-block">
   <a class="tag is-primary" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Live+demos%3A+Group+1&iso=20210628T16&p1=69&ah=1&am=30">
   Monday 28 16:00–17:30 CEST (UTC+2)
