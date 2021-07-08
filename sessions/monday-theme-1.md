@@ -6,7 +6,7 @@ sideNavigation: sessions.sessions
 toc: true
 ---
 ## The role of nodes in GBIF’s next strategic period - live panel with all presenters
-*Panel moderator: Mélianie Raymond*
+*Panel moderator: Mélianie Raymond, GBIF Secretariat*
 <div class="intro-block">
   <a class="tag is-primary" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Theme+1+panel%3A+The+role+of+nodes+in+GBIF%E2%80%99s+next+strategic+period&iso=20210628T14&p1=69&ah=1&am=30">
   Monday 28 14:00–15:30 CEST (UTC+2)
@@ -26,19 +26,23 @@ Please view the presentations ahead of the live panel discussion and use the [GB
 {% include vimeo.html id="566492345" %}
 
 ### The Role of the Nodes in Next GBIF Strategic Plan
-*Presentation by Executive Secretary, Joe Miller*
+*Presentation by Executive Secretary, Joe Miller, GBIF Secretariat*
 {% include vimeo.html id="565570188" title="The Role of the Nodes in Next GBIF Strategic Plan" %}
 
+### GBIF’s Values
+*Presentation by Tim Hirsch, Deputy Director, GBIF Secretariat*
+{% include vimeo.html id="568321140" %}
+
 ### GBIF Resource Mobilization Strategy
-*Presentation by GBIF staff Hilary Goodson, Strategic Partnership Officer*
+*Presentation by Hilary Goodson, Strategic Partnership Officer, GBIF Secretariat*
 > Please review this background document as references for the live demo session **[background document](/assets/rms.pdf)**
 {% include vimeo.html id="566017188" title="GBIF Resource Mobilization Strategy" %}
 
 ### Strengthening regional capacity in GBIF
-*Presentation by GBIF Secretariat staff Mélianie Raymond and Maheva Bagard Laursen, Participation and Engagement*
+*Presentation by Mélianie Raymond and Maheva Bagard Laursen, Participation and Engagement, GBIF Secretariat*
 {% include vimeo.html id="566458271" title="Strengthening regional capacity in GBIF" %}
 
 ### Panel discussion: The role of nodes in GBIF’s next strategic period
-*Theme 1 Live panel with all presenters. Panel moderator: Mélianie Raymond, GBIF Secretariat, Participation and Engagement*
+*Theme 1 Live panel with all presenters. Panel moderator: Mélianie Raymond, Participation and Engagement, GBIF Secretariat*
 {% include vimeo.html id="568778490
 " title="The role of nodes in GBIF’s next strategic period" %}
