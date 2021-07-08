@@ -9,6 +9,7 @@ klass: homepage
 hasBlackText: true
 imageLicense: |
   [*Loxodonta africana*](https://www.gbif.org/occurrence/2620079212) observed in Tanzania (United Republic of) by Patrick Palines, licensed under [(CC BY-NC 4.0)](http://creativecommons.org/licenses/by-nc/4.0/)
+permalink: /
 
 ---
 
