@@ -5,7 +5,7 @@ description: Please check back regularly for updates including instructions on h
 sideNavigation: sessions.sessions
 ---
 # Evaluation activities
-*Facilitators: Mélianie Raymond, Maheva Bagard Laursen*
+*Facilitators: Mélianie Raymond, Maheva Bagard Laursen, GBIF Secretariat*
 
 <div class="intro-block">
   <a class="tag is-primary" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Nodes+vs.+help+desk+battle&iso=20210702T16&p1=69&ah=1&am=30">
@@ -18,5 +18,5 @@ sideNavigation: sessions.sessions
 **Goal** to capture feedback from the nodes on the first virtual global nodes meeting.
 
 ### Final evaluation
-*Final evaluation activities with Mélianie Raymond and Maheva Bagard Laursen as facilitators*
+*Final evaluation activities with Mélianie Raymond and Maheva Bagard Laursen from GBIF Secretariat as facilitators*
 {% include vimeo.html id="572010239" title="Final evaluation" %}
