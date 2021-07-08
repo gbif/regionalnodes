@@ -5,7 +5,7 @@ description: Please check back regularly for updates including instructions on h
 sideNavigation: sessions.sessions
 ---
 # Group 2 – Tools to support nodes with data mobilization strategies
-*Facilitators: Laura Anne Russell and Marie Grosjean*
+*Facilitators: Laura Anne Russell and Marie Grosjean, GBIF Secretariat*
 <div class="intro-block">
   <a class="tag is-primary" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Live+demos%3A+Group+2&iso=20210629T14&p1=69&ah=1&am=30">
   Tuesday 29 14:00–15:30 CEST (UTC+2)
