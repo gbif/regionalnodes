@@ -23,15 +23,15 @@ Please view the presentations ahead of the live panel discussion and use the [GB
 ## Theme 3: Product development and tools
 
 ### GBIF Hosted portals - update
-*Presentation by GBIF Secretariat Morten Høfft, Developer*
+*Presentation by Morten Høfft, Developer, GBIF Secretariat*
 {% include vimeo.html id="565590504" %}
 
 ### Future of the Integrated Publishing Toolkit (IPT)
-*Presentation by GBIF Secretariat staff Mikhail Podolskiy, Developer*
+*Presentation by Mikhail Podolskiy, Developer, GBIF Secretariat*
 {% include vimeo.html id="565518171" %}
 
 ### GBIF exports available on the cloud
-*Presentation by GBIF Secretariat Matthew Blissett and Tim Robertson, Informatics*
+*Presentation by Matthew Blissett and Tim Robertson, Informatics, GBIF Secretariat*
 {% include vimeo.html id="566507538" %}
 
 ## Theme 4: Content and use
@@ -41,7 +41,7 @@ Please view the presentations ahead of the live panel discussion and use the [GB
 {% include vimeo.html id="568318390" %}
 
 ### Introduction to GRSciColl: registry of Scientific collections
-*Presentation by GBIF Secretariat staff Marie Grosjean, Data administrator*
+*Presentation by Marie Grosjean, Data administrator, GBIF Secretariat*
 {% include vimeo.html id="564594528" %}
 
 > For reference, links and examples mentioned in the presentation
@@ -62,11 +62,11 @@ Please view the presentations ahead of the live panel discussion and use the [GB
 > Send feedback to [scientific-collections@gbif.org](mailto:scientific-collections@gbif.org) or log it [here](https://github.com/gbif/portal-feedback)
 
 ### Working with issues and flags, including highlighting data blog
-*Presentation by GBIF Secretariat staff Andrea Hahn, Head of Data Products*
+*Presentation by Andrea Hahn, Head of Data Products, GBIF Secretariat*
 {% include vimeo.html id="565517676" %}
 
 ### Sensitive Species Data
-*Presentation by GBIF Secretariat staff Andrew Rodrigues, Programme Officer*
+*Presentation by Andrew Rodrigues, Programme Officer, GBIF Secretariat*
 {% include vimeo.html id="564610096" %}
 
 ### Analyzing GBIF data use
@@ -74,9 +74,9 @@ Please view the presentations ahead of the live panel discussion and use the [GB
 {% include vimeo.html id="567377982" %}
 
 ### Live Q&A session Theme 3: Product development and tools
-*Facilitator Maheva Bagard Laursen*
+*Facilitator: Maheva Bagard Laursen, GBIF Secretariat*
 {% include vimeo.html id="572048129" %}
 
 ### Live Q&A session Theme 4: Content and use
-*Facilitator Laura Anne Russell*
+*Facilitator: Laura Anne Russell, GBIF Secretariat*
 {% include vimeo.html id="570245824" %}
