@@ -5,7 +5,7 @@ description: Please check back regularly for updates including instructions on h
 sideNavigation: sessions.sessions
 ---
 ## Icebreaker virtual networking activity
-*Facilitators: Mélianie Raymond and Maheva Bagard Laursen*
+*Facilitators: Mélianie Raymond and Maheva Bagard Laursen, GBIF Secretariat*
 <div class="intro-block">
   <a class="tag is-primary" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Icebreaker+%E2%80%93+Interactive+networking&iso=20210629T19&p1=69&ah=1&am=30">
   Tuesday 29 19:00–20:30 CEST (UTC+2)
