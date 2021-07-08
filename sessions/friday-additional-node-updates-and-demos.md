@@ -6,7 +6,7 @@ sideNavigation: sessions.sessions
 toc: true
 ---
 # Group 3 – additional node updates and demos
-*Facilitators: Mélianie Raymond*
+*Facilitators: Mélianie Raymond, GBIF Secretariat*
 <div class="intro-block">
   <a class="tag is-primary" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Live+demos%3A+Group+3&iso=20210702T14&p1=69&ah=1&am=30">
   Friday 2 14:00–15:30 CEST (UTC+2)
@@ -38,5 +38,5 @@ Please view the presentations ahead of the live panel discussion and use the [GB
 {% include vimeo.html id="570183638" %}
 
 ## Live demos Group 3
-*Facilitator: Mélianie Raymond* 
+*Facilitator: Mélianie Raymond, GBIF Secretariat* 
 {% include vimeo.html id="571532857" %}
