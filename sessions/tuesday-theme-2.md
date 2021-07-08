@@ -27,7 +27,7 @@ Please view the presentations ahead of the live panel discussion and use the [GB
 
 ### Looking ahead: GBIF data model
 *Presentation by GBIF Secretariat staff Tim Robertson, Head of Informatics*
-{% include vimeo.html id="564608734" title="Looking ahead: GBIF data model" %}
+{% include vimeo.html id="564600741" title="Looking ahead: GBIF data model" %}
 
 ### GBIF and the Post-2020 Global Biodiversity
 *Presentation by GBIF Secretariat staff Andrew Rodrigues, Programme Officer*
