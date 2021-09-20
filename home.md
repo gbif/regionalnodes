@@ -12,6 +12,9 @@ imageLicense: |
 permalink: /
 
 ---
+## Global Nodes Meeting 2021 Report
+
+{: .notification .is-info} The meeting report can be found and downloaded (here)[https://www.gbif.org/document/4ghZwJxcfBlNMyP81h7DlY/global-nodes-meeting-report-2021]
 
 ## Background
 
