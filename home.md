@@ -15,7 +15,7 @@ permalink: /
 ## Global Nodes Meeting 2021 Report
 
 {: .notification .is-info}
-[**Click to downloaded the meeting report**](https://www.gbif.org/document/4ghZwJxcfBlNMyP81h7DlY/global-nodes-meeting-report-2021)
+[**Click to download the meeting report**](https://www.gbif.org/document/4ghZwJxcfBlNMyP81h7DlY/global-nodes-meeting-report-2021)
 
 ## Background
 
