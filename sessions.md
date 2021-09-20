@@ -34,3 +34,4 @@ See also the [schedule](/schedule)
 
 {: .notification .is-info}
 Please use the [GBIF community forum](https://discourse.gbif.org/t/gnm-2021-global-nodes-meeting-2021/2879) to ask any questions you might have to the videos.
+[Click here to download the meeting report](https://www.gbif.org/document/4ghZwJxcfBlNMyP81h7DlY/global-nodes-meeting-report-2021)
