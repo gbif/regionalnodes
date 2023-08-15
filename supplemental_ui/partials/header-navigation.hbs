@@ -1,0 +1,6 @@
+<div class="navbar-item has-dropdown is-hoverable">
+  {{#with (resolvePage '2021::index.adoc')}}<a class="navbar-link" href="{{relativize url}}">Past meetings</a>{{/with}}
+  <div class="navbar-dropdown">
+    {{#with (resolvePage '2021::index.adoc')}}<a class="navbar-item" href="{{relativize url}}">2021</a>{{/with}}
+  </div>
+</div>

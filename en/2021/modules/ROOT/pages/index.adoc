@@ -1,6 +1,6 @@
 ---
-lang-ref: home
-layout: page
+page-layout: home
+page-no-next: true
 title: Global Nodes Meeting 2021
 description: GBIF node managers and node staff met for the first virtual global gathering from 28 June to 2 July!
 background: /assets/images/Loxodonta africanas.jpeg
@@ -12,6 +12,11 @@ imageLicense: |
 permalink: /
 
 ---
+
+= Training Courses
+:page-no-next: true
+:page-layout: home
+
 ## Global Nodes Meeting 2021 Report
 
 {: .notification .is-info}

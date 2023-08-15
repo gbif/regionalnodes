@@ -1,0 +1,20 @@
+* xref:sessions.adoc[]
+* xref:schedule.adoc[]
+* Monday, 28 June
+** xref:monday-icebreaker.adoc[Interactive networking: Icebreaker]
+** xref:monday-theme-1.adoc[Panel discussions: Theme 1 - The role of nodes in GBIF’s next strategic period]
+** xref:monday-data-mobilization.adoc[Live demos: Group 1 - Data mobilization training and guidance on sequence-derived data mobilization]
+* Tuesday, 29 June
+** xref:tuesday-tools-to-support-nodes.adoc[Live demos: Group 2 - Tools to support nodes with data mobilization strategies]
+** xref:tuesday-theme-2.adoc[Panel discussions: Theme 2 - Exploring future directions for GBIF]
+** xref:tuesday-icebreaker.adoc[Interactive networking: Icebreaker]
+* Wednesday, 30 June
+** xref:wednesday-regional.adoc[Regional nodes sessions]
+* Thursday, 1 July
+** xref:thursday-speed-dating.adoc[Interactive networking: Speed-dating on collaboration ideas]
+** xref:thursday-theme-3-4.adoc[Live Q&A: theme 3 and theme 4]
+** xref:thursday-marine-data-mobilization-session.adoc[Live demos: OBIS Marine data mobilization session]
+* Friday, 2 July
+** xref:friday-additional-node-updates-and-demos.adoc[Live demos: Group 3 - additional node updates and demos]
+** xref:friday-nodes-vs-helpdesk.adoc[Interactive networking: Nodes vs. help desk battle (1 hour)]
+** xref:friday-final-evaluation.adoc[Interactive networking: Final evaluation]

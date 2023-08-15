@@ -1,9 +1,6 @@
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
-
-# Mac OS X
-.DS_Store
-
+cache
+output
+.npm
+node_modules
+package.json
+package-lock.json
