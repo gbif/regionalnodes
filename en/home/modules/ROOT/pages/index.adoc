@@ -14,8 +14,16 @@ Lorem ipsum.
 
 [.blocks]
 * xref:2021::index.adoc[image:td-bg-01.png[]]
-** xref:2021::index.adoc[Global Nodes Meeting 2021]
-** Lorem ipsum.
+** xref:2021::index.adoc[Global Nodes Training]
+** Global Nodes Training
+
+* xref:2021::index.adoc[image:td-bg-01.png[]]
+** xref:2021::index.adoc[Buddy interactions]
+** Buddy interactions
+
+* xref:2021::index.adoc[image:td-bg-01.png[]]
+** xref:2021::index.adoc[Global Nodes Meeting 2023]
+** Global Nodes Meeting
 
 [.discrete]
 == Lorem ipsum
