@@ -1,8 +1,8 @@
-= Global Nodes
+= Global Nodes Meeting and Training
 :page-no-next: true
 :page-layout: home
 
-Lorem ipsum.
+The Global Nodes Meeting and Training are an opportunity for all GBIF nodes to come together to learn from each other, discuss ideas, develop best practices, share their concerns, define recommendations and set priorities. The audience is inclusive of Node managers and Nodes staff, with invited observers who wish to learn more about GBIF and the work of the nodes. Participants must follow [GBIF’s code of conduct](https://www.gbif.org/code-of-conduct).
 
 == What are you looking for?
 
@@ -25,21 +25,21 @@ Lorem ipsum.
 ** xref:2023gnm::index.adoc[Global Nodes Meeting 2023]
 //** Global Nodes Meeting 2023
 
-[.discrete]
-== Lorem ipsum
+//[.discrete]
+//== Lorem ipsum
 
-[.smallblocks]
-* xref:new-module::index.adoc[image:td-bg-01.png[] New Module]
+//[.smallblocks]
+//* xref:new-module::index.adoc[image:td-bg-01.png[] New Module]
 
-[.bannerblocks]
---
-image::tools-2.png[]
+//[.bannerblocks]
+//--
+//image::tools-2.png[]
 
-* xref:new-module::index.adoc[image:tool-icon.png[] New Module]
-* xref:new-module::index.adoc[image:tool-icon.png[] New Module]
-* xref:new-module::index.adoc[image:tool-icon.png[] New Module]
+//* xref:new-module::index.adoc[image:tool-icon.png[] New Module]
+//* xref:new-module::index.adoc[image:tool-icon.png[] New Module]
+//* xref:new-module::index.adoc[image:tool-icon.png[] New Module]
 
-[.bannerblocksmore]
-[.blocklink]
-xref:new-module::index.adoc[View all of this]
---
+//[.bannerblocksmore]
+//[.blocklink]
+//xref:new-module::index.adoc[View all of this]
+//--
