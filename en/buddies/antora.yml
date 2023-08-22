@@ -1,0 +1,5 @@
+name: ROOT
+title: Nodes Buddy System
+version: ~
+nav:
+- modules/ROOT/nav.adoc

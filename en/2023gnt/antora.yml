@@ -1,0 +1,5 @@
+name: ROOT
+title: Global Nodes Training
+version: ~
+nav:
+- modules/ROOT/nav.adoc
