@@ -6,6 +6,10 @@ The Global Nodes Meeting and Training are an opportunity for all GBIF nodes to c
 
 [.blocks]
 * xref:2023gnt::index.adoc[image:td-bg-01.png[]]
+** xref:2023prep::index.adoc[Preparatory Activities]
+//** 2023 Preparatory Activities
+
+* xref:2023gnt::index.adoc[image:td-bg-01.png[]]
 ** xref:2023gnt::index.adoc[Global Nodes Training 2023]
 //** Global Nodes Training 2023
 
