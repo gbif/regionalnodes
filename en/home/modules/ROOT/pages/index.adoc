@@ -13,17 +13,17 @@ Lorem ipsum.
 ++++
 
 [.blocks]
-* xref:2021::index.adoc[image:td-bg-01.png[]]
-** xref:2021::index.adoc[Global Nodes Training]
-** Global Nodes Training
+* xref:2023gnt::index.adoc[image:td-bg-01.png[]]
+** xref:2023gnt::index.adoc[Global Nodes Training 2023]
+** Global Nodes Training 2023
 
-* xref:2021::index.adoc[image:td-bg-01.png[]]
-** xref:2021::index.adoc[Buddy interactions]
-** Buddy interactions
+* xref:buddies::index.adoc[image:td-bg-01.png[]]
+** xref:buddies::index.adoc[Nodes Buddy System]
+** Nodes Buddy System
 
-* xref:2021::index.adoc[image:td-bg-01.png[]]
-** xref:2021::index.adoc[Global Nodes Meeting 2023]
-** Global Nodes Meeting
+* xref:2023gnm::index.adoc[image:td-bg-01.png[]]
+** xref:2023gnm::index.adoc[Global Nodes Meeting 2023]
+** Global Nodes Meeting 2023
 
 [.discrete]
 == Lorem ipsum
