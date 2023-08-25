@@ -16,9 +16,6 @@ content:
       branches: master
     - url: .
       start_path: ./en/2023gnm
-      branches: master
-    - url: .
-      start_path: ./en/buddies
       branches: master  
     - url: .
       start_path: ./en/2023prep
