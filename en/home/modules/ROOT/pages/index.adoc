@@ -17,10 +17,6 @@ The Global Nodes Meeting and Training are an opportunity for all GBIF nodes to c
 ** xref:2023gnm::index.adoc[Global Nodes Meeting 2023]
 //** Global Nodes Meeting 2023
 
-* xref:buddies::index.adoc[image:td-bg-01.png[]]
-** xref:buddies::index.adoc[Nodes Buddy System]
-//** Nodes Buddy System
-
 == What are you looking for?
 
 ++++
