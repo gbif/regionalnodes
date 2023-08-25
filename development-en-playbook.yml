@@ -18,9 +18,6 @@ content:
       start_path: ./en/2023gnm
       branches: HEAD
     - url: .
-      start_path: ./en/buddies
-      branches: HEAD
-    - url: .
       start_path: ./en/2023prep
       branches: HEAD        
     #- url: https://github.com/gbif/course-data-use.git
