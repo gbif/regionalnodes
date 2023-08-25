@@ -25,21 +25,21 @@ The Global Nodes Meeting and Training are an opportunity for all GBIF nodes to c
 </div>
 ++++
 
-//[.discrete]
-//== Lorem ipsum
+[.discrete]
+== Past meetings
 
 //[.smallblocks]
 //* xref:new-module::index.adoc[image:td-bg-01.png[] New Module]
 
-//[.bannerblocks]
-//--
-//image::tools-2.png[]
+[.bannerblocks]
+--
+image::tools-2.png[]
 
-//* xref:new-module::index.adoc[image:tool-icon.png[] New Module]
+* xref:new-module::index.adoc[image:tool-icon.png[] 2021]
 //* xref:new-module::index.adoc[image:tool-icon.png[] New Module]
 //* xref:new-module::index.adoc[image:tool-icon.png[] New Module]
 
 //[.bannerblocksmore]
 //[.blocklink]
 //xref:new-module::index.adoc[View all of this]
-//--
+--
