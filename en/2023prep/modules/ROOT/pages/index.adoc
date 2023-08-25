@@ -1,3 +1,3 @@
 = Expectations
 
-image::ROOT:globalnodes-site-thumb-03.png[]
+image::ROOT::globalnodes-site-thumb-03.png[]
