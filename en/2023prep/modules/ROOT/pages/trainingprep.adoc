@@ -6,28 +6,27 @@
 
 == Strengthening support services for collections communities
 . https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account[Create GitHub account^] (follow directions for part 1 and choose free account)
-. https://vimeo.com/836823204/b783a38a04[From GRSciColl Updates to Data Mobilization^] (video - 9:55 min)
+. Watch video https://vimeo.com/836823204/b783a38a04[From GRSciColl Updates to Data Mobilization^] (Vimeo - 9:55 min)
 
 == Supporting national biodiversity commitments and the science-policy interface
 
-. Convention on Biological Diversity
-.. https://youtu.be/H0Bp5jo4xic[Post-2020 Global Biodiversity Framework^] (YouTube video - 1:14 min)
-.. https://www.cbd.int/doc/publications/cbd-sustain-en.pdf[Sustaining life on Earth^] (PDF 500 KB)
-.. CBD in your country (exercise - 30 min)
+. Learn about the Convention on Biological Diversity (CBD)
+.. Watch video on the https://youtu.be/H0Bp5jo4xic[Post-2020 Global Biodiversity Framework^] (YouTube - 1:14 min)
+.. Read https://www.cbd.int/doc/publications/cbd-sustain-en.pdf[Sustaining life on Earth^] (PDF 500 KB)
+.. Investigate the CBD in your country (worksheet)
 ... Does your country have a current NBSAP? 
 ... Is your country updating its NBSAP? 
 ... If so, what is the state of the process? Who is coordinating it? 
 ... Are you engaged in the process - if so, how? If not, how could you be involved? 
 
-
-. Global Biodiversity Framework Kunming-Montreal
-.. https://www.cbd.int/gbf/[Overview^] (webpage)
-.. Melisa Video (to be developed)
+. Learn about the Global Biodiversity Framework Kunming-Montreal
+.. Read the https://www.cbd.int/gbf/[Overview^] (webpage)
+.. Watch Melisa Video (to be developed)
 
 == Promoting open biodiversity data approaches within the business and financial sectors
 
-. https://www.gbif.org/business[GBIF and Business^] (GBIF Business Hub)
-.. https://vimeo.com/473377963[Open Private Sector Data^] (PSD) (video - 4:43 min)
-.. https://www.gbif.org/data4nature[Data4Nature^] (webpage and associated video - 1:17 min)
-.. https://www.gbif.org/news/6wybKvTFVZPWTLioIcOuB3/the-equator-principles-encourage-open-access-to-environmental-impact-data-through-the-gbif-network[Equator Principles^] (webpage)
-.. https://docs.gbif.org/private-sector-data-publishing/2.0/en/[Guidance for private companies to become data publishers through GBIF^] (guide)
+. Read about https://www.gbif.org/business[GBIF and Business^] (GBIF Business Hub)
+.. Watch video on https://vimeo.com/473377963[Open Private Sector Data^] (PSD) (video - 4:43 min)
+.. Learn about https://www.gbif.org/data4nature[Data4Nature^] (webpage and associated video - 1:17 min)
+.. Learn about the https://www.gbif.org/news/6wybKvTFVZPWTLioIcOuB3/the-equator-principles-encourage-open-access-to-environmental-impact-data-through-the-gbif-network[Equator Principles^] (webpage)
+.. Read https://docs.gbif.org/private-sector-data-publishing/2.0/en/[Guidance for private companies to become data publishers through GBIF^] (guide)
