@@ -6,7 +6,7 @@
 
 == Kick-off call
 
-=== Suggested topics
+Suggested topics
 
 . *Supporting Nodes through GBIF Capacity Development Programmes*
 .. Complete/review capacity self-assessment and, based on the results, identify key capacity needs for your individual nodes.
