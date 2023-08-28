@@ -1,32 +1,28 @@
----
-title: Tools to support nodes
-layout: documentation
-description: Please check back regularly for updates including instructions on how to prepare for sessions
-sideNavigation: sessions.sessions
----
-# Group 2 – Tools to support nodes with data mobilization strategies
-*Facilitators: Laura Anne Russell and Marie Grosjean, GBIF Secretariat*
-<div class="intro-block">
-  <a class="tag is-primary" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Live+demos%3A+Group+2&iso=20210629T14&p1=69&ah=1&am=30">
-  Tuesday 29 14:00–15:30 CEST (UTC+2)
-  </a>
-  <span class="tag is-demo">Live demos</span>
-</div>
+= Group 2 – Tools to support nodes with data mobilization strategies
 
-{: .notification .is-info}
-Please view the presentations ahead of the live panel discussion and use the [GBIF community forum](https://discourse.gbif.org/t/gnm-2021-global-nodes-meeting-2021/2879) to ask questions.
+== Facilitators
+
+Laura Anne Russell and Marie Grosjean, GBIF Secretariat
+
+NOTE: Please view the presentations ahead of the live panel discussion and use the https://discourse.gbif.org/t/gnm-2021-global-nodes-meeting-2021/2879[GBIF community forum] to ask questions.
+
+== References
 
 * IPT 2.5 and regional IPTs
-  * [IPT roadmap](https://vimeo.com/565518171/1f3018b8de)
-  * [https://ipt.gbif-uat.org/](https://ipt.gbif-uat.org/)
-  * [https://cloud.gbif.org/africa](https://cloud.gbif.org/africa) (admin: Luke Jimu)
-  * [https://cloud.gbif.org/eca](https://cloud.gbif.org/eca) (admin: Dimitri Brosens and Jörg Holetschek)
-  * [https://cloud.gbif.org/lac](https://cloud.gbif.org/lac) (admin: Anabela Plos and Paula Zermoglio)
+  * https://vimeo.com/565518171/1f3018b8de[IPT roadmap^]
+  * https://ipt.gbif-uat.org/[https://ipt.gbif-uat.org/^]
+  * https://cloud.gbif.org/africa[https://cloud.gbif.org/africa^] (admin: Luke Jimu)
+  * https://cloud.gbif.org/eca[https://cloud.gbif.org/eca^] (admin: Dimitri Brosens and Jörg Holetschek)
+  * https://cloud.gbif.org/lac[https://cloud.gbif.org/lac^] (admin: Anabela Plos and Paula Zermoglio)
 * How nodes can make use of GrSciColl and contribute
-  * [GrSciColl](https://www.gbif.org/grscicoll)
+  * https://www.gbif.org/grscicoll[GrSciColl]
 * GBIF and Github: what is GitHub, how do we use it (product, content, development tracking), how to log an issue, orientation on the repositories, the portal-feedback “country” issue tag and how nodes could use that
-* [Issues list](https://github.com/gbif/portal-feedback/issues)
+* https://github.com/gbif/portal-feedback/issues[Issues list]
 
-### Live demos: Group 2 Tools to support nodes with data mobilization strategies
-*Presentation by Laura Anne Russell and Marie Grosjean, GBIF Secretariat*
-{% include vimeo.html id="569093098" title="Tools to support nodes with data mobilization strategies" %}
+== Live demo
+
+*Group 2 Tools to support nodes with data mobilization strategies*
+
+Facilitation by Laura Anne Russell and Marie Grosjean, GBIF Secretariat
+
+video::569093098[vimeo]
