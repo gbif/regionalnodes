@@ -7,10 +7,12 @@ NOTE: Please view the presentations ahead of the live panel session use the http
 
 == References
 
-* How to teach the GBIF Data Mobilization course  on site and online
+How to teach the GBIF Data Mobilization course  on site and online
+
   * https://docs.gbif.org/course-data-mobilization[Data mobilization course^]
 
-* Guide and training materials to support sequence-derived data in GBIF
+Guide and training materials to support sequence-derived data in GBIF
+
   * https://docs.gbif-uat.org/course-dna-barcoding[Draft DNA barcoding course^]
   * https://docs.gbif-uat.org/publishing-dna-derived-data/1.0/en/[Draft guide on Publishing DNA-derived data through biodiversity data platforms^]
 
