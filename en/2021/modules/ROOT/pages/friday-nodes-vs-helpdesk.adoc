@@ -10,5 +10,4 @@ To demonstrate some of the lesser known functionalities of GBIF.org through a fu
 
 Nodes vs Marie Grosjean from the GBIF data products team along with "game show host" Andrew Rodrigues, GBIF Secretariat
 
-[.responsive-video]
 video::571521342[vimeo]
