@@ -1,6 +1,6 @@
 = Group 1 - Data mobilization training and guidance on sequence-derived data mobilization
 
-== Presenters 
+== Faciliators 
 Laura Anne Russell and  Dmitry Schigel, GBIF Secretariat
 
 NOTE: Please view the presentations ahead of the live panel session use the https://discourse.gbif.org/t/gnm-2021-global-nodes-meeting-2021/2879[GBIF community forum] to ask questions.
@@ -26,7 +26,7 @@ video::566509989[vimeo]
 
 Group 1 - Data mobilization training and guidance on sequence-derived data mobilization
 
-Presentation by Laura Anne Russell and  Dmitry Schigel, GBIF Secretariat
+Facilitation by Laura Anne Russell and  Dmitry Schigel, GBIF Secretariat
 
 video::568827627[vimeo]
 
