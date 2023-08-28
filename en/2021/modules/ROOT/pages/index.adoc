@@ -8,7 +8,7 @@ https://www.gbif.org/occurrence/2620079212[*Loxodonta africana*^] observed in Ta
 
 == Meeting Report
 
-IMPORTANT: https://www.gbif.org/document/4ghZwJxcfBlNMyP81h7DlY/global-nodes-meeting-report-2021[*Meeting report*^]
+NOTE: https://www.gbif.org/document/4ghZwJxcfBlNMyP81h7DlY/global-nodes-meeting-report-2021[*Meeting report*^]
 
 All activities took place in the week 28 June–2 July 2021. All sessions were recorded and recordings are available from this website.
 
