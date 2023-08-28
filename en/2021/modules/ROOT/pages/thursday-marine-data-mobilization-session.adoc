@@ -1,48 +1,57 @@
----
-title: Marine data mobilization session
-layout: documentation
-description: Please check back regularly for updates including instructions on how to prepare for sessions
-sideNavigation: sessions.sessions
-toc: true
----
-## Marine data mobilization session
+= Marine data mobilization session
 
-<div class="intro-block">
-  <a class="tag is-primary" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=OBIS+Marine+data+mobilization+session&iso=20210701T19&p1=69&ah=1&am=30">
-  Thursday 1 19:00–20:30 CEST (UTC+2)
-  </a>
-  <span class="tag is-demo">Live demos</span>
-</div>
+== Faciliators
 
-**Goal** To update the community on the collaboration between GBIF and OBIS and discuss how we can work together on marine data mobilization
+Ward Appeltans, OBIS, and Abby Benson, OBIS USA and US GBIF Node
 
-{: .notification .is-info}
-Please view the presentations ahead of the live panel discussion and use the [GBIF community forum](https://discourse.gbif.org/t/gnm-2021-global-nodes-meeting-2021/2879) to ask questions.
+== Goal
 
-### OBIS-GBIF introduction
-*Presentation by Ward Appeltans, Project Manager at OBIS*
-{% include vimeo.html id="566605276" %}
+To update the community on the collaboration between GBIF and OBIS and discuss how we can work together on marine data mobilization
 
-### Welcome statement from Martha Vides
-*Presentation by Martha Vides, OBIS*
-{% include vimeo.html id="566610206" %}
+NOTE: Please view the presentations ahead of the live panel discussion and use the https://discourse.gbif.org/t/gnm-2021-global-nodes-meeting-2021/2879[GBIF community forum^] to ask questions.
 
-### OBIS and GBIF commonalities and differences
-*Presentation by Abby Benson, OBIS USA*
-{% include vimeo.html id="566605186" %}
+== Presentations
 
-### Interoperable and reusable research data in OBIS
-*Presentation by Pieter Provoost, UNESCO/IOC Project Office for IODE, OBIS Data Manager*
-{% include vimeo.html id="566604359" %}
+*OBIS-GBIF introduction*
 
-### Collaboration between OBIS and GBIF nodes
-*Presentation by Anton Van de Putte, Antarctic Biodiversity Information Facility (ANTABIF)*
-{% include vimeo.html id="566604232" %}
+Presentation by Ward Appeltans, Project Manager at OBIS
 
-### Norwegian GBIF marine datasets from OBIS
-*Presentation by Rukaya Johaadien, Norwegian GBIF Node Staff*
-{% include vimeo.html id="566605968" %}
+video::566605276[vimeo]
 
-### Live session: OBIS Marine data mobilization
-*Facilitators: Ward Appeltans, OBIS, and Abby Benson, OBIS USA and US GBIF Node*
-{% include vimeo.html id="570247972" %}
+*Welcome statement from Martha Vides*
+
+Presentation by Martha Vides, OBIS
+
+video::566610206[vimeo]
+
+*OBIS and GBIF commonalities and differences*
+
+Presentation by Abby Benson, OBIS USA
+
+video::566605186[vimeo]
+
+*Interoperable and reusable research data in OBIS*
+
+Presentation by Pieter Provoost, UNESCO/IOC Project Office for IODE, OBIS Data Manager
+
+video::566604359[vimeo]
+
+*Collaboration between OBIS and GBIF nodes*
+
+Presentation by Anton Van de Putte, Antarctic Biodiversity Information Facility (ANTABIF)
+
+video::566604232[vimeo]
+
+*Norwegian GBIF marine datasets from OBIS*
+
+Presentation by Rukaya Johaadien, Norwegian GBIF Node Staff
+
+video::566605968[vimeo]
+
+== Live session
+
+OBIS Marine data mobilization
+
+Facilitatation by Ward Appeltans, OBIS, and Abby Benson, OBIS USA and US GBIF Node.
+
+video::570247972[vimeo]
