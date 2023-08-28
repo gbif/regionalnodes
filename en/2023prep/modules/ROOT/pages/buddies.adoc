@@ -1,5 +1,7 @@
 = Buddy System
 
+image::katie-kit-paco.jpg[]
+
 == Goal
 
 == Buddy groups
