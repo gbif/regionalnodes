@@ -7,6 +7,9 @@ image:Loxodonta africanas.jpeg[]
 https://www.gbif.org/occurrence/2620079212[*Loxodonta africana*^] observed in Tanzania (United Republic of) by Patrick Palines, licensed under http://creativecommons.org/licenses/by-nc/4.0/[(CC BY-NC 4.0)^]
 
 == Meeting Report
+
+IMPORTANT: https://www.gbif.org/document/4ghZwJxcfBlNMyP81h7DlY/global-nodes-meeting-report-2021[*Meeting report*^]
+
 All activities took place in the week 28 June–2 July 2021. All sessions were recorded and recordings are available from this website.
 
 The meeting combined:
@@ -16,8 +19,6 @@ The meeting combined:
 . Live sessions focusing on interactions between nodes, and with the Secretariat.
 
 Participation followed https://www.gbif.org/code-of-conduct[GBIF’s code of conduct^].
-
-https://www.gbif.org/document/4ghZwJxcfBlNMyP81h7DlY/global-nodes-meeting-report-2021[*Meeting report*^]
 
 == Background
 
