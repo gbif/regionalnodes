@@ -1,50 +1,54 @@
----
-title: Theme 2
-layout: documentation
-description: Please check back regularly for updates including instructions on how to prepare for sessions
-sideNavigation: sessions.sessions
+= Theme 2 - Exploring future directions for GBIF - live panel with all presenters
 
----
-# Exploring future directions for GBIF - live panel with all presenters
-*Panel moderator: Mélianie Raymond, GBIF Secretariat*
-<div class="intro-block">
-  <a class="tag is-primary" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Theme+2+panel&iso=20210629T16&p1=69&ah=1&am=30">
-  Tuesday 29 16:00–17:30 CEST (UTC+2)
-  </a>
-  <span class="tag is-panel">Panel discussion</span>
-</div>
+== Panel moderator
 
-**Goal**
+Mélianie Raymond, GBIF Secretariat
+
+== Goal
 
 To explore key themes with panels of experts from the community, building on presentations from the nodes and Secretariat on topics that were requested in the consultation with nodes.
 
-{: .notification .is-info}
-Please view the presentations ahead of the live panel discussion and use the [GBIF community forum](https://discourse.gbif.org/t/gnm-2021-global-nodes-meeting-2021/2879) to ask questions.
+NOTE: Please view the presentations ahead of the live panel discussion and use the https://discourse.gbif.org/t/gnm-2021-global-nodes-meeting-2021/2879[GBIF community forum] to ask questions.
 
-### Aligning GBIF and ALA
-*Presentation by Dave Martin and Javier Molina*
-{% include vimeo.html id="566499732" %}
+== Presentations
 
-### Looking ahead: GBIF data model
-*Presentation by Tim Robertson, Head of Informatics, GBIF Secretariat*
-{% include vimeo.html id="564600741" title="Looking ahead: GBIF data model" %}
+*Aligning GBIF and ALA*
 
-### GBIF and the Post-2020 Global Biodiversity
-*Presentation by Andrew Rodrigues, Programme Officer, GBIF Secretariat*
-{% include vimeo.html id="564608734" title="GBIF and the Post-2020 Global Biodiversity" %}
+Presentation by Dave Martin and Javier Molina
+
+video::566499732[vimeo]
+
+*Looking ahead: GBIF data model*
+
+Presentation by Tim Robertson, Head of Informatics, GBIF Secretariat
+
+video::564600741[vimeo]
+
+*GBIF and the Post-2020 Global Biodiversity*
+
+Presentation by Andrew Rodrigues, Programme Officer, GBIF Secretariat
+
+video::564608734[vimeo]
 
 ### Private-sector engagement: guidance materials, and role of nodes
 *Presentation by Andrew Rodrigues, Programme Officer, GBIF Secretariat*
 {% include vimeo.html id="564604996" title="Private-sector engagement: guidance materials, and role of nodes" %}
 
-### GBIF: potential for a thematic approach
-*Presentation by Dmitry Schigel, GBIF Secretariat*
-{% include vimeo.html id="566502314" title="GBIF: potential for a thematic approachs" %}
+*GBIF: potential for a thematic approach*
 
-### Ambassadors and users
-*Presentation by Daniel Noesgaard and Dmitry Schigel, GBIF Secretariat*
-{% include vimeo.html id="566502365" title="Ambassadors and users" %}
+Presentation by Dmitry Schigel, GBIF Secretariat
+video::566502314[vimeo]
 
-### Panel discussion: Exploring future directions for GBIF
-*Panel moderator: Mélianie Raymond, GBIF Secretariat*
-{% include vimeo.html id="569102996" %}
+*Ambassadors and users*
+
+Presentation by Daniel Noesgaard and Dmitry Schigel, GBIF Secretariat
+
+video::566502365[vimeo]
+
+== Panel discussion
+
+*Exploring future directions for GBIF*
+
+Panel moderator: Mélianie Raymond, GBIF Secretariat
+
+video::569102996[vimeo]
