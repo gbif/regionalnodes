@@ -3,7 +3,7 @@
 == Presenters 
 Laura Anne Russell and  Dmitry Schigel, GBIF Secretariat
 
-NOTE: Please view the presentations ahead of the live panel session use the https://discourse.gbif.org/t/gnm-2021-global-nodes-meeting-2021/2879[GBIF community forum]( to ask questions.
+NOTE: Please view the presentations ahead of the live panel session use the https://discourse.gbif.org/t/gnm-2021-global-nodes-meeting-2021/2879[GBIF community forum] to ask questions.
 
 == References
 
