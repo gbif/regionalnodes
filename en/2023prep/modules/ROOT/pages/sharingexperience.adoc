@@ -2,13 +2,13 @@
 
 We would like to invite all Node Managers, independently of whether you are able to participate in the training or meeting, to consider submitting slides on the specific topics below.
 
+*Deadline*: 13 September
+
 == Global Nodes Training
 
 Template
 
-*Deadline*: First draft of the slides are due by 9 Sept. Final drafts are due by 22 Sept.
-
-Some of the slides will be selected for presentation as part of lightning segments (3-5 min) during these two training topics. All submitted slides will be reviewed for inclusion as part of the longer term curriculum surrounding these topics.
+Submitted slides will be considered for selection for presentation as part of lightning segments (3-5 min) during these two training topics. All submitted slides will be reviewed for inclusion as part of the longer term curriculum surrounding these topics.
 
 . Your experiences in supporting national biodiversity commitments and the science-policy interface
 Share details on how your node is currently supporting your country for any of the following:
@@ -20,3 +20,14 @@ Share details on how your node is currently supporting your country for any of t
 Share details on how you are engaging with the research community in your country. Consider how you raise the visibility of GBIF and your node within this community.
 
 == Global Nodes Meeting
+
+Template
+
+Submitted slides will be shared ahead of the Nodes Meeting as part of the Global Nodes events launch. You may also consider submitting a video presentation. Video presentations should be 3-5 minutes.
+
+. Your experiences with the work underway to expand GBIF’s data model
+Share details on how you are engaging with this work, and your perspective on what the new data model will mean for your node in future.
+. Your experiences with GBIF’s capacity development programmes, such as BID and CESP
+Share details from your involvement in projects supported by these programmes, and your views on how these programmes can best support the work of nodes going forward
+. Your experiences of working with the GBIF regional support teams
+Share any interactions you have had with the regional support teams in Asia, and through the BID programme, as well as your ideas for how the regional support teams and nodes can best work together to strengthen and expand GBIF’s community of practice
