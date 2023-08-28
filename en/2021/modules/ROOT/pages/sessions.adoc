@@ -8,8 +8,7 @@ NOTE: https://www.gbif.org/document/4ghZwJxcfBlNMyP81h7DlY/global-nodes-meeting-
 
 == Interactive networking
 
-* xref:monday-icebreaker.adoc[Monday icebreaker]
-* xref:tuesday-icebreaker.adoc[Tuesday icebreaker]
+* xref:monday-icebreaker.adoc[Icebreaker]
 * xref:thursday-speed-dating.adoc[Collaboration speed-dating]
 * xref:friday-nodes-vs-helpdesk.adoc[Nodes vs. help desk]
 * xref:friday-final-evaluation.adoc[Final evaluation] 
