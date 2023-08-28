@@ -1,33 +1,23 @@
----
-title: Tools to support nodes
-layout: documentation
-description: Please check back regularly for updates including instructions on how to prepare for sessions
-sideNavigation: sessions.sessions
----
-## Icebreaker virtual networking activity
-*Facilitators: Mélianie Raymond and Maheva Bagard Laursen, GBIF Secretariat*
-<div class="intro-block">
-  <a class="tag is-primary" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Icebreaker+%E2%80%93+Interactive+networking&iso=20210629T19&p1=69&ah=1&am=30">
-  Tuesday 29 19:00–20:30 CEST (UTC+2)
-  </a>
-  <span class="tag is-networking">Interactive networking</span>
-</div>
+= Icebreaker virtual networking activity - Tuesday
 
-**Goal**
+== Facilitators
+
+Mélianie Raymond and Maheva Bagard Laursen, GBIF Secretariat
+
+== Goal
 
 To encourage informal conversation between nodes to ensure that everyone feels connected to the community, new nodes can meet other members of the network, and that there is active participation in the events from the very start.
 
-**Format**
+== Format
 
-You can discuss the following questions:
+Consider discussing the following questions:
 
-* *What is your link to the GBIF community?*
-* *Why did you choose to attend the Global Nodes Meeting?*
-* *Do you love working from home or would you rather be in the office?*
-* *Where are you joining this meeting from? Your office? Your kitchen table? The backyard? A café? A museum?*
-* *How many cups of coffee, tea, or beverage-of-choice have you had before this meeting?*
+* What is your link to the GBIF community?
+* Why did you choose to attend the Global Nodes Meeting?
+* Do you love working from home or would you rather be in the office?
+* Where are you joining this meeting from? Your office? Your kitchen table? The backyard? A café? A museum?
+* How many cups of coffee, tea, or beverage-of-choice have you had before this meeting?
 
-* *Or just use this opportunity to catch up with old friends and meet new ones!*
+* Or just use this opportunity to catch up with old friends and meet new ones!
 
-<figure class="has-text-centered">
-  <img src="/assets/images/ice_breaker_drinks.jpg" alt=" Ice breaker drinks"/></figure>
+image:ice_breaker_drinks.jpg[]
