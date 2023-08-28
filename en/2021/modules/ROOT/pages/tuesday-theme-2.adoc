@@ -30,9 +30,10 @@ Presentation by Andrew Rodrigues, Programme Officer, GBIF Secretariat
 
 video::564608734[vimeo]
 
-### Private-sector engagement: guidance materials, and role of nodes
-*Presentation by Andrew Rodrigues, Programme Officer, GBIF Secretariat*
-{% include vimeo.html id="564604996" title="Private-sector engagement: guidance materials, and role of nodes" %}
+*Private-sector engagement: guidance materials, and role of nodes*
+
+Presentation by Andrew Rodrigues, Programme Officer, GBIF Secretariat
+video::564604996[vimeo]
 
 *GBIF: potential for a thematic approach*
 
