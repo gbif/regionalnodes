@@ -1,4 +1,4 @@
-= Icebreaker virtual networking  - Monday
+= Icebreaker virtual networking
 
 == Facilitators
 Mélianie Raymond and Maheva Bagard Laursen, GBIF Secretariat
