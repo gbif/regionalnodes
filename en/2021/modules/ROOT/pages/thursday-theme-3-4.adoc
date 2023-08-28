@@ -1,6 +1,8 @@
 = Themes 3 and 4 - Product development and tools / Content and use
 
-== Facilitators: Maheva Bagard Laursen and Laura Anne Russell, GBIF Secretariat
+== Facilitators
+
+Maheva Bagard Laursen and Laura Anne Russell, GBIF Secretariat
 
 == Goal
 To share updates from nodes and the Secretariat on topics that were requested in the consultation with nodes, and enable nodes to ask questions for further discussion.
@@ -9,7 +11,7 @@ NOTE: Please view the presentations ahead of the live panel discussion and use t
 
 == Presentations
 
-=== Theme 3: Product development and tools
+=== Product development and tools
 
 *GBIF Hosted portals - update*
 
@@ -29,7 +31,7 @@ Presentation by Matthew Blissett and Tim Robertson, Informatics, GBIF Secretaria
 
 video::566507538[vimeo]
 
-=== Theme 4: Content and use
+=== Content and use
 
 *GBIF Backbone & Catalogue of Life*
 
@@ -80,13 +82,13 @@ video::567377982[vimeo]
 
 == Live Q&A 
 
-*Theme 3: Product development and tools*
+*Product development and tools*
 
 Facilitator: Maheva Bagard Laursen, GBIF Secretariat
 
 video::572048129[vimeo]
 
-*Theme 4: Content and use*
+*Content and use*
 
 Facilitator: Laura Anne Russell, GBIF Secretariat
 
