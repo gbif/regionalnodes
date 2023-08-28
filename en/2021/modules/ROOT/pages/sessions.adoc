@@ -1,9 +1,8 @@
 = Sessions
 
-image:gnm2021_group_photo_2.jpg
+image:gnm2021_group_photo_2.jpg[]
 
 *Group photo GNM 2021* by Daniel Noesgaard https://creativecommons.org/publicdomain/zero/1.0/[(CC0 1.0)^]
-height: 70vh
 
 *Interactive networking*
 
