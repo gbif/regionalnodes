@@ -1,1 +1,21 @@
 = Sharing experience
+
+We would like to invite all Node Managers, independently of whether you are able to participate in the training or meeting, to consider submitting slides on the specific topics below.
+
+== Global Nodes Training
+
+Template
+Deadline: First draft of the slides are due by 9 Sept. Final drafts are due by 22 Sept.
+
+Some of the slides will be selected for presentation as part of lightning segments (3-5 min) during these two training topics. All submitted slides will be reviewed for inclusion as part of the longer term curriculum surrounding these topics.
+
+. Your experiences in supporting national biodiversity commitments and the science-policy interface
+Share details on how your node is currently supporting your country for any of the following:
+* National Biodiversity Strategies and Action Plans (NBSAPs) 
+* National reports to the CBD and/or other biodiversity-related conventions
+* National or subnational legislation and/or regulations relating to biodiversity	
+* Technical instruments, documents, or analysis for policy makers
+. Your experiences engaging research communities for data mobilization and use
+Share details on how you are engaging with the research community in your country. Consider how you raise the visibility of GBIF and your node within this community.
+
+== Global Nodes Meeting
