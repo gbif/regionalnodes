@@ -7,7 +7,6 @@
 * Panel discussions
 ** xref:monday-theme-1.adoc[Theme 1 - The role of nodes in GBIF’s next strategic period]
 ** xref:tuesday-theme-2.adoc[Theme 2 - Exploring future directions for GBIF]
-Live Q&A
 ** xref:thursday-theme-3-4.adoc[Themes 3&4 - Product development and tools / Content and use]
 * Live demos
 ** xref:monday-data-mobilization.adoc[Group 1 - Data mobilization training and guidance on sequence-derived data mobilization]
