@@ -2,10 +2,9 @@
 
 GBIF node managers and node staff met for the first virtual global gathering from 28 June to 2 July 2021.
 image:Loxodonta africanas.jpeg[]
-imageLicense: |
-  [*Loxodonta africana*](https://www.gbif.org/occurrence/2620079212) observed in Tanzania (United Republic of) by Patrick Palines, licensed under [(CC BY-NC 4.0)](http://creativecommons.org/licenses/by-nc/4.0/)
+  https://www.gbif.org/occurrence/2620079212[*Loxodonta africana*^] observed in Tanzania (United Republic of) by Patrick Palines, licensed under http://creativecommons.org/licenses/by-nc/4.0/[(CC BY-NC 4.0)^]
 
-== Global Nodes Meeting 2021 Report
+== Meeting Report
 
 https://www.gbif.org/document/4ghZwJxcfBlNMyP81h7DlY/global-nodes-meeting-report-2021[Meeting report^]
 
@@ -25,6 +24,6 @@ The meeting combined:
 . Online discussion forums using the https://discourse.gbif.org/[GBIF community forum^], allowing participants to comment on the presentations and raise questions for discussion
 . Live sessions focusing on interactions between nodes, and with the Secretariat.
 
-Participation followed [GBIF’s code of conduct](https://www.gbif.org/code-of-conduct).
+Participation followed https://www.gbif.org/code-of-conduct[GBIF’s code of conduct^].
 
 
