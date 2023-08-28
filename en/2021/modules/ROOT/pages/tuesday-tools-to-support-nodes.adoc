@@ -8,15 +8,20 @@ NOTE: Please view the presentations ahead of the live panel discussion and use t
 
 == References
 
-* IPT 2.5 and regional IPTs
-  * https://vimeo.com/565518171/1f3018b8de[IPT roadmap^]
-  * https://ipt.gbif-uat.org/[https://ipt.gbif-uat.org/^]
-  * https://cloud.gbif.org/africa[https://cloud.gbif.org/africa^] (admin: Luke Jimu)
-  * https://cloud.gbif.org/eca[https://cloud.gbif.org/eca^] (admin: Dimitri Brosens and Jörg Holetschek)
-  * https://cloud.gbif.org/lac[https://cloud.gbif.org/lac^] (admin: Anabela Plos and Paula Zermoglio)
-* How nodes can make use of GrSciColl and contribute
-  * https://www.gbif.org/grscicoll[GrSciColl]
-* GBIF and Github: what is GitHub, how do we use it (product, content, development tracking), how to log an issue, orientation on the repositories, the portal-feedback “country” issue tag and how nodes could use that
+IPT 2.5 and regional IPTs
+
+* https://vimeo.com/565518171/1f3018b8de[IPT roadmap^]
+* https://ipt.gbif-uat.org/[https://ipt.gbif-uat.org/^]
+* https://cloud.gbif.org/africa[https://cloud.gbif.org/africa^] (admin: Luke Jimu)
+* https://cloud.gbif.org/eca[https://cloud.gbif.org/eca^] (admin: Dimitri Brosens and Jörg Holetschek)
+* https://cloud.gbif.org/lac[https://cloud.gbif.org/lac^] (admin: Anabela Plos and Paula Zermoglio)
+
+How nodes can make use of GrSciColl and contribute
+
+* https://www.gbif.org/grscicoll[GrSciColl]
+
+GBIF and Github: what is GitHub, how do we use it (product, content, development tracking), how to log an issue, orientation on the repositories, the portal-feedback “country” issue tag and how nodes could use that
+
 * https://github.com/gbif/portal-feedback/issues[Issues list]
 
 == Live demo
