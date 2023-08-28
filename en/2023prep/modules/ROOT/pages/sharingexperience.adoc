@@ -5,7 +5,8 @@ We would like to invite all Node Managers, independently of whether you are able
 == Global Nodes Training
 
 Template
-Deadline: First draft of the slides are due by 9 Sept. Final drafts are due by 22 Sept.
+
+*Deadline*: First draft of the slides are due by 9 Sept. Final drafts are due by 22 Sept.
 
 Some of the slides will be selected for presentation as part of lightning segments (3-5 min) during these two training topics. All submitted slides will be reviewed for inclusion as part of the longer term curriculum surrounding these topics.
 
