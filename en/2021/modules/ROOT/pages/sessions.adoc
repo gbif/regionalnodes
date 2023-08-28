@@ -20,8 +20,7 @@ NOTE: https://www.gbif.org/document/4ghZwJxcfBlNMyP81h7DlY/global-nodes-meeting-
 
 == Live Q&A
 
-* xref:thursday-theme-3-4.adoc[Theme 3 - Product development and tools]
-* xref:thursday-theme-3-4.adoc[Theme 4 - Content and use]
+* xref:thursday-theme-3-4.adoc[Theme 3 - Product development and tools / Theme 4 - Content and use]
 
 == Live demos
 
