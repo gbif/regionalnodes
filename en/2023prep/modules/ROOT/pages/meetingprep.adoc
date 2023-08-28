@@ -1,7 +1,7 @@
 = Meeting Preparation
 
 == Expanding our Data Model: Opportunities and Implications for Nodes 
-. Review case studies and webinar recordings available on: https://www.gbif.org/new-data-model 
+. https://www.gbif.org/new-data-model[Review case studies and webinar recordings^]  
 . Watch pre-recorded presentations from nodes that have been working on the data model (to be developed)
 
 == Supporting Nodes through GBIF Capacity Development Programmes
