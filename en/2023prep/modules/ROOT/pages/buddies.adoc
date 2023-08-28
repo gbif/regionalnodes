@@ -1,1 +1,21 @@
 = Buddy System
+
+== Goal
+
+== Buddy groups
+
+== Kick-off call
+
+=== Suggested topics
+
+. Supporting Nodes through GBIF Capacity Development Programmes
+.. Complete/review capacity self-assessment and, based on the results, identify key capacity needs for your individual nodes.
+
+. Consolidation and future development of GBIF Regional Support Teams. 
+.. Discuss priority areas for the focus of the regional support teams.
+.. Should these priority areas be region-specific?
+
+. Developing capacity within Regional Communities of Practice 
+.. Discuss and identify three key priority areas to develop the capacity of the regional communities of practice
+.. Discuss and identify any existing tools and documentation and consider how easy you can re-use these in your context
+.. Discuss and identify any gaps in existing tools and documentation that prevent you from developing your capacity in one or more of the priority areas identified at the beginning of your discussion. 
