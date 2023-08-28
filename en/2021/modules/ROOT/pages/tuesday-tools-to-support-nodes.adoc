@@ -18,11 +18,11 @@ IPT 2.5 and regional IPTs
 
 How nodes can make use of GrSciColl and contribute
 
-* https://www.gbif.org/grscicoll[GrSciColl]
+* https://www.gbif.org/grscicoll[GrSciColl^]
 
 GBIF and Github
 
-* https://github.com/gbif/portal-feedback/issues[Portal issues list]
+* https://github.com/gbif/portal-feedback/issues[Portal issues list^]
 
 == Live demo
 
