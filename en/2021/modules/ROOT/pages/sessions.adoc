@@ -1,36 +1,32 @@
----
-title: Sessions
-layout: documentation
-description: Welcome to GNM 2021
-background: /assets/images/gnm2021_group_photo_2.jpg
-imageLicense: |
-  *Group photo GNM 2021* by Daniel Noesgaard [(CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/)
+= Sessions
+
+image:gnm2021_group_photo_2.jpg
+
+*Group photo GNM 2021* by Daniel Noesgaard https://creativecommons.org/publicdomain/zero/1.0/[(CC0 1.0)^]
 height: 70vh
-sideNavigation: sessions.sessions
-composition: 
-- type: postHeader
-- type: pageMarkdown
----
 
-See also the [schedule](/schedule) 
+*Interactive networking*
+* xref:monday-icebreaker.adoc[Monday icebreaker]
+* xref:tuesday-icebreaker.adoc[Tuesday icebreaker]
+* xref:thursday-speed-dating.adoc[Collaboration speed-dating]
+* xref:friday-nodes-vs-helpdesk.adoc[Nodes vs. help desk]
+* xref:friday-final-evaluation.adoc[Final evaluation] 
 
-* [Icebreaker](sessions/monday-icebreaker) 
-* Panel discussions exploring key themes introduced in pre-recorded presentations
-  * [Theme 1: The role of nodes in GBIF’s next strategic period](sessions/monday-theme-1)
-  * [Theme 2: Exploring future directions for GBIF](sessions/tuesday-theme-2)
-* Live Q&A session based on pre-recorded presentations
-  * [Theme 3: Product development and tools](sessions/thursday-theme-3-4)
-  * [Theme 4: Content and use](sessions/thursday-theme-3-4)
-* [Speed dating networking activity](sessions/thursday-speed-dating)
-* Live demos
-  * [Group 1 – data mobilization training and guidance on sequence-derived data mobilization](sessions/monday-data-mobilization)
-  * [Group 2 – tools to support nodes with data mobilization strategies](sessions/tuesday-tools-to-support-nodes)
-  * [Group 3 – additional node updates and demos](sessions/friday-additional-node-updates-and-demos)
-* [Regional nodes sessions](sessions/wednesday-regional)
-* [Marine data mobilization session](sessions/thursday-marine-data-mobilization-session)
-* [NODES Vs. HELPDESK](sessions/friday-nodes-vs-helpdesk)
-* [Evaluation activities](sessions/friday-final-evaluation)
+*Panel discussions*
+* xref:monday-theme-1.adoc[Theme 1 - The role of nodes in GBIF’s next strategic period]
+* xref:tuesday-theme-2.adoc[Theme 2 - Exploring future directions for GBIF]
 
+*Live Q&A*
+* xref:thursday-theme-3-4.adoc[Theme 3 - Product development and tools]
+* xref:thursday-theme-3-4.adoc[Theme 4 - Content and use]
 
-{: .notification .is-info}
-[Click here to download the meeting report](https://www.gbif.org/document/4ghZwJxcfBlNMyP81h7DlY/global-nodes-meeting-report-2021)
+*Live demos*
+* xref:monday-data-mobilization.adoc[Group 1 - Data mobilization training and guidance on sequence-derived data mobilization]
+* xref:tuesday-tools-to-support-nodes.adoc[Group 2 - Tools to support nodes with data mobilization strategies]
+* xref:friday-additional-node-updates-and-demos.adoc[Group 3 - additional node updates and demos]
+* xref:thursday-marine-data-mobilization-session.adoc[OBIS Marine data mobilization session]
+
+*Regional nodes sessions*
+* xref:wednesday-regional.adoc[Regional nodes sessions]
+
+NOTE: https://www.gbif.org/document/4ghZwJxcfBlNMyP81h7DlY/global-nodes-meeting-report-2021[2021 meeting report^]
