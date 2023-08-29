@@ -4,11 +4,13 @@ We would like to invite all Node Managers, independently of whether you are able
 
 *Deadline*: 13 September
 
+https://gbif.app.box.com/f/360afd35002a42bcbe18bc514f3272ee[Submit slides] by uploading them via Box.
+
 == Global Nodes Training
 
 Template
 
-Submitted slides will be considered for selection for presentation as part of lightning segments (3-5 min) during these two training topics. All submitted slides will be reviewed for inclusion as part of the longer term curriculum surrounding these topics.
+Please use the template to prepare slides on either or both of the following topics. We will select some slides to be presented during the lightning segments, which are brief (3-5 minutes) parts of the training sessions on these two topics. Additionally, the slides you submit will be carefully reviewed for inclusion in the curriculum that we are developing on these topics for reuse in future.
 
 . *Your experiences in supporting national biodiversity commitments and the science-policy interface*. Share details on how your node is currently supporting your country for any of the following:
 * National Biodiversity Strategies and Action Plans (NBSAPs) 
@@ -21,7 +23,7 @@ Submitted slides will be considered for selection for presentation as part of li
 
 Template
 
-Submitted slides will be shared ahead of the Nodes Meeting as part of the Global Nodes events launch. You may also consider submitting a video presentation. Video presentations should be 3-5 minutes.
+Please use the template to prepare slides of any or all of the following topics.  We will share all of the submitted slides for background ahead of the Global Nodes events. Alternatively, you have the option to submit a video presentation, which should ideally be within the range of 3 to 5 minutes.
 
 . *Your experiences with the work underway to expand GBIF’s data model*. Share details on how you are engaging with this work, and your perspective on what the new data model will mean for your node in future.
 . *Your experiences with GBIF’s capacity development programmes, such as BID and CESP*. Share details from your involvement in projects supported by these programmes, and your views on how these programmes can best support the work of nodes going forward.
