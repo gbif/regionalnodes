@@ -4,9 +4,9 @@ We would like to invite all Node Managers, independently of whether you are able
 
 *Deadline*: 13 September
 
-----
+____
 https://gbif.app.box.com/f/360afd35002a42bcbe18bc514f3272ee[Submit slides] by uploading them via Box.
-----
+____
 
 == Global Nodes Training
 
