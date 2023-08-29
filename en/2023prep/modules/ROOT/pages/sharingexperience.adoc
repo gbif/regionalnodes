@@ -1,6 +1,6 @@
 = Sharing experience
 
-We would like to invite all Node Managers, independently of whether you are able to participate in the training or meeting, to consider submitting slides on the specific topics below.
+We would like to invite all Node Managers, independently of whether you are able to participate in the training (GNT) or meeting (GNM), to consider submitting slides on the specific topics below.
 
 *Deadline*: 13 September
 
@@ -8,9 +8,11 @@ ____
 https://gbif.app.box.com/f/360afd35002a42bcbe18bc514f3272ee[Submit slides] by uploading them via Box.
 ____
 
-== Global Nodes Training
+== GNT Template
 
+____
 Template
+____
 
 Please use the template to prepare slides on either or both of the following topics. We will select some slides to be presented during the lightning segments, which are brief (3-5 minutes) parts of the training sessions on these two topics. Additionally, the slides you submit will be carefully reviewed for inclusion in the curriculum that we are developing on these topics for reuse in future.
 
@@ -21,9 +23,11 @@ Please use the template to prepare slides on either or both of the following top
 * Technical instruments, documents, or analysis for policy makers
 . *Your experiences engaging research communities for data mobilization and use*. Share details on how you are engaging with the research community in your country. Consider how you raise the visibility of GBIF and your node within this community.
 
-== Global Nodes Meeting
+== GNM Template
 
+____
 Template
+____
 
 Please use the template to prepare slides of any or all of the following topics.  We will share all of the submitted slides for background ahead of the Global Nodes events. Alternatively, you have the option to submit a video presentation, which should ideally be within the range of 3 to 5 minutes.
 
