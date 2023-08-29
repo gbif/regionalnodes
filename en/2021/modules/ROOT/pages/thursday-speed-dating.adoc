@@ -20,4 +20,4 @@ We will use breakout rooms in Zoom and engage conversation with each other aroun
 
 * In your experience, what are the most efficient tools to demonstrate the importance of GBIF nodes and the importance of formal GBIF participation / What would be the tools you wish you had to  demonstrate the importance of GBIF nodes and the importance of formal GBIF participation?
 
-NOTE:  link:assets/Speed-dating_GNM2021.pdf[Slides from the session]
+NOTE:  link:Speed-dating_GNM2021.pdf[Slides from the session]
