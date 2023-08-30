@@ -18,7 +18,7 @@ Guide and training materials to support sequence-derived data in GBIF
 
 == Presentations
 
-*Update on BioDATA  - DNA metabarcoding data management*
+=== Update on BioDATA  - DNA metabarcoding data management
 
 Presentation by Dag Terje Filip Endresen, GBIF Node Manager
 
@@ -26,7 +26,7 @@ video::566509989[vimeo]
 
 == Live demo
 
-Group 1 - Data mobilization training and guidance on sequence-derived data mobilization
+=== Group 1 - Data mobilization training and guidance on sequence-derived data mobilization
 
 Facilitation by Laura Anne Russell and  Dmitry Schigel, GBIF Secretariat
 
