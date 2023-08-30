@@ -4,3 +4,6 @@ output
 node_modules
 package.json
 package-lock.json
+.DS_Store
+en/2021/modules/.DS_Store
+.DS_Store
