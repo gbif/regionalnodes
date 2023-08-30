@@ -1,6 +1,6 @@
 // Note the "home" section navigation is not currently visible, as the pages use the "home" layout which omits it.
 * xref:index.adoc[Training and Meeting preparation]
-//* xref:trainingprep.adoc[Training preparation]
-//* xref:meetingprep.adoc[Meeting preparation]
-//* xref:buddies.adoc[Buddy system]
+* xref:trainingprep.adoc[Training preparation]
+* xref:meetingprep.adoc[Meeting preparation]
+* xref:buddies.adoc[Buddy system]
 * xref:sharingexperience.adoc[Sharing experience]
