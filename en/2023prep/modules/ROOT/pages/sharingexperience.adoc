@@ -11,7 +11,7 @@ ____
 == GNT Template
 
 ____
-xref:attachment$Node-inputs-GNT-template.pptx[Training topics template]
+xref:attachment$Node-inputs-GNT-template.pptx[Training topics template] (PowerPoint, 20.9 MB)
 ____
 
 Please use the template to prepare slides on either or both of the following topics. We will select some slides to be presented during the lightning segments, which are brief (3-5 minutes) parts of the training sessions on these two topics. Additionally, the slides you submit will be carefully reviewed for inclusion in the curriculum that we are developing on these topics for reuse in future.
@@ -26,7 +26,7 @@ Please use the template to prepare slides on either or both of the following top
 == GNM Template
 
 ____
-xref:attachment$Node-inputs-GNM-template.pptx[Meeting topics template]
+xref:attachment$Node-inputs-GNM-template.pptx[Meeting topics template] (PowerPoint, 24.1 MB)
 ____
 
 Please use the template to prepare slides of any or all of the following topics.  We will share all of the submitted slides for background ahead of the Global Nodes events. Alternatively, you have the option to submit a video presentation, which should ideally be within the range of 3 to 5 minutes.
