@@ -8,29 +8,31 @@ NOTE: Please view the presentations ahead of the live panel discussion and use t
 
 == Presentations
 
-https://datos.gbif.es/others/la-toolkit-gbif-presentation-2021[*Presenting the Living Atlases Toolkit*^]
+=== Living Atlases Toolkit
 
 Presentation by Vicente J. Ruiz Jurado, LA Technical Coordinator also taking care of GBIF.es infra
 
-*GBIF Benin: Best practices of Node Management*
+https://datos.gbif.es/others/la-toolkit-gbif-presentation-2021[*Presenting the Living Atlases Toolkit*^]
+
+=== GBIF Benin: Best practices of Node Management
 
 Presentation by Jean Cossi Ganglo, GBIF Node Manager Benin
 
 video::566560669[vimeo]
  
-*GBIF in Poland in 2021: Digitization and integration of services*
+=== GBIF in Poland in 2021: Digitization and integration of services
 
 Presentation by Piotr Tykarski, GBIF Poland Node
 
 video::566560515[vimeo]
 
-*Node update from GBIF Norway: Wikidata, Agent identifiers, MaterialSample*
+=== Node update from GBIF Norway: Wikidata, Agent identifiers, MaterialSample
 
 Presentation by GBIF Norway
 
 video::566563194[vimeo]
 
-*Plazi: literature-based datasets in GBIF*
+=== Plazi: literature-based datasets in GBIF
 
 Presentation by Donat Agosti, Plazi, Switzerland
 
