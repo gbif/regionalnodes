@@ -1,4 +1,4 @@
-= Theme 1 - The role of nodes in GBIF’s next strategic period 
+= Theme 1 - The role of nodes in GBIF’s next strategic period
 
 == Panel moderator
 
@@ -34,7 +34,7 @@ video::568321140[vimeo]
 
 Presentation by Hilary Goodson, Strategic Partnership Officer, GBIF Secretariat
 
-Please review this background document as references for the live demo session **[background document](/assets/rms.pdf)
+Please review this xref:attachment$rms.pdf[background document] as references for the live demo session
 
 video::566017188[vimeo]
 
