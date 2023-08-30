@@ -5,13 +5,13 @@
 // Build status badge
 https://builds.gbif.org/job/globalnodes/lastBuild/console[image:https://builds.gbif.org/job/globalnodes/badge/icon[Build status]]
 
-= GBIF Global Nodes Courses
+= GBIF Global Nodes Training and Meeting
 
-This is the the GBIF Global Nodes courses site.
+This is the the GBIF Global Nodes Training and Meeting site.
 
 During development, it is visible at https://globalnodes.gbif-uat.org/
 
-NOTE: This file is documenting the Global Nodes course site system, it's not shown on https://globalnodes.gbif-uat.org/.
+NOTE: This file is documenting the Global Nodes Training and Meeting site system, it's not shown on https://globalnodes.gbif-uat.org/.
 
 == Overall structure
 
