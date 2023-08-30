@@ -1,6 +1,21 @@
 <div class="navbar-item has-dropdown is-hoverable">
- {{#with (resolvePage '2021::index.adoc')}}<a class="navbar-link" href="{{relativize url}}">Past meetings</a>{{/with}}
+ {{#with (resolvePage '2023prep::index.adoc')}}<a class="navbar-link" href="{{relativize url}}">Preparatory activities</a>{{/with}}
   <div class="navbar-dropdown">
-    {{#with (resolvePage '2021::index.adoc')}}<a class="navbar-item" href="{{relativize url}}">2021</a>{{/with}}
+    {{#with (resolvePage '2023prep::index.adoc')}}<a class="navbar-item" href="{{relativize url}}">Training and meeting preparation</a>{{/with}}
+    {{#with (resolvePage '2023prep::sharingexperiences.adoc')}}<a class="navbar-item" href="{{relativize url}}">Sharing experiences</a>{{/with}}
+  </div>
+</div>
+
+<div class="navbar-item has-dropdown is-hoverable">
+ {{#with (resolvePage '2023gnt::index.adoc')}}<a class="navbar-link" href="{{relativize url}}">Global Nodes Training</a>{{/with}}
+  <div class="navbar-dropdown">
+    {{#with (resolvePage '2023gnt::index.adoc')}}<a class="navbar-item" href="{{relativize url}}">2023 training</a>{{/with}}
+  </div>
+</div>
+
+<div class="navbar-item has-dropdown is-hoverable">
+ {{#with (resolvePage '2023gnm::index.adoc')}}<a class="navbar-link" href="{{relativize url}}">Global Nodes Meeting</a>{{/with}}
+  <div class="navbar-dropdown">
+    {{#with (resolvePage '2023gnm::index.adoc')}}<a class="navbar-item" href="{{relativize url}}">2023 meeting</a>{{/with}}
   </div>
 </div>
