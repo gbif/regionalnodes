@@ -18,3 +18,5 @@ In preparation for the regional breakout sessions, we invite you to:
 
 . https://www.gbif.org/contact-us/directory?group=nsg[Contact your regional representative and deputy^] if you have items you wish to add to the agenda for the regional breakout session.
 . Watch a video from Kyle Copas, GBIF Communications Manager, on estimating the national value of time savings from GBIF-enabled research and consider how you can use this to support your node and outreach efforts in your region.
+
+video::865685244[vimeo]
