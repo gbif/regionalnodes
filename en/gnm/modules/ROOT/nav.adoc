@@ -1,6 +1,6 @@
 // Note the "home" section navigation is not currently visible, as the pages use the "home" layout which omits it.
 * xref:index.adoc[2023 meeting]
-* xref:capacity-development-programmes.adoc[Capacity development programmes]
-* xref:regional-communities-of-practice.adoc[Regional communities of practice]
-* xref:data-model.adoc[Data model]
-* xref:regional-support-teams.adoc[Regional support teams]
+* xref:capacity-development-programmes.adoc[1. Capacity development programmes]
+* xref:regional-communities-of-practice.adoc[2. Regional communities of practice]
+* xref:data-model.adoc[3. Data model]
+* xref:regional-support-teams.adoc[4. Regional support teams]
