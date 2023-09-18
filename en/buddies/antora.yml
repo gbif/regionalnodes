@@ -1,0 +1,5 @@
+name: prep
+title: Node buddy system
+version: ~
+nav:
+- modules/ROOT/nav.adoc
