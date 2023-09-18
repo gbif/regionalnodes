@@ -5,15 +5,15 @@
 The Global Nodes Meeting and Training are an opportunity for all GBIF nodes to come together to learn from each other, discuss ideas, develop best practices, share their concerns, define recommendations and set priorities. The audience is inclusive of Node managers and Nodes staff, with invited observers who wish to learn more about GBIF and the work of the nodes. Participants must follow https://www.gbif.org/code-of-conduct[GBIF’s code of conduct^].
 
 [.blocks]
-* xref:prep::index.adoc[image:globalnodes-site-thumb-03.png[]]
-** xref:prep::index.adoc[Preparatory Activities]
-//** 2023 Preparatory Activities
+* xref:prep::index.adoc[image:globalnodes-site-thumb-05.png[]]
+** xref:prep::index.adoc[Nodes Buddy System]
+//** Nodes Buddy System
 
 * xref:gnt::index.adoc[image:globalnodes-site-thumb-04.png[]]
 ** xref:gnt::index.adoc[Global Nodes Training 2023]
 //** Global Nodes Training 2023
 
-* xref:gnm::index.adoc[image:globalnodes-site-thumb-05.png[]]
+* xref:gnm::index.adoc[image:globalnodes-site-thumb-03.png[]]
 ** xref:gnm::index.adoc[Global Nodes Meeting 2023]
 //** Global Nodes Meeting 2023
 
