@@ -2,7 +2,7 @@
 
 == By Node
 
-[options="header"]
+[cols="10%,50%,25%,15%",options="header"]
 |===========================================================================================================================
 | Group | Node                                                            | Region                          | GNM Attendance
 | 14    | Albertine Rift Conservation Society (ARCOS)                     | Africa                          | Not attending 
@@ -117,7 +117,7 @@
 
 == By Group
 
-[options="header"]
+[cols="10%,50%,25%,15%",options="header"]
 |===========================================================================================================================
 | Group | Node                                                            | Region                          | GNM Attendance
 | 1     | Angola, Republic of                                             | Africa                          | In-person     
