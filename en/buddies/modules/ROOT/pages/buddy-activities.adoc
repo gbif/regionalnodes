@@ -5,7 +5,7 @@ We encourage all buddy groups to organize a call before the Global Nodes events 
 
 We suggest three activities for this call:
 
-. Complete or review your capacity self-assessment and, based on the results, discuss the capacity strengths and needs of each of your nodes.
+. Complete or review your https://www.gbif.org/tool/6Y2SqK8XokHUqIFUn6TLxX/online-capacity-self-assessment-tool-for-national-biodiversity-information-facilities[capacity self-assessment^] and, based on the results, discuss the capacity strengths and needs of each of your nodes.
 . Describe your node’s model to your buddies and discuss similarities and differences.
 . Review the Global Nodes Meeting agenda and help any newer nodes to understand the context around the discussion topics.
 
