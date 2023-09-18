@@ -1,3 +1,7 @@
 = 2023 Global Nodes Meeting
 
-Content coming soon!
+image::ROOT::globalnodes-site-thumb-03.png[]
+
+== Goal
+
+Familiarize yourself with the topics that will be discussed in the Global Nodes Meeting and prepare to share your experiences so that others can benefit from them.
