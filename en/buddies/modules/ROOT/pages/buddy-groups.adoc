@@ -2,8 +2,6 @@
 
 == By Node
 
-[cols=4*,options="header"]
-|====
 | Group | Node                                                            | Region                          | GNM Attendance |
 |-------|-----------------------------------------------------------------|---------------------------------|----------------|
 | 14    | Albertine Rift Conservation Society (ARCOS)                     | Africa                          | Not attending  |
@@ -113,12 +111,9 @@
 | 22    | VertNet                                                         | North America                   | Remote         |
 | 11    | World Federation for Culture Collections                        | Asia                            | Not attending  |
 | 10    | Zimbabwe                                                        | Africa                          | In-person      |
-|====
 
 == By Group
 
-[cols=4*,options="header"]
-|====
 | Group | Node                                                            | Region                          | GNM Attendance |
 |-------|-----------------------------------------------------------------|---------------------------------|----------------|
 | 1     | Angola, Republic of                                             | Africa                          | In-person      |
@@ -228,4 +223,3 @@
 | 22    | Luxembourg                                                      | Europe and Central Asia         | Remote         |
 | 22    | Natural Science Collections Alliance                            | North America                   | Remote         |
 | 22    | VertNet                                                         | North America                   | Remote         |
-|====
