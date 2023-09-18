@@ -4,7 +4,7 @@ https://www.gbif.org/contact-us/directory?group=nodesCommittee[Contact informati
 
 == By Node
 
-[cols="10%,80%",options="header",stripes="even"]
+[cols="10%,80%",options="header",stripes="odd"]
 |========================================================================
 | Group | Node                                                           
 | 14    | Albertine Rift Conservation Society (ARCOS)                    
@@ -144,89 +144,107 @@ https://www.gbif.org/contact-us/directory?group=nodesCommittee[Contact informati
 | 4     | France                                                         
 | 4     | Mauritania                                                     
 | 4     | Nigeria                                                        
+|&nbsp; |
 | 5     | Belgium                                                        
 | 5     | Cambodia                                                       
 | 5     | Chile                                                          
 | 5     | Ecuador                                                        
 | 5     | International Centre for Integrated Mountain Development       
+|&nbsp; |
 | 6     | Brazil                                                         
 | 6     | Denmark                                                        
 | 6     | Ireland                                                        
 | 6     | Kenya                                                          
 | 6     | South Sudan                                                    
+|&nbsp; |
 | 7     | East Asia Biodiversity Conservation Network                    
 | 7     | Finland                                                        
 | 7     | Georgia                                                        
 | 7     | Ghana                                                          
 | 7     | Korea, Republic of                                             
+|&nbsp; |
 | 8     | Andorra                                                        
 | 8     | Costa Rica                                                     
 | 8     | Estonia                                                        
 | 8     | Guatemala, Republic of                                         
 | 8     | Guinea                                                         
+|&nbsp; |
 | 9     | Horn of Africa Regional Environment Centre and Network         
 | 9     | Madagascar                                                     
 | 9     | Namibia                                                        
 | 9     | Norway                                                         
 | 9     | Tajikistan                                                     
+|&nbsp; |
 | 10    | Malawi                                                         
 | 10    | Netherlands                                                    
 | 10    | New Zealand                                                    
 | 10    | UN Environment World Conservation Monitoring Centre (UNEP-WCMC)
 | 10    | Zimbabwe                                                       
+|&nbsp; |
 | 11    | Consortium of European Taxonomic Facilities                    
 | 11    | Distributed System of Scientific Collections                   
 | 11    | Species 2000                                                   
 | 11    | Symbiota Support Hub                                           
 | 11    | Taxonomic Databases Working Group                              
 | 11    | World Federation for Culture Collections                       
+|&nbsp; |
 | 12    | Mexico                                                         
 | 12    | Scientific Committee on Antarctic Research                     
 | 12    | Spain                                                          
 | 12    | Sweden                                                         
 | 12    | Tanzania, United Republic of                                   
+|&nbsp; |
 | 13    | iDigBio                                                        
 | 13    | Liberia                                                        
 | 13    | Togo                                                           
 | 13    | Tonga, Kingdom of                                              
 | 13    | United Kingdom                                                 
+|&nbsp; |
 | 14    | Albertine Rift Conservation Society (ARCOS)                    
 | 14    | Amazon Cooperation Treaty Organization                         
 | 14    | Biodiversity Heritage Library                                  
 | 14    | Chinese Academy of Sciences                                    
 | 14    | Sierra Leone                                                   
 | 14    | Uruguay                                                        
+|&nbsp; |
 | 15    | Poland                                                         
 | 15    | Suriname, Republic of                                          
 | 15    | Uganda                                                         
 | 15    | United States                                                  
 | 15    | Uzbekistan                                                     
+|&nbsp; |
 | 16    | Botanic Gardens Conservation International                     
 | 16    | Ciencia y Tecnología para el Desarrollo                        
 | 16    | Consortium for the Barcode of Life                             
 | 16    | NatureServe                                                    
+|&nbsp; |
 | 17    | Andean Network of BioNET-INTERNATIONAL                         
 | 17    | Bioversity International                                       
 | 17    | Discover Life                                                  
 | 17    | Nordic Genetic Resource Center                                 
 | 17    | Plazi                                                          
+|&nbsp; |
 | 18    | Encyclopedia of Life                                           
 | 18    | Endangered Wildlife Trust                                      
 | 18    | International Barcode of Life Consortium                       
 | 18    | Society for the Preservation of Natural History Collections    
+|&nbsp; |
 | 19    | European Environment Agency                                    
 | 19    | ICLEI – Local Governments for Sustainability                   
 | 19    | Integrated Taxonomic Information System                        
 | 19    | International Long Term Ecological Research                    
+|&nbsp; |
 | 20    | International Centre for Insect Physiology and Ecology         
 | 20    | LifeWatch ERIC                                                 
 | 20    | Observation International                                      
 | 20    | Specify Collections Consortium                                 
+|&nbsp; |
 | 21    | Canadensys                                                     
 | 21    | Croatia, Republic of                                           
 | 21    | Slovakia                                                       
 | 21    | South Africa                                                   
 | 21    | Switzerland                                                    
+|&nbsp; |
 | 22    | Iceland                                                        
 | 22    | Luxembourg                                                     
 | 22    | Natural Science Collections Alliance                           
