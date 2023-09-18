@@ -1,5 +1,9 @@
 = Buddy groups
 
+== By Node
+
+[cols=4*,options="header"]
+|===
 | Group | Node                                                            | Region                          | GNM Attendance |
 |-------|-----------------------------------------------------------------|---------------------------------|----------------|
 | 14    | Albertine Rift Conservation Society (ARCOS)                     | Africa                          | Not attending  |
@@ -109,3 +113,119 @@
 | 22    | VertNet                                                         | North America                   | Remote         |
 | 11    | World Federation for Culture Collections                        | Asia                            | Not attending  |
 | 10    | Zimbabwe                                                        | Africa                          | In-person      |
+|===
+
+== By Group
+
+[cols=4*,options="header"]
+|===
+| Group | Node                                                            | Region                          | GNM Attendance |
+|-------|-----------------------------------------------------------------|---------------------------------|----------------|
+| 1     | Angola, Republic of                                             | Africa                          | In-person      |
+| 1     | Argentina                                                       | Latin America and the Caribbean | In-person      |
+| 1     | Canada                                                          | North America                   | Not attending  |
+| 1     | Portugal                                                        | Europe and Central Asia         | In-person      |
+| 1     | Slovenia                                                        | Europe and Central Asia         | Not attending  |
+| 2     | Armenia, Republic of                                            | Europe and Central Asia         | Not attending  |
+| 2     | ASEAN Centre for Biodiversity                                   | Asia                            | In-person      |
+| 2     | Australia                                                       | Oceania                         | In-person      |
+| 2     | Chinese Taipei                                                  | Asia                            | In-person      |
+| 2     | Secretariat of the Pacific Regional Environment Programme       | Oceania                         | Not attending  |
+| 3     | Belarus, Republic of                                            | Europe and Central Asia         | Not attending  |
+| 3     | Benin                                                           | Africa                          | In-person      |
+| 3     | Colombia                                                        | Latin America and the Caribbean | In-person      |
+| 3     | Germany                                                         | Europe and Central Asia         | In-person      |
+| 3     | Peru                                                            | Latin America and the Caribbean | Not attending  |
+| 4     | Cameroon                                                        | Africa                          | In-person      |
+| 4     | Central African Republic                                        | Africa                          | Not attending  |
+| 4     | France                                                          | Europe and Central Asia         | In-person      |
+| 4     | Mauritania                                                      | Africa                          | In-person      |
+| 4     | Nigeria                                                         | Africa                          | Not attending  |
+| 5     | Belgium                                                         | Europe and Central Asia         | In-person      |
+| 5     | Cambodia                                                        | Asia                            | In-person      |
+| 5     | Chile                                                           | Latin America and the Caribbean | Not attending  |
+| 5     | Ecuador                                                         | Latin America and the Caribbean | In-person      |
+| 5     | International Centre for Integrated Mountain Development        | Asia                            | Not attending  |
+| 6     | Brazil                                                          | Latin America and the Caribbean | In-person      |
+| 6     | Denmark                                                         | Europe and Central Asia         | Not attending  |
+| 6     | Ireland                                                         | Europe and Central Asia         | In-person      |
+| 6     | Kenya                                                           | Africa                          | Not attending  |
+| 6     | South Sudan                                                     | Africa                          | In-person      |
+| 7     | East Asia Biodiversity Conservation Network                     | Asia                            | Not attending  |
+| 7     | Finland                                                         | Europe and Central Asia         | In-person      |
+| 7     | Georgia                                                         | Europe and Central Asia         | In-person      |
+| 7     | Ghana                                                           | Africa                          | In-person      |
+| 7     | Korea, Republic of                                              | Asia                            | Not attending  |
+| 8     | Andorra                                                         | Europe and Central Asia         | Not attending  |
+| 8     | Costa Rica                                                      | Latin America and the Caribbean | Not attending  |
+| 8     | Estonia                                                         | Europe and Central Asia         | Not attending  |
+| 8     | Guatemala, Republic of                                          | Latin America and the Caribbean | In-person      |
+| 8     | Guinea                                                          | Africa                          | In-person      |
+| 9     | Horn of Africa Regional Environment Centre and Network          | Africa                          | In-person      |
+| 9     | Madagascar                                                      | Africa                          | Not attending  |
+| 9     | Namibia                                                         | Africa                          | Not attending  |
+| 9     | Norway                                                          | Europe and Central Asia         | In-person      |
+| 9     | Tajikistan                                                      | Europe and Central Asia         | In-person      |
+| 10    | Malawi                                                          | Africa                          | Not attending  |
+| 10    | Netherlands                                                     | Europe and Central Asia         | In-person      |
+| 10    | New Zealand                                                     | Oceania                         | In-person      |
+| 10    | UN Environment World Conservation Monitoring Centre (UNEP-WCMC) | Europe and Central Asia         | Not attending  |
+| 10    | Zimbabwe                                                        | Africa                          | In-person      |
+| 11    | Consortium of European Taxonomic Facilities                     | Europe and Central Asia         | Not attending  |
+| 11    | Distributed System of Scientific Collections                    | Europe and Central Asia         | In-person      |
+| 11    | Species 2000                                                    | Europe and Central Asia         | In-person      |
+| 11    | Symbiota Support Hub                                            | North America                   | In-person      |
+| 11    | Taxonomic Databases Working Group                               | North America                   | In-person      |
+| 11    | World Federation for Culture Collections                        | Asia                            | Not attending  |
+| 12    | Mexico                                                          | Latin America and the Caribbean | In-person      |
+| 12    | Scientific Committee on Antarctic Research                      | Europe and Central Asia         | In-person      |
+| 12    | Spain                                                           | Europe and Central Asia         | Not attending  |
+| 12    | Sweden                                                          | Europe and Central Asia         | In-person      |
+| 12    | Tanzania, United Republic of                                    | Africa                          | Not attending  |
+| 13    | iDigBio                                                         | North America                   | In-person      |
+| 13    | Liberia                                                         | Africa                          | Not attending  |
+| 13    | Togo                                                            | Africa                          | In-person      |
+| 13    | Tonga, Kingdom of                                               | Oceania                         | In-person      |
+| 13    | United Kingdom                                                  | Europe and Central Asia         | Not attending  |
+| 14    | Albertine Rift Conservation Society (ARCOS)                     | Africa                          | Not attending  |
+| 14    | Amazon Cooperation Treaty Organization                          | Latin America and the Caribbean | Not attending  |
+| 14    | Biodiversity Heritage Library                                   | North America                   | In-person      |
+| 14    | Chinese Academy of Sciences                                     | Asia                            | In-person      |
+| 14    | Sierra Leone                                                    | Africa                          | Not attending  |
+| 14    | Uruguay                                                         | Latin America and the Caribbean | Not attending  |
+| 15    | Poland                                                          | Europe and Central Asia         | Not attending  |
+| 15    | Suriname, Republic of                                           | Latin America and the Caribbean | Not attending  |
+| 15    | Uganda                                                          | Africa                          | In-person      |
+| 15    | United States                                                   | North America                   | In-person      |
+| 15    | Uzbekistan                                                      | Europe and Central Asia         | In-person      |
+| 16    | Botanic Gardens Conservation International                      | Europe and Central Asia         | Not attending  |
+| 16    | Ciencia y Tecnología para el Desarrollo                         | Latin America and the Caribbean | Not attending  |
+| 16    | Consortium for the Barcode of Life                              | North America                   | Not attending  |
+| 16    | NatureServe                                                     | North America                   | Not attending  |
+| 17    | Andean Network of BioNET-INTERNATIONAL                          | Latin America and the Caribbean | Not attending  |
+| 17    | Bioversity International                                        | Europe and Central Asia         | Not attending  |
+| 17    | Discover Life                                                   | North America                   | Not attending  |
+| 17    | Nordic Genetic Resource Center                                  | Europe and Central Asia         | Not attending  |
+| 17    | Plazi                                                           | Europe and Central Asia         | Not attending  |
+| 18    | Encyclopedia of Life                                            | North America                   | Not attending  |
+| 18    | Endangered Wildlife Trust                                       | Africa                          | Not attending  |
+| 18    | International Barcode of Life Consortium                        | North America                   | Not attending  |
+| 18    | Society for the Preservation of Natural History Collections     | North America                   | Not attending  |
+| 19    | European Environment Agency                                     | Europe and Central Asia         | Not attending  |
+| 19    | ICLEI – Local Governments for Sustainability                    | Africa                          | Not attending  |
+| 19    | Integrated Taxonomic Information System                         | North America                   | Not attending  |
+| 19    | International Long Term Ecological Research                     | Europe and Central Asia         | Not attending  |
+| 20    | International Centre for Insect Physiology and Ecology          | Africa                          | Not attending  |
+| 20    | LifeWatch ERIC                                                  | Europe and Central Asia         | Not attending  |
+| 20    | Observation International                                       | Europe and Central Asia         | Not attending  |
+| 20    | Specify Collections Consortium                                  | North America                   | Not attending  |
+| 21    | Canadensys                                                      | North America                   | Remote         |
+| 21    | Croatia, Republic of                                            | Europe and Central Asia         | Remote         |
+| 21    | Slovakia                                                        | Europe and Central Asia         | Remote         |
+| 21    | South Africa                                                    | Africa                          | Remote         |
+| 21    | Switzerland                                                     | Europe and Central Asia         | Remote         |
+| 22    | Iceland                                                         | Europe and Central Asia         | Remote         |
+| 22    | Luxembourg                                                      | Europe and Central Asia         | Remote         |
+| 22    | Natural Science Collections Alliance                            | North America                   | Remote         |
+| 22    | VertNet                                                         | North America                   | Remote         |
+|===
