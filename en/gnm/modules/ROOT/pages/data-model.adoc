@@ -1,0 +1,19 @@
+= Expanding our Data Model: Opportunities and Implications for Nodes 
+
+== Context
+
+Two years ago, during our last Global Nodes Meeting, Tim Robertson, Head of Informatics, https://vimeo.com/564600741[presented a roadmap^] for how we could evolve the GBIF data model to better accommodate richer data. This work started with documenting a series of clear use cases based on sub-communities of data publishers. These use cases have under-pinned ongoing work on an emerging common data model. Working with different sub-communities, such as natural history collections, and eDNA and camera trap networks, we have then explored through a series of webinars and exploratory data mapping activities how we might develop new data exchange models to allow the publishing and download of data in a format that would be more familiar and a closer fit to the specific needs of each community. The final stage will be to consider the catalogs of services that the new data model could enable. 
+This work is iterative, and will progress at different paces for different case studies. Nodes have been encouraged to follow progress by participating in the webinars and various calls for testers and reviewers of different elements of this work.
+Ultimately, this work will enable GBIF to become a data infrastructure for even more diverse biodiversity data communities than is possible today. This will have implications for the types of data holding communities that nodes will be able to engage with and the range of services that nodes will be able to provide to their network. 
+During the Global Nodes Meeting, we will provide an update on the work to date, hear from nodes who have been participating in the work, and consider how this work will open opportunities for nodes in the future.
+
+== Preparation
+
+. All https://www.gbif.org/new-data-model[case studies and webinar recordings^] are available the GBIF website. We encourage you to review any that are of specific interest to your node.
+. You are invited to join the next webinar on Exploring interactions data on plant pollination on 20 September 2023 or watch the recording.
+. Watch pre-recorded presentations from nodes that have been working on the data model (to be developed)
+
+BGBM - video
+Specify - video
+Symbiota - pptx
+Swiss - video
