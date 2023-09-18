@@ -2,11 +2,9 @@
 
 == Context
 
-  GBIF runs capacity development programmes that focus on building capacity for biodiversity data mobilization and use, cooperation and knowledge sharing. 
-This session of the Global Nodes Meeting will be an opportunity to discuss how nodes currently participate in and support these programmes, and ideas for how the programmes can be of even greater benefit to the nodes and broader community in future.
+GBIF runs capacity development programmes that focus on building capacity for biodiversity data mobilization and use, cooperation and knowledge sharing. This session of the Global Nodes Meeting will be an opportunity to discuss how nodes currently participate in and support these programmes, and ideas for how the programmes can be of even greater benefit to the nodes and broader community in future.
 
-The programmes we will be focusing on in the discussion are the Capacity Enhancement Support Programme (CESP) and the Biodiversity Information for Development (BID) programme. 
-We will also discuss work underway to develop an onboarding programme to help new nodes to get started in the GBIF community.
+The programmes we will be focusing on in the discussion are the Capacity Enhancement Support Programme (CESP) and the Biodiversity Information for Development (BID) programme. We will also discuss work underway to develop an onboarding programme to help new nodes to get started in the GBIF community.
 
 https://www.gbif.org/programme/82219/capacity-enhancement-support-programme[CESP^] has since 2014 provided small grants to support capacity development projects co-funded by the nodes. The annual calls for proposals under this programme provide co-funding to GBIF Participants for capacity enhancement projects based on combinations of mentoring activities, regional events, training workshops and the production and adaptation of documentation and materials.
  
