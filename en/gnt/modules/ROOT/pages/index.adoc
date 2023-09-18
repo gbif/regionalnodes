@@ -1,3 +1,7 @@
 = 2023 Global Nodes Training
 
-Content coming soon!
+image::ROOT::globalnodes-site-thumb-04.png[]
+
+== Goal
+
+Familiarize yourself with the topics and materials to prepare your attendance at the Global Nodes training. 
