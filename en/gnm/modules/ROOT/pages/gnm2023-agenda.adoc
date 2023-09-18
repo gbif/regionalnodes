@@ -1,6 +1,6 @@
 = 2023 Global Nodes Meeting DRAFT Agenda
 
 ++++
-<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://gbif.app.box.com/embed/s/gwgaak8d1y6vq0wp8c055jjlsoqph8z1?sortColumn=date' allowfullscreen webkitallowfullscreen msallowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>
+<iframe src="https://gbif.app.box.com/embed/s/ngcheo7dmnpe24g9cyz30zlxzxvw98p4" width="800" height="1100" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 ++++
 
