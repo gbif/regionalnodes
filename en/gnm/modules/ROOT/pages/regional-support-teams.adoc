@@ -2,9 +2,9 @@
 
 == Context
 
-In 2021, GBIF started working with distributed regional support teams on part-time contracts working to strengthen and develop regional communities of practice engaged in data mobilization and use. These teams complement the ongoing efforts of node managers, regional representatives, and volunteer trainers and mentors, to support outreach activities, provide distributed help-desk support, and engage individuals and institutions, particularly in countries that do not yet participate in the GBIF network. The development of regional support teams responds to recommendations in the CODATA Twenty-Year Review of GBIF to strengthen nodes by stabilizing and extending the regional networks.
+In 2021, GBIF started working with distributed regional support teams on part-time contracts working to strengthen and develop regional communities of practice engaged in data mobilization and use. These teams complement the ongoing efforts of node managers, regional representatives, and volunteer trainers and mentors, to support outreach activities, provide distributed help-desk support, and engage individuals and institutions, particularly in countries that do not yet participate in the GBIF network. The development of regional support teams responds to recommendations in the https://www.gbif.org/news/1QfpUlGByxjqBktiYAfyIK/[CODATA Twenty-Year Review of GBIF^] to strengthen nodes by stabilizing and extending the regional networks.
 
-We currently have regional support teams in Africa, Asia, Caribbean, and most recently, Europe and Central Asia.
+We currently have regional support teams in https://www.gbif.org/news/3T2siG9QgzLBHqn6MMCdsr/mafuwe-musinguzi-and-rabetrano-selected-to-provide-regional-support-in-africa[Africa^], https://www.gbif.org/news/2GCWBqcly9TCvaIfek5bfb/four-contractors-selected-to-provide-project-support-in-asia[Asia^], https://www.gbif.org/news/6Qpp6Gd5Jos0y3HbBhGsF/leonardo-buitrago-selected-to-provide-project-support-in-the-caribbean[Caribbean^], and most recently, https://www.gbif.org/news/5F4Pi7MuOD9cPuioSSOOem/salza-palpurina-and-oleg-borodin-to-support-gbif-regional-network-in-europe-and-central-asia[Europe and Central Asia^].
 
 == Preparation
 
