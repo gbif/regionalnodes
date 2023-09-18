@@ -1,7 +1,17 @@
 = Engaging research communities for data mobilization and use
 
-== Trainers
+== Context
 
 == Learning objectives
 
+== Trainers
+
+Dimitri Brosens, Node Manager, Belgium
+
+Jean Ganglo, Node Manager, Benin
+
+Secretariat consultant: Dmitry Schigel
+
 == Preparation
+
+. Familiarize yourself with the most current https://www.gbif.org/science-review[GBIF Science Review^]
