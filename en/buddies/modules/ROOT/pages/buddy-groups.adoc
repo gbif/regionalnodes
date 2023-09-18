@@ -1,10 +1,10 @@
 = Buddy groups
 
-https://www.gbif.org/contact-us/directory?group=nodesCommittee[Contact information] for node managers can be found in the GBIF Directory.
+https://www.gbif.org/contact-us/directory?group=nodesCommittee[Contact information^] for node managers can be found in the GBIF Directory.
 
 == By Node
 
-[cols="10%,80%",options="header"]
+[cols="10%,80%",options="header",stripes="even"]
 |========================================================================
 | Group | Node                                                           
 | 14    | Albertine Rift Conservation Society (ARCOS)                    
@@ -126,16 +126,19 @@ https://www.gbif.org/contact-us/directory?group=nodesCommittee[Contact informati
 | 1     | Canada                                                         
 | 1     | Portugal                                                       
 | 1     | Slovenia                                                       
+|&nbsp; |
 | 2     | Armenia, Republic of                                           
 | 2     | ASEAN Centre for Biodiversity                                  
 | 2     | Australia                                                      
 | 2     | Chinese Taipei                                                 
 | 2     | Secretariat of the Pacific Regional Environment Programme      
+|&nbsp; |
 | 3     | Belarus, Republic of                                           
 | 3     | Benin                                                          
 | 3     | Colombia                                                       
 | 3     | Germany                                                        
 | 3     | Peru                                                           
+|&nbsp; |
 | 4     | Cameroon                                                       
 | 4     | Central African Republic                                       
 | 4     | France                                                         
