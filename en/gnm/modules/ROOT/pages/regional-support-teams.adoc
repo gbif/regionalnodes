@@ -1,0 +1,14 @@
+= Future Development of GBIF Regional Support Teams
+
+== Context
+
+In 2021, GBIF started working with distributed regional support teams on part-time contracts working to strengthen and develop regional communities of practice engaged in data mobilization and use. These teams complement the ongoing efforts of node managers, regional representatives, and volunteer trainers and mentors, to support outreach activities, provide distributed help-desk support, and engage individuals and institutions, particularly in countries that do not yet participate in the GBIF network. The development of regional support teams responds to recommendations in the CODATA Twenty-Year Review of GBIF to strengthen nodes by stabilizing and extending the regional networks.
+
+We currently have regional support teams in Africa, Asia, Caribbean, and most recently, Europe and Central Asia.
+
+== Preparation
+
+In preparation to join a discussion on the future of the regional support teams, we invite you to:
+
+. Watch videos from regional support teams in Africa, Asia, and Caribbean explaining their work to date
+. Consider how these teams could support your node’s efforts to build regional engagement and come ready to share ideas in Canberra
