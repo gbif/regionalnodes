@@ -1,2 +1,53 @@
 = Buddy groups
 
+[cols=3*,options="header"]
+|===
+|Name
+|Region
+|GNM Attendance
+
+|Angola, Republic of
+|Africa
+|In-person
+
+|Argentina
+|Latin America and the Caribbean
+|In-person
+
+|Canada
+|North America
+|Not attending
+
+|Portugal
+|Europe and Central Asia
+|In-person
+
+|Slovenia
+|Europe and Central Asia
+|Not attending
+
+|
+|
+|
+
+|Armenia, Republic of
+|Europe and Central Asia
+|Not attending
+
+|ASEAN Centre for Biodiversity
+|Asia
+|In-person
+
+|Australia
+|Oceania
+|In-person
+
+|Chinese Taipei
+|Asia
+|In-person
+
+|Secretariat of the Pacific Regional Environment Programme
+|Oceania
+|Not attending
+
+|===
