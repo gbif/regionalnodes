@@ -10,6 +10,8 @@ David Jennings, Node Manager, iDigBio
 
 Niels Raes, Node Manager, Netherlands
 
+Secretariat consultants: Andrea Hahn and Marie Grosjean
+
 == Preparation
 
 . https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account[Create GitHub account^] if you do not already have one (follow directions for part 1 and choose free account).
