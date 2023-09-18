@@ -2,3 +2,5 @@
 * xref:index.adoc[2023 meeting]
 * xref:capacity-development-programmes.adoc[Capacity development programmes]
 * xref:regional-communities-of-practice.adoc[Regional communities of practice]
+* xref:data-model.adoc[Data model]
+* xref:regional-support-teams.adoc[Regional support teams]
