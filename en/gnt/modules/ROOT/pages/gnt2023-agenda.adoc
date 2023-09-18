@@ -1,0 +1,5 @@
+= 2023 Global Nodes Training DRAFT Agenda
+
+++++
+  <iframe src="https://gbif.app.box.com/embed/s/gwgaak8d1y6vq0wp8c055jjlsoqph8z1?sortColumn=date" width="800" height="1100" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe> 
+++++
