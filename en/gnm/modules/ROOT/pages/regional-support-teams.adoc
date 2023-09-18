@@ -12,3 +12,7 @@ In preparation to join a discussion on the future of the regional support teams,
 
 . Watch videos from regional support teams in Africa, Asia, and Caribbean explaining their work to date.
 . Consider how these teams could support your node’s efforts to build regional engagement and come ready to share ideas in Canberra.
+
+++++
+<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/10660172/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>
+++++
