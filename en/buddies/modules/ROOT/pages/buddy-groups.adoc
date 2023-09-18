@@ -1,8 +1,9 @@
 = Buddy groups
 
+
 [cols=3*,options="header"]
 |===
-|Name
+|Node
 |Region
 |GNM Attendance
 

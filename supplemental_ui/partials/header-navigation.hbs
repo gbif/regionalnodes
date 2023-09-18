@@ -1,8 +1,8 @@
 <div class="navbar-item has-dropdown is-hoverable">
- {{#with (resolvePage 'buddies::index.adoc')}}<a class="navbar-link" href="{{relativize url}}">Node Buddy System</a>{{/with}}
+ {{#with (resolvePage 'buddies::index.adoc')}}<a class="navbar-link" href="{{relativize url}}">Nodes Buddy System</a>{{/with}}
   <div class="navbar-dropdown">
     {{#with (resolvePage 'buddies::index.adoc')}}<a class="navbar-item" href="{{relativize url}}">Buddy system</a>{{/with}}
-    {{#with (resolvePage 'buddies::buddy-actitivities.adoc')}}<a class="navbar-item" href="{{relativize url}}">Buddy activities</a>{{/with}}
+    {{#with (resolvePage 'buddies::buddy-activities.adoc')}}<a class="navbar-item" href="{{relativize url}}">Buddy activities</a>{{/with}}
     {{#with (resolvePage 'buddies::buddy-groups.adoc')}}<a class="navbar-item" href="{{relativize url}}">Buddy groups</a>{{/with}}
   </div>
 </div>
