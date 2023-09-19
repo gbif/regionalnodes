@@ -28,7 +28,7 @@ video::hnufsBNtFbw[youtube]
 
 *Read* https://www.cbd.int/doc/publications/cbd-sustain-en.pdf[Sustaining life on Earth^] (PDF 500 KB)
 
-*Investigate* the https://www.cbd.int/countries/[CBD in your country^] (download worksheet)
+*Investigate* the https://www.cbd.int/countries/[CBD in your country^] (xref:attachment$CBD-in-your-country.docx[download worksheet])
 
 . Does your country have a current National Biodiversity Strategy and Action Plan (NBSAP)? 
 . Is your country updating its NBSAP? 
