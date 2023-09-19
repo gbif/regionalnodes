@@ -14,8 +14,14 @@ During the Global Nodes Meeting, we will provide an update on the work to date, 
 
 . All https://www.gbif.org/new-data-model[case studies and webinar recordings^] are available the GBIF website. We encourage you to review any that are of specific interest to your node.
 . You are invited to join the next https://www.gbif.org/event/2ySKiC0dOzVU85xd6Jg0T1[webinar on Exploring interactions data on plant pollination^] on 20 September 2023 or watch the recording.
-. Watch pre-recorded presentations from GBIF Switzerland, the Specify Collections Consortium, and the Botanischer Garten und Botanisches Museum. All three groups have been working on the data model.
+. Watch pre-recorded presentations from GBIF Switzerland, the Specify Collections Consortium, and the Botanischer Garten und Botanisches Museum. All three groups have been working on the data model. Read through slides contributed by other nodes in preparation for this session and consider xref:sharingexperience.adoc[sharing slides] on your node’s experience with work to expand GBIF’s data model
 
 ++++
 <div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/10660339/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>
+++++
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT3mAL7To6qBSczjMC8JuR6x4pN_5QX-ouX9LRRYIIqNdznyOAUL1Ccog8yhv_BHg/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
 ++++
