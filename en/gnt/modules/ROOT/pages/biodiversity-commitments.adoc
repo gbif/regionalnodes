@@ -18,9 +18,13 @@ Secretariat consultants: Tim Hirsch and Andrew Rodrigues
 
 . Learn about the Convention on Biological Diversity (CBD)
 .. Watch introduction video on the Post-2020 Global Biodiversity Framework (YouTube - 1:14 min)
+
 video::H0Bp5jo4xic[youtube]
+
 .. Watch video on the Post-2020 Global Biodiversity Framework and Targets (YouTube - 8:35 min; https://www.youtube.com/watch?v=e48M-DupuYo[Spanish^])
+
 video::hnufsBNtFbw[youtube]
+
 .. Read https://www.cbd.int/doc/publications/cbd-sustain-en.pdf[Sustaining life on Earth^] (PDF 500 KB)
 .. Investigate the https://www.cbd.int/countries/[CBD in your country^] (download worksheet)
 ... Does your country have a current National Biodiversity Strategy and Action Plan (NBSAP)? 
