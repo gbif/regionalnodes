@@ -16,3 +16,10 @@ In preparation for this session, we invite you to:
 
 . Attend the https://www.gbif.org/event/DL7vdW3Q9spyscdi5kaj6/biodiversity-information-for-development-showcase[BID Showcase event] on 25 September 2023 to learn more about the impact of the programme to date and to participate in discussions on its future. The event will be recorded if you are unable to attend live.
 . Review the https://www.gbif.org/composition/4R5Ot70guupksCkTNbq1oe/cesp-all-projects[CESP project pages] to see the types of activities that have been funded and get inspired by their results.
+. Read through slides provided by nodes in preparation for this session and consider xref:sharingexperience.adoc[sharing slides] on your node’s experience with GBIF capacity development programmes.
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTqNwemQzemqCd1x-ckOzs1JPkTGj9sJwI_nHw0blyTkgvG85SPnKJOEBuBRSJM8Q/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
