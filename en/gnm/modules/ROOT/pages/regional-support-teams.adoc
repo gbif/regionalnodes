@@ -14,6 +14,8 @@ In preparation to join a discussion on the future of the regional support teams,
 . Read through slides contributed by nodes in preparation for this session and consider xref:sharingexperience.adoc[sharing slides] on your node’s experience with regional support teams.
 . Consider how these teams could support your node’s efforts to build regional engagement and come ready to share ideas in Canberra.
 
+&nbsp;
+
 ++++
 <div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/10660172/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>
 ++++
