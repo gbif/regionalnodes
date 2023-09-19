@@ -16,7 +16,7 @@ Secretariat consultants: Andrea Hahn and Marie Grosjean
 
 == Preparation
 
-*https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account[Create GitHub account^]* if you do not already have one (follow directions for part 1 and choose free account).
+*Create a https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account[GitHub account^]* if you do not already have one (follow directions for part 1 and choose free account).
 
 *Watch a video* from Lily Shrestha, Asia Regional Support, on using a GRSciColl workflow to facilitate Data Mobilization (Vimeo - 9:55 min)
 
