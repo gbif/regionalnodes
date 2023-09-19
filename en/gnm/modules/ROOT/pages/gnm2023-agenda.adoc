@@ -1,5 +1,5 @@
 = 2023 Global Nodes Meeting DRAFT Agenda
 
 ++++
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTJ9z1fIH5EN405RFcRgnMIMwVXmbICT3PY9bPOfjd6nh53PaIjVjNW3rENLNZbOdwHCaEwH5oXGXD-/pub?embedded=true height="800" width="600"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTJ9z1fIH5EN405RFcRgnMIMwVXmbICT3PY9bPOfjd6nh53PaIjVjNW3rENLNZbOdwHCaEwH5oXGXD-/pub?embedded=true" height="100%" width="100%"></iframe>
 ++++
