@@ -5,3 +5,4 @@
 * xref:regional-communities-of-practice.adoc[2. Regional communities of practice]
 * xref:data-model.adoc[3. Data model]
 * xref:regional-support-teams.adoc[4. Regional support teams]
+* xref:sharingexperience.adoc[Sharing experience]
