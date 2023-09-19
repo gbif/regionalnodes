@@ -16,4 +16,4 @@ Secretariat consultant: Dmitry Schigel
 
 == Preparation
 
-*Familiarize yourself with https://www.gbif.org/data-use[how and where GBIF-mediated data is used^]*
+Familiarize yourself with https://www.gbif.org/data-use[how and where GBIF-mediated data is used^]
