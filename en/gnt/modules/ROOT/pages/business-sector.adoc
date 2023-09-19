@@ -16,14 +16,14 @@ Secretariat consultant: Andrew Rodrigues
 
 == Preparation
 
-*Read about https://www.gbif.org/business[GBIF and Business^]* (webpage)
+*Read* about https://www.gbif.org/business[GBIF and Business^] (webpage)
 
-*Watch video on https://vimeo.com/473377963[Open Private Sector Data^] (PSD)* (Vimeo - 4:43 min)
+*Watch video* on https://vimeo.com/473377963[Open Private Sector Data^] (PSD) (Vimeo - 4:43 min)
 
 video::473377963[vimeo]
 
-*Learn about https://www.gbif.org/data4nature[Data4Nature^]* (webpage and associated Vimeo - 1:17 min)
+*Read* about https://www.gbif.org/data4nature[Data4Nature^]* (webpage and associated Vimeo - 1:17 min)
 
-*Learn about the https://www.gbif.org/news/6wybKvTFVZPWTLioIcOuB3/the-equator-principles-encourage-open-access-to-environmental-impact-data-through-the-gbif-network[Equator Principles^]* (webpage)
+*Read* about the https://www.gbif.org/news/6wybKvTFVZPWTLioIcOuB3/the-equator-principles-encourage-open-access-to-environmental-impact-data-through-the-gbif-network[Equator Principles^] (webpage)
 
-*Read https://docs.gbif.org/private-sector-data-publishing/2.0/en/[Guidance for private companies to become data publishers through GBIF^]* (guide)
+*Read* https://docs.gbif.org/private-sector-data-publishing/2.0/en/[Guidance for private companies to become data publishers through GBIF^] (guide)
