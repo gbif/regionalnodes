@@ -1,7 +1,7 @@
 = Buddy System
 
-image::katie-kit-paco.jpg[]
+image::ROOT::globalnodes-site-thumb-05.png[]
 
 == Goal
 
-Prepare for the global nodes events in small groups to help new nodes feel they belong to the GBIF community and to encourage all nodes to share and build on their experiences.
+Establish small groups of nodes to support onboarding of new members of the community and to encourage all nodes to share and build on their knowledge and experiences
