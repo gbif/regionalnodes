@@ -10,7 +10,7 @@ We currently have regional support teams in https://www.gbif.org/news/3T2siG9Qgz
 
 In preparation to join a discussion on the future of the regional support teams, we invite you to:
 
-. Watch videos from regional support teams in Africa, Asia, and Caribbean explaining their work to date.
+. Watch videos from regional support teams in Africa, Asia, and Caribbean explaining their work to date (3 vimeo videos, 14:14 min total).
 . Read through slides contributed by nodes in preparation for this session and consider xref:sharingexperience.adoc[sharing slides] on your node’s experience with regional support teams.
 . Consider how these teams could support your node’s efforts to build regional engagement and come ready to share ideas in Canberra.
 
