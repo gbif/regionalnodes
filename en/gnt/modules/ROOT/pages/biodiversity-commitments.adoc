@@ -16,17 +16,17 @@ Secretariat consultants: Tim Hirsch and Andrew Rodrigues
 
 == Preparation
 
-=== Learn about the Convention on Biological Diversity (CBD)
+=== Convention on Biological Diversity (CBD)
 
-* Watch introduction video on the Post-2020 Global Biodiversity Framework (YouTube - 1:14 min)
+Watch introduction video on the Post-2020 Global Biodiversity Framework (YouTube - 1:14 min)
 
 video::H0Bp5jo4xic[youtube]
 
-* Watch video on the Post-2020 Global Biodiversity Framework and Targets (YouTube - 8:35 min; https://www.youtube.com/watch?v=e48M-DupuYo[Spanish^])
+Watch video on the Post-2020 Global Biodiversity Framework and Targets (YouTube - 8:35 min; https://www.youtube.com/watch?v=e48M-DupuYo[Spanish^])
 
 video::hnufsBNtFbw[youtube]
 
-* Read https://www.cbd.int/doc/publications/cbd-sustain-en.pdf[Sustaining life on Earth^] (PDF 500 KB)
+Read https://www.cbd.int/doc/publications/cbd-sustain-en.pdf[Sustaining life on Earth^] (PDF 500 KB)
 
 . Investigate the https://www.cbd.int/countries/[CBD in your country^] (download worksheet)
 . Does your country have a current National Biodiversity Strategy and Action Plan (NBSAP)? 
@@ -34,6 +34,6 @@ video::hnufsBNtFbw[youtube]
 . If so, what is the state of the process? Who is coordinating it? 
 . Are you engaged in the process - if so, how? If not, how could you be involved? 
 
-=== Learn about the Global Biodiversity Framework Kunming-Montreal
+=== Global Biodiversity Framework Kunming-Montreal
 
 * Read the https://www.cbd.int/gbf/[Overview^] (webpage)
