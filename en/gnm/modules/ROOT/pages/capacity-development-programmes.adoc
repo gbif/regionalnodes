@@ -18,6 +18,8 @@ In preparation for this session, we invite you to:
 . Review the https://www.gbif.org/composition/4R5Ot70guupksCkTNbq1oe/cesp-all-projects[CESP project pages] to see the types of activities that have been funded and get inspired by their results.
 . Read through slides provided by nodes in preparation for this session and consider xref:sharingexperience.adoc[sharing slides] on your node’s experience with GBIF capacity development programmes.
 
+&nbsp;
+
 ++++
 <div class="responsive-slides">
   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTqNwemQzemqCd1x-ckOzs1JPkTGj9sJwI_nHw0blyTkgvG85SPnKJOEBuBRSJM8Q/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
