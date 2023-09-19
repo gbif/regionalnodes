@@ -18,8 +18,6 @@ Secretariat consultants: Tim Hirsch and Andrew Rodrigues
 
 === Convention on Biological Diversity (CBD)
 
-&nbsp;
-
 *Watch introduction video* on the Post-2020 Global Biodiversity Framework (YouTube - 1:14 min)
 
 video::H0Bp5jo4xic[youtube]
@@ -44,7 +42,5 @@ video::hnufsBNtFbw[youtube]
 &nbsp;
 
 === Global Biodiversity Framework Kunming-Montreal
-
-&nbsp;
 
 *Read* the https://www.cbd.int/gbf/[overview^]* (webpage)
