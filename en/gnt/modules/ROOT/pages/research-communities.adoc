@@ -11,11 +11,11 @@ Nodes play an essential role in building engagement with researchers within thei
 
 == Trainers
 
-Dimitri Brosens, Node Manager, Belgium
+https://orcid.org/0000-0002-0846-9116[Dimitri Brosens^], Node Manager, Belgium
 
-Jean Ganglo, Node Manager, Benin
+https://orcid.org/0000-0003-4212-6448[Dr. Jean C. Ganglo^], Node Manager, Benin
 
-Secretariat consultant: Dmitry Schigel
+Secretariat consultant: https://orcid.org/0000-0002-2919-1168[Dmitry Schigel^]
 
 == Preparation
 
