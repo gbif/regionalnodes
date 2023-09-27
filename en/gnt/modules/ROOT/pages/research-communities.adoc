@@ -4,7 +4,10 @@
 
 Nodes play an essential role in building engagement with researchers within their countries and networks, promoting open science principles (in line with the https://en.unesco.org/science-sustainable-future/open-science/recommendation[UNESCO open science recommendation^]) and building communities of data publishers and users. Research communities can help to identify data gaps, data needs, and challenges in the use of the available data that can help nodes to prioritize activities. Several nodes have succeeded in embedding GBIF within academic training programmes (see https://www.gbif.org/article/aA0MjVddRiRFOX2SEs7mT/[guiding example from Benin^]), developing capacity and encouraging new generations of researchers to follow open science practices. GBIF’s focus on thematic communities (including soil, freshwater and disease vector thematic communities in 2023), will lead to growing interest in data publishing and data use from researchers that will seek to connect with nodes for support. (See https://docs.gbif.org/nodes-implementation-2023/en/#1-engage-research-communities-for-data-mobilization-and-use[Nodes Strategy #1] for more detail.
 
-// == Learning objectives
+== Learning objectives
+
+* 
+* 
 
 == Trainers
 
@@ -31,14 +34,19 @@ Secretariat consultant: Dmitry Schigel
   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSnbjTSgJF26dvY3FZq7JO464bYz4JsmDQzYxuJRQXm1Q7RdupGoEJecayvGSaKcw/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 ++++
+
 &nbsp;
+
 === Identifying use of science
+
 &nbsp;
 
 == Module 2
+
 &nbsp;
 
 === Raising the visibility of GBIF and Nodes
+
 &nbsp;
 
 ++++
@@ -46,8 +54,11 @@ Secretariat consultant: Dmitry Schigel
   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSPilOVE9n-Q_4NyI5kxOhlQLwzmZ6Eo-QqrDZO8JpRCyQY6NgPAtl_GiB0lFrYnTI5wBnSA3-kgtGG/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 ++++
+
 &nbsp;
+
 === National examples
+
 &nbsp;
 
 ++++
@@ -55,8 +66,11 @@ Secretariat consultant: Dmitry Schigel
   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT3mAL7To6qBSczjMC8JuR6x4pN_5QX-ouX9LRRYIIqNdznyOAUL1Ccog8yhv_BHg/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 ++++
+
 &nbsp;
+
 === Community engagment BINGO
+
 &nbsp;
 
 ++++
@@ -64,7 +78,9 @@ Secretariat consultant: Dmitry Schigel
   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSDoRXeRoaH6GI9beD7x4lpXzyaY-HrmkDqlma3XWvkraZz8UxRZ83W0ghcVWNBFA/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 ++++
+
 &nbsp;
+
 == Action plan
 
 
