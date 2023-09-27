@@ -24,9 +24,11 @@ Secretariat consultant: Dmitry Schigel
 == Module 1
 
 === GBIF and Science
+
 &nbsp;
 
 === Engaging research communities
+
 &nbsp;
 
 ++++
