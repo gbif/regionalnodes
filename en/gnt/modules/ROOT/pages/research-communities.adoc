@@ -17,3 +17,48 @@ Secretariat consultant: Dmitry Schigel
 == Preparation
 
 *Read* about https://www.gbif.org/data-use[how and where GBIF-mediated data is used^].
+
+== Module 1
+
+=== GBIF and Science
+
+=== Engaging research communities
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSnbjTSgJF26dvY3FZq7JO464bYz4JsmDQzYxuJRQXm1Q7RdupGoEJecayvGSaKcw/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+
+=== Identifying use of science
+
+== Module 2
+
+=== Raising the visibility of GBIF and Nodes
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSPilOVE9n-Q_4NyI5kxOhlQLwzmZ6Eo-QqrDZO8JpRCyQY6NgPAtl_GiB0lFrYnTI5wBnSA3-kgtGG/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+
+=== National examples
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT3mAL7To6qBSczjMC8JuR6x4pN_5QX-ouX9LRRYIIqNdznyOAUL1Ccog8yhv_BHg/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+
+=== Community engagment BINGO
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSDoRXeRoaH6GI9beD7x4lpXzyaY-HrmkDqlma3XWvkraZz8UxRZ83W0ghcVWNBFA/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+
+== Action plan
+
+
+
