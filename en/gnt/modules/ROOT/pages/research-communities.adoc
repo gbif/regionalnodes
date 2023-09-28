@@ -23,9 +23,13 @@ Secretariat consultant: https://orcid.org/0000-0002-2919-1168[Dmitry Schigel^], 
 
 == Module 1
 
-=== GBIF and Science
+=== GBIF as a research infrastructure
 
-&nbsp;
+* MoU
+* Strategic freamwork
+* Work programme
+* Nodes best practice guide
+* Networking professionally and nationally
 
 === Engaging research communities
 
