@@ -4,7 +4,7 @@
 
 Nodes have been actively contributing to updating and enriching the content of the https://www.gbif.org/grscicoll[Global Registry of Scientific Collections^] (GRSciColl), supported by videos and training activities. For institutions with collections that are not yet publishing data, updating their records in GRSciColl can be a simple first step towards engaging them as data publishers in the future. This work helps to raise the visibility of collections, including those that have not yet been digitized. (See https://docs.gbif.org/nodes-implementation-2023/en/#5-strengthen-support-services-for-collection-communities[Nodes Strategy #5^] for more detail.)
 
-// == Learning objectives
+== Learning objectives
 
 == Trainers
 
@@ -12,12 +12,46 @@ David Jennings, Node Manager, iDigBio
 
 Niels Raes, Node Manager, Netherlands
 
-Secretariat consultants: Andrea Hahn and Marie Grosjean
+Secretariat consultants: Andrea Hahn, Head of Data Products, and Marie Grosjean, Data Administrator
 
 == Preparation
 
 *Create a https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account[GitHub account^]* if you do not already have one (follow directions for part 1 and choose free account).
 
+*Review* https://docs.gbif.org/gbif-communications-strategy/1.0/en/#gbifs-audiences[GBIF Audiences and Audience Segmentation^] from the Communications Strategy.
+
 *Watch a video* from Lily Shrestha, Asia Regional Support, on using a GRSciColl workflow to facilitate Data Mobilization (Vimeo - 9:55 min)
 
 video::836823204?h=b783a38a04[vimeo]
+
+== Model 1
+
+&nbsp;
+
+=== Stakeholder landscape
+
+&nbsp;
+
+=== Indentifying stakeholders
+
+&nbsp;
+
+=== Community engagement
+
+&nbsp;
+
+== Model 2
+
+&nbsp;
+
+=== Developing a data mobilization strategy
+
+&nbsp;
+
+=== Design a data mobilization campaign
+
+&nbsp;
+
+== Action plan
+
+&nbsp;
