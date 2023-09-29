@@ -8,7 +8,7 @@ Nodes have been actively contributing to updating and enriching the content of t
 
 == Trainers
 
-https://orcid.org/0000-0003-0520-6983[David Jennings]^, Node Manager, iDigBio
+https://orcid.org/0000-0003-0520-6983[David Jennings^], Node Manager, iDigBio
 
 https://orcid.org/0000-0002-4329-4892[Niels Raes^], Node Manager, Netherlands
 
