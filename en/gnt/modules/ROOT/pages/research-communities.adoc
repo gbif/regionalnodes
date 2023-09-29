@@ -6,8 +6,6 @@ Nodes play an essential role in building engagement with researchers within thei
 
 == Learning objectives
 
-* 
-* 
 
 == Trainers
 
@@ -45,7 +43,14 @@ Secretariat consultant: https://orcid.org/0000-0002-2919-1168[Dmitry Schigel^], 
 
 === Identifying use of science
 
-&nbsp;
+. Go to How-to menu on GBIF.org and select https://www.gbif.org/resource/search?contentType=dataUse[Featured data use^].
+. Using the filters on the left, select a topic.
+. Using the filters on the left, select your country for the Country or area of researcher. Note the number of data use results.
+. Clear your filter for Country or area of researcher.
+. Using the filters on the lect, select your country for Country or area of coverage. Note the number of data use results.
+. Select one of the data use results. Examine the information provided. Do you know any of the researchers?
+. Using the search in the menu bar (magnifying glass icon), search for your country.
+. Select your country from the result and review the activity report. How might you use this information in engaging with researchers in your community?
 
 == Module 2
 
