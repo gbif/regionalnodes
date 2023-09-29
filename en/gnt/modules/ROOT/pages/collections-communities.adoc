@@ -8,11 +8,11 @@ Nodes have been actively contributing to updating and enriching the content of t
 
 == Trainers
 
-David Jennings, Node Manager, iDigBio
+https://orcid.org/0000-0003-0520-6983[David Jennings]^, Node Manager, iDigBio
 
-Niels Raes, Node Manager, Netherlands
+https://orcid.org/0000-0002-4329-4892[Niels Raes^], Node Manager, Netherlands
 
-Secretariat consultants: Andrea Hahn, Head of Data Products, and Marie Grosjean, Data Administrator
+Secretariat consultants: https://orcid.org/0000-0003-3918-4065[Andrea Hahn^], Head of Data Products, and https://orcid.org/0000-0002-2685-8078[Marie Grosjean^], Data Administrator
 
 == Preparation
 
