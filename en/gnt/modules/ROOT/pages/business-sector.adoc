@@ -39,8 +39,6 @@ video::473377963[vimeo]
 
 == Module 1
 
-&nbsp;
-
 === GBIF and the business sector
 
 [NOTE.presentation]
@@ -88,8 +86,6 @@ During this section you will complete a poll and contribute to a discussion on N
 &nbsp;
 
 == Module 2
-
-&nbsp;
 
 === Engaging stakeholders
 
