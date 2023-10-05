@@ -22,6 +22,7 @@
     -webkit-transform: none;
     background-color: transparent;
     border-radius: 0;
+    vertical-align: top;
 }
 
 .doc .admonitionblock.activity td.icon .icon-note,
