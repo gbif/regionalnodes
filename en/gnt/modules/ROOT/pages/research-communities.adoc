@@ -40,7 +40,7 @@ Complete the following activities to prepare for the onsite sessions:
 === GBIF as a research infrastructure
 
 [NOTE.presentation]
-This presentation provides and introduction to GBIF as a research infrastructure
+This presentation provides an introduction to GBIF as a research infrastructure
 
 * MoU
 * Strategic freamwork
@@ -48,10 +48,14 @@ This presentation provides and introduction to GBIF as a research infrastructure
 * Nodes best practice guide
 * Networking professionally and nationally
 
+&nbsp;
+
 === Engaging research communities
 
 [NOTE.presentation]
 This presentation focuses on experiences engaging the research community in Benin.
+
+&nbsp;
 
 ++++
 <div class="responsive-slides">
@@ -66,14 +70,14 @@ This presentation focuses on experiences engaging the research community in Beni
 [NOTE.activity]
 For this activity, you will watch a demonstration and then have the opportunity examine the use of science in your country.
 
-. Scroll and select the https://www.gbif.org/resource/search?contentType=literature&literatureType=journal&relevance=GBIF_USED&peerReview=true[*Peer-reviewed papers using Data*^] section on the GBIF.org homepage.
-. Using the filters on the left, select a topic.
-. Using the filters on the left, select your country for the Country or area of researcher. Note the number of data use results.
-. Clear your filter for Country or area of researcher.
-. Using the filters on the lect, select your country for Country or area of coverage. Note the number of data use results.
-. Select one of the data use results. Examine the information provided. Do you know any of the researchers?
-. Using the search in the menu bar (magnifying glass icon), search for your country.
-. Select your country from the result and review the activity report. How might you use this information in engaging with researchers in your community?
+. Scroll and select the https://www.gbif.org/resource/search?contentType=literature&literatureType=journal&relevance=GBIF_USED&peerReview=true[Peer-reviewed papers using Data^] section on the GBIF.org homepage.
+. Using the filters on the left, select a *Topic*.
+. Using the filters on the left, select your country for the *Country or area of researcher*. Note the number of peer-reviewed papers.
+. *Clear your filter* for Country or area of researcher.
+. Using the filters on the left, select your country for *Country or area of coverage*. Note the number of peer-reviewed papers.
+. *Select one of the papers*. Examine the information provided. Do you know any of the researchers?
+. Using the search in the menu bar (magnifying glass icon), *search for your country*.
+. Select your country from the result and review the *Activity report*. How might you use this information in engaging with researchers in your community?
 
 == Module 2
 
@@ -81,6 +85,8 @@ For this activity, you will watch a demonstration and then have the opportunity 
 
 [NOTE.presentation]
 This presentation focuses on experiences of raising the visibility of GBIF and the Node in Belgium
+
+&nbsp;
 
 ++++
 <div class="responsive-slides">
@@ -95,6 +101,8 @@ This presentation focuses on experiences of raising the visibility of GBIF and t
 [NOTE.speak]
 During this section you will review several Nodes examples and contribute to a discussion on engaging research communities. 
 
+&nbsp;
+
 ++++
 <div class="responsive-slides">
   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSDoRXeRoaH6GI9beD7x4lpXzyaY-HrmkDqlma3XWvkraZz8UxRZ83W0ghcVWNBFA/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
@@ -107,6 +115,8 @@ During this section you will review several Nodes examples and contribute to a d
 
 [NOTE.activity]
 For this activity, you will be placed in teams of 3-4 where you will list the community building tools and resources that your Nodes currently have, should have and would like to have in the future.
+
+&nbsp;
 
 ++++
 <div class="responsive-slides">
