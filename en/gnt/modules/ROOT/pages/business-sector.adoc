@@ -34,7 +34,8 @@ video::473377963[vimeo]
 
 === GBIF and the business sector
 
-&nbsp;
+[NOTE.presentation]
+This presentation provides and introduction to the business sector, some key sustainabiltiy frameworks that are shaping the work of this sector and initiatives that GBIF is taking with this sector.  
 
 video::869504416[vimeo]
 
@@ -42,13 +43,34 @@ video::869504416[vimeo]
 
 === Business sector - France
 
+[NOTE.presentation]
+This presentation focuses on experiences with engaging the business sector in France.
+
 &nbsp;
             
 === Business sector - Colombia
 
+[NOTE.presentation]
+This presentation focuses on experiences with engaging the business sector in Colombia.  
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQhRXIeVJxdYFlLP_yYxm_XZUdTX8-HtmKsWxxt07LudsEJTxDA2YFQss0h7BB2hw/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+
 &nbsp;
 
 === Nodes experience
+
+[NOTE.quiz]
+During this section you will complete a poll and contribute to a discussion on Nodes experiences in the business sector.
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRX6IljwD55gpKL3y7T99n_pr3ajNy4DSK-eDCFndPWpQ5AY12Dm3HfueedS11HNA/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
 
 &nbsp;
 
@@ -58,10 +80,33 @@ video::869504416[vimeo]
 
 === Engaging stakeholders
 
+[NOTE.activity]
+For this activity, you will be place in one of three groups and with other group members will compile needs and compare them with benefits and services offered by nodes. Review the exercise instructions below.
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSbkMnvsMLOd7g3OMGCV3LVOhvrEPyFOCEvltB8bepUJ1O0yDia7zoGT-ICFtuAbw/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+
 &nbsp;
 
 === Key aspects for engaging the business sector
 
+[NOTE.presentation]
+This presentation focuses key aspects to allow your Node to begin or better engage with the business sector in your country. 
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQjHxY8JbFfB5Z3mmFye5WP3o6EHjilz3QKXredl-FZ3QkmJkr5PitG3xsI1a7EJQ/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+
 &nbsp;
 
 == Action plan
+
+[NOTE.assignment]
+Use this action plan to document your Node priorities for engaging the business sector in your country.
+
+&nbsp;
