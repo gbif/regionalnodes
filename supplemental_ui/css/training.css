@@ -13,6 +13,7 @@
 .doc .admonitionblock.usecase td.icon,
 .doc .admonitionblock.folder td.icon,
 .doc .admonitionblock.speak td.icon,
+.doc .admonitionblock.trainers td.icon,
 .doc .admonitionblock.workspace td.icon {
     position: static;
     width: 90px;
@@ -37,6 +38,7 @@
 .doc .admonitionblock.usecase td.icon .icon-note,
 .doc .admonitionblock.folder td.icon .icon-note,
 .doc .admonitionblock.speak td.icon .icon-note,
+.doc .admonitionblock.trainers td.icon .icon-note,
 .doc .admonitionblock.workspace td.icon .icon-note {
     width: 75px;
     height: 75px;
@@ -115,6 +117,11 @@
 .doc .admonitionblock.speak td.icon .icon-note {
     background: radial-gradient(circle, #aaafbb, #aaafbb 66%, transparent 66%);
     content: url(../img/icons/speak.png);
+}
+
+.doc .admonitionblock.trainers td.icon .icon-note {
+    background: radial-gradient(circle, #aaafbb, #aaafbb 66%, transparent 66%);
+    content: url(../img/icons/art-show.png);
 }
 
 .doc .admonitionblock.workspace td.icon .icon-note {
