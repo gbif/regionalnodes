@@ -17,7 +17,7 @@ After completing this module, you should be able to perform the following:
 
 == Trainers
 
-[NOTE.trainers]
+[NOTE.trainers] The following trainers have developed the content for this topic:
 
 https://orcid.org/0000-0001-6902-1465[Anne-Sophie Archambeau^], Node Manager, France
 
