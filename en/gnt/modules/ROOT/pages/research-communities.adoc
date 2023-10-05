@@ -70,6 +70,8 @@ This presentation focuses on experiences engaging the research community in Beni
 [NOTE.activity]
 For this activity, you will watch a demonstration and then have the opportunity examine the use of science in your country.
 
+&nbsp;
+
 . Scroll and select the https://www.gbif.org/resource/search?contentType=literature&literatureType=journal&relevance=GBIF_USED&peerReview=true[Peer-reviewed papers using Data^] section on the GBIF.org homepage.
 . Using the filters on the left, select a *Topic*.
 . Using the filters on the left, select your country for the *Country or area of researcher*. Note the number of peer-reviewed papers.
