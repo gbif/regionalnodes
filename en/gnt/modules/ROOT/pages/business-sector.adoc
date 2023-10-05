@@ -17,7 +17,8 @@ After completing this module, you should be able to perform the following:
 
 == Trainers
 
-[NOTE.trainers] The following trainers have developed the content for this topic:
+[NOTE.trainers]
+The following trainers have developed the content for this topic:
 
 https://orcid.org/0000-0001-6902-1465[Anne-Sophie Archambeau^], Node Manager, France
 
@@ -26,6 +27,9 @@ https://orcid.org/0000-0003-1070-1081[Ricardo Ortiz^], Node Manager, Colombia
 Secretariat consultant: https://orcid.org/0000-0002-5468-2452[Andrew Rodrigues^], Data Partnerships Officer
 
 == Preparation
+
+[NOTE.prep]
+Complete the following activities to prepare for the onsite sessions:
 
 *Read* about https://www.gbif.org/business[GBIF and Business^] (webpage)
 
