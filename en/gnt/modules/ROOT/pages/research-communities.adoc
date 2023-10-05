@@ -22,6 +22,8 @@ After completing this module, you should be able to perform the following:
 [NOTE.trainers]
 The following trainers have developed the content for this topic:
 
+&nbsp;
+
 https://orcid.org/0000-0002-0846-9116[Dimitri Brosens^], Node Manager, Belgium
 
 https://orcid.org/0000-0003-4212-6448[Dr. Jean C. Ganglo^], Node Manager, Benin
