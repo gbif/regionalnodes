@@ -17,6 +17,8 @@ After completing this module, you should be able to perform the following:
 
 == Trainers
 
+[NOTE.trainers]
+
 https://orcid.org/0000-0001-6902-1465[Anne-Sophie Archambeau^], Node Manager, France
 
 https://orcid.org/0000-0003-1070-1081[Ricardo Ortiz^], Node Manager, Colombia
@@ -90,7 +92,7 @@ During this section you will complete a poll and contribute to a discussion on N
 === Engaging stakeholders
 
 [NOTE.activity]
-For this activity, you will be placed in one of three groups and with other group members will compile business sector needs and compare them with benefits and services offered by nodes. Review the exercise instructions below.
+For this activity, you will be placed in one of three groups and with other group members will compile business sector needs and compare them with benefits and services offered by nodes.
 
 &nbsp;
 
@@ -105,7 +107,7 @@ For this activity, you will be placed in one of three groups and with other grou
 === Key aspects for engaging the business sector
 
 [NOTE.presentation]
-This presentation focuses key aspects to allow your Node to begin or better engage with the business sector in your country. 
+This presentation focuses key aspects to allow your Node to begin to or better engage with the business sector in your country. 
 
 &nbsp;
 
@@ -119,7 +121,7 @@ This presentation focuses key aspects to allow your Node to begin or better enga
 
 == Action plan
 
-[NOTE.assignment]
-Use this action plan to document your Node priorities for engaging the business sector in your country.
+[NOTE.assignments]
+Use this action plan to develop your mobilization strategy for engaging the business sector in your country. Share with your Node buddies for feedback.
 
 &nbsp;
