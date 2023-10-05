@@ -16,7 +16,8 @@
 .doc .admonitionblock.speak td.icon,
 .doc .admonitionblock.trainers td.icon,
 .doc .admonitionblock.workspace td.icon {
-    position: static;
+    position: relative;
+    top: 0;
     width: 90px;
     transform: none;
     -webkit-transform: none;
