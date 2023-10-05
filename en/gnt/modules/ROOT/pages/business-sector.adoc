@@ -8,6 +8,7 @@ In recent years, several nodes have scaled up engagement with the private sector
 
 [NOTE.objectives]
 In this module, you will learn about the business sector, specifically:
+
 . Describe the business sector commitments to biodiversity
 . Describe successful examples of engagement, training and data mobilization for the business sector.
 . Identify business sector organizations with biodiversity data
