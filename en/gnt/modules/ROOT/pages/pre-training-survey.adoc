@@ -1,1 +1,13 @@
+== Pre-training questionnaire
+
+&nbsp;
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://www.survey-xact.dk/LinkCollector?key=EFH1E21MUN9P" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+
+
+
 
