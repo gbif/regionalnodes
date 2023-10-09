@@ -49,7 +49,7 @@ video::473377963[vimeo]
 === GBIF and the business sector
 
 [NOTE.presentation]
-This presentation provides and introduction to the business sector, some key sustainabiltiy frameworks that are shaping the work of this sector and initiatives that GBIF is taking with this sector.  
+This presentation provides an introduction to the business sector, some key sustainabiltiy frameworks that are shaping the work of this sector and initiatives that GBIF is taking with this sector.  
 
 video::869504416[vimeo]
 
