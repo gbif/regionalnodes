@@ -130,3 +130,9 @@ This presentation focuses key aspects to allow your Node to begin to or better e
 Use this action plan to develop your mobilization strategy for engaging the business sector in your country. Share with your Node buddies for feedback.
 
 &nbsp;
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQkasl2krt67ZGo1cdJ-29S-CjEmOCAoCjIbyp-JutQ5tgbJGbnpChF5f0Hifju_A/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
