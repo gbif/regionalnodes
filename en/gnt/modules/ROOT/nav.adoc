@@ -1,7 +1,7 @@
 // Note the "home" section navigation is not currently visible, as the pages use the "home" layout which omits it.
 * xref:index.adoc[2023 training]
 * xref:sharingexperience.adoc[Sharing experience]
-* xref:pre-training-survey.adoc[Pre-training survey]
+* xref:pre-training-survey.adoc[Pre-training questionnaire]
 * xref:gnt2023-agenda.adoc[Agenda]
 * xref:research-communities.adoc[1. Engaging research communities for data mobilization and use]
 * xref:collections-communities.adoc[2. Strengthening support services for collections communities]
