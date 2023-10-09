@@ -39,17 +39,11 @@ video::hnufsBNtFbw[youtube]
 . If so, what is the state of the process? Who is coordinating it? 
 . Are you engaged in the process - if so, how? If not, how could you be involved? 
 
-&nbsp;
-
 === Global Biodiversity Framework Kunming-Montreal
 
 *Read* the https://www.cbd.int/gbf/[overview^]* (webpage)
 
-&nbsp;
-
 == Module 1
-
-&nbsp;
 
 === Introduction to CBD
 
@@ -60,6 +54,14 @@ video::hnufsBNtFbw[youtube]
 &nbsp;
 
 === Node engagement with CBD - Ireland
+
+&nbsp;
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRRJMh7Ln7wTKknX5R_HczZdEupKwYLc7E0XtImVTRFifjpWvzfFpROYxCiOA3uHw/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
 
 &nbsp;
 
