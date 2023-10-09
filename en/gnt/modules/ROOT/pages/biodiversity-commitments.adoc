@@ -10,7 +10,7 @@ Through partnerships and coordination, nodes can enable data flows into indicato
 [NOTE.objectives]
 After completing this module, you should be able to perform the following:
 
-* Describe the Convention on Biological Diversity (CBD)
+* Describe the Convention on Biological Diversity (CBD).
 * Describe the different components of the Kunming-Montreal Global Biodiversity Framework (GBF) and the links between the framework and primary biodiversity data.
 * Describe global, national and regional targets and their relevance across GBIF.
 * Identify Convention on Biological Diversity (CBD) contacts and National Biodiversity Strategy and Action Plan (NBSAP) within your country.
