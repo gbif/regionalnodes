@@ -54,7 +54,7 @@ This presentation provides an introduction to GBIF as a research infrastructure
 
 &nbsp;
 
-=== Engaging research communities
+=== Engaging research communities - Benin
 
 [NOTE.presentation]
 This presentation focuses on experiences engaging the research community in Benin.
@@ -94,31 +94,16 @@ For this activity, you will watch a demonstration and then have the opportunity 
 
 == Module 2
 
-=== Raising the visibility of GBIF and Nodes
+=== Engaging research communities - Belgium
 
 [NOTE.presentation]
-This presentation focuses on experiences of raising the visibility of GBIF and the Node in Belgium
+This presentation focuses on experiences engaging the research community in Belgium.
 
 &nbsp;
 
 ++++
 <div class="responsive-slides">
   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSPilOVE9n-Q_4NyI5kxOhlQLwzmZ6Eo-QqrDZO8JpRCyQY6NgPAtl_GiB0lFrYnTI5wBnSA3-kgtGG/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
-</div>
-++++
-
-&nbsp;
-
-=== National examples
-
-[NOTE.speak]
-During this section you will review several Nodes examples and contribute to a discussion on engaging research communities. 
-
-&nbsp;
-
-++++
-<div class="responsive-slides">
-  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSDoRXeRoaH6GI9beD7x4lpXzyaY-HrmkDqlma3XWvkraZz8UxRZ83W0ghcVWNBFA/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 ++++
 
@@ -134,6 +119,28 @@ For this activity, you will be placed in teams of 3-4 where you will list the co
 ++++
 <div class="responsive-slides">
   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRt_6sV0vC17wd6swRehx4V8WtbxRdceOzTNtKlvPG00tL3SejNrRgNzLSR1VV0HyM22jovPT7Bb7A8/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+
+&nbsp;
+
+=== Discussion
+
+[NOTE.speak]
+During this section you will contribute to a discussion following the community engagement bingo activity.
+
+&nbsp;
+
+=== National examples
+
+[NOTE.speak]
+During this section you will review several Nodes examples and contribute to a discussion on engaging research communities. 
+
+&nbsp;
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSDoRXeRoaH6GI9beD7x4lpXzyaY-HrmkDqlma3XWvkraZz8UxRZ83W0ghcVWNBFA/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 ++++
 
