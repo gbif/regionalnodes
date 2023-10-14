@@ -49,7 +49,7 @@ This presentation provides an introduction to GBIF as a research infrastructure
 ** Search for all things “science” and “research”. Tip: in 2023-2027, most of things will be under Priority 1.
 * https://docs.gbif.org/2023-work-programme/en/[GBIF Work Programme^]
 ** Search for all things “science” and “research”. Tip: in 2023-2027, most of things will be under Priority 1.
-* https://docs.gbif.org/effective-nodes-guidance/1.0/en/[^]Guide to Establishing an Effective GBIF Participant Node. 
+* https://docs.gbif.org/effective-nodes-guidance/1.0/en/[Guide to Establishing an Effective GBIF Participant Node^]
 ** Review the four roles or profiles recommended for a Node? Tip: look for section 3.1 Support for science and research.
 
 &nbsp;
