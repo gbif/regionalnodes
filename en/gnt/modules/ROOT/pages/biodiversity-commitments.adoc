@@ -130,6 +130,14 @@ For this activity, you will identify actions that you can take as a node to help
 
 &nbsp;
 
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRZldvkIDnhfW79cdAI51oxncDQUFMd4-XqbrjpH2E1jTgbbscOC-lYGhwDvi3UBQ/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+
+&nbsp;
+
 == Action plan
 
 [NOTE.assignments]
