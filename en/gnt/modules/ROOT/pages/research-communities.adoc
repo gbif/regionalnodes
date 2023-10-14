@@ -69,7 +69,14 @@ This presentation focuses on experiences engaging the research community in Beni
 
 &nbsp;
 
-=== Identifying use of science
+=== Discussion
+
+[NOTE.speak]
+During this section you will contribute to a discussion on engaging research communities. 
+
+&nbsp;
+
+=== Identifying use of data
 
 [NOTE.activity]
 For this activity, you will watch a demonstration and then have the opportunity examine the use of science in your country.
