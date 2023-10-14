@@ -10,11 +10,11 @@ Through partnerships and coordination, nodes can enable data flows into indicato
 [NOTE.objectives]
 After completing this module, you should be able to perform the following:
 
-* Describe the Convention on Biological Diversity (CBD).
-* Describe the different components of the Kunming-Montreal Global Biodiversity Framework (GBF) and the links between the framework and primary biodiversity data.
-* Describe global, national and regional targets and their relevance across GBIF.
-* Identify Convention on Biological Diversity (CBD) contacts and National Biodiversity Strategy and Action Plan (NBSAP) within your country.
-* Develop a strategy on how your node can directly contribute to national efforts to fulfill the commitments within the Kunming-Montreal GBF. 
+* Describe the Convention on Biological Diversity (CBD) and associates reporting processes.
+* Describe the different components of the Kunming-Montreal Global Biodiversity Framework (GBF) including associated targets and monitoring framework.
+* Identify dataflows and actions at a national level to support national biodiversity reporting to the CBD.
+* Identify CBD contacts and National Biodiversity Strategy and Action Plan (NBSAP) within your country.
+* Develop a strategy on how your node can directly contribute to national efforts to fulfill the commitments within the Kunming-Montreal GBF.
 
 == Trainers
 
@@ -65,6 +65,14 @@ video::hnufsBNtFbw[youtube]
 
 [NOTE.presentation]
 This presentation provides an introduction to the CBD.
+
+&nbsp;
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSEJRNeNk9-of1xpFhosXlkobdPUXFxaf6Mxa8VGbPR8N3FyunNK_iRHrz2uC_JFg/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
 
 &nbsp;
 
