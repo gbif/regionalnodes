@@ -12,10 +12,9 @@ After completing this module, you should be able to perform the following:
 
 * Describe successful examples of developing a scientific community.
 * Describe successful examples of engagement of scientific leaders and within higher education.
-* Describe successful examples of raising Node visibility.
 * Identify active users of GBIF-mediated data and authors of papers.
 * Identify community engagement tools and resources.
-* Develop a strategy to engage the research community and raise the visibility of GBIF and your Node within your country and with this community.
+* Develop a strategy to engage the research community within your country.
 
 == Trainers
 
@@ -152,5 +151,11 @@ During this section you will review several Nodes examples and contribute to a d
 Use this action plan to develop your strategy for engaging the research community in your country. Share with your Node buddies for feedback.
 
 &nbsp;
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vROYbDOx7VdtATdrrzjo_h1P8Et61k4uQO8XHkaeA1qI0HCU672N6SKi-FJRSiimg/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
 
 
