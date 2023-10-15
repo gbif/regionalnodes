@@ -1,19 +1,5 @@
 == Course evaluation
 
-Link to follow.
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+++++
+  <iframe src="https://www.survey-xact.dk/LinkCollector?key=SFZQGE37JP1N" frameborder="0" allowfullscreen="true" height="1100" width="100%"></iframe>
+++++
