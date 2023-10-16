@@ -1,8 +1,11 @@
 // Note the "home" section navigation is not currently visible, as the pages use the "home" layout which omits it.
 * xref:index.adoc[2023 meeting]
+* xref:sharingexperience.adoc[Sharing experience]
 * xref:gnm2023-agenda.adoc[Agenda]
+* xref:welcome.adoc[Welcome]
+* xref:photo-album.adoc[Photo album]
 * xref:capacity-development-programmes.adoc[1. Capacity development programmes]
 * xref:regional-communities-of-practice.adoc[2. Regional communities of practice]
 * xref:data-model.adoc[3. Data model]
 * xref:regional-support-teams.adoc[4. Regional support teams]
-* xref:sharingexperience.adoc[Sharing experience]
+* xref:meeting-evaluation.adoc[Meeting evaluation]
