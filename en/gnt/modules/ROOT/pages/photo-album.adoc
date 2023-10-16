@@ -3,5 +3,5 @@
 &nbsp;
 
 ++++
-  <a data-flickr-embed="true" href="https://www.flickr.com/photos/44353813@N02/albums/72157711387964286" title="Global Nodes Training 2019"><img src="https://live.staticflickr.com/65535/48917892757_f2a8a1c8e8_b.jpg" width="800" height="600" alt="Global Nodes Training 2019"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+ 
 ++++
