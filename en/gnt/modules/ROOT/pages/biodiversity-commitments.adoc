@@ -3,11 +3,14 @@
 == Context
 
 [NOTE.description]
+====
 Through partnerships and coordination, nodes can enable data flows into indicators and reporting processes relating to biodiversity status and trends, supporting commitments under the Convention on Biological Diversity (CBD) and the Sustainable Development Goals. By building linkages with the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES), nodes can support biodiversity assessments by providing access to biodiversity data and enabling policy-related research based on GBIF-mediated data. These linkages can also support the nodes in terms of raising awareness of the value of open biodiversity data to national policy and commitments, as well as identifying policy-relevant gaps in data availability. (See https://docs.gbif.org/nodes-implementation-2023/en/#2-support-national-biodiversity-commitments-and-the-science-policy-interface[Nodes Strategy #2] for more detail.)
+====
 
 == Learning objectives
 
 [NOTE.objectives]
+====
 After completing this module, you should be able to perform the following:
 
 * Describe the Convention on Biological Diversity (CBD) and associates reporting processes.
@@ -15,10 +18,12 @@ After completing this module, you should be able to perform the following:
 * Identify dataflows and actions at a national level to support national biodiversity reporting to the CBD.
 * Identify CBD contacts and National Biodiversity Strategy and Action Plan (NBSAP) within your country.
 * Develop a strategy on how your node can directly contribute to national efforts to fulfill the commitments within the Kunming-Montreal GBF.
+====
 
 == Trainers
 
 [NOTE.trainers]
+====
 The following trainers have developed the content for this topic:
 
 https://orcid.org/0009-0009-8717-8904[Michelle Judge^], Node Manager, Ireland
@@ -26,10 +31,12 @@ https://orcid.org/0009-0009-8717-8904[Michelle Judge^], Node Manager, Ireland
 https://orcid.org/0000-0003-2409-2408[Melisa Ojeda^], Node Manager, Guatemala
 
 Secretariat consultants: https://orcid.org/0000-0002-5015-5807[Tim Hirsch^], Deputy Director, and https://orcid.org/0000-0002-5468-2452[Andrew Rodrigues^], Data Partnerships Officer
+====
 
 == Preparation
 
 [NOTE.prep]
+====
 Complete the following activities to prepare for the onsite sessions:
 
 === Convention on Biological Diversity (CBD)
@@ -58,6 +65,7 @@ video::hnufsBNtFbw[youtube]
 === Global Biodiversity Framework Kunming-Montreal
 
 *Read* the https://www.cbd.int/gbf/[overview^]* (webpage)
+====
 
 == Module 1
 
