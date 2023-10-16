@@ -3,22 +3,26 @@
 == Context
 
 [NOTE.description]
+====
 In recent years, several nodes have scaled up engagement with the private sector resulting in increased data mobilization, partnerships, and communication materials to support further engagement (see the resources developed and available for reuse through the https://www.gbif.org/project/2Zik1tfJoh3C92ZslvhDIr/[CESP OpenPSD project^] and the https://www.gbif.org/business[GBIF business sector page^]). (See https://docs.gbif.org/nodes-implementation-2023/en/#3-promote-open-biodiversity-data-approaches-within-the-business-and-finance-sectors[Nodes Strategy #3^] for more detail.)
+====
 
 == Learning objectives
 
 [NOTE.objectives]
+====
 After completing this module, you should be able to perform the following:
 
 * Describe the business sector commitments to biodiversity.
 * Describe successful examples of engagement, training and data mobilization for the business sector.
 * Identify business sector organizations with biodiversity data.
 * Develop a strategy to engage the business sector in the data mobilization process.
-
+====
 
 == Trainers
 
 [NOTE.trainers]
+====
 The following trainers have developed the content for this topic:
 
 https://orcid.org/0000-0001-6902-1465[Anne-Sophie Archambeau^], Node Manager, France
@@ -26,10 +30,12 @@ https://orcid.org/0000-0001-6902-1465[Anne-Sophie Archambeau^], Node Manager, Fr
 https://orcid.org/0000-0003-1070-1081[Ricardo Ortiz^], Node Manager, Colombia
 
 Secretariat consultant: https://orcid.org/0000-0002-5468-2452[Andrew Rodrigues^], Data Partnerships Officer
+====
 
 == Preparation
 
 [NOTE.prep]
+====
 Complete the following activities to prepare for the onsite sessions:
 
 *Read* about https://www.gbif.org/business[GBIF and Business^] (webpage)
@@ -43,6 +49,7 @@ video::473377963[vimeo]
 *Read* about the https://www.gbif.org/news/6wybKvTFVZPWTLioIcOuB3/the-equator-principles-encourage-open-access-to-environmental-impact-data-through-the-gbif-network[Equator Principles^] (webpage)
 
 *Read* https://docs.gbif.org/private-sector-data-publishing/2.0/en/[Guidance for private companies to become data publishers through GBIF^] (guide)
+====
 
 == Module 1
 
