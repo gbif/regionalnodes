@@ -2,6 +2,8 @@
 
 == Context
 
+[NOTE.description]
+====
 Two years ago, during our last Global Nodes Meeting, Tim Robertson, Head of Informatics, https://vimeo.com/564600741[presented a roadmap^] for how we could evolve the GBIF data model to better accommodate richer data. This work started with documenting a series of clear use cases based on sub-communities of data publishers. These use cases have under-pinned ongoing work on an emerging common data model. Working with different sub-communities, such as natural history collections, and eDNA and camera trap networks, we have then explored through a series of webinars and exploratory data mapping activities how we might develop new data exchange models to allow the publishing and download of data in a format that would be more familiar and a closer fit to the specific needs of each community. The final stage will be to consider the catalogs of services that the new data model could enable. 
 
 This work is iterative, and will progress at different paces for different case studies. Nodes have been encouraged to follow progress by participating in the webinars and various calls for testers and reviewers of different elements of this work.
@@ -9,13 +11,25 @@ This work is iterative, and will progress at different paces for different case 
 Ultimately, this work will enable GBIF to become a data infrastructure for even more diverse biodiversity data communities than is possible today. This will have implications for the types of data holding communities that nodes will be able to engage with and the range of services that nodes will be able to provide to their network. 
 
 During the Global Nodes Meeting, we will provide an update on the work to date, hear from nodes who have been participating in the work, and consider how this work will open opportunities for nodes in the future.
+====
+
+== Objectives
+
+[NOTE.objectives]
+====
+* Ensure Nodes are up to date with progress on data model work and how to engage with it
+* Discuss the opportunities and implications of the data model work for the Nodes
+====
 
 == Preparation
 
+[NOTE.prep]
+====
 . All https://www.gbif.org/new-data-model[case studies and webinar recordings^] are available the GBIF website. We encourage you to review any that are of specific interest to your node.
 . You are invited to join the next https://www.gbif.org/event/2ySKiC0dOzVU85xd6Jg0T1[webinar on Exploring interactions data on plant pollination^] on 20 September 2023 or watch the recording.
 . Watch pre-recorded presentations from GBIF Switzerland, the Specify Collections Consortium, and the Botanischer Garten und Botanisches Museum. All three groups have been working on the data model. (3 vimeo videos, 20:28 min total)
 . Read through slides contributed by other nodes in preparation for this session and consider xref:sharingexperience.adoc[sharing slides] on your node’s experience with work to expand GBIF’s data model
+====
 
 &nbsp;
 
@@ -28,5 +42,27 @@ During the Global Nodes Meeting, we will provide an update on the work to date, 
 ++++
 <div class="responsive-slides">
   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT3mAL7To6qBSczjMC8JuR6x4pN_5QX-ouX9LRRYIIqNdznyOAUL1Ccog8yhv_BHg/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+
+&nbsp;
+
+== Meeting
+
+[NOTE.presentation]
+====
+This video provides an update on the progress to date on the Data Model.
+====
+
+[NOTE.presentation]
+====
+This presentation provides an update on the work to date.
+====
+
+&nbsp;
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRImlc6mamtETdsKE7r6PJEKRWhZNj2kATvLoLRFmjZJsSok3sMKpylNvL8-2_xVg/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 ++++
