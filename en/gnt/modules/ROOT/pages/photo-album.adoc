@@ -1,4 +1,4 @@
-== Photo album
+= Photo album
 
 &nbsp;
 
