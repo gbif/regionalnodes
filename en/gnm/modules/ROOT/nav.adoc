@@ -3,7 +3,6 @@
 * xref:sharingexperience.adoc[Sharing experience]
 * xref:welcome.adoc[Welcome]
 * xref:gnm2023-agenda.adoc[Agenda]
-* xref:welcome.adoc[Welcome]
 * xref:photo-album.adoc[Photo album]
 * xref:capacity-development-programmes.adoc[1. Capacity development programmes]
 * xref:regional-communities-of-practice.adoc[2. Regional communities of practice]
