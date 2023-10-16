@@ -1,6 +1,6 @@
 = 2023 Global Nodes Training
 
-image::gnt::GNT2023-Group.png[]
+image::gnt::GNT2023-Group.JPG[]
 
 == Goal
 
