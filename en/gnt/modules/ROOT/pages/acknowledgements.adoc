@@ -25,4 +25,4 @@ Additionally, we recognize the following GBIF Secretariat staff for their contri
 
 * Icons used in this course are made by Freepik from https://www.flaticon.com/[www.flaticon.com^]
 
-image::gnt::gnt2023-trainers.jpg[]
+image::gnt::gnt2023-trainers.jpeg[]
