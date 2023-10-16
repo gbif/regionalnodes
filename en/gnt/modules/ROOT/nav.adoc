@@ -9,4 +9,5 @@
 * xref:collections-communities.adoc[2. Strengthening support services for collections communities]
 * xref:biodiversity-commitments.adoc[3. Supporting national biodiversity commitments and the science-policy interface]
 * xref:business-sector.adoc[4. Promoting open biodiversity data approaches within the business sector]
+* xref:acknowledgements.adoc[Acknowledgements]
 * xref:course-evaluation.adoc[Course evaluation]
