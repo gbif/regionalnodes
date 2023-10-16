@@ -3,6 +3,7 @@
 == Context
 
 [NOTE.description]
+====
 GBIF runs capacity development programmes that focus on building capacity for biodiversity data mobilization and use, cooperation and knowledge sharing. This session of the Global Nodes Meeting will be an opportunity to discuss how nodes currently participate in and support these programmes, and ideas for how the programmes can be of even greater benefit to the nodes and broader community in future.
 
 The programmes we will be focusing on in the discussion are the Capacity Enhancement Support Programme (CESP) and the Biodiversity Information for Development (BID) programme. We will also discuss work underway to develop an onboarding programme to help new nodes to get started in the GBIF community.
@@ -10,16 +11,18 @@ The programmes we will be focusing on in the discussion are the Capacity Enhance
 https://www.gbif.org/programme/82219/capacity-enhancement-support-programme[CESP^] has since 2014 provided small grants to support capacity development projects co-funded by the nodes. The annual calls for proposals under this programme provide co-funding to GBIF Participants for capacity enhancement projects based on combinations of mentoring activities, regional events, training workshops and the production and adaptation of documentation and materials.
  
 Launched in 2015, the https://www.gbif.org/programme/82243/bid-biodiversity-information-for-development[BID programme] aims to improve the availability and accessibility of biodiversity data in developing countries to enable the effective implementation of national and multilateral agreements such as the Kunming-Montreal Global Biodiversity Framework. With funding coming mostly from the European Union, the BID programme has supported over 100 projects in sub-Saharan Africa, the Caribbean and the Pacific to date. We are currently preparing for a continuation of the BID programme, which we hope to launch in 2024.
+====
 
 == Objectives
 
 [NOTE.objectives]
-
+====
 * Update Nodes on GBIF capacity development framework
 * Share ideas to steer the implementation of work programme items on 3 programmes:
 ** CESP
 ** BID
 ** Onboarding programme
+====
 
 == Preparation
 
