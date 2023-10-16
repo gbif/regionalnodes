@@ -75,7 +75,7 @@ This presentation is an introduction from the Chair of the Nodes Committee.
 
 ++++
 <div class="responsive-slides">
-  <iframe src="...?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSnVXorAnjMG6VTbRwhFifonbhGdb7DqHkdPPZxdgLJpOUCOHLSpEXt4EWScETfjQ/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 ++++
 
