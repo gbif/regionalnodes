@@ -56,7 +56,7 @@ This video provides an update on the progress to date on the Data Model.
 
 &nbsp;
 
-video::874686153/9c8b8bfc48?share=copy[vimeo]
+video::874686153/9c8b8bfc48[vimeo]
 
 [NOTE.presentation]
 ====
