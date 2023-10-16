@@ -123,19 +123,19 @@ During this section you will review several Nodes examples where the connection 
 
 == Poll results
 
-//image::ROOT::globalnodes-site-thumb-04.png[]
+//image::ROOT::PriorityTargets.png[]
 
 &nbsp;
 
-//image::ROOT::globalnodes-site-thumb-04.png[]
+//image::ROOT::NodeStaff.png[]
 
 &nbsp;
 
-//image::ROOT::globalnodes-site-thumb-04.png[]
+//image::ROOT::CurrentNBSAP.png[]
 
 &nbsp;
 
-//image::ROOT::globalnodes-site-thumb-04.png[]
+//image::ROOT::UpdatingNBSAP.png[]
 
 
 == Module 2
