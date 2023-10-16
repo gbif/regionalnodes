@@ -2,6 +2,7 @@
 
 == Context
 
+[NOTE.description]
 GBIF runs capacity development programmes that focus on building capacity for biodiversity data mobilization and use, cooperation and knowledge sharing. This session of the Global Nodes Meeting will be an opportunity to discuss how nodes currently participate in and support these programmes, and ideas for how the programmes can be of even greater benefit to the nodes and broader community in future.
 
 The programmes we will be focusing on in the discussion are the Capacity Enhancement Support Programme (CESP) and the Biodiversity Information for Development (BID) programme. We will also discuss work underway to develop an onboarding programme to help new nodes to get started in the GBIF community.
@@ -10,9 +11,20 @@ https://www.gbif.org/programme/82219/capacity-enhancement-support-programme[CESP
  
 Launched in 2015, the https://www.gbif.org/programme/82243/bid-biodiversity-information-for-development[BID programme] aims to improve the availability and accessibility of biodiversity data in developing countries to enable the effective implementation of national and multilateral agreements such as the Kunming-Montreal Global Biodiversity Framework. With funding coming mostly from the European Union, the BID programme has supported over 100 projects in sub-Saharan Africa, the Caribbean and the Pacific to date. We are currently preparing for a continuation of the BID programme, which we hope to launch in 2024.
 
+== Objectives
+
+[NOTE.objectives]
+
+* Update Nodes on GBIF capacity development framework
+* Share ideas to steer the implementation of work programme items on 3 programmes:
+** CESP
+** BID
+** Onboarding programme
+
 == Preparation
 
-In preparation for this session, we invite you to:
+[NOTE.prep]
+Complete the following activities to prepare for the onsite sessions:
 
 . Attend the https://www.gbif.org/event/DL7vdW3Q9spyscdi5kaj6/biodiversity-information-for-development-showcase[BID Showcase event] on 25 September 2023 to learn more about the impact of the programme to date and to participate in discussions on its future. The event will be recorded if you are unable to attend live.
 . Review the https://www.gbif.org/composition/4R5Ot70guupksCkTNbq1oe/cesp-all-projects[CESP project pages] to see the types of activities that have been funded and get inspired by their results.
@@ -25,3 +37,46 @@ In preparation for this session, we invite you to:
   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTqNwemQzemqCd1x-ckOzs1JPkTGj9sJwI_nHw0blyTkgvG85SPnKJOEBuBRSJM8Q/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 ++++
+
+&nbsp;
+
+== Meeting
+
+[NOTE.presentation]
+This presentation provides a frame for our discussions on three of our key capacity development programmes.
+
+&nbsp;
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSBovL_dFwMZwNG11lk7bo_uOZzAYswbVnqBXzue2Z0Y_rnGW_E7NaNde3y7RE9uQ/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+
+&nbsp;
+
+[NOTE.activity]
+This activity is a facilitated brainstorming session.
+
+&nbsp;
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQT31-2ZWjiWGO9cy8ySYxKGb38-aHnrNI9X1jRUn4qjHk3cjZ-mUUmJtLldKhs7Q/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+
+&nbsp;
+
+[NOTE.presentation]
+This presentation is an introduction from the Chair of the Nodes Committee.
+
+&nbsp;
+
+++++
+<div class="responsive-slides">
+  <iframe src="...?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+
+&nbsp;
