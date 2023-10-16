@@ -54,8 +54,6 @@ During the Global Nodes Meeting, we will provide an update on the work to date, 
 This video provides an update on the progress to date on the Data Model.
 ====
 
-&nbsp;
-
 video::874686153/9c8b8bfc48[vimeo]
 
 [NOTE.presentation]
