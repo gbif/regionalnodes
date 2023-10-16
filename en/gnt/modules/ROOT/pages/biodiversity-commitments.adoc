@@ -123,19 +123,19 @@ During this section you will review several Nodes examples where the connection 
 
 == Poll results
 
-//image::ROOT::PriorityTargets.png[]
+//image::gnt::PriorityTargets.png[]
 
 &nbsp;
 
-//image::ROOT::NodeStaff.png[]
+//image::gnt::NodeStaff.png[]
 
 &nbsp;
 
-//image::ROOT::CurrentNBSAP.png[]
+//image::gnt::CurrentNBSAP.png[]
 
 &nbsp;
 
-//image::ROOT::UpdatingNBSAP.png[]
+//image::gnt::UpdatingNBSAP.png[]
 
 
 == Module 2
@@ -149,7 +149,7 @@ For this activity, you will identify actions that you can take as a node to help
 
 ++++
 <div class="responsive-slides">
-  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRZldvkIDnhfW79cdAI51oxncDQUFMd4-XqbrjpH2E1jTgbbscOC-lYGhwDvi3UBQ/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQtuQDl1N3479YOQywOz0aPcmuvQHomzrx3cVZFvUjdIpAyA7RJyi2E9JO23X3iKA/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 ++++
 
