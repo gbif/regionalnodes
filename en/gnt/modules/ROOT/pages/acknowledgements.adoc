@@ -1,0 +1,26 @@
+= Acknowledgements
+
+== Course design and instruction
+
+We recognize the following individuals for their significant contributions to the course design materials and instruction of the 2023 Global Nodes Training topics:
+
+* Anne-Sophie Archambeau
+* David Jennings
+* Dimitri Brosens
+* Jean Ganglo
+* Niels Raes
+* Michelle Judge
+* Melisa Ojeda
+* Ricardo Ortiz
+
+Additionally, we recognize the following GBIF Secretariat staff for their contributions:
+
+* Andrea Hahn
+* Andrew Rogrigues
+* Dmitry Schigel
+* Marie Grosjean
+* Tim Hirsch
+
+== Resources
+
+* Icons used in this course are made by Freepik from https://www.flaticon.com/[www.flaticon.com^]
