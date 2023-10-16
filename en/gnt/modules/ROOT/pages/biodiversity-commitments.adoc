@@ -121,6 +121,23 @@ During this section you will review several Nodes examples where the connection 
 
 &nbsp;
 
+== Poll results
+
+//image::ROOT::globalnodes-site-thumb-04.png[]
+
+&nbsp;
+
+//image::ROOT::globalnodes-site-thumb-04.png[]
+
+&nbsp;
+
+//image::ROOT::globalnodes-site-thumb-04.png[]
+
+&nbsp;
+
+//image::ROOT::globalnodes-site-thumb-04.png[]
+
+
 == Module 2
 
 === Supporting national reporting requirements
