@@ -127,7 +127,7 @@ image::gnt::PriorityTargets.png[]
 
 &nbsp;
 
-image::gnt::NodeStaff.png[]
+image::gnt::NodeStaff-CBD.png[]
 
 &nbsp;
 
