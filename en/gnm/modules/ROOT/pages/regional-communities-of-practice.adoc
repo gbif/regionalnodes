@@ -2,6 +2,7 @@
 
 == Context
 
+[NOTE.description]
 Since 2008, GBIF has supported six regional networks around the world to encourage and strengthen regional collaboration and information exchange among Participants. 
 These regional sub-committees are explained in the https://assets.ctfassets.net/uo17ejk9rkwj/73Shop9ogovEILrXFGLW6R/933d0e904fce33c762bd0d3b0480f7a1/Terms_of_Reference_for_the_Nodes_Committee_-_September_2017.pdf[Terms of Reference for the Nodes Committee^], and on the https://www.gbif.org/nodes[GBIF nodes page^].
 
@@ -12,8 +13,17 @@ We hope that regions can reflect on how this study can help to support outreach 
 
 During the Global Nodes Meeting, the elected regional representatives will organize regional breakout sessions, to discuss strengthening regional engagement and plans for regional nodes meetings in 2024.
 
+== Objectives
+
+[NOTE.objectives]
+
+* Discuss ideas for regional nodes meetings in 2024
+* Identify opportunities for regional collaboration
+* Consider how the GBIF economic valuation can help with regional outreach efforts
+
 == Preparation
 
+[NOTE.prep]
 In preparation for the regional breakout sessions, we invite you to:
 
 . https://www.gbif.org/contact-us/directory?group=nsg[Contact your regional representative and deputy^] if you have items you wish to add to the agenda for the regional breakout session.
