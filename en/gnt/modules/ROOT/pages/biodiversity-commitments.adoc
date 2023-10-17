@@ -31,6 +31,8 @@ https://orcid.org/0009-0009-8717-8904[Michelle Judge^], Node Manager, Ireland
 https://orcid.org/0000-0003-2409-2408[Melisa Ojeda^], Node Manager, Guatemala
 
 Secretariat consultants: https://orcid.org/0000-0002-5015-5807[Tim Hirsch^], Deputy Director, and https://orcid.org/0000-0002-5468-2452[Andrew Rodrigues^], Data Partnerships Officer
+
+image::gnt::biodiversity-commitments-team.jpeg[]
 ====
 
 == Preparation
