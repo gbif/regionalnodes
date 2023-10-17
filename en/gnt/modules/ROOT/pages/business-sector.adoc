@@ -30,6 +30,8 @@ https://orcid.org/0000-0001-6902-1465[Anne-Sophie Archambeau^], Node Manager, Fr
 https://orcid.org/0000-0003-1070-1081[Ricardo Ortiz^], Node Manager, Colombia
 
 Secretariat consultant: https://orcid.org/0000-0002-5468-2452[Andrew Rodrigues^], Data Partnerships Officer
+
+image::gnt::business-sector-team.jpeg[]
 ====
 
 == Preparation
