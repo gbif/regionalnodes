@@ -85,3 +85,16 @@ This presentation is an introduction from the Chair of the Nodes Committee.
 ++++
 
 &nbsp;
+
+== Outcomes
+
+[NOTE.presentation]
+These links provide the outcomes from the facilitated brainstorming sessions on three of our key capacity development programmes.
+
+&nbsp;
+
+CESP: https://docs.google.com/document/d/1QuhpX8v-3X95sg6rVX75Lv_bqwbPLNFAknSsW0C8kgg/edit?usp=sharing[Idea storm on Capacity Enhancement Support Programme^]
+
+BID: https://docs.google.com/document/d/1HjBvK68yX6ZahLIDzLrS9OjYMKK4Ou_sSfZm-ElZL1w/edit?usp=sharing[Idea storm on the future of the Biodiversity Information for Development (BID) programme^]
+
+Onboarding: https://docs.google.com/document/d/1HDT8ODPVtIKa2tl5Nn3K2CvDThfvi-5_yXD_v5QoqpY/edit?usp=sharing[Idea storm on the Nodes Onboarding Programme^]
