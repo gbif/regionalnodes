@@ -11,5 +11,5 @@ To bring the nodes community together to learn from each other, discuss ideas, d
 == Outcomes
 
 ____
-xref:attachment$GNM2023Report.pdf[2023 Meeting Report^] (PDF, 915 KB)
+xref:attachment$GNM2023Report.pdf[2023 Meeting Report] (PDF, 915 KB)
 ____
