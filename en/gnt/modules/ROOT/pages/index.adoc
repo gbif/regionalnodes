@@ -7,3 +7,9 @@ image::gnt::GNT2023-Group.JPG[]
 To enhance node development by delivering four new modules as part of a training curriculum on node management, each supported by reusable learning materials, and fostering guided mentorship from experts in the nodes community on these four priority topics.
 
 // Familiarize yourself with the topics and materials to prepare your attendance at the Global Nodes training. 
+
+== Outcomes
+
+____
+xref:attachment$GNT2023-Final report.pdf[2023 Training Report] (PDF, 741 KB)
+____
