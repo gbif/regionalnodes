@@ -1,0 +1,13 @@
+= 2025 Global Nodes
+
+\\image::gnt::GNT2023-Group.JPG[]
+
+== Goal
+
+
+
+== Outcomes
+
+____
+//xref:attachment$GNT2023-Final report.pdf[2023 Training Report] (PDF, 741 KB)
+____

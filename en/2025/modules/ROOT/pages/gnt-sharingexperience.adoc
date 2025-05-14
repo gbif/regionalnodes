@@ -1,0 +1,17 @@
+= Sharing experience
+
+We would like to invite all Node Managers, independently of whether you are able to participate in the training (GNT) or meeting (GNM), to consider submitting slides on the specific topics below.
+
+____
+https://gbif.app.box.com/f/360afd35002a42bcbe18bc514f3272ee[Submit slides] by uploading them via Box.
+____
+
+== GNT Template
+
+____
+//xref:attachment$Node-inputs-GNT-template.pptx[Training topics template] (PowerPoint, 20.9 MB)
+____
+
+Please use the template to prepare slides on either or both of the following topics. 
+We will select some slides to be presented during the lightning segments, which are brief (3-5 minutes) parts of the training sessions on these two topics. 
+Additionally, the slides you submit will be carefully reviewed for inclusion in the curriculum that we are developing on these topics for reuse in future.

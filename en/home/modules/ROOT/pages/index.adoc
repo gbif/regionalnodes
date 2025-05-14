@@ -6,15 +6,15 @@ The Global Nodes Training and Meeting are an opportunity for all GBIF nodes to c
 
 [.blocks]
 * xref:buddies::index.adoc[image:globalnodes-site-thumb-05.png[]]
-** xref:buddies::index.adoc[Nodes Buddy System]
+//** xref:buddies::index.adoc[Nodes Buddy System]
 //** Nodes Buddy System
 
-* xref:gnt::index.adoc[image:globalnodes-site-thumb-04.png[]]
-** xref:gnt::index.adoc[Global Nodes Training 2023]
+* xref:global-nodes-2025::index.adoc[image:globalnodes-site-thumb-04.png[]]
+** xref:global-nodes-2025::index.adoc[Global Nodes Training 2025]
 //** Global Nodes Training 2023
 
 * xref:gnm::index.adoc[image:globalnodes-site-thumb-03.png[]]
-** xref:gnm::index.adoc[Global Nodes Meeting 2023]
+//** xref:gnm::index.adoc[Global Nodes Meeting 2023]
 //** Global Nodes Meeting 2023
 
 == What are you looking for?
@@ -29,6 +29,7 @@ The Global Nodes Training and Meeting are an opportunity for all GBIF nodes to c
 == Past meetings
 
 [.smallblocks]
+//* xref:2021::index.adoc[image:td-bg-01.png[] 2023]
 * xref:2021::index.adoc[image:td-bg-01.png[] 2021]
 
 //[.bannerblocks]

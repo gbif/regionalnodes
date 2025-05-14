@@ -1,0 +1,5 @@
+name: global-nodes-2025
+title: Global Nodes 2025
+version: ~
+nav:
+- modules/ROOT/nav.adoc
