@@ -29,8 +29,8 @@ The Global Nodes Training and Meeting are an opportunity for all GBIF nodes to c
 == Past meetings
 
 [.smallblocks]
-//* xref:2023gnt::index.adoc[image:td-bg-01.png[] 2023 Global Nodes Training]
-//* xref:2023gnm::index.adoc[image:td-bg-01.png[] 2023 Global Nodes Meeting]
+* xref:2023gnt::index.adoc[image:td-bg-01.png[] 2023 Global Nodes Training]
+* xref:2023gnm::index.adoc[image:td-bg-01.png[] 2023 Global Nodes Meeting]
 * xref:2021gnm::index.adoc[image:td-bg-01.png[] 2021 Global Nodes Meeting]
 
 //[.bannerblocks]
