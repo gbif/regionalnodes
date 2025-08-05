@@ -1,0 +1,5 @@
+name: 2023gnm
+title: 2023 Global Nodes Meeting
+version: ~
+nav:
+- modules/ROOT/nav.adoc

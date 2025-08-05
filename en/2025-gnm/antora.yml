@@ -1,0 +1,5 @@
+name: gnm
+title: Global Nodes Meeting
+version: ~
+nav:
+- modules/ROOT/nav.adoc

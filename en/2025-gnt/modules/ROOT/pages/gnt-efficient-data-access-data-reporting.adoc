@@ -1,0 +1,65 @@
+= Efficient data access and data reporting
+
+== Context
+
+[NOTE.description]
+====
+This topic relates to approaches to efficiently access GBIF data for the purpose of generating data reports. Recent developments at GBIF include the availability of GBIF snapshots on cloud computing infrastructures and the ability to query GBIF using SQL allowing for e.g. data metrics and custom data reports rather than downloading individual records. Additionally, emerging data cube formats will provide an opportunity to efficiently analyze biodiversity trends on spatiotemporal data.
+====
+
+== Learning objectives
+
+[NOTE.objectives]
+====
+After completing this module, you should be able to perform the following:
+
+* 
+* 
+* 
+* 
+* 
+====
+
+== Trainers
+
+[NOTE.trainers]
+====
+The following trainers have developed the content for this topic:
+
+Dag Endresen, Node Manager, Norway
+
+William Morris, Node Manager, Finland
+
+Secretariat consultants: Andrew Rodrigues and John Waller
+
+//image::gnt::research-communities-team.jpeg[]
+====
+
+== Preparation
+
+[NOTE.prep]
+====
+Complete the following activities to prepare for the onsite sessions:
+
+
+====
+
+== Topic 1
+
+=== Title
+
+[NOTE.presentation]
+This presentation provides ...
+
+
+=== Activity
+
+[NOTE.activity]
+For this activity, ...
+
+== Action plan
+
+[NOTE.assignments]
+Use this action plan to ...
+
+

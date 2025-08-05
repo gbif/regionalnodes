@@ -1,0 +1,63 @@
+= Emerging publishing models
+
+== Context
+
+[NOTE.description]
+====
+This topic relates to work being done on the GBIF data model with regards to publishing data to GBIF using the Integrated Publishing Toolkit (IPT) for supporting richer, more complex types of biodiversity data.
+====
+
+== Learning objectives
+
+[NOTE.objectives]
+====
+After completing this module, you should be able to perform the following:
+
+* 
+* 
+* 
+* 
+* 
+====
+
+== Trainers
+
+[NOTE.trainers]
+====
+The following trainers have developed the content for this topic:
+
+André Heughebaert, Node Manager, Belgium
+
+Yi Ming Gan, Node Staff, Scientific Committee on Antarctic Research
+
+Secretariat consultants: Kate Ingenloff and Mikail Polodskiy
+
+//image::gnt::research-communities-team.jpeg[]
+====
+
+== Preparation
+
+[NOTE.prep]
+====
+Complete the following activities to prepare for the onsite sessions:
+
+
+====
+
+== Topic 1
+
+=== Title
+
+[NOTE.presentation]
+This presentation provides ...
+
+
+=== Activity
+
+[NOTE.activity]
+For this activity, ...
+
+== Action plan
+
+[NOTE.assignments]
+Use this action plan to ...

@@ -1,0 +1,5 @@
+name: 2023gnt
+title: 2023 Global Nodes Training
+version: ~
+nav:
+- modules/ROOT/nav.adoc

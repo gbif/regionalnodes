@@ -1,0 +1,45 @@
+= Group 3 – additional node updates and demos
+
+== Facilitator
+
+Mélianie Raymond, GBIF Secretariat
+
+NOTE: Please view the presentations ahead of the live panel discussion and use the https://discourse.gbif.org/t/gnm-2021-global-nodes-meeting-2021/2879[GBIF community forum] to ask questions.
+
+== Presentations
+
+=== Living Atlases Toolkit
+
+Presentation by Vicente J. Ruiz Jurado, LA Technical Coordinator also taking care of GBIF.es infra
+
+https://datos.gbif.es/others/la-toolkit-gbif-presentation-2021[*Presenting the Living Atlases Toolkit*^]
+
+=== GBIF Benin: Best practices of Node Management
+
+Presentation by Jean Cossi Ganglo, GBIF Node Manager Benin
+
+video::566560669[vimeo]
+ 
+=== GBIF in Poland in 2021: Digitization and integration of services
+
+Presentation by Piotr Tykarski, GBIF Poland Node
+
+video::566560515[vimeo]
+
+=== Node update from GBIF Norway: Wikidata, Agent identifiers, MaterialSample
+
+Presentation by GBIF Norway
+
+video::566563194[vimeo]
+
+=== Plazi: literature-based datasets in GBIF
+
+Presentation by Donat Agosti, Plazi, Switzerland
+
+video::570183638[vimeo]
+
+== Live demo
+
+Facilitation by Mélianie Raymond, GBIF Secretariat
+
+video::571532857[vimeo]

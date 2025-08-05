@@ -1,0 +1,91 @@
+= Future Development of GBIF Regional Support Teams
+
+== Context
+
+[NOTE.description]
+====
+In 2021, GBIF started working with distributed regional support teams on part-time contracts working to strengthen and develop regional communities of practice engaged in data mobilization and use. These teams complement the ongoing efforts of node managers, regional representatives, and volunteer trainers and mentors, to support outreach activities, provide distributed help-desk support, and engage individuals and institutions, particularly in countries that do not yet participate in the GBIF network. The development of regional support teams responds to recommendations in the https://www.gbif.org/news/1QfpUlGByxjqBktiYAfyIK/[CODATA Twenty-Year Review of GBIF^] to strengthen nodes by stabilizing and extending the regional networks.
+
+We currently have regional support teams in https://www.gbif.org/news/3T2siG9QgzLBHqn6MMCdsr/mafuwe-musinguzi-and-rabetrano-selected-to-provide-regional-support-in-africa[Africa^], https://www.gbif.org/news/2GCWBqcly9TCvaIfek5bfb/four-contractors-selected-to-provide-project-support-in-asia[Asia^], https://www.gbif.org/news/6Qpp6Gd5Jos0y3HbBhGsF/leonardo-buitrago-selected-to-provide-project-support-in-the-caribbean[Caribbean^], and most recently, https://www.gbif.org/news/5F4Pi7MuOD9cPuioSSOOem/salza-palpurina-and-oleg-borodin-to-support-gbif-regional-network-in-europe-and-central-asia[Europe and Central Asia^].
+====
+
+== Objectives
+
+[NOTE.objectives]
+====
+* Update all Nodes on the work of the Regional Support Teams
+* Hear regional visions for the development of the teams from Regional Representatives
+* Discuss how the work of Regional Support Teams can best complement the work of the Nodes
+====
+
+== Preparation
+
+[NOTE.prep]
+====
+In preparation to join a discussion on the future of the regional support teams, we invite you to:
+
+. Watch videos from regional support teams in Africa, Asia, and Caribbean explaining their work to date (3 vimeo videos, 14:14 min total).
+. Read through slides contributed by nodes in preparation for this session and consider xref:sharingexperience.adoc[sharing slides] on your node’s experience with regional support teams.
+. Consider how these teams could support your node’s efforts to build regional engagement and come ready to share ideas in Canberra.
+====
+
+&nbsp;
+
+++++
+<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/10660172/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>
+++++
+
+&nbsp;
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTx0vOBakwFc5dd2VdGcefovz4ycQZdRc2VjQ9uBeQKhAM_cer6iN4Fr4t6ZudrHA/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+
+== Meeting
+
+[NOTE.presentation]
+====
+This presentation considers the future development of the Regional Support Teams.
+====
+
+&nbsp;
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ8IO6VipL95Y4lbU39H7eekkNNfYEgpVa8DjS1PyZpP8xoMKFIF-WN0PYPjVQXIA/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+
+&nbsp;
+
+[NOTE.presentation]
+====
+This presentation provides the experiences of the Asia Support Team.
+====
+
+&nbsp;
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTx4tcWGs6dR-0lUPi6jyeGMsHJbvQko_3yJu_PA2mr45SmN2Bsp0d6yYObCdHf-g/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+
+&nbsp;
+
+[NOTE.presentation]
+====
+This presentation provides a vision for the Regional Support Teams.
+====
+
+&nbsp;
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSECC6gMvq5LOKiGcOkwem_anK1ly_pGTR141FFsC4ejAjZGgSNPFjgqw1CYRy0Kg/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+
+&nbsp;

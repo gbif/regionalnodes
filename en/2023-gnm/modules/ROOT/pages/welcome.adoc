@@ -1,0 +1,14 @@
+= Welcome
+
+[NOTE.presentation]
+This presentation welcomes Nodes to the 2023 Global Nodes meeting.
+
+&nbsp;
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSg_jRE_sn0ERru7SEWI1fZGXQqZGKLrKfINr4Lm1r5kMk2-gCKtBwGJEhC8OkIGw/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+
+&nbsp;

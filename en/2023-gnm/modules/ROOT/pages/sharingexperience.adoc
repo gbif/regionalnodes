@@ -1,0 +1,19 @@
+= Sharing experience
+
+We would like to invite all Node Managers, independently of whether you are able to participate in the training (GNT) or meeting (GNM), to consider submitting slides on the specific topics below.
+
+____
+https://gbif.app.box.com/f/360afd35002a42bcbe18bc514f3272ee[Submit slides] by uploading them via Box.
+____
+
+== GNM Template
+
+____
+xref:attachment$Node-inputs-GNM-template.pptx[Meeting topics template] (PowerPoint, 24.1 MB)
+____
+
+Please use the template to prepare slides of any or all of the following topics.  We will share all of the submitted slides for background ahead of the Global Nodes events. Alternatively, you have the option to submit a video presentation, which should ideally be within the range of 3 to 5 minutes.
+
+. *Your experiences with the work underway to expand GBIF’s data model*. Share details on how you are engaging with this work, and your perspective on what the new data model will mean for your node in future.
+. *Your experiences with GBIF’s capacity development programmes, such as BID and CESP*. Share details from your involvement in projects supported by these programmes, and your views on how these programmes can best support the work of nodes going forward.
+. *Your experiences of working with the GBIF regional support teams*. Share any interactions you have had with the regional support teams in Asia, and through the BID programme, as well as your ideas for how the regional support teams and nodes can best work together to strengthen and expand GBIF’s community of practice.

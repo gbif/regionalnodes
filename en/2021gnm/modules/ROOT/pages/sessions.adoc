@@ -1,0 +1,31 @@
+= Sessions
+
+image:gnm2021_group_photo_2.jpg[]
+
+Group photo GNM 2021 by Daniel Noesgaard https://creativecommons.org/publicdomain/zero/1.0/[(CC0 1.0)^]
+
+NOTE: https://www.gbif.org/document/4ghZwJxcfBlNMyP81h7DlY/global-nodes-meeting-report-2021[2021 meeting report^]
+
+== Interactive networking
+
+* xref:monday-icebreaker.adoc[Icebreaker]
+* xref:thursday-speed-dating.adoc[Collaboration speed-dating]
+* xref:friday-nodes-vs-helpdesk.adoc[Nodes vs. help desk]
+* xref:friday-final-evaluation.adoc[Final evaluation] 
+
+== Panel discussions
+
+* xref:monday-theme-1.adoc[Theme 1 - The role of nodes in GBIF’s next strategic period]
+* xref:tuesday-theme-2.adoc[Theme 2 - Exploring future directions for GBIF]
+* xref:thursday-theme-3-4.adoc[Themes 3 & 4 - Product development and tools / Content and use]
+
+== Live demos
+
+* xref:monday-data-mobilization.adoc[Group 1 - Data mobilization training and guidance on sequence-derived data mobilization]
+* xref:tuesday-tools-to-support-nodes.adoc[Group 2 - Tools to support nodes with data mobilization strategies]
+* xref:friday-additional-node-updates-and-demos.adoc[Group 3 - additional node updates and demos]
+* xref:thursday-marine-data-mobilization-session.adoc[OBIS Marine data mobilization session]
+
+== Regional nodes sessions
+
+* xref:wednesday-regional.adoc[Regional nodes sessions]

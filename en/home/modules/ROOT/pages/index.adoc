@@ -5,17 +5,17 @@
 The Global Nodes Training and Meeting are an opportunity for all GBIF nodes to come together to learn from each other, discuss ideas, develop best practices, share their concerns, define recommendations and set priorities. The audience is inclusive of Node managers and Nodes staff, with invited observers who wish to learn more about GBIF and the work of the nodes. Participants must follow https://www.gbif.org/code-of-conduct[GBIF’s code of conduct^].
 
 [.blocks]
-* xref:buddies::index.adoc[image:globalnodes-site-thumb-05.png[]]
-//** xref:buddies::index.adoc[Nodes Buddy System]
-** Nodes Buddy System
+* xref:buddies::index.adoc[image:gnt-06.png[]]
+** xref:buddies::index.adoc[Nodes Buddy System]
+//** Nodes Buddy System
 
-* xref:gn2025::index.adoc[image:globalnodes-site-thumb-04.png[]]
-** xref:gn2025::index.adoc[Global Nodes Training 2025]
+* xref:2025gnt::index.adoc[image:gnt-05.png[]]
+** xref:2025gnt::index.adoc[Global Nodes Training 2025]
 //** Global Nodes Training 2023
 
-* xref:gnm::index.adoc[image:globalnodes-site-thumb-03.png[]]
-//** xref:gnm::index.adoc[Global Nodes Meeting 2023]
-** Global Nodes Meeting 2025
+* xref:2025gnm::index.adoc[image:gnt-04.png[]]
+** xref:2025gnm::index.adoc[Global Nodes Meeting 2025]
+//** Global Nodes Meeting 2025
 
 == What are you looking for?
 
@@ -29,8 +29,9 @@ The Global Nodes Training and Meeting are an opportunity for all GBIF nodes to c
 == Past meetings
 
 [.smallblocks]
-//* xref:2021::index.adoc[image:td-bg-01.png[] 2023]
-* xref:2021::index.adoc[image:td-bg-01.png[] 2021]
+//* xref:2023gnt::index.adoc[image:td-bg-01.png[] 2023 Global Nodes Training]
+//* xref:2023gnm::index.adoc[image:td-bg-01.png[] 2023 Global Nodes Meeting]
+* xref:2021gnm::index.adoc[image:td-bg-01.png[] 2021 Global Nodes Meeting]
 
 //[.bannerblocks]
 //--

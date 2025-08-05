@@ -1,0 +1,5 @@
+= Photo album
+
+++++
+<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/44353813@N02/albums/72177720311981256" title="Global Nodes meeting 2023"><img src="https://live.staticflickr.com/65535/53264102416_d0d34d2eaf_n.jpg" width="800" height="600" alt="Global Nodes meeting 2023"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+++++

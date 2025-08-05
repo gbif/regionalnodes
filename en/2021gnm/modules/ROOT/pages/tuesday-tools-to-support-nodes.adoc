@@ -1,0 +1,33 @@
+= Group 2 – Tools to support nodes with data mobilization strategies
+
+== Facilitators
+
+Laura Anne Russell and Marie Grosjean, GBIF Secretariat
+
+NOTE: Please view the presentations ahead of the live panel discussion and use the https://discourse.gbif.org/t/gnm-2021-global-nodes-meeting-2021/2879[GBIF community forum] to ask questions.
+
+== References
+
+IPT 2.5 and regional IPTs
+
+* https://vimeo.com/565518171/1f3018b8de[IPT roadmap^]
+* https://ipt.gbif-uat.org/[GBIF Test IPT^]
+* https://cloud.gbif.org/africa[Africa IPT^] (admin: Luke Jimu)
+* https://cloud.gbif.org/eca[Europe and Central Asia IPT^] (admin: Dimitri Brosens and Jörg Holetschek)
+* https://cloud.gbif.org/lac[Latin America and Caribbean IPT^] (admin: Anabela Plos and Paula Zermoglio)
+
+How nodes can make use of GrSciColl and contribute
+
+* https://www.gbif.org/grscicoll[GrSciColl^]
+
+GBIF and Github
+
+* https://github.com/gbif/portal-feedback/issues[Portal issues list^]
+
+== Live demo
+
+*Group 2 Tools to support nodes with data mobilization strategies*
+
+Facilitation by Laura Anne Russell and Marie Grosjean, GBIF Secretariat
+
+video::569093098[vimeo]
