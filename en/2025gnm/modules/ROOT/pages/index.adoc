@@ -1,6 +1,6 @@
 = 2023 Global Nodes Meeting
 
-image::ROOT::globalnodes-site-thumb-03.png[align=center,width=640,height=360]
+image::ROOT::gnt-04.png[align=center,width=640,height=360]
 
 == Goal
 

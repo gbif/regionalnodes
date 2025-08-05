@@ -26,11 +26,11 @@ After completing this module, you should be able to perform the following:
 ====
 The following trainers have developed the content for this topic:
 
-André Heughebaert, Node Manager, Belgium
+André Heughebaert, Retired Node Manager, Belgium
 
 Yi Ming Gan, Node Staff, Scientific Committee on Antarctic Research
 
-Secretariat consultants: Kate Ingenloff and Mikail Polodskiy
+Secretariat consultants: Kate Ingenloff and Mikail Podolskiy
 
 //image::gnt::research-communities-team.jpeg[]
 ====

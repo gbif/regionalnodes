@@ -1,8 +1,10 @@
 = 2025 Global Nodes Training
 
-image::2025gnt::GNT2023-Group.JPG[]
+image::ROOT::gnt-05.png[align=center,width=640,height=360]
 
-2023 Global Nodes Training participants in Canberra, Australia by Mélianie Raymond, licensed under http://creativecommons.org/licenses/by-nc/4.0/[(CC BY-NC 4.0)^]
+//image::2025gnt::GNT2023-Group.JPG[]
+
+//2023 Global Nodes Training participants in Canberra, Australia by Mélianie Raymond, licensed under http://creativecommons.org/licenses/by-nc/4.0/[(CC BY-NC 4.0)^]
 
 == Goal
 
