@@ -7,25 +7,28 @@ content:
   sources:
     - url: .
       start_path: ./en/home
-      branches: master
+      branches: HEAD
     - url: .
-      start_path: ./en/2021
-      branches: master
+      start_path: ./en/2021gnm
+      branches: HEAD
     - url: .
-      start_path: ./en/gnt
-      branches: master
+      start_path: ./en/2023-gnt
+      branches: HEAD
     - url: .
-      start_path: ./en/gnm
-      branches: master  
+      start_path: ./en/2023-gnm
+      branches: HEAD       
+    - url: .
+      start_path: ./en/2025gnt
+      branches: HEAD
+    - url: .
+      start_path: ./en/2025gnm
+      branches: HEAD
     - url: .
       start_path: ./en/prep
-      branches: master  
+      branches: HEAD   
     - url: .
       start_path: ./en/buddies
-      branches: master
-    - url: .
-      start_path: ./en/2025
-      branches: master                       
+      branches: HEAD                      
     #- url: https://github.com/gbif/course-data-use.git
     #  start_path: en
     #  branches: antora
