@@ -12,10 +12,10 @@ content:
       start_path: ./en/2021gnm
       branches: HEAD
     - url: .
-      start_path: ./en/2023-gnt
+      start_path: ./en/2023gnt
       branches: HEAD
     - url: .
-      start_path: ./en/2023-gnm
+      start_path: ./en/2023gnm
       branches: HEAD       
     - url: .
       start_path: ./en/2025gnt

@@ -1,6 +1,0 @@
-= Agenda
-
-++++
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTVYkpwaNfaRTj4YWjNsAMe8iKVC8sA4NM4liDxL3fXMo7dj7_fhVtXZcbgqEY_VWFVb4Su1TiuCw-G/pub?embedded=true" frameborder="0" allowfullscreen="true" height="1100" width="100%"></iframe>
-++++
-

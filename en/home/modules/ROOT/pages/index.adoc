@@ -10,11 +10,11 @@ The Global Nodes Training and Meeting are an opportunity for all GBIF nodes to c
 //** Nodes Buddy System
 
 * xref:2025gnt::index.adoc[image:gnt-05.png[]]
-** xref:2025gnt::index.adoc[Global Nodes Training 2025]
+** xref:2025gnt::index.adoc[2025 Global Nodes Training]
 //** Global Nodes Training 2023
 
 * xref:2025gnm::index.adoc[image:gnt-04.png[]]
-** xref:2025gnm::index.adoc[Global Nodes Meeting 2025]
+** xref:2025gnm::index.adoc[2025 Global Nodes Meeting]
 //** Global Nodes Meeting 2025
 
 == What are you looking for?
