@@ -1,4 +1,4 @@
-= Efficient data access and data reporting
+= Efficient data access for data reporting
 
 == Context
 
