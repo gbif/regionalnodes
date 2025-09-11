@@ -32,7 +32,7 @@ https://orcid.org/0000-0003-4212-6448[Dr. Jean C. Ganglo^], Node Manager, Benin
 
 Secretariat consultant: https://orcid.org/0000-0002-2919-1168[Dmitry Schigel^], Scientific Officer
 
-image::gnt::research-communities-team.jpeg[]
+image::2023gnt::research-communities-team.jpeg[]
 ====
 
 == Preparation
