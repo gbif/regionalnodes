@@ -1,16 +1,25 @@
 = Buddy activities
+We invite all buddy groups to get to know one another and build connections. Whenever possible, buddy groups will be kept together during activities at the Global Nodes Training and Meeting. This will also provide opportunities to complete as many of the _Buddy Challenges_ as possible during the Global Nodes Events.
+These challenges are designed to encourage interaction and collaboration while complementing the Global Nodes Event’s full program.
 
-== Kick-off call
-We encourage all buddy groups to organize a call before the Global Nodes events take place.
+== Before the event
 
-We suggest three activities for this call:
+. Find your buddies
+. We encourage introducing yourself to your buddies in advance, for example by email/WhatsApp/other preferred channel. You may wish to share:
 
-. Complete or review your https://www.gbif.org/tool/6Y2SqK8XokHUqIFUn6TLxX/online-capacity-self-assessment-tool-for-national-biodiversity-information-facilities[capacity self-assessment^] and, based on the results, discuss the capacity strengths and needs of each of your nodes.
-. Describe your node’s model to your buddies and discuss similarities and differences.
-. Review the Global Nodes Meeting agenda and help any newer nodes to understand the context around the discussion topics.
+* Your country or organization
+* Your role within the GBIF community (e.g., Node staff, Node manager, Head of Delegation Observer, Mentor, Trainer, Reviewer, Open Data Ambassador, Translator, etc.)
+* How long you have been part of the GBIF community
+* Which events you will attend in Colombia (e.g., Global Nodes Training, Global Nodes Meeting, Icebreaker, GBIF Governing Board, Living Data Conference)
+* One goal you hope to achieve or one thing you hope to learn by attending the Global Nodes Training and Meeting
 
-== Meet up
-If you’re going to be present in Canberra, we also encourage you to plan for a meet up.
+== During the event
 
+. Discuss your buddies’ interests and introduce them to at least one of your contacts within your region and one outside of your region
+. Complete as many of the _Buddy Challenges_ as possible, which will be shared during the event
 
+== After the event
+
+. Stay in touch with your buddies and share information that may be of interest to them
+. Provide feedback on the buddy system for future improvements
 
