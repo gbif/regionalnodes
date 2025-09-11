@@ -27,4 +27,4 @@ Additionally, we recognize the following GBIF Secretariat staff for their contri
 
 == Trainers photo
 
-image::gnt::gnt2023-trainers.jpeg[]
+image::2023gnt::gnt2023-trainers.jpeg[]
