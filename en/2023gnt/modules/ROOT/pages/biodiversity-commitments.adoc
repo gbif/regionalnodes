@@ -133,19 +133,19 @@ During this section you will review several Nodes examples where the connection 
 
 == Poll results
 
-image::gnt::PriorityTargets.png[]
+image::2023gnt::PriorityTargets.png[]
 
 &nbsp;
 
-image::gnt::NodeStaff-CBD.png[]
+image::2023gnt::NodeStaff-CBD.png[]
 
 &nbsp;
 
-image::gnt::CurrentNBSAP.png[]
+image::2023gnt::CurrentNBSAP.png[]
 
 &nbsp;
 
-image::gnt::UpdatingNBSAP.png[]
+image::2023gnt::UpdatingNBSAP.png[]
 
 
 == Module 2
