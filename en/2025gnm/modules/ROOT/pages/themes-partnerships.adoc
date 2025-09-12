@@ -28,7 +28,7 @@ Complete the following activities to prepare for the onsite sessions:
 . Prepare questions for an expert panel on engagement through thematic areas
 ====
 
-&nbsp;
+//&nbsp;
 
 //++++
 //<div class="responsive-slides">
@@ -36,14 +36,14 @@ Complete the following activities to prepare for the onsite sessions:
 //</div>
 //++++
 
-&nbsp;
+//&nbsp;
 
-== Meeting
+//== Meeting
 
-[NOTE.presentation]
-text here
+//[NOTE.presentation]
+//text here
 
-&nbsp;
+//&nbsp;
 
 //++++
 //<div class="responsive-slides">
@@ -51,12 +51,12 @@ text here
 //</div>
 //++++
 
-&nbsp;
+//&nbsp;
 
-[NOTE.activity]
-text here
+//[NOTE.activity]
+//text here
 
-&nbsp;
+//&nbsp;
 
 //++++
 //<div class="responsive-slides">
@@ -64,12 +64,12 @@ text here
 //</div>
 //++++
 
-&nbsp;
+//&nbsp;
 
-[NOTE.presentation]
-Text here.
+//[NOTE.presentation]
+//Text here.
 
-&nbsp;
+//&nbsp;
 
 //++++
 //<div class="responsive-slides">
@@ -77,7 +77,7 @@ Text here.
 //</div>
 //++++
 
-&nbsp;
+//&nbsp;
 
 //== Outcomes
 
