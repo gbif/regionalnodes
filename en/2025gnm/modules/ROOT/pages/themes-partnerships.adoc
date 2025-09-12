@@ -4,18 +4,18 @@
 
 [NOTE.description]
 ====
-text goes here
+Biodiversity data shared through the GBIF network supports research across many disciplines and creates new opportunities for collaboration. Insights from the https://www.gbif.org/literature-tracking[literature tracking programme^] help reveal where and how GBIF-mediated data are being used, pointing to trends and gaps that guide priority setting. Together with the https://www.gbif.org/contact-us/directory?group=scienceCommittee[Science Committee^], nodes can identify current and emerging thematic areas of relevance where targeted engagement and support can strengthen the impact of the GBIF network for both data holders and users.
+
+In this session, the Nodes Committee will be joined by representatives from the Science Committee to explore thematic areas of relevance, from agrobiodiversity and marine ecosystems to invasive species and Indigenous data governance. Lightning talks will highlight current and emerging thematic areas, followed by a panel discussion on how GBIF nodes can leverage these themes to engage new data communities, build partnerships, and strengthen GBIF’s network and impact.
 ====
 
 == Objectives
 
 [NOTE.objectives]
 ====
-* bullet
-* bullet
-** sub bullet
-** sub bullet
-** bullet
+* Build an understanding of thematic areas of relevance to GBIF and how nodes are engaging with these within their networks and activities
+* Strengthen the interaction between the Science Committee and the Nodes Committee
+* Facilitate networking, knowledge sharing and the development of possible future partnerships between nodes that relate to thematic areas
 ====
 
 == Preparation
@@ -24,9 +24,8 @@ text goes here
 ====
 Complete the following activities to prepare for the onsite sessions:
 
-. item 1
-. item 2
-. item 3
+. Join the Online launch event (or watch the recording) to learn more about the thematic areas
+. Prepare questions for an expert panel on engagement through thematic areas
 ====
 
 &nbsp;
