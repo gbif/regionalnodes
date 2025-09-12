@@ -46,11 +46,11 @@ text here
 
 &nbsp;
 
-///++++
-///<div class="responsive-slides">
-///  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSBovL_dFwMZwNG11lk7bo_uOZzAYswbVnqBXzue2Z0Y_rnGW_E7NaNde3y7RE9uQ/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
-///</div>
-///++++
+//++++
+//<div class="responsive-slides">
+//  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSBovL_dFwMZwNG11lk7bo_uOZzAYswbVnqBXzue2Z0Y_rnGW_E7NaNde3y7RE9uQ/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+//</div>
+//++++
 
 &nbsp;
 
