@@ -4,25 +4,25 @@
 
 [NOTE.description]
 ====
-text here.
+This interactive session builds on the discussions introduced in the previous session. GBIF nodes will work in small groups to explore opportunities for collaboration around specific biodiversity-relevant themes, including agrobiodiversity, invasives, marine biodiversity, and Indigenous data governance, as well as other emerging thematic areas of relevance. Participants will identify key partners, map opportunities, and outline practical strategies for engagement, with a focus on national relevance, ethical considerations, and actionable next steps. By the end of the session, nodes should have developed concrete ideas for strengthening partnerships and expanding their role as bridges to new data communities.
 ====
 
 == Objectives
 
 [NOTE.objectives]
 ====
-* objective 1
-* objective 2
+* Enable GBIF nodes to identify emerging biodiversity themes and potential new data holders or user communities
+* Support nodes in developing practical approaches for engagement, partnership-building, and national relevance
+* Encourage nodes to articulate concrete next steps and exchange ideas to strengthen collaborations across the network
 ====
 
 == Preparation
 
 [NOTE.prep]
 ====
-. item 1
-. item 2
-. item 3
-. item 4
+. Share slides on your node’s experience with thematic communities
+. Consider if there are any emerging thematic areas within your node’s network that could be more broadly relevant 
+. Bring ideas for potential thematic collaborations with other nodes and partners for further discussion
 ====
 
 &nbsp;
