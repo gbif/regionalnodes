@@ -25,13 +25,13 @@ This interactive session builds on the discussions introduced in the previous se
 . Bring ideas for potential thematic collaborations with other nodes and partners for further discussion
 ====
 
-&nbsp;
+//&nbsp;
 
 //++++
 //<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/10660339/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>
 //++++
 
-&nbsp;
+//&nbsp;
 
 //++++
 //<div class="responsive-slides">
@@ -39,25 +39,25 @@ This interactive session builds on the discussions introduced in the previous se
 //</div>
 //++++
 
-&nbsp;
+//&nbsp;
 
-== Meeting
+//== Meeting
 
-[NOTE.presentation]
-====
-text here
-====
+//[NOTE.presentation]
+//====
+//text here
+//====
 
 //video::874686153/9c8b8bfc48[vimeo]
 
-&nbsp;
+//&nbsp;
 
-[NOTE.presentation]
-====
-text here.
-====
+//[NOTE.presentation]
+//====
+//text here.
+//====
 
-&nbsp;
+//&nbsp;
 
 //++++
 //<div class="responsive-slides">
