@@ -1,6 +1,6 @@
 = 2025 Global Nodes Meeting
 
-image::ROOT::gnt-04.png[align=center,width=75%,height=75%]
+image::ROOT::gnt-04.png[align="center",width=75%,height=75%]
 
 == Goal
 
