@@ -1,0 +1,94 @@
+= Emerging Themes, Expanding Partnerships
+
+== Context
+
+[NOTE.description]
+====
+text goes here
+====
+
+== Objectives
+
+[NOTE.objectives]
+====
+* bullet
+* bullet
+** sub bullet
+** sub bullet
+** bullet
+====
+
+== Preparation
+
+[NOTE.prep]
+====
+Complete the following activities to prepare for the onsite sessions:
+
+. item 1
+. item 2
+. item 3
+====
+
+&nbsp;
+
+//++++
+//<div class="responsive-slides">
+//  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTqNwemQzemqCd1x-ckOzs1JPkTGj9sJwI_nHw0blyTkgvG85SPnKJOEBuBRSJM8Q/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+//</div>
+//++++
+
+&nbsp;
+
+== Meeting
+
+[NOTE.presentation]
+text here
+
+&nbsp;
+
+///++++
+///<div class="responsive-slides">
+///  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSBovL_dFwMZwNG11lk7bo_uOZzAYswbVnqBXzue2Z0Y_rnGW_E7NaNde3y7RE9uQ/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+///</div>
+///++++
+
+&nbsp;
+
+[NOTE.activity]
+text here
+
+&nbsp;
+
+//++++
+//<div class="responsive-slides">
+//  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQT31-2ZWjiWGO9cy8ySYxKGb38-aHnrNI9X1jRUn4qjHk3cjZ-mUUmJtLldKhs7Q/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+//</div>
+//++++
+
+&nbsp;
+
+[NOTE.presentation]
+Text here.
+
+&nbsp;
+
+//++++
+//<div class="responsive-slides">
+//  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSnVXorAnjMG6VTbRwhFifonbhGdb7DqHkdPPZxdgLJpOUCOHLSpEXt4EWScETfjQ/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+//</div>
+//++++
+
+&nbsp;
+
+//== Outcomes
+
+//[NOTE.presentation]
+//These links provide the outcomes from the facilitated brainstorming sessions on //three of our key capacity development programmes.
+
+//&nbsp;
+
+//CESP: https://docs.google.com/document/d/1QuhpX8v-3X95sg6rVX75Lv_bqwbPLNFAknSsW0C8kgg/edit?usp=sharing[Idea storm on Capacity Enhancement Support Programme^]
+
+//BID: https://docs.google.com/document/d/1HjBvK68yX6ZahLIDzLrS9OjYMKK4Ou_sSfZm-ElZL1w/edit?usp=sharing[Idea storm on the future of the Biodiversity Information for Development (BID) Programme^]
+
+//Onboarding: https://docs.google.com/document/d/1HDT8ODPVtIKa2tl5Nn3K2CvDThfvi-5_yXD_v5QoqpY/edit?usp=sharing[Idea storm on the Nodes Onboarding Programme^]
