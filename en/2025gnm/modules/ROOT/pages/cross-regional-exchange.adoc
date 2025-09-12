@@ -4,16 +4,20 @@
 
 [NOTE.description]
 ====
-text here.
+The GBIF network of nodes spans more than sixty countries and areas, as well as over forty organizations with a regional scope worldwide. Recognizing the importance of local, national, and regional contexts in shaping their work, nodes have developed a wide range of tools and mechanisms to help fulfill their mission.
+
+In this session, nodes will work in small groups to reflect on shared interests and cross-regional challenges. It will also provide an opportunity to exchange knowledge and best practices, and to explore ways of developing or strengthening collaboration across regions in support of joint priorities.
+
+By the end of the session, participants will have a clearer understanding of current priorities and available expertise across the network, along with concrete ideas for potential new collaborations and opportunities for knowledge sharing.
 ====
 
 == Objectives
 
 [NOTE.objectives]
 ====
-* objective 1
-* objective 2
-* objective 3
+* To learn from and be inspired by node-led initiatives and best practices across the GBIF network
+* To discuss and identify cross-regional topics, priorities and/or challenges
+* To discuss and identify cross-regional opportunities for new collaborations or partnerships
 ====
 
 == Preparation
@@ -22,9 +26,9 @@ text here.
 ====
 In preparation, we invite you to:
 
-. item 1.
-. item 2.
-. item 3.
+. Reflect on your node’s current workflows and engagement strategies
+. Identify one success story to share with fellow nodes (e.g., a successful engagement initiative, an efficiency gain in your node’s activities, a successful partnership or an effort that improved your node’s visibility)
+. List one challenge for which you would like to explore possible solutions
 ====
 
 &nbsp;
