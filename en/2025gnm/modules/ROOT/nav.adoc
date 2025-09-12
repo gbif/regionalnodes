@@ -1,7 +1,7 @@
 // Note the "home" section navigation is not currently visible, as the pages use the "home" layout which omits it.
 //* xref:index.adoc[2025 meeting]
 * xref:sharingexperience.adoc[Sharing experience]
-* xref:welcome.adoc[Welcome]
+//* xref:welcome.adoc[Welcome]
 * xref:gnm-agenda.adoc[Agenda]
 //* xref:photo-album.adoc[Photo album]
 * xref:themes-partnerships.adoc[1. Emerging themes, expanding partnerships]
