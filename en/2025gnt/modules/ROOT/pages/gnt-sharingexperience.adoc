@@ -1,6 +1,6 @@
 = Sharing experience
 
-We would like to invite all Node Managers, independently of whether you are able to participate in the training (GNT) or meeting (GNM), to consider submitting slides on the specific topics below.
+We would like to invite all Node Managers, independently of whether you are able to participate in the training (GNT), to consider submitting slides on the topic below.
 
 ____
 https://gbif.app.box.com/f/360afd35002a42bcbe18bc514f3272ee[Submit slides] by uploading them via Box.
@@ -9,9 +9,17 @@ ____
 == GNT Template
 
 ____
-//xref:attachment$Node-inputs-GNT-template.pptx[Training topics template] (PowerPoint, 20.9 MB)
+//xref:attachment$Node-inputs-GNT-template-2025.pptx[Training topics template] (PowerPoint, 20.9 MB)
 ____
 
-Please use the template to prepare slides on either or both of the following topics. 
-We will select some slides to be presented during the lightning segments, which are brief (3-5 minutes) parts of the training sessions on these two topics. 
-Additionally, the slides you submit will be carefully reviewed for inclusion in the curriculum that we are developing on these topics for reuse in future.
+Please use the template to prepare a slide describing your experience in developing a hosted portal. 
+
+We will select some slides to be presented during a lightning segment (3-5 minutes) during the hosted portals topic. Additionally, the slides you submit will be carefully reviewed for inclusion/reuse in the Nodes Development curriculum.
+
+Please consider the following questions when developing your slide.
+
+* Why did you ask for a hosted portal ?
+* How did it help your node or institution ?
+* Did you previously have a website/data portal? Did the hosted portal replace it or is it still running?
+* Specific pages or features developed or implemented ?
+* How do you use the portal to reach your community?
