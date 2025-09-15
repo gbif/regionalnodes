@@ -7,7 +7,7 @@
 //* xref:gnt-photo-album.adoc[Photo album]
 * xref:gnt-efficient-data-access-data-reporting.adoc[1. Efficient data access for data reporting]
 * xref:gnt-gbif-hosted-portals.adoc[2. GBIF hosted portals]
-* xref:gnt-emerging-publishing-models.adoc[3. Emerging publishing models]
+* xref:gnt-emerging-publishing-models.adoc[3. Emerging publishing model: DwC-DP]
 * xref:gnt-metabarcoding-data.adoc[4. Metabarcoding data]
 //* xref:gnt-acknowledgements.adoc[Acknowledgements]
 //* xref:gnt-course-evaluation.adoc[Course evaluation]
