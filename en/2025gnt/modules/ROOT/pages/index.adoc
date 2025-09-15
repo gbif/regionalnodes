@@ -8,7 +8,7 @@ image::ROOT::gnt-05.png[align=center,width=640,height=360]
 
 == Goal
 
-To enhance node development by delivering four new modules as part of a training curriculum on node management, each supported by reusable learning materials, and fostering guided mentorship from experts in the nodes community on these four priority topics.
+To enhance node development by delivering new modules that then become part of the https://training.gbif.org/en/nodes/[Nodes development curriculum^]. Modules are developed and led by volunteer experts from within the nodes community on topics chosen through consultation with the Nodes Committee. 
 
 //== Outcomes
 

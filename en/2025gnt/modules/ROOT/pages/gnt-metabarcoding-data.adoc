@@ -45,7 +45,7 @@ Complete the following activities to prepare for the onsite sessions:
 
 . Explore the materials on the https://www.gbif.org/metabarcoding[Metabarcoding data programme^].
 . https://www.gbif.org/user/profile[Create an account^] on GBIF.org (if you don’t already have one).
-. login to https://mdt.gbif-test.org/ using your GBIF.org username/password.
+. Login to https://mdt.gbif-test.org/ using your GBIF.org username/password.
 ====
 
 //== Topic 1
