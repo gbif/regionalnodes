@@ -13,11 +13,13 @@ GBIF has recently launched the pilot phase for the Metabarcoding Data Programme,
 ====
 After completing this module, you should be able to perform the following:
 
-* 
-* 
-* 
-* 
-* 
+* Define and explain what DNA metabarcoding data are
+* Describe the significance of metabarcoding data
+* Identify the key components and workflow of metabarcoding data processing
+* Identify opportunities for working with the DNA community
+* Demonstrate knowledge of the Metabarcoding Data Toolkit (MDT)
+* Standardize and format metabarcoding datasets
+* Publish metabarcoding datasets to GBIF
 ====
 
 == Trainers
@@ -30,7 +32,7 @@ Luke Jimu, Node Manager, Zimbabwe
 
 Stephen Formel, Data Officer, OBIS Secretariat
 
-Secretariat consultants: Tobias Frøslev
+Secretariat consultant: Tobias Frøslev
 
 //image::gnt::research-communities-team.jpeg[]
 ====
@@ -41,23 +43,25 @@ Secretariat consultants: Tobias Frøslev
 ====
 Complete the following activities to prepare for the onsite sessions:
 
-
+. Explore the materials on the https://www.gbif.org/metabarcoding[Metabarcoding data programme^].
+. https://www.gbif.org/user/profile[Create an account^] on GBIF.org (if you don’t already have one).
+. login to https://mdt.gbif-test.org/ using your GBIF.org username/password.
 ====
 
-== Topic 1
+//== Topic 1
 
-=== Title
+//=== Title
 
-[NOTE.presentation]
-This presentation provides ...
+//[NOTE.presentation]
+//This presentation provides ...
 
 
-=== Activity
+//=== Activity
 
-[NOTE.activity]
-For this activity, ...
+//[NOTE.activity]
+//For this activity, ...
 
-== Action plan
+//== Action plan
 
-[NOTE.assignments]
-Use this action plan to ...
+//[NOTE.assignments]
+//

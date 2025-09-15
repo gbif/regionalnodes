@@ -13,11 +13,14 @@ This topic relates to work being done on the GBIF data model with regards to pub
 ====
 After completing this module, you should be able to perform the following:
 
-* 
-* 
-* 
-* 
-* 
+* Describe the DwC-DP model 
+* Understand the Darwin Core Archive limitations
+* Understand the rationale behind the Darwin Core Data Package (DwC-DP)
+* Identify and describe dataset examples that can use DwC-DP
+* Review a dataset and consider possible mappings
+* Locate and use key resources to support data publication using DwC-DP
+* Adapt DwC-DP resources/messages for your network
+* Identify possible impacts for your community in transitioning to DwC-DP 
 ====
 
 == Trainers
@@ -30,7 +33,7 @@ André Heughebaert, Retired Node Manager, Belgium
 
 Yi Ming Gan, Node Staff, Scientific Committee on Antarctic Research
 
-Secretariat consultants: Kate Ingenloff and Mikail Podolskiy
+Secretariat consultants: Kate Ingenloff and Mikhail Podolskiy
 
 //image::gnt::research-communities-team.jpeg[]
 ====
@@ -41,23 +44,23 @@ Secretariat consultants: Kate Ingenloff and Mikail Podolskiy
 ====
 Complete the following activities to prepare for the onsite sessions:
 
-
+. Review the materials covered in the https://www.gbif.org/event/7oJVaWQZ2wlknRfM7w4OXE[Introduction to the Darwin Core Data Package^] webinar (recording from 2 June 2025).
 ====
 
-== Topic 1
+//== Topic 1
 
-=== Title
+//=== Title
 
-[NOTE.presentation]
-This presentation provides ...
+//[NOTE.presentation]
+//This presentation provides ...
 
 
-=== Activity
+//=== Activity
 
-[NOTE.activity]
-For this activity, ...
+//[NOTE.activity]
+//For this activity, ...
 
-== Action plan
+//== Action plan
 
-[NOTE.assignments]
-Use this action plan to ...
+//[NOTE.assignments]
+//Use this action plan to ...

@@ -15,11 +15,13 @@ Each hosted portal is a simple website hosted and maintained on the GBIF infrast
 ====
 After completing this module, you should be able to perform the following:
 
-* 
-* 
-* 
-* 
-* 
+* Describe the hosted portal programme
+* Describe the technologies used in the hosted portal programme
+* Describe how hosted portals can be used as a tool to engage the community
+* Explore portal examples
+* Plan a hosted portal (group 1)
+* Create a hosted portal (group 2)
+* Add features to a hosted portal (group 3)
 ====
 
 == Trainers
@@ -43,23 +45,24 @@ Secretariat consultants: Mélianie Raymond and Morten Høfft
 ====
 Complete the following activities to prepare for the onsite sessions:
 
-
+. Explore the https://www.gbif.org/hosted-portals[hosted portal programme page^]. 
+. Explore 2-3 portals. Choose amongst https://www.gbif.org/composition/4s2G3hhH1n3reU0yN0F8RF[the full list^] of portals in production. Take note of features that you like.
 ====
 
-== Topic 1
+//== Topic 1
 
-=== Title
+//=== Title
 
-[NOTE.presentation]
-This presentation provides ...
+//[NOTE.presentation]
+//This presentation provides ...
 
 
-=== Activity
+//=== Activity
 
-[NOTE.activity]
-For this activity, ...
+//[NOTE.activity]
+//For this activity, ...
 
-== Action plan
+//== Action plan
 
-[NOTE.assignments]
-Use this action plan to ...
+//[NOTE.assignments]
+//Use this action plan to ...
