@@ -32,7 +32,7 @@ Luke Jimu, Node Manager, Zimbabwe
 
 Stephen Formel, Data Officer, OBIS Secretariat
 
-Secretariat consultant: Tobias Frøslev
+Secretariat consultant: Tobias Guldberg Frøslev
 
 //image::gnt::research-communities-team.jpeg[]
 ====

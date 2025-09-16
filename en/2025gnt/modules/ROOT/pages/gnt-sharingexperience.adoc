@@ -1,6 +1,6 @@
 = Sharing experience
 
-We would like to invite all Node Managers, independently of whether you are able to participate in the training (GNT), to consider submitting slides on the topic below.
+We would like to invite all Node Managers, independently of whether you are able to participate in the training (GNT), to consider submitting slides on the topics below.
 
 ____
 https://gbif.app.box.com/f/360afd35002a42bcbe18bc514f3272ee[Submit slides] by uploading them via Box.
@@ -12,7 +12,7 @@ ____
 xref:attachment$Node-inputs-GNT-template-2025.pptx[Training topics template] (PowerPoint, 19.9 MB)
 ____
 
-Please use the template to prepare a slide describing your experience in developing a hosted portal. 
+1. Please use the template to prepare a slide describing your experience in developing a hosted portal. 
 
 We will select some slides to be presented during a lightning segment (3-5 minutes) during the hosted portals topic. Additionally, the slides you submit will be carefully reviewed for inclusion/reuse in the https://training.gbif.org/en/nodes/[Nodes Development curriculum^].
 
@@ -23,3 +23,11 @@ Please consider the following questions when developing your slide.
 * Did you previously have a website/data portal? Did the hosted portal replace it or is it still running?
 * Specific pages or features developed or implemented?
 * How do you use the portal to reach your community?
+
+2. Please use the template to prepare a slide describing a data use case or data reporting requirement that you'd like to solve during the Efficient data access for data reporting session.
+
+We will make all the submitted examples available on the module page during the event.
+
+* Describe a use case that is (a) non-trivial and (b) as likely as possible to be unique among the groups.
+* Describe how would you might approach the use case/data reporting requirement using the web interface, data downloads, cloud access, or SQL downloads?
+* How would this use case benefit your node, country, stakeholders, etc.

@@ -40,7 +40,7 @@ Secretariat consultants: Andrew Rodrigues and John Waller
 ====
 Complete the following activities to prepare for the onsite sessions:
 
-. Participants should come with 2-3 data use cases/data reporting requirements in mind to propose as subjects for the group discussion.
+. xref:gnt-sharingexperience.adoc[Propose a data use case/data reporting requirement] to share as a subject for group discussion.
 . https://www.gbif.org/user/profile[Create an account^] on GBIF.org (if you don’t already have one).
 . Install software
 .. Install R. https://www.r-project.org/
