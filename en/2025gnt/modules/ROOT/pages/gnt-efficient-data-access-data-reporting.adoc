@@ -46,7 +46,7 @@ Complete the following activities to prepare for the onsite sessions:
 .. Install R. https://www.r-project.org/
 .. Install R Studio Desktop. https://posit.co/download/rstudio-desktop/
 
-xref:attachment$Install-R-RStudio.pdf[Download installation instructions^] (846 KB)
+xref:attachment$Install-R-RStudio.pdf[Download installation instructions] (846 KB)
 
 NOTE: Installation instructions reference earlier versions of the R and R Studio Desktop. Please install the most current and stable versions.
 ====

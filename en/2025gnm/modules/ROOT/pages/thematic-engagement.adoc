@@ -20,9 +20,9 @@ This interactive session builds on the discussions introduced in the previous se
 
 [NOTE.prep]
 ====
-. Share slides on your node’s experience with thematic communities
-. Consider if there are any emerging thematic areas within your node’s network that could be more broadly relevant 
-. Bring ideas for potential thematic collaborations with other nodes and partners for further discussion
+. xref:sharingexperience.adoc[Share slides] on your node’s experience with thematic communities.
+. Consider if there are any emerging thematic areas within your node’s network that could be more broadly relevant. 
+. Bring ideas for potential thematic collaborations with other nodes and partners for further discussion.
 ====
 
 //&nbsp;

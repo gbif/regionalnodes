@@ -1,6 +1,8 @@
-= Pre-training survey results
+= Pre-training survey summary
 
-&nbsp;
+____
+https://gbif.box.com/s/9eri3e5nqrthp13vqck0r3vr1c5vis1r[Download pre-training survey summary^]from Box.
+____
 
 //++++
 //  <iframe src="https://www.survey-xact.dk/LinkCollector?key=EFH1E21MUN9P" frameborder="0" allowfullscreen="true" height="1100" width="100%"></iframe>

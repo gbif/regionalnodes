@@ -18,8 +18,8 @@ We will select some slides to be presented during a lightning segment (3-5 minut
 
 Please consider the following questions when developing your slide.
 
-* Why did you ask for a hosted portal ?
-* How did it help your node or institution ?
+* Why did you ask for a hosted portal?
+* How did it help your node or institution?
 * Did you previously have a website/data portal? Did the hosted portal replace it or is it still running?
-* Specific pages or features developed or implemented ?
+* Specific pages or features developed or implemented?
 * How do you use the portal to reach your community?
