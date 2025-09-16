@@ -47,7 +47,7 @@ Complete the following activities to prepare for the onsite sessions:
 
 . Explore the https://www.gbif.org/hosted-portals[hosted portal programme page^]. 
 . Explore 2-3 portals. Choose amongst https://www.gbif.org/composition/4s2G3hhH1n3reU0yN0F8RF[the full list^] of portals in production. Take note of features that you like.
-. Consider xref:gnt-sharingexperience.adoc[sharing your hosted portal experience] by preparing a slide.
+. xref:gnt-sharingexperience.adoc[Share a slide] if you have participated in the GBIF Hosted Portal programme.
 ====
 
 //== Topic 1

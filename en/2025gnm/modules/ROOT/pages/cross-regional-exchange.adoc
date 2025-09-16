@@ -27,7 +27,7 @@ By the end of the session, participants will have a clearer understanding of cur
 In preparation, we invite you to:
 
 . Reflect on your node’s current workflows and engagement strategies.
-. Identify one success story to share with fellow nodes (e.g., a successful engagement initiative, an efficiency gain in your node’s activities, a successful partnership or an effort that improved your node’s visibility).
+. xref:sharingexperience.adoc[Identify one success story] to share with fellow nodes (e.g., a successful engagement initiative, an efficiency gain in your node’s activities, a successful partnership or an effort that improved your node’s visibility).
 . List one challenge for which you would like to explore possible solutions.
 ====
 
