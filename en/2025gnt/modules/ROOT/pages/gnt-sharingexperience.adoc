@@ -12,7 +12,9 @@ ____
 xref:attachment$Node-inputs-GNT-template-2025.pptx[Training topics template] (PowerPoint, 19.9 MB)
 ____
 
-1. Please use the template to prepare a slide describing your experience in developing a hosted portal. 
+=== GBIF Hosted Portals
+
+Please use the template to prepare a slide describing your experience in developing a hosted portal. 
 
 We will select some slides to be presented during a lightning segment (3-5 minutes) during the hosted portals topic. Additionally, the slides you submit will be carefully reviewed for inclusion/reuse in the https://training.gbif.org/en/nodes/[Nodes Development curriculum^].
 
@@ -24,7 +26,9 @@ Please consider the following questions when developing your slide.
 * Specific pages or features developed or implemented?
 * How do you use the portal to reach your community?
 
-2. Please use the template to prepare a slide describing a data use case or data reporting requirement that you'd like to solve during the Efficient data access for data reporting session.
+=== Efficient data access for data reporting
+
+Please use the template to prepare a slide describing a data use case or data reporting requirement that you'd like to solve during the Efficient data access for data reporting session.
 
 We will make all the submitted examples available on the module page during the event.
 
