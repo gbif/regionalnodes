@@ -1,7 +1,7 @@
 // Note the "home" section navigation is not currently visible, as the pages use the "home" layout which omits it.
 //* xref:index.adoc[Global Nodes Training]
 * xref:gnt-sharingexperience.adoc[Sharing experience]
-* xref:gnt-pre-training-survey.adoc[Pre-training survey summary]
+* xref:gnt-pre-training-survey.adoc[Pre-training survey results summary]
 * xref:gnt-agenda.adoc[Agenda]
 //* xref:gnt-downloads.adoc[Files for download]
 //* xref:gnt-photo-album.adoc[Photo album]

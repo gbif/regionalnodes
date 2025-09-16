@@ -1,7 +1,7 @@
-= Pre-training survey summary
+= Pre-training survey results summary
 
 ____
-https://gbif.box.com/s/9eri3e5nqrthp13vqck0r3vr1c5vis1r[Download pre-training survey summary^] from Box (PDF 532 KB).
+Download https://gbif.box.com/s/9eri3e5nqrthp13vqck0r3vr1c5vis1r[results summary^] from Box (PDF 532 KB).
 ____
 
 //++++
