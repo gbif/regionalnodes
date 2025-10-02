@@ -1,6 +1,6 @@
 = Buddy groups
 
-NOTE: the tables below (with links to each on the right), are sorted three different ways to make it easier to find yourself and then to see who your buddies are and at which table you will site during the training and meeting.
+NOTE: The tables below are sorted three different ways to make it easier to find yourself and then to see who your buddies are and at which table you will site during the training and meeting.
 
 https://www.gbif.org/contact-us/directory?group=nodesCommittee[Contact information^] for node managers can be found in the GBIF Directory.
 
