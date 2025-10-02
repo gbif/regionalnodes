@@ -1,6 +1,6 @@
 = Buddy System
 
-image::ROOT::gnt-06.png[]
+image::ROOT::gnt-06.png[align=center,width=640,height=360]
 
 == Goal
 
