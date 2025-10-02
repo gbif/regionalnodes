@@ -1,6 +1,288 @@
 = Buddy groups
 
-The list of Buddy Groups will be released after the 28 September 2025 registration deadline.
+NOTE: the tables below (with links to each on the right), are sorted three different ways to make it easier to find yourself and then to see who your buddies are and at which table you will site during the training and meeting.
 
 https://www.gbif.org/contact-us/directory?group=nodesCommittee[Contact information^] for node managers can be found in the GBIF Directory.
+
+== By name
+
+[cols="7*", options="header"]
+|===========================================================================================================================================================================================
+| Buddy group | ExcelRow | Table group | Name                     | Country           | GBIF Region                     | Role                                                              
+| 14          | 68       | Silver      | Ainsof So'o              | Samoa             | Oceania                         | Node manager                                                      
+| 17          | 2        | Marino      | Anabela Plos             | Argentina         | Latin America and the Caribbean | Node manager + Trainer + NC 2nd Vice-chair + Regional support team
+| 8           | 89       | Scarlet     | André Heughebaert        | Belgium           | Europe and Central Asia         | Trainer                                                           
+| 1           | 5        | Emerald     | Andre Zerger             | Australia         | Oceania                         | Head of Delegation (Observer)                                     
+| 3           | 34       | Indigo      | Anne-Sophie Archambeau   | France            | Europe and Central Asia         | Node manager + Nodes Committee Chair                              
+| 12          | 53       | Magenta     | Baba Ainina              | Mauritania        | Africa                          | Node manager                                                      
+| 1           | 91       | Emerald     | Birgit Gemeinholzer      | Germany           | Europe and Central Asia         | Science Committee Chair                                           
+| 10          | 95       | Yellow      | Britt Andermann          | Sweden            | Europe and Central Asia         | Observer                                                          
+| 20          | 72       | Yellow      | Camila Plata             | Colombia          | Europe and Central Asia         | Node manager                                                      
+| 18          | 21       | Indigo      | Carole Sinou             | Canadensys        | North America                   | Node manager + Trainer                                            
+| 4           | 26       | Coral       | Carolina Castro Moreno   | Colombia          | Latin America and the Caribbean | Node staff                                                        
+| 19          | 44       | Marino      | Cat Chapman              | US                | North America                   | Node staff                                                        
+| 6           | 3        | Onyx        | Christian Elloran        | Philippines       | Asia                            | Node manager                                                      
+| 13          | 51       | Onyx        | Christos Arvanitidis     | Spain             | Europe and Central Asia         | Node manager                                                      
+| 8           | 49       | Scarlet     | Chung Won Lee            | Korea, Rep. of    | Asia                            | Head of Delegation (Observer)                                     
+| 11          | 13       | Tangerine   | Clara Baringo Fonseca    | Brazil            | Latin America and the Caribbean | Node staff                                                        
+| 9           | 12       | Scarlet     | Claudia Czarneski        | Brazil            | Latin America and the Caribbean | Node manager                                                      
+| 15          | 9        | Magenta     | Cossi Jean Ganglo        | Benin             | Africa                          | Node manager                                                      
+| 12          | 94       | Magenta     | Cristina Preda           | Romania           | Europe and Central Asia         | Observer                                                          
+| 12          | 58       | Magenta     | Dag Endresen             | Norway            | Europe and Central Asia         | Node manager + Trainer                                            
+| 9           | 87       | Scarlet     | David Bloom              | VertNet           | North America                   | Node manager                                                      
+| 10          | 74       | Yellow      | Diana Hernendez          | Mexico            | Europe and Central Asia         | Node staff                                                        
+| 18          | 6        | Indigo      | Dimitri Brosens          | Belgium           | Europe and Central Asia         | Nodes staff                                                       
+| 4           | 60       | Coral       | Donat Agosti             | Switzerland       | Europe and Central Asia         | Node manager                                                      
+| 3           | 48       | Indigo      | Dong Hee Kim             | Korea, Rep. of    | Asia                            | Node staff                                                        
+| 14          | 76       | Silver      | Ed Gilbert               | US                | North America                   | Head of Delegation (Observer)                                     
+| 19          | 84       | Marino      | Eliana Walker            | Uruguay           | Latin America and the Caribbean | Node staff                                                        
+| 18          | 25       | Indigo      | Esteban Marentes Herrera | Colombia          | Latin America and the Caribbean | Node staff                                                        
+| 3           | 55       | Indigo      | Eva Alonso               | Netherlands       | Europe and Central Asia         | Node manager                                                      
+| 7           | 69       | Tangerine   | Fatima Parker-Allie      | South Africa      | Africa                          | Node manager                                                      
+| 19          | 71       | Marino      | Francisco Pando          | Spain             | Europe and Central Asia         | Node manager                                                      
+| 10          | 37       | Yellow      | Gandhi Ponce             | Guatemala         | Latin America and the Caribbean | Node manager                                                      
+| 2           | 83       | Emerald     | Gareth Thomas            | United Kingdom    | Europe and Central Asia         | Node manager                                                      
+| 1           | 46       | Emerald     | Gemma Weir               | Ireland           | Europe and Central Asia         | Head of Delegation (Observer)                                     
+| 16          | 80       | Coral       | Hulda Gideon             | Tanzania          | Africa                          | Node manager                                                      
+| 11          | 73       | Tangerine   | Iemdaad Rodjan           | Suriname          | Latin America and the Caribbean | Head of Delegation (Observer)                                     
+| 20          | 20       | Yellow      | James Macklin            | Canada            | North America                   | Node manager                                                      
+| 5           | 18       | Silver      | Jean François Moussa     | Cameroon          | Africa                          | Node manager                                                      
+| 5           | 41       | Silver      | Jessica (Jesse) Grosso   | US                | North America                   | Node staff                                                        
+| 15          | 63       | Magenta     | Joanna Czarnecka         | Poland            | Europe and Central Asia         | Node staff                                                        
+| 7           | 38       | Tangerine   | John Ajjugo              | Ethiopia          | Africa                          | Node manager                                                      
+| 14          | 62       | Silver      | Karolina Kuczkowska      | Poland            | Europe and Central Asia         | Node staff                                                        
+| 2           | 96       | Emerald     | Katie Millette           | Canada            | North America                   | Observer                                                          
+| 1           | 10       | Emerald     | Kodjoli Simon Awokou     | Benin             | Africa                          | Head of Delegation (Observer)                                     
+| 16          | 32       | Coral       | Kristjan Adojaan         | Estonia           | Europe and Central Asia         | Node manager                                                      
+| 5           | 97       | Silver      | Laban Musinguzi          | Uganda            | Africa                          | Regional support team member - Africa                             
+| 4           | 42       | Coral       | Lauren Cohen             | US                | North America                   | Node staff                                                        
+| 16          | 104      | Coral       | Leonardo Buitrago        | Colombia          | Latin America and the Caribbean | Regional support team member - Latin America and the Caribbean    
+| 7           | 43       | Tangerine   | Libby Ellwood            | US                | North America                   | Node staff                                                        
+| 8           | 99       | Scarlet     | Lily Shrestha            | Nepal             | Asia                            | Regional support team member - Asia                               
+| 4           | 88       | Coral       | Luke Jimu                | Zimbabwe          | Africa                          | Node manager + Trainer                                            
+| 6           | 22       | Onyx        | Mao-Ning Tuanmu          | Chinese Taipei    | Asia                            | Node manager                                                      
+| 18          | 100      | Indigo      | Melissa Liu              | Taiwan            | Asia                            | Regional support team member - Asia                               
+| 2           | 92       | Emerald     | Melodie McGeoch          | Australia         | Oceania                         | Science Committee 1st Vice-chair                                  
+| 6           | 57       | Onyx        | Meredith Mckay           | New Zealand       | Oceania                         | Head of Delegation (Observer)                                     
+| 11          | 56       | Tangerine   | Niels Raes               | Netherlands       | Europe and Central Asia         | Node staff                                                        
+| 2           | 75       | Emerald     | Olaf Banki               | Netherlands       | Europe and Central Asia         | Head of Delegation (Observer)                                     
+| 13          | 102      | Onyx        | Oleg Borodin             | Estonia           | Europe and Central Asia         | Regional support team member - Europe and Central Asia            
+| 16          | 14       | Coral       | Osvaldo Moraes           | Brazil            | Latin America and the Caribbean | Head of Delegation (Observer)                                     
+| 9           | 54       | Scarlet     | Patricia Koleff          | Mexico            | Latin America and the Caribbean | Temp. node manager                                                
+| 20          | 8        | Yellow      | Patricia Mergen          | Belgium           | Europe and Central Asia         | Head of Delegation (Observer)                                     
+| 3           | 4        | Indigo      | Peggy Newman             | Australia         | Oceania                         | Node manager                                                      
+| 13          | 61       | Onyx        | Piotr Tykarski           | Poland            | Europe and Central Asia         | Node manager                                                      
+| 5           | 81       | Silver      | Raoufou Pierre Radji     | Togo              | Africa                          | Node manager                                                      
+| 16          | 93       | Coral       | Rasa Bukontaite          | Sweden            | Europe and Central Asia         | Observer                                                          
+| 17          | 24       | Marino      | Ricardo Ortiz            | Colombia          | Latin America and the Caribbean | Node manager                                                      
+| 10          | 50       | Yellow      | Rudolph J. Merab         | Liberia           | Africa                          | Head of Delegation (Observer)                                     
+| 20          | 65       | Yellow      | Rui Figueira             | Portugal          | Europe and Central Asia         | Node manager                                                      
+| 11          | 103      | Tangerine   | Salza Palpurina          | Bulgaria          | Europe and Central Asia         | Regional support team member - Europe and Central Asia            
+| 12          | 77       | Magenta     | Samanta Orellana         | US                | North America                   | Node staff                                                        
+| 9           | 47       | Scarlet     | Seok-Jun Son             | Korea, Rep. of    | Asia                            | Node manager                                                      
+| 1           | 70       | Emerald     | Shonisani Munzhedzi      | South Africa      | Africa                          | Head of Delegation (Observer)                                     
+| 6           | 82       | Onyx        | Siosiua Latu             | Tonga, Kingdom of | Oceania                         | Node manager                                                      
+| 5           | 79       | Silver      | Sofia Wyler              | Switzerland       | Europe and Central Asia         | Node manager                                                      
+| 15          | 35       | Magenta     | Sophie Pamerlon          | France            | Europe and Central Asia         | Node staff                                                        
+| 12          | 90       | Magenta     | Stephen Formel           | US                | North America                   | Trainer                                                           
+| 19          | 7        | Marino      | Stijn Cooleman           | Belgium           | Europe and Central Asia         | Node staff                                                        
+| 9           | 23       | Scarlet     | Szu-Hsien Lee            | Chinese Taipei    | Asia                            | Node staff                                                        
+| 13          | 36       | Onyx        | Tanja Melanie Weibulat   | Germany           | Europe and Central Asia         | Node staff                                                        
+| 15          | 98       | Magenta     | Tsiky Rabetrano          | Madagascar        | Africa                          | Regional support team member - Africa                             
+| 14          | 78       | Silver      | Veronika Johansson       | Sweden            | Europe and Central Asia         | Node manager                                                      
+| 7           | 31       | Tangerine   | Victor Chocho            | Ecuador           | Latin America and the Caribbean | Node manager                                                      
+| 10          | 101      | Yellow      | Vijay Barve              | India             | Asia                            | Regional support team member - Asia                               
+| 4           | 33       | Coral       | William Morris           | Finland           | Europe and Central Asia         | Node manager + Trainer                                            
+| 17          | 64       | Marino      | Wojciech Solarz          | Poland            | Europe and Central Asia         | Node staff                                                        
+| 17          | 30       | Marino      | Wouter Addink            | Netherlands       | Europe and Central Asia         | Node manager                                                      
+| 8           | 66       | Scarlet     | Yi Ming Gan              | Belgium           | Europe and Central Asia         | Node staff + Trainer                                              
+|===========================================================================================================================================================================================
+
+== By buddy group
+
+[cols="7*", options="header"]
+|===========================================================================================================================================================================================
+| Buddy group | ExcelRow | Table group | Name                     | Country           | GBIF Region                     | Role                                                              
+| 1           | 5        | Emerald     | Andre Zerger             | Australia         | Oceania                         | Head of Delegation (Observer)                                     
+| 1           | 91       | Emerald     | Birgit Gemeinholzer      | Germany           | Europe and Central Asia         | Science Committee Chair                                           
+| 1           | 46       | Emerald     | Gemma Weir               | Ireland           | Europe and Central Asia         | Head of Delegation (Observer)                                     
+| 1           | 10       | Emerald     | Kodjoli Simon Awokou     | Benin             | Africa                          | Head of Delegation (Observer)                                     
+| 1           | 70       | Emerald     | Shonisani Munzhedzi      | South Africa      | Africa                          | Head of Delegation (Observer)                                     
+| 2           | 83       | Emerald     | Gareth Thomas            | United Kingdom    | Europe and Central Asia         | Node manager                                                      
+| 2           | 96       | Emerald     | Katie Millette           | Canada            | North America                   | Observer                                                          
+| 2           | 92       | Emerald     | Melodie McGeoch          | Australia         | Oceania                         | Science Committee 1st Vice-chair                                  
+| 2           | 75       | Emerald     | Olaf Banki               | Netherlands       | Europe and Central Asia         | Head of Delegation (Observer)                                     
+| 3           | 34       | Indigo      | Anne-Sophie Archambeau   | France            | Europe and Central Asia         | Node manager + Nodes Committee Chair                              
+| 3           | 48       | Indigo      | Dong Hee Kim             | Korea, Rep. of    | Asia                            | Node staff                                                        
+| 3           | 55       | Indigo      | Eva Alonso               | Netherlands       | Europe and Central Asia         | Node manager                                                      
+| 3           | 4        | Indigo      | Peggy Newman             | Australia         | Oceania                         | Node manager                                                      
+| 4           | 26       | Coral       | Carolina Castro Moreno   | Colombia          | Latin America and the Caribbean | Node staff                                                        
+| 4           | 60       | Coral       | Donat Agosti             | Switzerland       | Europe and Central Asia         | Node manager                                                      
+| 4           | 42       | Coral       | Lauren Cohen             | US                | North America                   | Node staff                                                        
+| 4           | 88       | Coral       | Luke Jimu                | Zimbabwe          | Africa                          | Node manager + Trainer                                            
+| 4           | 33       | Coral       | William Morris           | Finland           | Europe and Central Asia         | Node manager + Trainer                                            
+| 5           | 41       | Silver      | Jessica (Jesse) Grosso   | US                | North America                   | Node staff                                                        
+| 5           | 18       | Silver      | Jean François Moussa     | Cameroon          | Africa                          | Node manager                                                      
+| 5           | 81       | Silver      | Raoufou Pierre Radji     | Togo              | Africa                          | Node manager                                                      
+| 5           | 97       | Silver      | Laban Musinguzi          | Uganda            | Africa                          | Regional support team member - Africa                             
+| 5           | 79       | Silver      | Sofia Wyler              | Switzerland       | Europe and Central Asia         | Node manager                                                      
+| 6           | 3        | Onyx        | Christian Elloran        | Philippines       | Asia                            | Node manager                                                      
+| 6           | 57       | Onyx        | Meredith Mckay           | New Zealand       | Oceania                         | Head of Delegation (Observer)                                     
+| 6           | 82       | Onyx        | Siosiua Latu             | Tonga, Kingdom of | Oceania                         | Node manager                                                      
+| 6           | 22       | Onyx        | Mao-Ning Tuanmu          | Chinese Taipei    | Asia                            | Node manager                                                      
+| 7           | 69       | Tangerine   | Fatima Parker-Allie      | South Africa      | Africa                          | Node manager                                                      
+| 7           | 38       | Tangerine   | John Ajjugo              | Ethiopia          | Africa                          | Node manager                                                      
+| 7           | 43       | Tangerine   | Libby Ellwood            | US                | North America                   | Node staff                                                        
+| 7           | 31       | Tangerine   | Victor Chocho            | Ecuador           | Latin America and the Caribbean | Node manager                                                      
+| 8           | 89       | Scarlet     | André Heughebaert        | Belgium           | Europe and Central Asia         | Trainer                                                           
+| 8           | 49       | Scarlet     | Chung Won Lee            | Korea, Rep. of    | Asia                            | Head of Delegation (Observer)                                     
+| 8           | 99       | Scarlet     | Lily Shrestha            | Nepal             | Asia                            | Regional support team member - Asia                               
+| 8           | 66       | Scarlet     | Yi Ming Gan              | Belgium           | Europe and Central Asia         | Node staff + Trainer                                              
+| 9           | 12       | Scarlet     | Claudia Czarneski        | Brazil            | Latin America and the Caribbean | Node manager                                                      
+| 9           | 54       | Scarlet     | Patricia Koleff          | Mexico            | Latin America and the Caribbean | Temp. node manager                                                
+| 9           | 47       | Scarlet     | Seok-Jun Son             | Korea, Rep. of    | Asia                            | Node manager                                                      
+| 9           | 87       | Scarlet     | David Bloom              | VertNet           | North America                   | Node manager                                                      
+| 9           | 23       | Scarlet     | Szu-Hsien Lee            | Chinese Taipei    | Asia                            | Node staff                                                        
+| 10          | 95       | Yellow      | Britt Andermann          | Sweden            | Europe and Central Asia         | Observer                                                          
+| 10          | 37       | Yellow      | Gandhi Ponce             | Guatemala         | Latin America and the Caribbean | Node manager                                                      
+| 10          | 74       | Yellow      | Diana Hernendez          | Mexico            | Europe and Central Asia         | Node staff                                                        
+| 10          | 50       | Yellow      | Rudolph J. Merab         | Liberia           | Africa                          | Head of Delegation (Observer)                                     
+| 10          | 101      | Yellow      | Vijay Barve              | India             | Asia                            | Regional support team member - Asia                               
+| 11          | 73       | Tangerine   | Iemdaad Rodjan           | Suriname          | Latin America and the Caribbean | Head of Delegation (Observer)                                     
+| 11          | 13       | Tangerine   | Clara Baringo Fonseca    | Brazil            | Latin America and the Caribbean | Node staff                                                        
+| 11          | 56       | Tangerine   | Niels Raes               | Netherlands       | Europe and Central Asia         | Node staff                                                        
+| 11          | 103      | Tangerine   | Salza Palpurina          | Bulgaria          | Europe and Central Asia         | Regional support team member - Europe and Central Asia            
+| 12          | 53       | Magenta     | Baba Ainina              | Mauritania        | Africa                          | Node manager                                                      
+| 12          | 90       | Magenta     | Stephen Formel           | US                | North America                   | Trainer                                                           
+| 12          | 94       | Magenta     | Cristina Preda           | Romania           | Europe and Central Asia         | Observer                                                          
+| 12          | 58       | Magenta     | Dag Endresen             | Norway            | Europe and Central Asia         | Node manager + Trainer                                            
+| 12          | 77       | Magenta     | Samanta Orellana         | US                | North America                   | Node staff                                                        
+| 13          | 61       | Onyx        | Piotr Tykarski           | Poland            | Europe and Central Asia         | Node manager                                                      
+| 13          | 102      | Onyx        | Oleg Borodin             | Estonia           | Europe and Central Asia         | Regional support team member - Europe and Central Asia            
+| 13          | 36       | Onyx        | Tanja Melanie Weibulat   | Germany           | Europe and Central Asia         | Node staff                                                        
+| 13          | 51       | Onyx        | Christos Arvanitidis     | Spain             | Europe and Central Asia         | Node manager                                                      
+| 14          | 78       | Silver      | Veronika Johansson       | Sweden            | Europe and Central Asia         | Node manager                                                      
+| 14          | 68       | Silver      | Ainsof So'o              | Samoa             | Oceania                         | Node manager                                                      
+| 14          | 76       | Silver      | Ed Gilbert               | US                | North America                   | Head of Delegation (Observer)                                     
+| 14          | 62       | Silver      | Karolina Kuczkowska      | Poland            | Europe and Central Asia         | Node staff                                                        
+| 15          | 9        | Magenta     | Cossi Jean Ganglo        | Benin             | Africa                          | Node manager                                                      
+| 15          | 63       | Magenta     | Joanna Czarnecka         | Poland            | Europe and Central Asia         | Node staff                                                        
+| 15          | 35       | Magenta     | Sophie Pamerlon          | France            | Europe and Central Asia         | Node staff                                                        
+| 15          | 98       | Magenta     | Tsiky Rabetrano          | Madagascar        | Africa                          | Regional support team member - Africa                             
+| 16          | 80       | Coral       | Hulda Gideon             | Tanzania          | Africa                          | Node manager                                                      
+| 16          | 32       | Coral       | Kristjan Adojaan         | Estonia           | Europe and Central Asia         | Node manager                                                      
+| 16          | 14       | Coral       | Osvaldo Moraes           | Brazil            | Latin America and the Caribbean | Head of Delegation (Observer)                                     
+| 16          | 104      | Coral       | Leonardo Buitrago        | Colombia          | Latin America and the Caribbean | Regional support team member - Latin America and the Caribbean    
+| 16          | 93       | Coral       | Rasa Bukontaite          | Sweden            | Europe and Central Asia         | Observer                                                          
+| 17          | 2        | Marino      | Anabela Plos             | Argentina         | Latin America and the Caribbean | Node manager + Trainer + NC 2nd Vice-chair + Regional support team
+| 17          | 24       | Marino      | Ricardo Ortiz            | Colombia          | Latin America and the Caribbean | Node manager                                                      
+| 17          | 64       | Marino      | Wojciech Solarz          | Poland            | Europe and Central Asia         | Node staff                                                        
+| 17          | 30       | Marino      | Wouter Addink            | Netherlands       | Europe and Central Asia         | Node manager                                                      
+| 18          | 21       | Indigo      | Carole Sinou             | Canadensys        | North America                   | Node manager + Trainer                                            
+| 18          | 6        | Indigo      | Dimitri Brosens          | Belgium           | Europe and Central Asia         | Nodes staff                                                       
+| 18          | 100      | Indigo      | Melissa Liu              | Taiwan            | Asia                            | Regional support team member - Asia                               
+| 18          | 25       | Indigo      | Esteban Marentes Herrera | Colombia          | Latin America and the Caribbean | Node staff                                                        
+| 19          | 84       | Marino      | Eliana Walker            | Uruguay           | Latin America and the Caribbean | Node staff                                                        
+| 19          | 44       | Marino      | Cat Chapman              | US                | North America                   | Node staff                                                        
+| 19          | 71       | Marino      | Francisco Pando          | Spain             | Europe and Central Asia         | Node manager                                                      
+| 19          | 7        | Marino      | Stijn Cooleman           | Belgium           | Europe and Central Asia         | Node staff                                                        
+| 20          | 72       | Yellow      | Camila Plata             | Colombia          | Europe and Central Asia         | Node manager                                                      
+| 20          | 20       | Yellow      | James Macklin            | Canada            | North America                   | Node manager                                                      
+| 20          | 8        | Yellow      | Patricia Mergen          | Belgium           | Europe and Central Asia         | Head of Delegation (Observer)                                     
+| 20          | 65       | Yellow      | Rui Figueira             | Portugal          | Europe and Central Asia         | Node manager                                                      
+|===========================================================================================================================================================================================
+
+== By table group
+
+[cols="7*", options="header"]
+|===========================================================================================================================================================================================
+| Buddy group | ExcelRow | Table group | Name                     | Country           | GBIF Region                     | Role                                                              
+| 1           | 5        | Emerald     | Andre Zerger             | Australia         | Oceania                         | Head of Delegation (Observer)                                     
+| 1           | 91       | Emerald     | Birgit Gemeinholzer      | Germany           | Europe and Central Asia         | Science Committee Chair                                           
+| 1           | 46       | Emerald     | Gemma Weir               | Ireland           | Europe and Central Asia         | Head of Delegation (Observer)                                     
+| 1           | 10       | Emerald     | Kodjoli Simon Awokou     | Benin             | Africa                          | Head of Delegation (Observer)                                     
+| 1           | 70       | Emerald     | Shonisani Munzhedzi      | South Africa      | Africa                          | Head of Delegation (Observer)                                     
+| 2           | 83       | Emerald     | Gareth Thomas            | United Kingdom    | Europe and Central Asia         | Node manager                                                      
+| 2           | 96       | Emerald     | Katie Millette           | Canada            | North America                   | Observer                                                          
+| 2           | 92       | Emerald     | Melodie McGeoch          | Australia         | Oceania                         | Science Committee 1st Vice-chair                                  
+| 2           | 75       | Emerald     | Olaf Banki               | Netherlands       | Europe and Central Asia         | Head of Delegation (Observer)                                     
+| 3           | 34       | Indigo      | Anne-Sophie Archambeau   | France            | Europe and Central Asia         | Node manager + Nodes Committee Chair                              
+| 3           | 48       | Indigo      | Dong Hee Kim             | Korea, Rep. of    | Asia                            | Node staff                                                        
+| 3           | 55       | Indigo      | Eva Alonso               | Netherlands       | Europe and Central Asia         | Node manager                                                      
+| 3           | 4        | Indigo      | Peggy Newman             | Australia         | Oceania                         | Node manager                                                      
+| 18          | 21       | Indigo      | Carole Sinou             | Canadensys        | North America                   | Node manager + Trainer                                            
+| 18          | 6        | Indigo      | Dimitri Brosens          | Belgium           | Europe and Central Asia         | Nodes staff                                                       
+| 18          | 100      | Indigo      | Melissa Liu              | Taiwan            | Asia                            | Regional support team member - Asia                               
+| 18          | 25       | Indigo      | Esteban Marentes Herrera | Colombia          | Latin America and the Caribbean | Node staff                                                        
+| 4           | 26       | Coral       | Carolina Castro Moreno   | Colombia          | Latin America and the Caribbean | Node staff                                                        
+| 4           | 60       | Coral       | Donat Agosti             | Switzerland       | Europe and Central Asia         | Node manager                                                      
+| 4           | 42       | Coral       | Lauren Cohen             | US                | North America                   | Node staff                                                        
+| 4           | 88       | Coral       | Luke Jimu                | Zimbabwe          | Africa                          | Node manager + Trainer                                            
+| 4           | 33       | Coral       | William Morris           | Finland           | Europe and Central Asia         | Node manager + Trainer                                            
+| 16          | 80       | Coral       | Hulda Gideon             | Tanzania          | Africa                          | Node manager                                                      
+| 16          | 32       | Coral       | Kristjan Adojaan         | Estonia           | Europe and Central Asia         | Node manager                                                      
+| 16          | 14       | Coral       | Osvaldo Moraes           | Brazil            | Latin America and the Caribbean | Head of Delegation (Observer)                                     
+| 16          | 104      | Coral       | Leonardo Buitrago        | Colombia          | Latin America and the Caribbean | Regional support team member - Latin America and the Caribbean    
+| 16          | 93       | Coral       | Rasa Bukontaite          | Sweden            | Europe and Central Asia         | Observer                                                          
+| 8           | 89       | Scarlet     | André Heughebaert        | Belgium           | Europe and Central Asia         | Trainer                                                           
+| 8           | 49       | Scarlet     | Chung Won Lee            | Korea, Rep. of    | Asia                            | Head of Delegation (Observer)                                     
+| 8           | 99       | Scarlet     | Lily Shrestha            | Nepal             | Asia                            | Regional support team member - Asia                               
+| 8           | 66       | Scarlet     | Yi Ming Gan              | Belgium           | Europe and Central Asia         | Node staff + Trainer                                              
+| 9           | 12       | Scarlet     | Claudia Czarneski        | Brazil            | Latin America and the Caribbean | Node manager                                                      
+| 9           | 54       | Scarlet     | Patricia Koleff          | Mexico            | Latin America and the Caribbean | Temp. node manager                                                
+| 9           | 47       | Scarlet     | Seok-Jun Son             | Korea, Rep. of    | Asia                            | Node manager                                                      
+| 9           | 87       | Scarlet     | David Bloom              | VertNet           | North America                   | Node manager                                                      
+| 9           | 23       | Scarlet     | Szu-Hsien Lee            | Chinese Taipei    | Asia                            | Node staff                                                        
+| 10          | 95       | Yellow      | Britt Andermann          | Sweden            | Europe and Central Asia         | Observer                                                          
+| 10          | 37       | Yellow      | Gandhi Ponce             | Guatemala         | Latin America and the Caribbean | Node manager                                                      
+| 10          | 74       | Yellow      | Diana Hernendez          | Mexico            | Europe and Central Asia         | Node staff                                                        
+| 10          | 50       | Yellow      | Rudolph J. Merab         | Liberia           | Africa                          | Head of Delegation (Observer)                                     
+| 10          | 101      | Yellow      | Vijay Barve              | India             | Asia                            | Regional support team member - Asia                               
+| 20          | 72       | Yellow      | Camila Plata             | Colombia          | Europe and Central Asia         | Node manager                                                      
+| 20          | 20       | Yellow      | James Macklin            | Canada            | North America                   | Node manager                                                      
+| 20          | 8        | Yellow      | Patricia Mergen          | Belgium           | Europe and Central Asia         | Head of Delegation (Observer)                                     
+| 20          | 65       | Yellow      | Rui Figueira             | Portugal          | Europe and Central Asia         | Node manager                                                      
+| 5           | 41       | Silver      | Jessica (Jesse) Grosso   | US                | North America                   | Node staff                                                        
+| 5           | 18       | Silver      | Jean François Moussa     | Cameroon          | Africa                          | Node manager                                                      
+| 5           | 81       | Silver      | Raoufou Pierre Radji     | Togo              | Africa                          | Node manager                                                      
+| 5           | 97       | Silver      | Laban Musinguzi          | Uganda            | Africa                          | Regional support team member - Africa                             
+| 5           | 79       | Silver      | Sofia Wyler              | Switzerland       | Europe and Central Asia         | Node manager                                                      
+| 14          | 78       | Silver      | Veronika Johansson       | Sweden            | Europe and Central Asia         | Node manager                                                      
+| 14          | 68       | Silver      | Ainsof So'o              | Samoa             | Oceania                         | Node manager                                                      
+| 14          | 76       | Silver      | Ed Gilbert               | US                | North America                   | Head of Delegation (Observer)                                     
+| 14          | 62       | Silver      | Karolina Kuczkowska      | Poland            | Europe and Central Asia         | Node staff                                                        
+| 15          | 9        | Magenta     | Cossi Jean Ganglo        | Benin             | Africa                          | Node manager                                                      
+| 15          | 63       | Magenta     | Joanna Czarnecka         | Poland            | Europe and Central Asia         | Node staff                                                        
+| 15          | 35       | Magenta     | Sophie Pamerlon          | France            | Europe and Central Asia         | Node staff                                                        
+| 15          | 98       | Magenta     | Tsiky Rabetrano          | Madagascar        | Africa                          | Regional support team member - Africa                             
+| 12          | 53       | Magenta     | Baba Ainina              | Mauritania        | Africa                          | Node manager                                                      
+| 12          | 90       | Magenta     | Stephen Formel           | US                | North America                   | Trainer                                                           
+| 12          | 94       | Magenta     | Cristina Preda           | Romania           | Europe and Central Asia         | Observer                                                          
+| 12          | 58       | Magenta     | Dag Endresen             | Norway            | Europe and Central Asia         | Node manager + Trainer                                            
+| 12          | 77       | Magenta     | Samanta Orellana         | US                | North America                   | Node staff                                                        
+| 19          | 84       | Marino      | Eliana Walker            | Uruguay           | Latin America and the Caribbean | Node staff                                                        
+| 19          | 44       | Marino      | Cat Chapman              | US                | North America                   | Node staff                                                        
+| 19          | 71       | Marino      | Francisco Pando          | Spain             | Europe and Central Asia         | Node manager                                                      
+| 19          | 7        | Marino      | Stijn Cooleman           | Belgium           | Europe and Central Asia         | Node staff                                                        
+| 17          | 2        | Marino      | Anabela Plos             | Argentina         | Latin America and the Caribbean | Node manager + Trainer + NC 2nd Vice-chair + Regional support team
+| 17          | 24       | Marino      | Ricardo Ortiz            | Colombia          | Latin America and the Caribbean | Node manager                                                      
+| 17          | 64       | Marino      | Wojciech Solarz          | Poland            | Europe and Central Asia         | Node staff                                                        
+| 17          | 30       | Marino      | Wouter Addink            | Netherlands       | Europe and Central Asia         | Node manager                                                      
+| 11          | 73       | Tangerine   | Iemdaad Rodjan           | Suriname          | Latin America and the Caribbean | Head of Delegation (Observer)                                     
+| 11          | 13       | Tangerine   | Clara Baringo Fonseca    | Brazil            | Latin America and the Caribbean | Node staff                                                        
+| 11          | 56       | Tangerine   | Niels Raes               | Netherlands       | Europe and Central Asia         | Node staff                                                        
+| 11          | 103      | Tangerine   | Salza Palpurina          | Bulgaria          | Europe and Central Asia         | Regional support team member - Europe and Central Asia            
+| 7           | 69       | Tangerine   | Fatima Parker-Allie      | South Africa      | Africa                          | Node manager                                                      
+| 7           | 38       | Tangerine   | John Ajjugo              | Ethiopia          | Africa                          | Node manager                                                      
+| 7           | 43       | Tangerine   | Libby Ellwood            | US                | North America                   | Node staff                                                        
+| 7           | 31       | Tangerine   | Victor Chocho            | Ecuador           | Latin America and the Caribbean | Node manager                                                      
+| 13          | 61       | Onyx        | Piotr Tykarski           | Poland            | Europe and Central Asia         | Node manager                                                      
+| 13          | 102      | Onyx        | Oleg Borodin             | Estonia           | Europe and Central Asia         | Regional support team member - Europe and Central Asia            
+| 13          | 36       | Onyx        | Tanja Melanie Weibulat   | Germany           | Europe and Central Asia         | Node staff                                                        
+| 13          | 51       | Onyx        | Christos Arvanitidis     | Spain             | Europe and Central Asia         | Node manager                                                      
+| 6           | 3        | Onyx        | Christian Elloran        | Philippines       | Asia                            | Node manager                                                      
+| 6           | 57       | Onyx        | Meredith Mckay           | New Zealand       | Oceania                         | Head of Delegation (Observer)                                     
+| 6           | 82       | Onyx        | Siosiua Latu             | Tonga, Kingdom of | Oceania                         | Node manager                                                      
+| 6           | 22       | Onyx        | Mao-Ning Tuanmu          | Chinese Taipei    | Asia                            | Node manager                                                      
+|===========================================================================================================================================================================================
 
