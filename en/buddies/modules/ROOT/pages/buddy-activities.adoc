@@ -20,7 +20,7 @@ These challenges are designed to encourage interaction and collaboration while c
 . Discuss your buddies’ interests and introduce them to at least one of your contacts within your region and one outside of your region
 . Complete as many of the _Buddy Challenges_ as possible, which will be shared during the event
 
-image::buddy-challenges.pdf[page=1]
+image::buddy-challenges.pdf[]
 
 == After the event
 
