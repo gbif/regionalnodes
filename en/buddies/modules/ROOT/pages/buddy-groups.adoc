@@ -47,7 +47,6 @@ https://www.gbif.org/contact-us/directory?group=nodesCommittee[Contact informati
 | 20          | Yellow      | James Macklin            | Canada            | North America                  
 | 15          | Magenta     | Jean Cossi Ganglo        | Benin             | Africa                         
 | 5           | Silver      | Jean François Moussa     | Cameroon          | Africa                         
-| 5           | Silver      | [.line-through]#Jessica (Jesse) Grosso#   | United States     | North America                  
 | 15          | Magenta     | Joanna Czarnecka         | Poland            | Europe and Central Asia        
 | 7           | Tangerine   | John Ajjugo              | Ethiopia          | Africa                         
 | 14          | Silver      | Karolina Kuczkowska      | Poland            | Europe and Central Asia        
@@ -55,7 +54,6 @@ https://www.gbif.org/contact-us/directory?group=nodesCommittee[Contact informati
 | 1           | Emerald     | Kodjoli Simon Awokou     | Benin             | Africa                         
 | 16          | Coral       | Kristjan Adojaan         | Estonia           | Europe and Central Asia        
 | 5           | Silver      | Laban Musinguzi          | Uganda            | Africa                         
-| 4           | Coral       | [.line-through]#Lauren Cohen#             | United States     | North America                  
 | 16          | Coral       | Leonardo Buitrago        | Colombia          | Latin America and the Caribbean
 | 7           | Tangerine   | Libby Ellwood            | United States     | North America                  
 | 8           | Scarlet     | Lily Shrestha            | Nepal             | Asia                           
@@ -64,10 +62,8 @@ https://www.gbif.org/contact-us/directory?group=nodesCommittee[Contact informati
 | 18          | Indigo      | Melissa Liu              | Chinese Taipei    | Asia                           
 | 2           | Emerald     | Melodie McGeoch          | Australia         | Oceania                        
 | 6           | Onyx        | Meredith Mckay           | New Zealand       | Oceania                        
-| 11          | Tangerine   | [.line-through]#Niels Raes#               | Netherlands       | Europe and Central Asia        
 | 2           | Emerald     | Olaf Banki               | Netherlands       | Europe and Central Asia        
 | 13          | Onyx        | Oleg Borodin             | Estonia           | Europe and Central Asia        
-| 16          | Coral       | [.line-through]#Osvaldo Moraes#           | Brazil            | Latin America and the Caribbean
 | 9           | Scarlet     | Patricia Koleff          | Mexico            | Latin America and the Caribbean
 | 20          | Yellow      | Patricia Mergen          | Belgium           | Europe and Central Asia        
 | 3           | Indigo      | Peggy Newman             | Australia         | Oceania                        
@@ -118,11 +114,9 @@ https://www.gbif.org/contact-us/directory?group=nodesCommittee[Contact informati
 | 3           | Indigo      | Peggy Newman             | Australia         | Oceania                        
 | 4           | Coral       | Carolina Castro Moreno   | Colombia          | Latin America and the Caribbean
 | 4           | Coral       | Donat Agosti             | Switzerland       | Europe and Central Asia        
-| 4           | Coral       | [.line-through]#Lauren Cohen#             | United States     | North America                  
 | 4           | Coral       | Luke Jimu                | Zimbabwe          | Africa                         
 | 4           | Coral       | William Morris           | Finland           | Europe and Central Asia        
 | 5           | Silver      | Jean François Moussa     | Cameroon          | Africa                         
-| 5           | Silver      | [.line-through]#Jessica (Jesse) Grosso#   | United States     | North America                  
 | 5           | Silver      | Laban Musinguzi          | Uganda            | Africa                         
 | 5           | Silver      | Raoufou Pierre Radji     | Togo              | Africa                         
 | 5           | Silver      | Sofia Wyler              | Switzerland       | Europe and Central Asia        
@@ -150,7 +144,6 @@ https://www.gbif.org/contact-us/directory?group=nodesCommittee[Contact informati
 | 10          | Yellow      | Vijay Barve              | India             | Asia                           
 | 11          | Tangerine   | Clara Baringo Fonseca    | Brazil            | Latin America and the Caribbean
 | 11          | Tangerine   | Iemdaad Rodjan           | Suriname          | Latin America and the Caribbean
-| 11          | Tangerine   | [.line-through]#Niels Raes#               | Netherlands       | Europe and Central Asia        
 | 11          | Tangerine   | Salza Palpurina          | Bulgaria          | Europe and Central Asia        
 | 12          | Magenta     | Baba Ainina              | Mauritania        | Africa                         
 | 12          | Magenta     | Cristina Preda           | Romania           | Europe and Central Asia        
@@ -172,7 +165,6 @@ https://www.gbif.org/contact-us/directory?group=nodesCommittee[Contact informati
 | 16          | Coral       | Hulda Gideon             | Tanzania          | Africa                         
 | 16          | Coral       | Kristjan Adojaan         | Estonia           | Europe and Central Asia        
 | 16          | Coral       | Leonardo Buitrago        | Colombia          | Latin America and the Caribbean
-| 16          | Coral       | [.line-through]#Osvaldo Moraes#           | Brazil            | Latin America and the Caribbean
 | 16          | Coral       | Rasa Bukontaite          | Sweden            | Europe and Central Asia        
 | 17          | Marino      | Anabela Plos             | Argentina         | Latin America and the Caribbean
 | 17          | Marino      | Ricardo Ortiz            | Colombia          | Latin America and the Caribbean
@@ -199,13 +191,11 @@ https://www.gbif.org/contact-us/directory?group=nodesCommittee[Contact informati
 | Buddy group | Table group | Name                     | Country           | GBIF Region                    
 | 4           | Coral       | Carolina Castro Moreno   | Colombia          | Latin America and the Caribbean
 | 4           | Coral       | Donat Agosti             | Switzerland       | Europe and Central Asia        
-| 4           | Coral       | [.line-through]#Lauren Cohen#             | United States     | North America                  
 | 4           | Coral       | Luke Jimu                | Zimbabwe          | Africa                         
 | 4           | Coral       | William Morris           | Finland           | Europe and Central Asia        
 | 16          | Coral       | Hulda Gideon             | Tanzania          | Africa                         
 | 16          | Coral       | Kristjan Adojaan         | Estonia           | Europe and Central Asia        
 | 16          | Coral       | Leonardo Buitrago        | Colombia          | Latin America and the Caribbean
-| 16          | Coral       | [.line-through]#Osvaldo Moraes#           | Brazil            | Latin America and the Caribbean
 | 16          | Coral       | Rasa Bukontaite          | Sweden            | Europe and Central Asia        
 | 1           | Emerald     | Andre Zerger             | Australia         | Oceania                        
 | 1           | Emerald     | Birgit Gemeinholzer      | Germany           | Europe and Central Asia        
@@ -259,7 +249,6 @@ https://www.gbif.org/contact-us/directory?group=nodesCommittee[Contact informati
 | 9           | Scarlet     | Seok-Jun Son             | Korea, Rep. of    | Asia                           
 | 9           | Scarlet     | Szu-Hsien Lee            | Chinese Taipei    | Asia                           
 | 5           | Silver      | Jean François Moussa     | Cameroon          | Africa                         
-| 5           | Silver      | [.line-through]#Jessica (Jesse) Grosso#   | United States     | North America                  
 | 5           | Silver      | Laban Musinguzi          | Uganda            | Africa                         
 | 5           | Silver      | Raoufou Pierre Radji     | Togo              | Africa                         
 | 5           | Silver      | Sofia Wyler              | Switzerland       | Europe and Central Asia        
@@ -273,7 +262,6 @@ https://www.gbif.org/contact-us/directory?group=nodesCommittee[Contact informati
 | 7           | Tangerine   | Victor Chocho            | Ecuador           | Latin America and the Caribbean
 | 11          | Tangerine   | Clara Baringo Fonseca    | Brazil            | Latin America and the Caribbean
 | 11          | Tangerine   | Iemdaad Rodjan           | Suriname          | Latin America and the Caribbean
-| 11          | Tangerine   | [.line-through]#Niels Raes#               | Netherlands       | Europe and Central Asia        
 | 11          | Tangerine   | Salza Palpurina          | Bulgaria          | Europe and Central Asia        
 | 10          | Yellow      | Britt Andermann          | Sweden            | Europe and Central Asia        
 | 10          | Yellow      | Diana Hernández          | Mexico            | Europe and Central Asia        
