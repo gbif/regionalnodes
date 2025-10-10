@@ -14,7 +14,6 @@ https://www.gbif.org/contact-us/directory?group=nodesCommittee[Contact informati
 | 8           | Scarlet     | André Heughebaert        | Belgium           | Europe and Central Asia        
 | 1           | Emerald     | Andre Zerger             | Australia         | Oceania                        
 | 3           | Indigo      | Anne-Sophie Archambeau   | France            | Europe and Central Asia        
-| 12          | Magenta     | Baba Ainina              | Mauritania        | Africa                         
 | 1           | Emerald     | Birgit Gemeinholzer      | Germany           | Europe and Central Asia        
 | 10          | Yellow      | Britt Andermann          | Sweden            | Europe and Central Asia        
 | 20          | Yellow      | Camila Plata             | Colombia          | Europe and Central Asia        
@@ -42,7 +41,6 @@ https://www.gbif.org/contact-us/directory?group=nodesCommittee[Contact informati
 | 10          | Yellow      | Gandhi Ponce             | Guatemala         | Latin America and the Caribbean
 | 2           | Emerald     | Gareth Thomas            | United Kingdom    | Europe and Central Asia        
 | 1           | Emerald     | Gemma Weir               | Ireland           | Europe and Central Asia        
-| 16          | Coral       | Hulda Gideon             | Tanzania          | Africa                         
 | 11          | Tangerine   | Iemdaad Rodjan           | Suriname          | Latin America and the Caribbean
 | 20          | Yellow      | James Macklin            | Canada            | North America                  
 | 15          | Magenta     | Jean Cossi Ganglo        | Benin             | Africa                         
@@ -145,7 +143,6 @@ https://www.gbif.org/contact-us/directory?group=nodesCommittee[Contact informati
 | 11          | Tangerine   | Clara Baringo Fonseca    | Brazil            | Latin America and the Caribbean
 | 11          | Tangerine   | Iemdaad Rodjan           | Suriname          | Latin America and the Caribbean
 | 11          | Tangerine   | Salza Palpurina          | Bulgaria          | Europe and Central Asia        
-| 12          | Magenta     | Baba Ainina              | Mauritania        | Africa                         
 | 12          | Magenta     | Cristina Preda           | Romania           | Europe and Central Asia        
 | 12          | Magenta     | Dag Endresen             | Norway            | Europe and Central Asia        
 | 12          | Magenta     | Samanta Orellana         | United States     | North America                  
@@ -162,7 +159,6 @@ https://www.gbif.org/contact-us/directory?group=nodesCommittee[Contact informati
 | 15          | Magenta     | Joanna Czarnecka         | Poland            | Europe and Central Asia        
 | 15          | Magenta     | Sophie Pamerlon          | France            | Europe and Central Asia        
 | 15          | Magenta     | Tsiky Rabetrano          | Madagascar        | Africa                         
-| 16          | Coral       | Hulda Gideon             | Tanzania          | Africa                         
 | 16          | Coral       | Kristjan Adojaan         | Estonia           | Europe and Central Asia        
 | 16          | Coral       | Leonardo Buitrago        | Colombia          | Latin America and the Caribbean
 | 16          | Coral       | Rasa Bukontaite          | Sweden            | Europe and Central Asia        
@@ -193,7 +189,6 @@ https://www.gbif.org/contact-us/directory?group=nodesCommittee[Contact informati
 | 4           | Coral       | Donat Agosti             | Switzerland       | Europe and Central Asia        
 | 4           | Coral       | Luke Jimu                | Zimbabwe          | Africa                         
 | 4           | Coral       | William Morris           | Finland           | Europe and Central Asia        
-| 16          | Coral       | Hulda Gideon             | Tanzania          | Africa                         
 | 16          | Coral       | Kristjan Adojaan         | Estonia           | Europe and Central Asia        
 | 16          | Coral       | Leonardo Buitrago        | Colombia          | Latin America and the Caribbean
 | 16          | Coral       | Rasa Bukontaite          | Sweden            | Europe and Central Asia        
@@ -214,7 +209,6 @@ https://www.gbif.org/contact-us/directory?group=nodesCommittee[Contact informati
 | 18          | Indigo      | Dimitri Brosens          | Belgium           | Europe and Central Asia        
 | 18          | Indigo      | Esteban Marentes Herrera | Colombia          | Latin America and the Caribbean
 | 18          | Indigo      | Melissa Liu              | Chinese Taipei    | Asia                           
-| 12          | Magenta     | Baba Ainina              | Mauritania        | Africa                         
 | 12          | Magenta     | Cristina Preda           | Romania           | Europe and Central Asia        
 | 12          | Magenta     | Dag Endresen             | Norway            | Europe and Central Asia        
 | 12          | Magenta     | Samanta Orellana         | United States     | North America                  
