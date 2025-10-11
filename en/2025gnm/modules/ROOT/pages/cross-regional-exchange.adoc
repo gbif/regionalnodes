@@ -100,11 +100,11 @@ This session offers nodes a chance to share experiences, compare approaches, and
 
 [NOTE.activity]
 ====
-We will use Mentimeter to capture your insights and share them back with all the meeting. participants.
+We will use Mentimeter to capture your insights and share them back with all the participants.
 
 . https://www.menti.com/alfgw79vitni[Access the poll in your browser^] or on your phone using the QR code.
 
-image::mentimeter_qr_code.png[[align=center,width=50%,height=50%]]
+image::mentimeter_qr_code.png[[align=center,width=500,height=500]]
 ====
 
 === Results
