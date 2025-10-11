@@ -89,10 +89,11 @@ This session offers nodes a chance to share experiences, compare approaches, and
 
 *Instructions*
 
-* Join your *pre-assigned table groups* for three rounds of discussion. Each round combines guiding discussion questions with live input via Mentimeter.
-** *Round 1: Local engagement approaches and success stories* - Explore how regions share updates, engage new participants, and build partnerships. Share examples of effective initiatives and inspiring approaches to knowledge-sharing.
-** *Round 2: Shared barriers and needs* - Identify persistent challenges facing regions, discuss possible solutions, and reflect on what types of support should be prioritized.
-** *Round 3: Collaboration opportunities* - Highlight common challenges and opportunities for cross-regional projects, partnerships, and knowledge-sharing. Identify next steps for building collaboration after the meeting.
+Join your *pre-assigned table groups* for three rounds of discussion. Each round combines guiding discussion questions with live input via Mentimeter.
+
+* *Round 1: Local engagement approaches and success stories* - Explore how regions share updates, engage new participants, and build partnerships. Share examples of effective initiatives and inspiring approaches to knowledge-sharing.
+* *Round 2: Shared barriers and needs* - Identify persistent challenges facing regions, discuss possible solutions, and reflect on what types of support should be prioritized.
+* *Round 3: Collaboration opportunities* - Highlight common challenges and opportunities for cross-regional projects, partnerships, and knowledge-sharing. Identify next steps for building collaboration after the meeting.
 
 ====
 
@@ -104,7 +105,7 @@ We will use Mentimeter to capture your insights and share them back with all the
 
 https://www.menti.com/alfgw79vitni[Access the poll in your browser^] or on your phone using the QR code.
 
-image::mentimeter_qr_code.png[[align=center,width=200,height=200]]
+image::mentimeter_qr_code.png[[align=center,width=150,height=150]]
 ====
 
 === Results
