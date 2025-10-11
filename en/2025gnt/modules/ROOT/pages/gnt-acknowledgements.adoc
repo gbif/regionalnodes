@@ -4,15 +4,36 @@
 
 We recognize the following individuals for their significant contributions to the course design materials and instruction of the 2025 Global Nodes Training topics:
 
-* 
+* Anabela Plos, Node Manager Argentina
+* André Heughebaert, Retired Node Manager Belgium
+* Carole Sinou, Node Manager Canadensys
+* Dag Endresen, Node Manager Norway
+* Luke Jimu, Node Manager Zimbabwe
+* Stephen Formel, Data Officer OBIS Secretariat
+* Will Morris, Node Manager Finland
+* Yi Ming Gan, Node Staff Scientific Committee on Antarctic Research (SCAR)
 
-Additionally, we recognize the following GBIF Secretariat staff for their contributions:
+Additionally, we recognize the following GBIF Secretariat staff for their contributions to materials, support and on-site logistics:
 
-* 
+* Andrew Rodrigues, Data Partnerships Officer
+* Anne Mette Nielsen, Head of Administration
+* Annie Elkjær Ørum-Kristensen, Communications and Events Coordinator
+* Cecilie Svenningsen, Data Administrator
+* Javier Andrés Gamboa Martínez, Communications Officer
+* John Waller, Data Analyst
+* Kate Ingenloff, Scientific Officer
+* Laura Anne Russell, Training Officer for Community and Capacity
+* Maheva Bagard Laursen, Programme Officer for Community and Capacity
+* Marie Grosjean, Data Administrator
+* Matthew Blissett, Software Developer
+* Mélianie Raymond, Community and Capacity Manager
+* Mikhail Podolskiy, Software Developer
+* Morten Høfft, Web Developer
+* Sanja Novakovikj, Programme Administrator for Community and Capacity
+* Tobias Guldberg Frøslev, Scientific Officer
 
-== Resources
+Special thanks go out to the members of the https://www.gbif.org/contact-us/directory?group=nsg[Nodes Steering Group^] for their guidance and support throughout the planning process.
 
-//* Icons used in this course are made by Freepik from https://www.flaticon.com/[www.flaticon.com^]
 
 == Trainers photo
 
