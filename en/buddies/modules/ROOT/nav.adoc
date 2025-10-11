@@ -2,3 +2,4 @@
 * xref:index.adoc[Buddy system]
 * xref:buddy-activities.adoc[Buddy activities]
 * xref:buddy-groups.adoc[Buddy groups]
+* xref:photo-album.adoc[Photo album]

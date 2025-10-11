@@ -16,8 +16,6 @@ We recognize the following individuals for their significant contributions to th
 Additionally, we recognize the following GBIF Secretariat staff for their contributions to materials, support and on-site logistics:
 
 * Andrew Rodrigues, Data Partnerships Officer
-* Anne Mette Nielsen, Head of Administration
-* Annie Elkjær Ørum-Kristensen, Communications and Events Coordinator
 * Cecilie Svenningsen, Data Administrator
 * Javier Andrés Gamboa Martínez, Communications Officer
 * John Waller, Data Analyst
@@ -33,7 +31,6 @@ Additionally, we recognize the following GBIF Secretariat staff for their contri
 * Tobias Guldberg Frøslev, Scientific Officer
 
 Special thanks go out to the members of the https://www.gbif.org/contact-us/directory?group=nsg[Nodes Steering Group^] for their guidance and support throughout the planning process.
-
 
 == Trainers photo
 
