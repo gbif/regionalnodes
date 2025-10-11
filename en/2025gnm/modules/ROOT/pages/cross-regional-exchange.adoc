@@ -86,39 +86,31 @@ In this presentation, Anabela Plos, Nodes Committee 2nd Vice Chair, and BID Regi
 [NOTE.activity]
 ====
 This session offers nodes a chance to share experiences, compare approaches, and learn from peers across regions.
+
+*Instructions*
+
+* Join your *pre-assigned table groups* for three rounds of discussion. Each round combines guiding discussion questions with live input via Mentimeter.
+** *Round 1: Local engagement approaches and success stories* - Explore how regions share updates, engage new participants, and build partnerships. Share examples of effective initiatives and inspiring approaches to knowledge-sharing.
+** *Round 2: Shared barriers and needs* - Identify persistent challenges facing regions, discuss possible solutions, and reflect on what types of support should be prioritized.
+** *Round 3: Collaboration opportunities* - Highlight common challenges and opportunities for cross-regional projects, partnerships, and knowledge-sharing. Identify next steps for building collaboration after the meeting.
+
 ====
 
-==== Process
-
-Join your *pre-assigned table groups* for three rounds of discussion. Each round combines guiding discussion questions with live input via Mentimeter.
-
-*Round 1: Local engagement approaches and success stories*
-
-Explore how regions share updates, engage new participants, and build partnerships. Share examples of effective initiatives and inspiring approaches to knowledge-sharing.
-
-*Round 2: Shared barriers and needs*
-
-Identify persistent challenges facing regions, discuss possible solutions, and reflect on what types of support should be prioritized.
-
-*Round 3: Collaboration opportunities*
-
-Highlight common challenges and opportunities for cross-regional projects, partnerships, and knowledge-sharing. Identify next steps for building collaboration after the meeting.
-
-==== Poll
+=== Poll
 
 [NOTE.activity]
 ====
 We will use Mentimeter to capture your insights and share them back with all the meeting. participants.
-====
 
 . https://www.menti.com/alfgw79vitni[Access the poll in your browser^] or on your phone using the QR code.
 
-image::mentimeter_qr_code.png[align=center]
+image::mentimeter_qr_code.png[[align=center,width=50%,height=50%]]
+====
 
-==== Results
+=== Results
 
 &nbsp;
 
 ++++
-<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/alrfi1ytk3mzndoh6hkjzhodwvzvoiox/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
+<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='1' height='315' src='https://www.mentimeter.com/app/presentation/alrfi1ytk3mzndoh6hkjzhodwvzvoiox/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
 ++++

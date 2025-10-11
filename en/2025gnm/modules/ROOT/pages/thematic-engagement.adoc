@@ -53,7 +53,8 @@ This pitch can either target:
 . Other nodes to convince them of the importance of engaging in this thematic area, or
 . A fictitious conversation with your node’s Head of Delegation or board to convince them of the importance of your node developing work on this thematic area in your future plans.
 
-=== Process
+*Instructions*
+
 . *Split into small groups* – Within your table group, find a partner or two to work together with.
 . *Select one or more thematics per group* (10 minutes) – Within your smaller groups, discuss and select one or more thematic areas of interest to develop through this activity (i.e., Indigenous data governance, invasive species, agriculture, marine life, or another thematic area of interest).
 . *Prepare a 5-7 minutes pitch* (30 minutes) – Within your smaller groups, design a short, persuasive pitch to the other node managers that answers:
@@ -64,21 +65,5 @@ This pitch can either target:
 . *Use the https://docs.google.com/document/d/1iyrPRsXVCZIbfpAQ-egi8ZLA-5r6iJPH/edit?usp=sharing&ouid=115689441129837443984&rtpof=true&sd=true[template]* to keep track of your discussions. Groups are encouraged to be creative in format for the pitch (presentation, role-play, visual sketch, etc.) while keeping within 5–7 minutes presentation time.
 . *Pitch and feedback* (50 minutes) – Find another group from your table to pitch to, ideally one that has worked on a different thematic area. Each group should deliver their pitch to the others, aiming to convince them of the benefits of engaging in the chosen thematic area. After each presentation, the other group should provide a short round of feedback and discussion, focusing on strengths, gaps, and ideas to refine the case.
 . *Upload your completed template(s)* - Remember to share your work by https://gbif.app.box.com/f/360afd35002a42bcbe18bc514f3272ee[uploading your pitch^]. We will make these available to all after the event.
+
 ====
-
-//video::874686153/9c8b8bfc48[vimeo]
-
-//&nbsp;
-
-//[NOTE.presentation]
-//====
-//text here.
-//====
-
-//&nbsp;
-
-//++++
-//<div class="responsive-slides">
-//  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRImlc6mamtETdsKE7r6PJEKRWhZNj2kATvLoLRFmjZJsSok3sMKpylNvL8-2_xVg/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
-//</div>
-//++++

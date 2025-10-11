@@ -37,10 +37,11 @@ In preparation for the regional breakout sessions, we invite you to:
 [NOTE.activity]
 ====
 In this session, nodes will meet in regional groupings to share updates, reflect on progress, and discuss priorities for the future.
-====
 
-=== Process
-[NOTE]Room locations and Zoom links are provided below. If you have difficulties with any of the links, further details are provided in https://gbif.box.com/s/3gb69g9px930095r3j3du03oxk6fnnx4[this document^].
+*Instructions*
+
+[NOTE]
+Room locations and Zoom links are provided below. If you have difficulties with any of the links, further details are provided in https://gbif.box.com/s/3gb69g9px930095r3j3du03oxk6fnnx4[this document^].
 
 *Plenary room, Auditorium 2*
 
@@ -70,6 +71,7 @@ Discussions will be led by the regional representatives and will cover two theme
 * Planning for the 2026 Regional Nodes Meeting, including hosts, dates, agenda, and engagement opportunities.
 
 At the end of the session, regional representatives should https://docs.google.com/document/d/1kYXi30YAuPAo8EGaEmmyNZafh-HgN6PLQlQzdEE5gkc/edit?usp=sharing[*submit up to two highlights*^] to the chair of the NSG to be reflected in the closing wrap-up.
+====
 
 == Plenary meeting wrap-up
 
