@@ -28,56 +28,102 @@ Complete the following activities to prepare for the onsite sessions:
 . Prepare questions for an expert panel on engagement through thematic areas.
 ====
 
-//&nbsp;
+== Meeting
 
-//++++
-//<div class="responsive-slides">
-//  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTqNwemQzemqCd1x-ckOzs1JPkTGj9sJwI_nHw0blyTkgvG85SPnKJOEBuBRSJM8Q/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
-//</div>
-//++++
+=== Lightning talks and surveys
 
-//&nbsp;
+[NOTE.activity]
+====
+*Invasives*
 
-//== Meeting
+Speaker: Melodie McGeoch, GBIF Science Committee
 
-//[NOTE.presentation]
-//text here
+Survey: https://forms.gle/HzykhNMz2jsAxKrR9
 
-//&nbsp;
+&nbsp;
 
-//++++
-//<div class="responsive-slides">
-//  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSBovL_dFwMZwNG11lk7bo_uOZzAYswbVnqBXzue2Z0Y_rnGW_E7NaNde3y7RE9uQ/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
-//</div>
-//++++
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSpnk2MrCh5EQtOD943iZAsOZ8meV2Ivto1HeJbv05o4rja0f-w46HeRwztrYPmVw/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+====
 
-//&nbsp;
+&nbsp;
 
-//[NOTE.activity]
-//text here
+[NOTE.presentation]
+====
+*Agrobiodiversity*
 
-//&nbsp;
+Speaker: Dag Endresen, Node Manager Norway
 
-//++++
-//<div class="responsive-slides">
-//  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQT31-2ZWjiWGO9cy8ySYxKGb38-aHnrNI9X1jRUn4qjHk3cjZ-mUUmJtLldKhs7Q/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
-//</div>
-//++++
+Survey: https://forms.gle/HzykhNMz2jsAxKrR9
 
-//&nbsp;
+&nbsp;
 
-//[NOTE.presentation]
-//Text here.
+++++
+<div class="responsive-slides">
+  <iframe src="hhttps://docs.google.com/presentation/d/e/2PACX-1vTGcaerHVeiV6S77JpAjYSLoKUD7VxxaXTGFDeNXHYu3NPEj-l0UMC_MD-kvjSI0Q/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+====
 
-//&nbsp;
+&nbsp;
 
-//++++
-//<div class="responsive-slides">
-//  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSnVXorAnjMG6VTbRwhFifonbhGdb7DqHkdPPZxdgLJpOUCOHLSpEXt4EWScETfjQ/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
-//</div>
-//++++
+[NOTE.presentation]
+====
+*Marine life*
 
-//&nbsp;
+Speaker: Steven Formel, OBIS
+
+Survey: https://forms.gle/YX8osrms4o6V3Utt5
+
+&nbsp;
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTvURMGIwL0Vs0IJ1by8wivoKTH6J8Q7PcSSzZfMRuugLV6juteMVQRDcQbYPtUsw/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+====
+
+&nbsp;
+
+[NOTE.presentation]
+====
+*Indigenous data governance*
+
+Speaker: Clara Baringo, Node Staff Brazil
+
+Survey: https://forms.gle/d9iUkzcjZECR9NSK8
+
+&nbsp;
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRK6EtUndD5MeBTj9QfqYkCdZGKosYdPvNNIB-DvPQRqdqf37fYPh5wV_IJLwNxbw/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+====
+
+== Panel discussion
+
+[NOTE.speak]
+====
+Panel Moderators: Anne-Sophie Archambeau & Birgit Gemeinholzer
+
+A panel discussion will explore how GBIF nodes can strengthen their role as bridges between biodiversity themes and the communities that generate and use data. 
+
+Building on the thematic areas introduced through the lightning talks as well as other emerging areas of relevance for GBIF, panelists will discuss practical pathways for nodes to expand partnerships, foster trust, and engage new data holders in support of shared global goals.
+
+&nbsp;
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQkD6H_T0cBedJ-Wol7gwC_1_AnEfof9YxGM-9l3yK7kEY_FZgI3LPkRdB75uQTBA/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+====
 
 //== Outcomes
 

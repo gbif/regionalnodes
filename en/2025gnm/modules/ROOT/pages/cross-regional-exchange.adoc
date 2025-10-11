@@ -45,12 +45,14 @@ In preparation, we invite you to:
 //</div>
 //++++
 
-//== Meeting
+== Meeting
 
-//[NOTE.presentation]
-//====
-//text here.
-//====
+=== Collaborating on outreach to engage new Participants and nodes
+
+[NOTE.presentation]
+====
+In this presentation, Joe Miller, GBIF’s Executive Secretary, introduces his work on strengthening formal participation in the GBIF network. He explains how nodes contribute to these efforts and calls for further collaboration to strengthen the participant network.
+====
 
 //&nbsp;
 
@@ -62,10 +64,12 @@ In preparation, we invite you to:
 
 //&nbsp;
 
-//[NOTE.presentation]
-//====
-//Text here.
-//====
+=== Framing cross-regional discussions
+
+[NOTE.presentation]
+====
+In this presentation, Anabela Plos, Nodes Committee 2nd Vice Chair, and BID Regional Support Team member, underscores the value of cross-regional exchange, shared challenges, and stronger collaborations, showing how regional support teams can enhance and complement the work of the network.
+====
 
 //&nbsp;
 
@@ -77,17 +81,44 @@ In preparation, we invite you to:
 
 //&nbsp;
 
-//[NOTE.presentation]
-//====
-//text here.
-//====
+=== Regional knowledge exchange group discussions
 
-//&nbsp;
+[NOTE.activity]
+====
+This session offers nodes a chance to share experiences, compare approaches, and learn from peers across regions.
+====
 
-//++++
-//<div class="responsive-slides">
-//  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSECC6gMvq5LOKiGcOkwem_anK1ly_pGTR141FFsC4ejAjZGgSNPFjgqw1CYRy0Kg/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
-//</div>
-//++++
+==== Process
 
-//&nbsp;
+Join your *pre-assigned table groups* for three rounds of discussion. Each round combines guiding discussion questions with live input via Mentimeter.
+
+*Round 1: Local engagement approaches and success stories*
+
+Explore how regions share updates, engage new participants, and build partnerships. Share examples of effective initiatives and inspiring approaches to knowledge-sharing.
+
+*Round 2: Shared barriers and needs*
+
+Identify persistent challenges facing regions, discuss possible solutions, and reflect on what types of support should be prioritized.
+
+*Round 3: Collaboration opportunities*
+
+Highlight common challenges and opportunities for cross-regional projects, partnerships, and knowledge-sharing. Identify next steps for building collaboration after the meeting.
+
+==== Poll
+
+[NOTE.activity]
+====
+We will use Mentimeter to capture your insights and share them back with all the meeting. participants.
+====
+
+. https://www.menti.com/alfgw79vitni[Access the poll in your browser^] or on your phone using the QR code.
+
+image::mentimeter_qr_code.png[align=center]
+
+==== Results
+
+&nbsp;
+
+++++
+<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/alrfi1ytk3mzndoh6hkjzhodwvzvoiox/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
+++++
