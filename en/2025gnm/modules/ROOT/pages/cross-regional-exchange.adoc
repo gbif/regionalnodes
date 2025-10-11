@@ -102,9 +102,9 @@ This session offers nodes a chance to share experiences, compare approaches, and
 ====
 We will use Mentimeter to capture your insights and share them back with all the participants.
 
-. https://www.menti.com/alfgw79vitni[Access the poll in your browser^] or on your phone using the QR code.
+https://www.menti.com/alfgw79vitni[Access the poll in your browser^] or on your phone using the QR code.
 
-image::mentimeter_qr_code.png[[align=center,width=500,height=500]]
+image::mentimeter_qr_code.png[[align=center,width=200,height=200]]
 ====
 
 === Results
