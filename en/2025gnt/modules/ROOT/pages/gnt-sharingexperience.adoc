@@ -28,10 +28,10 @@ Please consider the following questions when developing your slide.
 
 === Efficient data access for data reporting
 
-Please use the template to prepare a slide describing a data use case or data reporting requirement that you'd like to solve during the Efficient data access for data reporting session.
+Please use the template to prepare a slide describing a data use case or data reporting example that you'd like to solve during the Efficient data access for data reporting session.
 
 We will make all the submitted examples available on the module page during the event.
 
 * Describe a use case that is (a) non-trivial and (b) as likely as possible to be unique among the groups.
-* Describe how would you might approach the use case/data reporting requirement using the web interface, data downloads, cloud access, or SQL downloads?
+* Describe how would you might approach the use case/data reporting example using the web interface, data downloads, cloud access, or SQL downloads?
 * How would this use case benefit your node, country, stakeholders, etc.

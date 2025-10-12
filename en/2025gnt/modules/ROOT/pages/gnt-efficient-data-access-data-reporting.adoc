@@ -48,7 +48,6 @@ Complete the following activities to prepare for the onsite sessions:
 
 xref:attachment$Install-R-RStudio.pdf[Download installation instructions] (846 KB)
 
-NOTE: Installation instructions reference earlier versions of the R and R Studio Desktop. Please install the most current and stable versions.
 ====
 
 == Data access landscape
@@ -115,6 +114,23 @@ Conservation of Nordic Crop Wild Relatives will be presented as an example case 
 ++++
 <div class="responsive-slides">
   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQBUL3SCpe08EZf7brUCwG294pZ-IVNkB8zak_a-KWRzQ8xXAW-FHAOCYihR7cVaw/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+
+&nbsp;
+====
+
+=== Shared examples from nodes
+
+[NOTE.presentation]
+====
+Please review the examples shared by nodes on data uses cases. You can refer to these during the group activity for inspiration. 
+
+&nbsp;
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQWuEcGjjaqSVrZBxH3ODQ7BGF82L-QQWnh4RC9jAoAM_-DBDo_QZ2bpl_0yvOY1Q/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 ++++
 
