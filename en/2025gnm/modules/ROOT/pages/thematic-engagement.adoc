@@ -63,7 +63,7 @@ This pitch can either target:
 .. What opportunities would it create for nodes (new audiences, new datasets, partnerships, funding opportunities, strategic alignment with national priorities)?
 .. What challenges might arise, and how could they be addressed?
 .. What practical next steps could nodes take to engage?
-. *Use the https://docs.google.com/document/d/1iyrPRsXVCZIbfpAQ-egi8ZLA-5r6iJPH/edit?usp=sharing&ouid=115689441129837443984&rtpof=true&sd=true[template]* to keep track of your discussions. Groups are encouraged to be creative in format for the pitch (presentation, role-play, visual sketch, etc.) while keeping within 5–7 minutes presentation time.
+. *Use the xref:attachment$ThematicPitchTemplate.docx[template] (MS Word 345 KB)* to keep track of your discussions. Groups are encouraged to be creative in format for the pitch (presentation, role-play, visual sketch, etc.) while keeping within 5–7 minutes presentation time.
 . *Pitch and feedback* (50 minutes) – Find another group from your table, ideally one that has worked on a different thematic area, and deliver your pitch to them. Each group should deliver their pitch to the others, aiming to convince them of the benefits of engaging in the chosen thematic area. After each presentation, the other group should provide a short round of feedback and discussion, focusing on strengths, gaps, and ideas to refine the case.
 . *Upload your completed template(s)* - Remember to share your work by https://gbif.app.box.com/f/360afd35002a42bcbe18bc514f3272ee[uploading your pitch^]. We will make these available to all after the event.
 
