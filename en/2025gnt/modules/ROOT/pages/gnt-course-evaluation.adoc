@@ -1,7 +1,7 @@
 = Course evaluation
 
 If for some reason the evaluation does not load below, it can aslo be accessed at: 
-//https://www.survey-xact.dk/LinkCollector?key=SFZQGE37JP1N[^]
+https://www.survey-xact.dk/LinkCollector?key=M7VAJKP4SJC2[^]
 
 &nbsp;
 
@@ -10,6 +10,6 @@ Click the finish button to fully submit your evaluation.
 
 &nbsp;
 
-//++++
-//  <iframe src="https://www.survey-xact.dk/LinkCollector?key=SFZQGE37JP1N" frameborder="0" allowfullscreen="true" height="1500" width="100%"></iframe>
-//++++
+++++
+  <iframe src="https://www.survey-xact.dk/LinkCollector?key=M7VAJKP4SJC2" frameborder="0" allowfullscreen="true" height="1500" width="100%"></iframe>
+++++
