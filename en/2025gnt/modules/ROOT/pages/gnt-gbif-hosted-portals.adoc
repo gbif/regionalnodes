@@ -146,7 +146,7 @@ The Group 2 participants will begin to build out their new portals.
 
 *Tasks*
  
-## A simple prose page
+_A simple prose page_
 
 * Create a new page
 * Write the frontmatter
@@ -156,14 +156,14 @@ The Group 2 participants will begin to build out their new portals.
 * Optional: add languages for multilingual sites
 * Write some text in markdown
  
-## Customize the homepage with various blocks
+_Customize the homepage with various blocks_
 
 This is typically done for a few special pages like the home page and perhaps a few other landing pages.
 
 * Start by changing the layout and add a hero header block
 * Select 3 blocks (you can see them on the demo theme site) and add content for them
  
-## Customize the widgets
+_Customize the widgets_
 
 Advanced and typically only done once. The Secretariat can help with this, but it is nice to know where it exists and roughly how it works.
 
@@ -180,7 +180,7 @@ Report to Classroom H-205.
 [NOTE.activity]
 ====
 The Group 3 participants will have an opportunity to discussed advanced features they'd like to add/customize on their portals. There will be opportunties to interact with Informatics staff and fellow portal peers.
-===
+====
 
 == Action plan
 
