@@ -8,4 +8,5 @@
 * xref:thematic-engagement.adoc[2. Collaboration for thematic engagement]
 * xref:cross-regional-exchange.adoc[3. Cross regional knowledge exchange]
 * xref:regional-communities-of-practice.adoc[4. Regional communities of practice]
+* xref:gnm-acknowledgements.adoc[Acknowledgements]
 //* xref:meeting-evaluation.adoc[Meeting evaluation]
