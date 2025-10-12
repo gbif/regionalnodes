@@ -71,15 +71,22 @@ In this presentation, Joe Miller, GBIF’s Executive Secretary, introduces his w
 In this presentation, Anabela Plos, Nodes Committee 2nd Vice Chair, and BID Regional Support Team member, underscores the value of cross-regional exchange, shared challenges, and stronger collaborations, showing how regional support teams can enhance and complement the work of the network.
 ====
 
-//&nbsp;
+=== Shared Examples from Nodes
 
-//++++
-//<div class="responsive-slides">
-//  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTx4tcWGs6dR-0lUPi6jyeGMsHJbvQko_3yJu_PA2mr45SmN2Bsp0d6yYObCdHf-g/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
-//</div>
-//++++
+[NOTE.presentation]
+====
+Please review the examples shared by nodes on regional and cross-regional collaboration. You can refer to these as inspiration for the group discussions.
 
-//&nbsp;
+&nbsp;
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTt2VivRHdGtpsBaVkdCdQSsUrKG-sgW0dmpy5WXExwiXOqjpdpin5ODBEkFV32vQ/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+
+&nbsp;
+====
 
 === Regional knowledge exchange group discussions
 

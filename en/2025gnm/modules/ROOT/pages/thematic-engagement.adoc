@@ -25,23 +25,32 @@ This interactive session builds on the discussions introduced in the previous se
 . Bring ideas for potential thematic collaborations with other nodes and partners for further discussion.
 ====
 
-//&nbsp;
-
-//++++
-//<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/10660339/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>
-//++++
-
-//&nbsp;
-
-//++++
-//<div class="responsive-slides">
-//  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT3mAL7To6qBSczjMC8JuR6x4pN_5QX-ouX9LRRYIIqNdznyOAUL1Ccog8yhv_BHg/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
-//</div>
-//++++
-
-//&nbsp;
-
 == Meeting
+
+=== Shared Examples from Nodes
+
+[NOTE.presentation]
+====
+Please review the examples shared by nodes on how they are engaging through thematic areas of relevance for inspiration. You can refer to these during the group activity. 
+
+&nbsp;
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR5oCeuUjUSalul6uDT60wbvQIMypeaJPS1W0fnf3pYK3gVN7tkKKtlHwECzRbvnA/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+
+&nbsp;
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRneRH3rkDbO8AKJsE5rUfkV1i6GZozrYYdeJdbNMzeQMnhUEvfpX7N_u8cAx_uYg/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+
+&nbsp;
+====
 
 === Making the Case for Thematic Engagement
 
