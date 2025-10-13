@@ -71,6 +71,62 @@ The overall design of the site is controlled by a theme, https://github.com/gbif
 
 Changing the site menus (on the green bar) is done by overriding the theme.  Start at link:./supplemental_ui/partials/header-navigation.hbs[supplemental_ui/partials/header-navigation.hbs] and copy + paste until you have what you want :-) (but remember pushing changes rebuilds the live site).
 
+=== Test-only pages
+
+Pages or parts of pages can be excluded from globalnodes.gbif.org while they are under development.  This also excludes them from search results.
+
+//
+// If you are reading this file in a text editor, note the backslashes are not required
+// — they are to avoid the text being hidden when displayed on GitHub.
+//
+
+.Hiding a whole page from globalnodes.gbif.org — this **MUST** be at the start of the file
+[source,asciidoc]
+----
+\ifeval::["{env}" == "prod"]
+:page-unpublish:
+\endif::[]
+
+= Page title
+
+Page text...
+----
+
+////
+// If copy-pasting from a text editor:
+ifeval::["{env}" == "prod"]
+:page-unpublish:
+endif::[]
+////
+
+.Hiding part of a page
+[source,asciidoc]
+....
+\ifeval::["{env}" != "prod"]
+Visible only on the test site …
+\endif::[]
+....
+
+////
+ifeval::["{env}" != "prod"]
+Visible only on the test site …
+endif::[]
+////
+
+.Hiding an entry from the navigation (nav.adoc)
+[source,asciidoc]
+----
+\ifeval::["{env}" != "prod"]
+* xref:page-name.adoc[Page title **Test**]
+\endif::[]
+----
+
+////
+ifeval::["{env}" != "prod"]
+* xref:page-name.adoc[Page title **Test**]
+endif::[]
+////
+
 == Building
 
 The site builds in Jenkins every time it is modified, see the https://builds.gbif.org/job/globalnodes/lastBuild/console[status] and badge above.  To build it locally, the simplest method is to use Docker.  See the https://docs.docker.com/[Docker documentation] for installation on https://docs.docker.com/desktop/install/linux-install/[Linux], https://docs.docker.com/desktop/install/mac-install/[Mac] and https://docs.docker.com/desktop/install/windows-install/[Windows].
