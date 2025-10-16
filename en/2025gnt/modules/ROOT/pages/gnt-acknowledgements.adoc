@@ -19,6 +19,7 @@ Additionally, we recognize the following GBIF Secretariat staff for their contri
 * Cecilie Svenningsen, Data Administrator
 * Javier Andrés Gamboa Martínez, Communications Officer
 * John Waller, Data Analyst
+* John Wieczorek, GBIF Contractor
 * Kate Ingenloff, Scientific Officer
 * Laura Anne Russell, Training Officer for Community and Capacity
 * Maheva Bagard Laursen, Programme Officer for Community and Capacity

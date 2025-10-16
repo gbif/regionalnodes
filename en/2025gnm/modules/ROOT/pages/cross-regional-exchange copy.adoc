@@ -1,0 +1,129 @@
+= Cross-regional knowledge exchange
+
+== Context
+
+[NOTE.description]
+====
+The GBIF network of nodes spans more than sixty countries and areas, as well as over forty organizations with a regional scope worldwide. Recognizing the importance of local, national, and regional contexts in shaping their work, nodes have developed a wide range of tools and mechanisms to help fulfill their mission.
+
+In this session, nodes will work in small groups to reflect on shared interests and cross-regional challenges. It will also provide an opportunity to exchange knowledge and best practices, and to explore ways of developing or strengthening collaboration across regions in support of joint priorities.
+
+By the end of the session, participants will have a clearer understanding of current priorities and available expertise across the network, along with concrete ideas for potential new collaborations and opportunities for knowledge sharing.
+====
+
+== Objectives
+
+[NOTE.objectives]
+====
+* To learn from and be inspired by node-led initiatives and best practices across the GBIF network
+* To discuss and identify cross-regional topics, priorities and/or challenges
+* To discuss and identify cross-regional opportunities for new collaborations or partnerships
+====
+
+== Preparation
+
+[NOTE.prep]
+====
+In preparation, we invite you to:
+
+. Reflect on your node’s current workflows and engagement strategies.
+. xref:sharingexperience.adoc[Identify one success story] to share with fellow nodes (e.g., a successful engagement initiative, an efficiency gain in your node’s activities, a successful partnership or an effort that improved your node’s visibility).
+. List one challenge for which you would like to explore possible solutions.
+====
+
+//&nbsp;
+
+//++++
+//<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/10660172/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>
+//++++
+
+//&nbsp;
+
+//++++
+//<div class="responsive-slides">
+//  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTx0vOBakwFc5dd2VdGcefovz4ycQZdRc2VjQ9uBeQKhAM_cer6iN4Fr4t6ZudrHA/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+//</div>
+//++++
+
+== Meeting
+
+=== Collaborating on outreach to engage new Participants and nodes
+
+[NOTE.presentation]
+====
+In this presentation, Joe Miller, GBIF’s Executive Secretary, introduces his work on strengthening formal participation in the GBIF network. He explains how nodes contribute to these efforts and calls for further collaboration to strengthen the participant network.
+====
+
+//&nbsp;
+
+//++++
+//<div class="responsive-slides">
+//  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ8IO6VipL95Y4lbU39H7eekkNNfYEgpVa8DjS1PyZpP8xoMKFIF-WN0PYPjVQXIA/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+//</div>
+//++++
+
+//&nbsp;
+
+=== Framing cross-regional discussions
+
+[NOTE.presentation]
+====
+In this presentation, Anabela Plos, Nodes Committee 2nd Vice Chair, and BID Regional Support Team member, underscores the value of cross-regional exchange, shared challenges, and stronger collaborations, showing how regional support teams can enhance and complement the work of the network.
+====
+
+=== Shared Examples from Nodes
+
+[NOTE.presentation]
+====
+Please review the examples shared by nodes on regional and cross-regional collaboration. You can refer to these as inspiration for the group discussions.
+
+&nbsp;
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTt2VivRHdGtpsBaVkdCdQSsUrKG-sgW0dmpy5WXExwiXOqjpdpin5ODBEkFV32vQ/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+
+&nbsp;
+====
+
+=== Regional knowledge exchange group discussions
+
+[NOTE.activity]
+====
+This session offers nodes a chance to share experiences, compare approaches, and learn from peers across regions.
+
+*Instructions*
+
+Join your *pre-assigned table groups* for three rounds of discussion. Each round combines guiding discussion questions with live input via Mentimeter.
+
+* *Round 1: Local engagement approaches and success stories* - Explore how regions share updates, engage new participants, and build partnerships. Share examples of effective initiatives and inspiring approaches to knowledge-sharing.
+* *Round 2: Shared barriers and needs* - Identify persistent challenges facing regions, discuss possible solutions, and reflect on what types of support should be prioritized.
+* *Round 3: Collaboration opportunities* - Highlight common challenges and opportunities for cross-regional projects, partnerships, and knowledge-sharing. Identify next steps for building collaboration after the meeting.
+
+====
+
+=== Poll
+
+[NOTE.activity]
+====
+We will use Mentimeter to capture your insights and share them back with all the participants.
+
+https://www.menti.com/alfgw79vitni[Access the poll in your browser^] or on your phone using the QR code.
+
+image::mentimeter_qr_code.png[[align=center,width=150,height=150]]
+====
+
+=== Results
+
+[NOTE.workspace]
+====
+&nbsp;
+
+++++
+<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='1' height='315' src='https://www.mentimeter.com/app/presentation/alrfi1ytk3mzndoh6hkjzhodwvzvoiox/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
+++++
+
+https://www.mentimeter.com/app/presentation/alrfi1ytk3mzndoh6hkjzhodwvzvoiox[Click to see a larger view^] of the results in a new browser window.
+====

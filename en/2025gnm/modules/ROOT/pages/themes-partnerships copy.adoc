@@ -1,0 +1,133 @@
+= Emerging themes, expanding partnerships
+
+== Context
+
+[NOTE.description]
+====
+Biodiversity data shared through the GBIF network supports research across many disciplines and creates new opportunities for collaboration. Insights from the https://www.gbif.org/literature-tracking[literature tracking programme^] help reveal where and how GBIF-mediated data are being used, pointing to trends and gaps that guide priority setting. Together with the https://www.gbif.org/contact-us/directory?group=scienceCommittee[Science Committee^], nodes can identify current and emerging thematic areas of relevance where targeted engagement and support can strengthen the impact of the GBIF network for both data holders and users.
+
+In this session, the Nodes Committee will be joined by representatives from the Science Committee to explore thematic areas of relevance, from agrobiodiversity and marine ecosystems to invasive species and Indigenous data governance. Lightning talks will highlight current and emerging thematic areas, followed by a panel discussion on how GBIF nodes can leverage these themes to engage new data communities, build partnerships, and strengthen GBIF’s network and impact.
+====
+
+== Objectives
+
+[NOTE.objectives]
+====
+* Build an understanding of thematic areas of relevance to GBIF and how nodes are engaging with these within their networks and activities
+* Strengthen the interaction between the Science Committee and the Nodes Committee
+* Facilitate networking, knowledge sharing and the development of possible future partnerships between nodes that relate to thematic areas
+====
+
+== Preparation
+
+[NOTE.prep]
+====
+Complete the following activities to prepare for the onsite sessions:
+
+. Join the online https://www.gbif.org/event/e1be7d-f2c7-48c3-a719-f0919b5[launch event^] (or watch the recording) to learn more about the thematic areas.
+. Prepare questions for an expert panel on engagement through thematic areas.
+====
+
+== Meeting
+
+=== Lightning talks and surveys
+
+[NOTE.activity]
+====
+*Invasives*
+
+Speaker: Melodie McGeoch, GBIF Science Committee
+
+Survey: https://forms.gle/HzykhNMz2jsAxKrR9
+
+&nbsp;
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSpnk2MrCh5EQtOD943iZAsOZ8meV2Ivto1HeJbv05o4rja0f-w46HeRwztrYPmVw/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+====
+
+&nbsp;
+
+[NOTE.presentation]
+====
+*Agrobiodiversity*
+
+Speaker: Dag Endresen, Node Manager Norway
+
+Survey: https://forms.gle/HzykhNMz2jsAxKrR9
+
+&nbsp;
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTGcaerHVeiV6S77JpAjYSLoKUD7VxxaXTGFDeNXHYu3NPEj-l0UMC_MD-kvjSI0Q/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+====
+
+&nbsp;
+
+[NOTE.presentation]
+====
+*Marine life*
+
+Speaker: Steven Formel, OBIS
+
+Survey: https://forms.gle/YX8osrms4o6V3Utt5
+
+&nbsp;
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTvURMGIwL0Vs0IJ1by8wivoKTH6J8Q7PcSSzZfMRuugLV6juteMVQRDcQbYPtUsw/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+====
+
+&nbsp;
+
+[NOTE.presentation]
+====
+*Indigenous data governance*
+
+Speaker: Clara Baringo, Node Staff Brazil
+
+Survey: https://forms.gle/d9iUkzcjZECR9NSK8
+
+&nbsp;
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRK6EtUndD5MeBTj9QfqYkCdZGKosYdPvNNIB-DvPQRqdqf37fYPh5wV_IJLwNxbw/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+====
+
+== Panel discussion
+
+[NOTE.speak]
+====
+Panel Moderators: Anne-Sophie Archambeau & Birgit Gemeinholzer
+
+A panel discussion will explore how GBIF nodes can strengthen their role as bridges between biodiversity themes and the communities that generate and use data. 
+
+Building on the thematic areas introduced through the lightning talks as well as other emerging areas of relevance for GBIF, panelists will discuss practical pathways for nodes to expand partnerships, foster trust, and engage new data holders in support of shared global goals.
+
+&nbsp;
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQkD6H_T0cBedJ-Wol7gwC_1_AnEfof9YxGM-9l3yK7kEY_FZgI3LPkRdB75uQTBA/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+====
+
+//== Outcomes
+
+//[NOTE.presentation]
+//These links provide the outcomes from the facilitated brainstorming sessions on //three of our key capacity development programmes.
+
+//&nbsp;

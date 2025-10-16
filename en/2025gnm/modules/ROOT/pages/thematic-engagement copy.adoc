@@ -1,0 +1,79 @@
+= Collaboration for thematic engagement 
+
+== Context
+
+[NOTE.description]
+====
+This interactive session builds on the discussions introduced in the previous session. GBIF nodes will work in small groups to explore opportunities for collaboration around specific biodiversity-relevant themes, including agrobiodiversity, invasives, marine biodiversity, and Indigenous data governance, as well as other emerging thematic areas of relevance. Participants will identify key partners, map opportunities, and outline practical strategies for engagement, with a focus on national relevance, ethical considerations, and actionable next steps. By the end of the session, nodes should have developed concrete ideas for strengthening partnerships and expanding their role as bridges to new data communities.
+====
+
+== Objectives
+
+[NOTE.objectives]
+====
+* Enable GBIF nodes to identify emerging biodiversity themes and potential new data holders or user communities
+* Support nodes in developing practical approaches for engagement, partnership-building, and national relevance
+* Encourage nodes to articulate concrete next steps and exchange ideas to strengthen collaborations across the network
+====
+
+== Preparation
+
+[NOTE.prep]
+====
+. xref:sharingexperience.adoc[Share slides] on your node’s experience with thematic communities.
+. Consider if there are any emerging thematic areas within your node’s network that could be more broadly relevant. 
+. Bring ideas for potential thematic collaborations with other nodes and partners for further discussion.
+====
+
+== Meeting
+
+=== Shared Examples from Nodes
+
+[NOTE.presentation]
+====
+Please review the examples shared by nodes on how they are engaging through thematic areas of relevance for inspiration. You can refer to these during the group activity. 
+
+&nbsp;
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR5oCeuUjUSalul6uDT60wbvQIMypeaJPS1W0fnf3pYK3gVN7tkKKtlHwECzRbvnA/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+
+&nbsp;
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRneRH3rkDbO8AKJsE5rUfkV1i6GZozrYYdeJdbNMzeQMnhUEvfpX7N_u8cAx_uYg/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+
+&nbsp;
+====
+
+=== Making the Case for Thematic Engagement
+
+[NOTE.activity]
+====
+In this activity, nodes will work in their groups to explore the value of engaging with thematic areas relevant to GBIF, and develop compelling arguments for why nodes should participate. Groups will pitch their ideas to other groups to get feedback and share their learning.
+
+This pitch can either target:
+
+. Other nodes to convince them of the importance of engaging in this thematic area, or
+. A fictitious conversation with your node’s Head of Delegation or board to convince them of the importance of your node developing work on this thematic area in your future plans.
+
+*Instructions*
+
+. *Split into small groups* – Within your table group, find a partner or two with whom to work.
+. *Select one or more thematics per group* (10 minutes) – Within your smaller groups, discuss and select one or more thematic areas of interest to develop through this activity (i.e., Indigenous data governance, invasive species, agriculture, marine life, or another thematic area of interest).
+. *Prepare a 5-7 minutes pitch* (30 minutes) – Within your smaller groups, design a short, persuasive pitch to the other node managers that answers:
+.. Why is this thematic area important for the GBIF network?
+.. What opportunities would it create for nodes (new audiences, new datasets, partnerships, funding opportunities, strategic alignment with national priorities)?
+.. What challenges might arise, and how could they be addressed?
+.. What practical next steps could nodes take to engage?
+. *Use the xref:attachment$ThematicPitchTemplate.docx[template] (MS Word 345 KB)* to keep track of your discussions. Groups are encouraged to be creative in format for the pitch (presentation, role-play, visual sketch, etc.) while keeping within 5–7 minutes presentation time.
+. *Pitch and feedback* (50 minutes) – Find another group from your table, ideally one that has worked on a different thematic area, and deliver your pitch to them. Each group should deliver their pitch to the others, aiming to convince them of the benefits of engaging in the chosen thematic area. After each presentation, the other group should provide a short round of feedback and discussion, focusing on strengths, gaps, and ideas to refine the case.
+. *Upload your completed template(s)* - Remember to share your work by https://gbif.app.box.com/f/360afd35002a42bcbe18bc514f3272ee[uploading your pitch^]. We will make these available to all after the event.
+
+====
