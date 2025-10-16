@@ -200,6 +200,9 @@ Camtrap DP is a relatively new publishing format in GBIF and was featured in Feb
 
 video::1064272770[vimeo]
 
+&nbsp;
+====
+
 == Action plan
 
 [NOTE.assignments]
