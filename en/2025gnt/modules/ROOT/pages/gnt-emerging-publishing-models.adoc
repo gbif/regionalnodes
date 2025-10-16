@@ -155,8 +155,8 @@ _Suggested discussion topics_
 * Would it require new skills for me or my institution?
 * Would it require new tools for the community?
 * Would you be an early adopter or a follower?
-* At what pace would you adopt the new Data Model(weeks, months or years)?
-* My staff get trained to publish using DwC-Archive, why should we change now?
+* At what pace would you adopt the new Data Model (weeks, months or years)?
+* My staff are already trained to publish using DwC-Archive, why should we change now?
 * How can I contribute to training materials translation?
 * How can I report concerns or issues about DwC-DP?
 * Will it allow users to query data beyond just occurrences points?
@@ -200,7 +200,6 @@ Camtrap DP is a relatively new publishing format in GBIF and was featured in Feb
 
 video::1064272770[vimeo]
 
-&nbsp;
 ====
 
 == Action plan
