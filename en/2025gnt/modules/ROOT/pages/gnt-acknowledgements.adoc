@@ -25,7 +25,7 @@ Additionally, we recognize the following GBIF Secretariat staff for their contri
 * Maheva Bagard Laursen, Programme Officer for Community and Capacity
 * Marie Grosjean, Data Administrator
 * Matthew Blissett, Software Developer
-* Mélianie Raymond, Community and Capacity Manager
+* Mélianie Raymond, Head of Community and Capacity
 * Mikhail Podolskiy, Software Developer
 * Morten Høfft, Web Developer
 * Sanja Novakovikj, Programme Administrator for Community and Capacity

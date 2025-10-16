@@ -188,6 +188,8 @@ Each group should answer/discuss/complete the following:
 
 
 At the conclusion of the activity, each group should select a member of the group to present their solutions (max 2 minutes per group).
+
+https://docs.google.com/document/d/1OjRqzEbKX3MmufBO_HvsbCIfAc5pGiGC5BIBnx09nNY/edit?usp=sharing[Share your results/scripts]
 ====
 
 == Action plan
