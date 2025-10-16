@@ -75,7 +75,7 @@ This presentation will introduce you to GBIF hosted portals. You'll learn about 
 ====
 This best practice guide is an outcome of https://www.gbif.org/project/CESP2023-010/national-portals-addressing-national-challenges[GBIF CESP PROJECT 2023-010^].
 
-https://assets.ctfassets.net/uo17ejk9rkwj/4Nzgi9BVlcwNZQaRwwSoKB/108ea875b2db7b3d06b9772453dbc7a8/Best_Practices_Guide._How_to_make_national_portals_address_national_challenges.pdf[A Best Practices Guide how to make national portals address national challenges^]
+https://assets.ctfassets.net/uo17ejk9rkwj/4Nzgi9BVlcwNZQaRwwSoKB/108ea875b2db7b3d06b9772453dbc7a8/Best_Practices_Guide._How_to_make_national_portals_address_national_challenges.pdf[A Best Practices Guide on how to make national portals address national challenges^]
 ====
 
 === Portals showcase
