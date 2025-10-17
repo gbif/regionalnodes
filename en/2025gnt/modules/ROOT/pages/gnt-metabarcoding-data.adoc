@@ -85,52 +85,51 @@ For this activity, group members will look at practical applications of metabarc
 
 ****
 _Freshwater Monitoring_
-Scenario: A national park authority wants to monitor aquatic invertebrate diversity in rivers to assess ecosystem health.
 
+*Scenario*: A national park authority wants to monitor aquatic invertebrate diversity in rivers to assess ecosystem health.
 
-Traditional approach: Kick-sampling, expert ID under microscope.
+*Traditional approach*: Kick-sampling, expert ID under microscope.
 
-
-Task: Consider how metabarcoding could complement or replace this, what data it generates, and why it matters.
+*Task*: Consider how metabarcoding could complement or replace this, what data it generates, and why it matters.
 ****
 
-Soil Microbial Communities
-Scenario: An agricultural research institute is studying soil microbes that contribute to nitrogen fixation and drought tolerance in crops.
+****
+_Soil Microbial Communities_
 
+*Scenario*: An agricultural research institute is studying soil microbes that contribute to nitrogen fixation and drought tolerance in crops.
 
-Traditional approach: Culture-based methods.
+*Traditional approach*: Culture-based methods.
 
+*Task*: Discuss how metabarcoding improves coverage of microbial diversity and generates data usable for agri-biodiversity planning.
+****
 
-Task: Discuss how metabarcoding improves coverage of microbial diversity and generates data usable for agri-biodiversity planning.
+****
+_Invasive Species Detection_
 
-Invasive Species Detection
-Scenario: A port authority is monitoring ballast water for invasive species introduction.
+*Scenario*: A port authority is monitoring ballast water for invasive species introduction.
 
+*Traditional approach*: Manual sampling and visual identification.
 
-Traditional approach: Manual sampling and visual identification.
+*Task*: Explore how metabarcoding could provide faster, broader detection.
+****
 
+****
+_Pollinator Communities_
 
-Task: Explore how metabarcoding could provide faster, broader detection.
+*Scenario*: A conservation NGO wants to identify pollinator species visiting crops in fragmented landscapes.
 
-Pollinator Communities
-Scenario: A conservation NGO wants to identify pollinator species visiting crops in fragmented landscapes.
+*Traditional approach*: Manual observation and specimen collection.
 
+*Task*: Consider DNA metabarcoding of pollen loads as a method for detecting plant–pollinator networks.
+****
 
-Traditional approach: Manual observation and specimen collection.
+*Questions*
 
-
-Task: Consider DNA metabarcoding of pollen loads as a method for detecting plant–pollinator networks.
-Questions
-Application: How could metabarcoding be applied in this scenario?
-
-Comparison: Why might metabarcoding be better suited (or not) compared to traditional methods?
-
-Data Types: What kinds of biodiversity data would this generate (e.g., species occurrence, relative abundance, community composition, functional diversity)?
-
-GBIF Relevance: How could this data be mobilized to GBIF, and who would benefit from its use?
-
-Challenges: What are potential obstacles (technical, capacity, data standards, cost, reference library gaps)?
-
+* Application: How could metabarcoding be applied in this scenario?
+* Comparison: Why might metabarcoding be better suited (or not) compared to traditional methods?
+* Data Types: What kinds of biodiversity data would this generate (e.g., species occurrence, relative abundance, community composition, functional diversity)?
+* GBIF Relevance: How could this data be mobilized to GBIF, and who would benefit from its use?
+* Challenges: What are potential obstacles (technical, capacity, data standards, cost, reference library gaps)?
 
 At the conclusion of the activity, each group will select someone to report back in plenary.
 ====
