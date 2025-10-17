@@ -83,7 +83,7 @@ For this activity, group members will look at practical applications of metabarc
 
 *Scenarios*
 
-----
+****
 _Freshwater Monitoring_
 Scenario: A national park authority wants to monitor aquatic invertebrate diversity in rivers to assess ecosystem health.
 
@@ -92,7 +92,7 @@ Traditional approach: Kick-sampling, expert ID under microscope.
 
 
 Task: Consider how metabarcoding could complement or replace this, what data it generates, and why it matters.
-----
+****
 
 Soil Microbial Communities
 Scenario: An agricultural research institute is studying soil microbes that contribute to nitrogen fixation and drought tolerance in crops.
