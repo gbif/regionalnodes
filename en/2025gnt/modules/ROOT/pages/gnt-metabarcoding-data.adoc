@@ -17,6 +17,9 @@ After completing this module, you should be able to perform the following:
 * Describe the significance of metabarcoding data
 * Identify the key components and workflow of metabarcoding data processing
 * Identify opportunities for working with the DNA community
+* Understand practical applications of metabarcoding for biodiversity monitoring.
+* Compare strengths and limitations of metabarcoding versus traditional methods.
+* Recognize the types of data produced and how such data could be mobilized through GBIF.
 * Demonstrate knowledge of the Metabarcoding Data Toolkit (MDT)
 * Standardize and format metabarcoding datasets
 * Publish metabarcoding datasets to GBIF
@@ -48,18 +51,89 @@ Complete the following activities to prepare for the onsite sessions:
 . Login to https://mdt.gbif-test.org/ using your GBIF.org username/password.
 ====
 
-//== Topic 1
+== Understanding DNA Metabarcoding in Biodiversity Research 
 
-//=== Title
+[NOTE.presentation]
+====
+This presentation introduces the training topic and provides a basis for understanding DNA metabarcoding in biodiversity research.
 
-//[NOTE.presentation]
-//This presentation provides ...
+&nbsp;
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT_e3g-fxIC00m5t3lpraQ-N2d-fp_x6a3iHLUVCfmk--kFiGXpQiaCcfeE6JbcXQ/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+
+&nbsp;
+====
+
+=== Decoding metabarcoding
+
+[NOTE.activity]
+====
+For this activity, group members will look at practical applications of metabarcoding for biodiversity monitoring and compare strengths and limitations of metabarcoding versus traditional methods.
+
+*Instructions*
+
+. Appoint a recorder and a presenter.
+. Select a scenario.
+. Brainstorm answers to questions.
+. Report back across groups.
+
+*Scenarios*
+
+----
+_Freshwater Monitoring_
+Scenario: A national park authority wants to monitor aquatic invertebrate diversity in rivers to assess ecosystem health.
 
 
-//=== Activity
+Traditional approach: Kick-sampling, expert ID under microscope.
 
-//[NOTE.activity]
-//For this activity, ...
+
+Task: Consider how metabarcoding could complement or replace this, what data it generates, and why it matters.
+----
+
+Soil Microbial Communities
+Scenario: An agricultural research institute is studying soil microbes that contribute to nitrogen fixation and drought tolerance in crops.
+
+
+Traditional approach: Culture-based methods.
+
+
+Task: Discuss how metabarcoding improves coverage of microbial diversity and generates data usable for agri-biodiversity planning.
+
+Invasive Species Detection
+Scenario: A port authority is monitoring ballast water for invasive species introduction.
+
+
+Traditional approach: Manual sampling and visual identification.
+
+
+Task: Explore how metabarcoding could provide faster, broader detection.
+
+Pollinator Communities
+Scenario: A conservation NGO wants to identify pollinator species visiting crops in fragmented landscapes.
+
+
+Traditional approach: Manual observation and specimen collection.
+
+
+Task: Consider DNA metabarcoding of pollen loads as a method for detecting plant–pollinator networks.
+Questions
+Application: How could metabarcoding be applied in this scenario?
+
+Comparison: Why might metabarcoding be better suited (or not) compared to traditional methods?
+
+Data Types: What kinds of biodiversity data would this generate (e.g., species occurrence, relative abundance, community composition, functional diversity)?
+
+GBIF Relevance: How could this data be mobilized to GBIF, and who would benefit from its use?
+
+Challenges: What are potential obstacles (technical, capacity, data standards, cost, reference library gaps)?
+
+
+At the conclusion of the activity, each group will select someone to report back in plenary.
+====
 
 //== Action plan
 
