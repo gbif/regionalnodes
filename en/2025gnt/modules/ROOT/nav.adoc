@@ -10,4 +10,4 @@
 * xref:gnt-emerging-publishing-models.adoc[3. Emerging publishing model: DwC-DP]
 * xref:gnt-metabarcoding-data.adoc[4. Metabarcoding data]
 * xref:gnt-acknowledgements.adoc[Acknowledgements]
-//* xref:gnt-course-evaluation.adoc[Course evaluation]
+* xref:gnt-course-evaluation.adoc[Course evaluation]
