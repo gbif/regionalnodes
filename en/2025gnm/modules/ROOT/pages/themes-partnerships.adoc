@@ -96,7 +96,7 @@ Survey: https://forms.gle/YX8osrms4o6V3Utt5
 
 &nbsp;
 
-images::marine.png[]
+image::marine.png[]
 
 ====
 
