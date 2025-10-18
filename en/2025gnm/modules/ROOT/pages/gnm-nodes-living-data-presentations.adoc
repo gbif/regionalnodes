@@ -6,7 +6,7 @@ Below is a list of presentations to be given during the https://www.livingdata20
 &nbsp;
 
 ++++
-<iframe src="https://globalnodes.gbif-test.org/en/2025gnm/_images/NodesLivingDataPresentations.pdf" width="100%" height="1100%" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen>
+<iframe src="https://globalnodes.gbif-test.org/en/2025gnm/_images/NodesLivingDataPresentations.pdf" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen>
 </iframe>
 ++++
 
