@@ -7,7 +7,7 @@ Below is a list of presentations to be given during the https://www.livingdata20
 
 ++++
 <div class="responsive-slides">
-  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS84die8vc_fQvuF0gOd-zgS4KP4nw_IGb_7eWvlH27pjMJJIVlZkXFmMyyPK8rLkzjohUNoF8vTJoJ/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS84die8vc_fQvuF0gOd-zgS4KP4nw_IGb_7eWvlH27pjMJJIVlZkXFmMyyPK8rLkzjohUNoF8vTJoJ/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 </div>
 ++++
 
