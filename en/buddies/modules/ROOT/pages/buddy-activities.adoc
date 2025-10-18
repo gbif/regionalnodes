@@ -23,7 +23,7 @@ These challenges are designed to encourage interaction and collaboration while c
 &nbsp;
 
 ++++
-<iframe src="https://globalnodes.gbif-test.org/en/buddies/_images/buddy-challenges.pdf" frameborder="0" allowfullscreen="true" height="1100" width="100%" align="center"></iframe>
+<iframe src="https://gbif.box.com/s/owssqv2nv5l0ebyheppzutgq2ggmdmto" frameborder="0" allowfullscreen="true" height="1100" width="100%" align="center"></iframe>
 ++++
 
 &nbsp;

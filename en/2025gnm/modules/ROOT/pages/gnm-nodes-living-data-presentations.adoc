@@ -6,7 +6,7 @@ Below is a list of presentations to be given during the https://www.livingdata20
 &nbsp;
 
 ++++
-<iframe src="https://drive.google.com/file/d/12Mv_Ge2R6tDJfjV-i5QdDZvvvEHT5KLN/view?usp=sharing" frameborder="0" allowfullscreen="true" height="1100" width="100%" align="center"></iframe>
+<iframe src="https://gbif.box.com/s/qlejhmmwdmg7b5gxbsk8r5jv3fy0emrc" frameborder="0" allowfullscreen="true" height="1100" width="100%" align="center"></iframe>
 ++++
 
 &nbsp;
