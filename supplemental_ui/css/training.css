@@ -6,6 +6,7 @@
 .doc .admonitionblock.eval td.icon,
 .doc .admonitionblock.forum td.icon,
 .doc .admonitionblock.glossary td.icon,
+.doc .admonitionblock.idea td.icon,
 .doc .admonitionblock.install td.icon,
 .doc .admonitionblock.objectives td.icon,
 .doc .admonitionblock.presentation td.icon,
@@ -34,6 +35,7 @@
 .doc .admonitionblock.eval td.icon .icon-note,
 .doc .admonitionblock.forum td.icon .icon-note,
 .doc .admonitionblock.glossary td.icon .icon-note,
+.doc .admonitionblock.idea td.icon .icon-note,
 .doc .admonitionblock.install td.icon .icon-note,
 .doc .admonitionblock.objectives td.icon .icon-note,
 .doc .admonitionblock.presentation td.icon .icon-note,
@@ -86,6 +88,11 @@
 .doc .admonitionblock.glossary td.icon .icon-note {
     background: radial-gradient(circle, #aeb9c9, #aeb9c9 66%, transparent 66%);
     content: url(../img/icons/cubes.png);
+}
+
+.doc .admonitionblock.idea td.icon .icon-note {
+    background: radial-gradient(circle, #aeb9c9, #aeb9c9 66%, transparent 66%);
+    content: url(../img/icons/idea.png);
 }
 
 .doc .admonitionblock.install td.icon .icon-note {

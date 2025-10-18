@@ -106,7 +106,7 @@ Step 4: Once the information and tables are arranged, the tables can be joined.
 
 Step 5: Remember to add your table name to your completed mapping.
 
-At the conclusion of the activity, groups will be asked to present their mapping.
+At the conclusion of the activity, groups will be asked to https://flic.kr/s/aHBqjCxcYg[present their mappings^].
 
 https://dwcdp-ipt.gbif-test.org/resource?r=viridian-forest-survey[Viridian Forest Survey of Flying Bug-type Pokémon^] published on the DwC-DP test IPT.
 ====

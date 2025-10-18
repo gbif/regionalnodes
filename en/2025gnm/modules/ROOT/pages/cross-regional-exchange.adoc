@@ -52,23 +52,33 @@ In preparation, we invite you to:
 [NOTE.presentation]
 ====
 In this presentation, Joe Miller, GBIF’s Executive Secretary, introduces his work on strengthening formal participation in the GBIF network. He explains how nodes contribute to these efforts and calls for further collaboration to strengthen the participant network.
+
+&nbsp;
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTWi4NM_j3zH71I3RGWOveolPIAwG51R734FlmuVFtkn7ks4DNlapsqZWtLuxeZtg/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+
+&nbsp;
 ====
-
-//&nbsp;
-
-//++++
-//<div class="responsive-slides">
-//  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ8IO6VipL95Y4lbU39H7eekkNNfYEgpVa8DjS1PyZpP8xoMKFIF-WN0PYPjVQXIA/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
-//</div>
-//++++
-
-//&nbsp;
 
 === Framing cross-regional discussions
 
 [NOTE.presentation]
 ====
 In this presentation, Anabela Plos, Nodes Committee 2nd Vice Chair, and BID Regional Support Team member, underscores the value of cross-regional exchange, shared challenges, and stronger collaborations, showing how regional support teams can enhance and complement the work of the network.
+
+&nbsp;
+
+++++
+<div class="responsive-slides">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQHGqglr6xvSoApYXunXHW62jv_ohxyuzbAMNI6ZWsjY3IFux1t12iFxS7-fFOWsA/embed?start=false&loop=false" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+++++
+
+&nbsp;
 ====
 
 === Shared Examples from Nodes
