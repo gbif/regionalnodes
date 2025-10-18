@@ -50,7 +50,7 @@ Survey: https://forms.gle/9SrmPericCxMFYKN6
 
 &nbsp;
 
-image::invasives.png[]
+image::invasives.png[link="images/invasives.png" window=new]
 
 ====
 
