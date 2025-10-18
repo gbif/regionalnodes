@@ -72,7 +72,7 @@ Survey: https://forms.gle/HzykhNMz2jsAxKrR9
 
 &nbsp;
 
-image::agrobiodiversity.png[]
+image::agrobiodiversity.png[link="_images/agrobiodiversity.png" window=new]
 
 ====
 
@@ -96,7 +96,7 @@ Survey: https://forms.gle/YX8osrms4o6V3Utt5
 
 &nbsp;
 
-image::marine.png[]
+image::marine.png[[link="_images/marine.png" window=new]
 
 ====
 
@@ -118,7 +118,7 @@ Survey: https://forms.gle/d9iUkzcjZECR9NSK8
 
 &nbsp;
 
-image::IDgov.png[]
+image::IDgov.png[link="_images/IDgov.png" window=new]
 
 ====
 
