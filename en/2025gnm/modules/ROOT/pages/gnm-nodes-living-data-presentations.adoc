@@ -3,6 +3,10 @@
 [NOTE.idea]
 Below is a list of presentations to be given during the https://www.livingdata2025.com/[Living Data conference^]. These presentations are all from members within our Nodes community. 
 
+&nbsp;
+
 ++++
 <iframe src="https://drive.google.com/file/d/12Mv_Ge2R6tDJfjV-i5QdDZvvvEHT5KLN/view?usp=sharing" frameborder="0" allowfullscreen="true" height="1100" width="100%" align="center"></iframe>
 ++++
+
+&nbsp;
