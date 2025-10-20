@@ -50,7 +50,7 @@ Survey: https://forms.gle/9SrmPericCxMFYKN6
 
 &nbsp;
 
-image::invasives.png[link="_images/invasives.png" window=new]
+image::invasives.png[width="25%" height="25%" link="_images/invasives.png" window=new]
 
 ====
 
@@ -72,7 +72,7 @@ Survey: https://forms.gle/HzykhNMz2jsAxKrR9
 
 &nbsp;
 
-image::agrobiodiversity.png[width="50%" height="50%" link="_images/agrobiodiversity.png" window=new]
+image::agrobiodiversity.png[width="25%" height="25%" link="_images/agrobiodiversity.png" window=new]
 
 ====
 
@@ -96,7 +96,7 @@ Survey: https://forms.gle/YX8osrms4o6V3Utt5
 
 &nbsp;
 
-image::marine.png[link="_images/marine.png" window=new]
+image::marine.png[width="25%" height="25%" link="_images/marine.png" window=new]
 
 ====
 
@@ -118,7 +118,7 @@ Survey: https://forms.gle/d9iUkzcjZECR9NSK8
 
 &nbsp;
 
-image::IDgov.png[link="_images/IDgov.png" window=new]
+image::IDgov.png[width="25%" height="25%" link="_images/IDgov.png" window=new]
 
 ====
 
