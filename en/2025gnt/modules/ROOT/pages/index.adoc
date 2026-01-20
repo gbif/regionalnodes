@@ -2,7 +2,7 @@
 
 //image::ROOT::gnt-05.png[align=center,width=640,height=360]
 
-.2025 Global Nodes Training participants in Bogotá, Colombia by https://velasquezfotografo.portfoliobox.net[Jorge Velasquez^], http://creativecommons.org/licenses/by/4.0/[CC BY 4.0^]
+=== 2025 Global Nodes Training participants in Bogotá, Colombia by https://velasquezfotografo.portfoliobox.net[Jorge Velasquez^], http://creativecommons.org/licenses/by/4.0/[CC BY 4.0^]
 image::GNT2025-GroupPhoto.jpg[align=center,width=640,height=360] 
 
 == Goal
