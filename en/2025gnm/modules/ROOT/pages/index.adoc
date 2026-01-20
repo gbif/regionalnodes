@@ -1,6 +1,6 @@
 = 2025 Global Nodes Meeting
 
-image::ROOT::gnt-04.png[align=center,width=640,height=360]
+image::GNM2025-GroupPhoto.jpg[align=center,width=640,height=360]
 
 == Goal
 
@@ -8,8 +8,8 @@ The nodes meet together as a global committee every second year to learn from ea
 
 // Familiarize yourself with the topics that will be discussed in the Global Nodes Meeting and prepare to share your experiences so that others can benefit from them.
 
-//== Outcomes
+== Outcomes
 
-//____
-//xref:attachment$GNM2023Report.pdf[2023 Meeting Report] (PDF, 915 KB)
-//____
+____
+xref:attachment$GNM2023Report.pdf[2025 Meeting Report] (PDF, 1.3 MB)
+____
