@@ -11,5 +11,5 @@ The nodes meet together as a global committee every second year to learn from ea
 == Outcomes
 
 ____
-xref:attachment$GNM2023Report.pdf[2025 Meeting Report] (PDF, 1.3 MB)
+xref:attachment$GNM2025-Report.pdf[2025 Meeting Report] (PDF, 1.3 MB)
 ____
