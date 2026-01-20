@@ -1,5 +1,5 @@
 = Photo album
 
 ++++
-<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/44353813@N02/albums/72177720329373080" title="Global Nodes Meeting 2025"><img src="https://live.staticflickr.com/65535/54825233715_37825c15a0_c.jpg" width="800" height="600" alt="Global Nodes Meeting 2025"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/44353813@N02/albums/72177720329373080" title="Global Nodes Meeting 2025"><img src="https://live.staticflickr.com/65535/54865033926_1053074043_z.jpg" width="800" height="600" alt="Global Nodes Meeting 2025"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 ++++
