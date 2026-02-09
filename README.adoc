@@ -3,7 +3,7 @@
 // License badge
 //https://creativecommons.org/licenses/by-sa/4.0/[image:https://img.shields.io/badge/License-CC%20BY%2D-SA%204.0-lightgrey.svg[CC BY-SA 4.0]]
 // Build status badge
-https://builds.gbif.org/job/globalnodes/lastBuild/console[image:https://builds.gbif.org/job/globalnodes/badge/icon[Build status]]
+https://builds.gbif.org/job/regionalnodes/lastBuild/console[image:https://builds.gbif.org/job/regionalnodes/badge/icon[Build status]]
 
 = GBIF Regional Nodes Meetings
 
@@ -63,7 +63,7 @@ It's probably worth looking at these pages in the Antora and Asciidoctor documen
 
 ==== Home page
 
-The English home page, https://regionalnodes.gbif-test.org/en/, is a component called `ROOT`, which is a special name where `ROOT` doesn't show in links or URLs.  Reserve pages in this section for the home page and very general pages about all the global nodes courses.
+The English home page, https://regionalnodes.gbif-test.org/en/, is a component called `ROOT`, which is a special name where `ROOT` doesn't show in links or URLs.  Reserve pages in this section for the home page and very general pages about all the regional nodes courses.
 
 === Site theme
 
@@ -80,7 +80,7 @@ Pages or parts of pages can be excluded from regionalnodes.gbif.org while they a
 // — they are to avoid the text being hidden when displayed on GitHub.
 //
 
-.Hiding a whole page from globalnodes.gbif.org — this **MUST** be at the start of the file
+.Hiding a whole page from regionalnodes.gbif.org — this **MUST** be at the start of the file
 [source,asciidoc]
 ----
 \ifeval::["{env}" == "prod"]
@@ -129,7 +129,7 @@ endif::[]
 
 == Building
 
-The site builds in Jenkins every time it is modified, see the https://builds.gbif.org/job/globalnodes/lastBuild/console[status] and badge above.  To build it locally, the simplest method is to use Docker.  See the https://docs.docker.com/[Docker documentation] for installation on https://docs.docker.com/desktop/install/linux-install/[Linux], https://docs.docker.com/desktop/install/mac-install/[Mac] and https://docs.docker.com/desktop/install/windows-install/[Windows].
+The site builds in Jenkins every time it is modified, see the https://builds.gbif.org/job/regionalnodes/lastBuild/console[status] and badge above.  To build it locally, the simplest method is to use Docker.  See the https://docs.docker.com/[Docker documentation] for installation on https://docs.docker.com/desktop/install/linux-install/[Linux], https://docs.docker.com/desktop/install/mac-install/[Mac] and https://docs.docker.com/desktop/install/windows-install/[Windows].
 
 For routine use when authoring courses, build just the English courses and omit the search functionality. This uses a special cut-down playbook without some of the configuration suitable for a webserver:
 
@@ -144,7 +144,7 @@ To build English and Spanish and with the search function, and suitable for a we
 ----
 docker run --rm -t --user $(id -u) --volume $PWD:/antora:Z --env HOME=/antora antora/antora:3.0.1 npm i @antora/lunr-extension
 for lang in en es; do
-    docker run --rm -t --user $(id -u) --volume $PWD:/antora:Z antora/antora:3.0.1 globalnodes-$lang-playbook.yml
+    docker run --rm -t --user $(id -u) --volume $PWD:/antora:Z antora/antora:3.0.1 regionalnodes-$lang-playbook.yml
 done
 ----
 
