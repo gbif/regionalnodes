@@ -1,5 +1,5 @@
 site:
-  title: Global Nodes
+  title: Regional Nodes
   start_page: ROOT::index.adoc
   keys:
     language: en
@@ -9,25 +9,22 @@ content:
       start_path: ./en/home
       branches: HEAD
     - url: .
-      start_path: ./en/2021gnm
+      start_path: ./en/2026africa
       branches: HEAD
     - url: .
-      start_path: ./en/2023gnt
-      branches: HEAD
-    - url: .
-      start_path: ./en/2023gnm
+      start_path: ./en/2026asia
       branches: HEAD       
     - url: .
-      start_path: ./en/2025gnt
+      start_path: ./en/2026eac
       branches: HEAD
     - url: .
-      start_path: ./en/2025gnm
+      start_path: ./en/2026lac
       branches: HEAD
     - url: .
-      start_path: ./en/prep
+      start_path: ./en/2026na
       branches: HEAD   
     - url: .
-      start_path: ./en/buddies
+      start_path: ./en/2026oceania
       branches: HEAD      
     #- url: https://github.com/gbif/course-data-use.git
     #  start_path: en
