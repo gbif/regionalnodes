@@ -1,3 +1,0 @@
-= Training and Meeting Preparation
-
-image::ROOT::globalnodes-site-thumb-03.png[]

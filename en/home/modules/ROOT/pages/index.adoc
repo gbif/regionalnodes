@@ -1,21 +1,50 @@
-= Global Nodes Training and Meeting
+= Regional Nodes Meetings
 :page-no-next: true
 :page-layout: home
 
-The Global Nodes Training and Meeting are an opportunity for all GBIF nodes to come together to learn from each other, discuss ideas, develop best practices, share their concerns, define recommendations and set priorities. The audience is inclusive of Node managers and Nodes staff, with invited observers who wish to learn more about GBIF and the work of the nodes. Participants must follow https://www.gbif.org/code-of-conduct[GBIF’s code of conduct^].
+GBIF Regional Nodes Meetings bring together node managers and support teams within each region to strengthen coordination, share practices and align regional priorities with the broader GBIF network.
+
+These meetings provide a structured space for regional exchange, collaboration and planning, ensuring that regional perspectives inform global GBIF activities and that nodes can work together on common priorities.
+
+*Objectives of regional nodes meetings*
+
+Regional nodes meetings aim to:
+
+* Support regional coordination, led by the regional representatives
+* Facilitate regional collaboration by allowing nodes to share updates on their activities, receive peer feedback and discuss joint project proposals through CESP and other programmes
+* Provide feedback to the GBIF Secretariat and NSG on regional issues and priorities
+* Develop stronger regional engagement in GBIF by identifying outreach strategies and actions, such as the recruitment of new participant countries and links with relevant regional organizations and networks
+
+*How agendas are set*
+
+The agendas of regional nodes meetings are defined by the regional representatives in consultation with the GBIF Nodes Steering Group (NSG) and the GBIF Secretariat.
+
+This ensures that each meeting reflects regional needs while remaining connected to network-wide priorities and initiatives.
 
 [.blocks]
-* xref:buddies::index.adoc[image:gnt-06.png[]]
-** xref:buddies::index.adoc[Nodes Buddy System]
-//** Nodes Buddy System
+* xref:2026africa::index.adoc[image:gnt-06.png[]]
+** xref:2026africa::index.adoc[Africa]
+//** Africa
 
-* xref:2025gnt::index.adoc[image:gnt-05.png[]]
-** xref:2025gnt::index.adoc[2025 Global Nodes Training]
-//** Global Nodes Training 2023
+* xref:2026asia::index.adoc[image:gnt-05.png[]]
+** xref:2026asia::index.adoc[Asia]
+//** Asia
 
-* xref:2025gnm::index.adoc[image:gnt-04.png[]]
-** xref:2025gnm::index.adoc[2025 Global Nodes Meeting]
-//** Global Nodes Meeting 2025
+* xref:2026eac::index.adoc[image:gnt-04.png[]]
+** xref:2026eac::index.adoc[Europe and Central Asia]
+//** Europe and Central Asia
+
+* xref:2026lac::index.adoc[image:gnt-06.png[]]
+** xref:2026lac::index.adoc[Latin America and the Caribbean]
+//** Latin America and the Caribbean
+
+* xref:2026na::index.adoc[image:gnt-05.png[]]
+** xref:2026na::index.adoc[2026 North America]
+//** North America
+
+* xref:2026oceania::index.adoc[image:gnt-04.png[]]
+** xref:2026oceania::index.adoc[Oceania]
+//** Oceania
 
 == What are you looking for?
 
@@ -26,12 +55,12 @@ The Global Nodes Training and Meeting are an opportunity for all GBIF nodes to c
 ++++
 
 [.discrete]
-== Past meetings
+//== Past meetings
 
 [.smallblocks]
-* xref:2023gnt::index.adoc[image:td-bg-01.png[] 2023 Global Nodes Training]
-* xref:2023gnm::index.adoc[image:td-bg-01.png[] 2023 Global Nodes Meeting]
-* xref:2021gnm::index.adoc[image:td-bg-01.png[] 2021 Global Nodes Meeting]
+//* xref:2023gnt::index.adoc[image:td-bg-01.png[] 2023 Global Nodes Training]
+//* xref:2023gnm::index.adoc[image:td-bg-01.png[] 2023 Global Nodes Meeting]
+//* xref:2021gnm::index.adoc[image:td-bg-01.png[] 2021 Global Nodes Meeting]
 
 //[.bannerblocks]
 //--

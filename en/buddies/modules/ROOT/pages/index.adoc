@@ -1,8 +1,0 @@
-= Buddy System
-
-image::ROOT::gnt-06.png[align=center,width=640,height=360]
-
-== Goal
-
-The buddy system is designed to foster networking, support knowledge-sharing, encourage active participation, and strengthen the sense of community among GBIF nodes. By placing new nodes into groups with more established nodes, it also helps new members of the nodes community to  integrate more easily into the GBIF network.
-To maximize opportunities for interaction, we plan on-site activities for buddy groups  during the Global Nodes Events.

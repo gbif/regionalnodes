@@ -1,0 +1,21 @@
+= Sharing experience
+
+We would like to invite all Node Managers from [region], independently of whether you are able to participate in the meeting, to consider submitting slides on the specific topics below.
+____
+https://gbif.app.box.com/f/360afd35002a42bcbe18bc514f3272ee[Submit slides] by uploading them via Box.
+____
+
+== Template
+
+____
+xref:attachment$Node-inputs-GNM-template-2025.pptx[Meeting topics template] (PowerPoint, 21.5 MB)
+____
+
+Please use the template to prepare slides to share your experience ahead of the Regional Nodes Meeting. We will share all of the submitted slides for background ahead of the events. Alternatively, you have the option to submit a video presentation, which should ideally be within the range of 3 to 5 minutes.
+
+We are specifically requesting experience sharing relating to the topics below:
+
+* xx
+* xx
+* xx
+* xx

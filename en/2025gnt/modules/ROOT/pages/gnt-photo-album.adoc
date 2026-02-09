@@ -1,7 +1,0 @@
-= Photo album
-
-&nbsp;
-
-++++
-<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/44353813@N02/albums/72177720329373075" title="Global Nodes Training 2025"><img src="https://live.staticflickr.com/65535/54890473440_f55f5161af_c.jpg" width="800" height="600" alt="Global Nodes Training 2025"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-++++
