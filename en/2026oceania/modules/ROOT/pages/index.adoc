@@ -4,7 +4,7 @@
 
 Samoa, XX April 2026, xxxxx
 
-//image::GNM2025-GroupPhoto.jpg[align=center,width=640,height=360]
+image::ROOT::oceania-horizontal.png[align=center]
 
 //> 2025 Global Nodes meeting participants in Bogotá, Colombia
 //> by https://velasquezfotografo.portfoliobox.net[Jorge Velasquez^]
