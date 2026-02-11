@@ -11,33 +11,25 @@ These meetings provide a structured space for regional exchange, collaboration a
 ** xref:2026africa::index.adoc[Africa]
 //** Africa
 
-* xref:2026asia::index.adoc[image:gnt-05.png[]]
+* xref:2026asia::index.adoc[image:asia-horizontal.png[]]
 ** xref:2026asia::index.adoc[Asia]
 //** Asia
 
-* xref:2026eac::index.adoc[image:gnt-04.png[]]
+* xref:2026eac::index.adoc[image:eac-horizontal.png[]]
 ** xref:2026eac::index.adoc[Europe and Central Asia]
 //** Europe and Central Asia
 
-* xref:2026lac::index.adoc[image:gnt-06.png[]]
+* xref:2026lac::index.adoc[image:lac-horizontal.png[]]
 ** xref:2026lac::index.adoc[Latin America and the Caribbean]
 //** Latin America and the Caribbean
 
-* xref:2026na::index.adoc[image:na-regional-meetings-2026.png[width=50%,height=50%]]
+* xref:2026na::index.adoc[image:na-horizontal.png[]]
 ** xref:2026na::index.adoc[2026 North America]
 //** North America
 
-* xref:2026oceania::index.adoc[image:gnt-04.png[]]
+* xref:2026oceania::index.adoc[image:oceania-horizontal.png[]]
 ** xref:2026oceania::index.adoc[Oceania]
 //** Oceania
-
-== What are you looking for?
-
-++++
-<div id="search-field" class="main-page-search">
-  <input id="search-input" type="text" placeholder="Search" style="display: block; width: 100%; font-size: 2rem; background: #f2f2f2; padding: 0.25rem 1rem; border: none; margin: 1rem 0;">
-</div>
-++++
 
 [.discrete]
 == Objectives of regional nodes meetings
@@ -55,6 +47,14 @@ Regional nodes meetings aim to:
 The agendas of regional nodes meetings are defined by the regional representatives in consultation with the GBIF Nodes Steering Group (NSG) and the GBIF Secretariat.
 
 This ensures that each meeting reflects regional needs while remaining connected to network-wide priorities and initiatives.
+
+== What are you looking for?
+
+++++
+<div id="search-field" class="main-page-search">
+  <input id="search-input" type="text" placeholder="Search" style="display: block; width: 100%; font-size: 2rem; background: #f2f2f2; padding: 0.25rem 1rem; border: none; margin: 1rem 0;">
+</div>
+++++
 
 [.discrete]
 //== Past meetings
