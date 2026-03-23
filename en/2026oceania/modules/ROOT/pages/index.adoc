@@ -4,7 +4,8 @@
 
 Sheraton Samoa, Apia, Samoa,23-24 April 2026.
 
-Note that the meeting will be held directly after the https://www.gbif.org/event/f56f8b-1bea-42be-977d-e5eb0e8[BID Pacific biodiversity data mobilization workshop^].
+[Note]
+The meeting will be held directly after the https://www.gbif.org/event/f56f8b-1bea-42be-977d-e5eb0e8[BID Pacific biodiversity data mobilization workshop^].
 
 image::ROOT::oceania-horizontal.png[align=center]
 
