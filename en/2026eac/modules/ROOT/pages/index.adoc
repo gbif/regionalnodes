@@ -2,7 +2,7 @@
 
 == Venue
 
-France, XX May 2026, xxxxx
+Office français de la biodiversité, Montpellier, France, 4 May 2026
 
 image::ROOT::eac-horizontal.png[align=center]
 
@@ -14,13 +14,15 @@ image::ROOT::eac-horizontal.png[align=center]
 
 Nodes within the region meet every second year to learn from each other, exchange experiences, discuss ideas, develop good practices, share common challenges, define regional recommendations and set priorities for collaboration and engagement within GBIF.
 
+Main topics of the meeting include coordination of ECA nodes to support GBIF participation in the region and alignment with and contribution to regional biodiversity research data infrastructures. The meeting focuses on supporting the publication of monitoring data from ECA nodes and is aligned with the https://www.gbif.org/event/3ioWg1a0c3OaUuYQAR9RPb/biomonweek-2026[BioMonWeek2026^] conference.
+
 == Participants
 
 Participants include GBIF node managers and members of regional node support teams, creating a space for practical exchange between those directly involved in coordinating and supporting GBIF activities in the region. Observers may also be invited where relevant, with participation supported through a combination of GBIF funding, self-funded attendance and in-kind support from meeting hosts and regional partners.
 
 == Practical Information
 
-Practical information relating to the meeting can be found on GBIF.org: (link to event page on gbif.org)
+https://www.gbif.org/event/57QSP3Zkj1ldnDrW6VkOfs/europe-and-central-asia-nodes-meeting-2026[Practical information^] relating to the meeting can be found on GBIF.org.
 
 //== Outcomes
 //____

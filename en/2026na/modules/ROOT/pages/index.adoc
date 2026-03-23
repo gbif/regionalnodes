@@ -1,8 +1,6 @@
 = GBIF North America Regional Nodes Meeting 2026
 
-== Venue
-
-xxx, XX xxxx 2026, xxxxx
+== Online webinar series
 
 image::ROOT::na-horizontal.png[align=center]
 
@@ -20,7 +18,7 @@ Participants include GBIF node managers and members of regional node support tea
 
 == Practical Information
 
-Practical information relating to the meeting can be found on GBIF.org: (link to event page on gbif.org)
+Practical information relating to the meeting can be found on GBIF.org: (link to event page on https://www.gbif.org/[gbif.org^] will be provided when available)
 
 //== Outcomes
 //____

@@ -2,7 +2,10 @@
 
 == Venue
 
-Uruguay, XX June 2026, xxxxx
+Montevideo, Uruguay, 5-6 June 2026
+
+[NOTE]
+The meeting will be held directly after the https://www.gbif.org/event/2vHfOhCQSvC14S0cKT73Ru[BID Latin America & Caribbean biodiversity data mobilization workshop^].
 
 image::ROOT::lac-horizontal.png[align=center]
 
@@ -20,7 +23,7 @@ Participants include GBIF node managers and members of regional node support tea
 
 == Practical Information
 
-Practical information relating to the meeting can be found on GBIF.org: (link to event page on gbif.org)
+https://www.gbif.org/event/4xL7D01iMTO9YDaX4YD4OW[Practical information^] relating to the meeting can be found on GBIF.org.
 
 //== Outcomes
 //____

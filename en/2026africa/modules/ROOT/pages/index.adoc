@@ -2,7 +2,7 @@
 
 == Venue
 
-South Africa, XX October 2026, xxxxx
+Kirstenbosch Botanical Gardens, Cape Town, South Africa, early November 2026
 
 image::ROOT::africa-horizontal.png[align=center]
 
@@ -20,7 +20,7 @@ Participants include GBIF node managers and members of regional node support tea
 
 == Practical Information
 
-Practical information relating to the meeting can be found on GBIF.org: (link to event page on gbif.org)
+Practical information relating to the meeting can be found on GBIF.org: (link to event page on https://www.gbif.org/[gbif.org^] will be provided when available)
 
 //== Outcomes
 //____
