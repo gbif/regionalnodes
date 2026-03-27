@@ -1,5 +1,9 @@
 = Photo album
 
+____
+https://gbif.app.box.com/f/df4c71b4f54c4452bc06500ea63bfbe1[Submit photos]
+____
+
 ++++
 <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/44353813@N02/albums/72177720332310583" title="GBIF Africa Regional Nodes Meeting 2026"><img src="https://live.staticflickr.com/65535/55125008269_a493ce97d1_c.jpg" width="800" height="600" alt="GBIF Africa Regional Nodes Meeting 2026"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 ++++

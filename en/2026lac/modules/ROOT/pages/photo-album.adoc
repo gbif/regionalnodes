@@ -1,5 +1,9 @@
 = Photo album
 
+____
+https://gbif.app.box.com/f/fb531bc4b19d4db8842827552c3400db[Submit photos]
+____
+
 ++++
 <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/44353813@N02/albums/72177720332293346" title="GBIF Latin America and the Caribbean Regional Nodes Meeting 2026"><img src="https://live.staticflickr.com/65535/55124959258_ed5a3cc28b_c.jpg" width="800" height="600" alt="GBIF Latin America and the Caribbean Regional Nodes Meeting 2026"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 ++++
