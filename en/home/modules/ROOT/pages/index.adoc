@@ -15,8 +15,8 @@ These meetings provide a structured space for regional exchange, collaboration a
 ** xref:2026asia::index.adoc[Asia]
 //** Asia
 
-* xref:2026eac::index.adoc[image:eac-horizontal.png[]]
-** xref:2026eac::index.adoc[Europe and Central Asia]
+* xref:2026eca::index.adoc[image:eca-horizontal.png[]]
+** xref:2026eca::index.adoc[Europe and Central Asia]
 //** Europe and Central Asia
 
 * xref:2026lac::index.adoc[image:lac-horizontal.png[]]

@@ -15,7 +15,7 @@ content:
       start_path: ./en/2026asia
       branches: HEAD       
     - url: .
-      start_path: ./en/2026eac
+      start_path: ./en/2026eca
       branches: HEAD
     - url: .
       start_path: ./en/2026lac
